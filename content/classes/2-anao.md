@@ -23,7 +23,7 @@ Os anões são semi-humanos fortes de barbados, com cerca de 1,20 m de altura e 
 Eles tem pelo, cabelos e olhos em tons terrosos. Eles são conhecidos por sua teimosia e praticidade. São um povo vigoroso e possuem forte resistência à magia, como pode ser observado em seus testes de resistência.
 
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| Progressão de Nível de Anão                                                        |
+| Progressão de Nível do Anão                                                        |
 +===========+==========+========+==========+========+=======+=======+=======+========+
 |                                          | **Jogada de Resistência**               | 
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
@@ -53,10 +53,11 @@ Eles tem pelo, cabelos e olhos em tons terrosos. Eles são conhecidos por sua te
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
 | 12        | 660.000  | 9d8+9* | 12 [+7]  | 2      | 3     | 4     | 4     | 6      | 
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| &ast; Modificadores de CON não se        | **Mt**: Morte / veneno; **V**: Varinhas;|
+| &ast; Modificadores de CON não se        |**Mt**: Morte / veneno; **V**: Varinhas; | 
 | aplicam mais.                            | **P**: Paralisia / petrificar;          |
 |										   |**S**: Ataques de sopro;                 |
 |                                          | **Ma**: Feitiços / varinhas / bastões   |
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
+
 
 # Teste
