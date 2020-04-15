@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: pedroleone/osr-srd
+
+media_folder: static/assets
+public_folder: /assets
