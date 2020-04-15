@@ -5,11 +5,17 @@ metaDescription: "Classe -> Anão"
 ---
 
 Pré-requisito: Mínimo CON 9
+
 Requisito Primário: FOR
+
 Dado de Vida: 1d8
+
 Nível Máximo: 12
+
 Armadura: Todas, incluindo escudos
+
 Armas: Tamanho pequeno ou normal
+
 Idiomas: Tendência, Comum, Anão, Gnomo, Goblin, Kobold
 
 Os anões são semi-humanos fortes de barbados, com cerca de 1,20 m de altura e pesando 75 kg. Os anões normalmente vivem no subterrâneo e amam artesanato fino, ouro, comida farta e bebidas fortes.
@@ -17,7 +23,7 @@ Eles tem pelo, cabelos e olhos em tons terrosos. Eles são conhecidos por sua te
 
 
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| Progressão de Nível de Clérigo                                                     |
+| Progressão de Nível de Anão                                                        |
 +===========+==========+========+==========+========+=======+=======+=======+========+
 |                                          | **Jogada de Resistência**               | 
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+-
