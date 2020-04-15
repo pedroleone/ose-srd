@@ -595,14 +595,14 @@ export const baseStyles = injectGlobal`
     border: 1px solid #cccccc;
     text-align: left;
     margin: 0;
-    padding: 6px 13px;
+    padding: 3px 3px;
   }
 
   table tr td {
     border: 1px solid #cccccc;
     text-align: left;
     margin: 0;
-    padding: 6px 13px;
+    padding: 3px 3px;
   }
 
   table tr th :first-child,
