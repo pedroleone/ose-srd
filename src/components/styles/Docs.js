@@ -1,6 +1,8 @@
 import styled from '@emotion/styled';
 
 export const StyledHeading = styled('h1')`
+  font-family: 'Raleway';
+  font-weight: 800;  
   font-size: 32px;
   line-height: 1.5;
   font-weight: 500;

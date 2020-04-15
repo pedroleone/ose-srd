@@ -1,6 +1,8 @@
 require("dotenv").config();
 const queries = require("./src/utils/algolia");
 const config = require("./config");
+
+
 const plugins = [
   'gatsby-plugin-sitemap',
   'gatsby-plugin-sharp',
@@ -12,6 +14,7 @@ const plugins = [
   },
   'gatsby-plugin-emotion',
   'gatsby-plugin-react-helmet',
+  
   {
     resolve: "gatsby-source-filesystem",
     options: {
@@ -22,7 +25,9 @@ const plugins = [
   {
     resolve: 'gatsby-plugin-mdx',
     options: {
+      remarkPlugins: [require("remark-grid-tables")],
       gatsbyRemarkPlugins: [
+        
         {
           resolve: "gatsby-remark-images",
           options: {
@@ -33,6 +38,7 @@ const plugins = [
         {
           resolve: 'gatsby-remark-copy-linked-files'
         }
+
       ],
       extensions: [".mdx", ".md"]
     }

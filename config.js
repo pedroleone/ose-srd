@@ -24,11 +24,13 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/personagens',
+      '/classes',
+      //'/introduction', // add trailing slash if enabled above
+
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      //'/personagens', // add trailing slash if enabled above
     ],
     links: [{ text: 'Old School Essentials SRD', link: 'https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page' }],
     frontline: false,

@@ -3,6 +3,8 @@ import { injectGlobal } from 'emotion';
 export const baseStyles = injectGlobal`
   @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
   @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700|Raleway:800&display=swap');
   * {
     margin: 0;
     padding: 0;
@@ -24,7 +26,7 @@ export const baseStyles = injectGlobal`
   }
   html,
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Roboto Light', 'Oxygen',
+    font-family: 'Libre Baskerville', 'Raleway', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Roboto Light', 'Oxygen',
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif,
       'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
@@ -38,7 +40,7 @@ export const baseStyles = injectGlobal`
   }
 
   body {
-    font-family: 'Roboto';
+    font-family: 'Libre Baskerville';
   }
   .visibleMobile {
     display: none;
@@ -297,7 +299,7 @@ export const baseStyles = injectGlobal`
     -webkit-overflow-scrolling: touch;
   }
   .navBarUL li a {
-    font-family: 'Roboto';
+    font-family: 'Libre Baskerville';
     color: #fff !important;
     font-size: 16px;
     font-weight: 500;
@@ -396,7 +398,7 @@ export const baseStyles = injectGlobal`
   }
 
   .headerNav {
-    font-family: 'Roboto';
+    font-family: 'Libre Baskerville';
     padding: 0px 24px;
     color: #001933;
     font-size: 16px;
@@ -572,6 +574,10 @@ export const baseStyles = injectGlobal`
     padding: 0;
   }
 
+  table .paragraph {
+    margin: 0px 0px 0px;
+  }
+
   table tr {
     border-top: 1px solid #cccccc;
     margin: 0;
@@ -664,23 +670,25 @@ export const baseStyles = injectGlobal`
   }
 
   .heading1 {
-    font-size: 26px;
+    font-family: 'Raleway';
     font-weight: 800;
+    font-size: 26px;
     line-height: 1.5;
     margin-bottom: 16px;
     margin-top: 32px;
   }
 
   .heading2 {
-    font-size: 24px;
-    font-weight: 700;
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 20px;
     line-height: 1.5;
     margin-bottom: 16px;
     margin-top: 32px;
   }
 
   .heading3 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
     line-height: 1.5;
     margin-bottom: 16px;

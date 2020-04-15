@@ -33,6 +33,7 @@
     "gatsby-plugin-sharp": "^2.3.7",
     "gatsby-plugin-sitemap": "^2.2.24",
     "gatsby-remark-copy-linked-files": "^2.1.33",
+    "gatsby-remark-grid-tables": "0.0.3",
     "gatsby-remark-images": "^3.1.37",
     "gatsby-source-filesystem": "^2.1.42",
     "gatsby-transformer-remark": "^2.6.42",
@@ -49,6 +50,7 @@
     "react-instantsearch-dom": "^6.0.0",
     "react-live": "^2.2.2",
     "react-loadable": "^5.5.0",
+    "remark-grid-tables": "^2.1.1",
     "styled-components": "^4.4.1",
     "styled-icons": "^9.0.1"
   },

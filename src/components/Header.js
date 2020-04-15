@@ -94,12 +94,13 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
       const logoImg_ = 'https://oldschoolessentials.necroticgnome.com/srd/resources/assets/ose_logo_white.png';
 
       const finalLogoLink = logo.link !== '' ? logo.link : '';
+      const finalLogoLink_ = '/';
 
       return (
         <div className={'navBarWrapper'}>
           <nav className={'navBarDefault'}>
             <div className={'navBarHeader'}>
-              <Link to={finalLogoLink} className={'navBarBrand'}>
+              <Link to={finalLogoLink_} className={'navBarBrand'}>
                 <img
                   className={'img-responsive displayInline'}
                   src={logoImg_}
