@@ -26,6 +26,8 @@ const config = {
     forcedNavOrder: [
       '/personagens',
       '/classes',
+      '/equipamentos',
+      '/magias',
       //'/introduction', // add trailing slash if enabled above
 
     ],
