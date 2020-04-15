@@ -575,6 +575,8 @@ export const baseStyles = injectGlobal`
   }
 
   table .paragraph {
+    text-align: center;
+    font-size: 13px;
     margin: 0px 0px 0px;
   }
 

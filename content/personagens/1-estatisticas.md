@@ -1,7 +1,7 @@
 ---
 title: "Estatísticas de Jogo"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "Estatísticas de jogo"
+metaDescription: "Personagens -> Estatísticas"
 ---
 
 Os personagens jogadores são descritos, em termos de jogo, por um grupo de valores que definem as suas habilidades, pontos fortes e fraquezas no mundo de jogo.

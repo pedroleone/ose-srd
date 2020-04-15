@@ -1,7 +1,7 @@
 ---
 title: "Criando um Personagem"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+metaTitle: "Criando um Personagem"
+metaDescription: "Personagens -> Criando um Personagem"
 ---
 
 Para criar um personagem, você vai precisar primeiro de uma ficha de personagem - uma folha de papel onde você irá escrever todas as informações sobre o seu novo personagem.
