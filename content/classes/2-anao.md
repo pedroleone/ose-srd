@@ -59,23 +59,21 @@ Eles tem pelo, cabelos e olhos em tons terrosos. Eles são conhecidos por sua te
 |                                          |**Ma**: Feitiços / varinhas / bastões    |
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
 
-#Combate
-
+# Combate
 Os anões podem usar todos os tipos de armadura. Devido a sua pequena estatura, eles podem usar apenas armas de tamanho pequeno ou normal. Eles não podem usar arcos longos ou espadas de duas mãos.
 
-#Detectar Estruturas Alteradas
-
+# Detectar Estruturas Alteradas
 Como mineradores especialistas, anões tem uma chance de 2 em 6 de detectar novas construções, paredes deslizantes ou passagens inclinadas quando procurando.
 
-#Detectar Salas Armadilha
+# Detectar Salas Armadilha
 Devido a sua especializada com construções, anões tem uma chance de 2 em 6 de detectar armadilhas não-mágicas de ambiente quando procurando (veja Dungeon Adventuring, p108).
 
-#Infravisão
+# Infravisão
 Anões tem infravisão a até 18 m (veja Escuridão).
 
-#Escutar através de portas
+# Escutar através de portas
 Anões tem uma chance de 2 em 6 de ouvir ruídos (veja Aventurando em Masmorras).
 
-#Após Alcançar o 9° Nível
+# Após Alcançar o 9° Nível
 Um anão tem a opção de criar uma fortaleza subterrânea que atraia anões de todas as partes. Anões normalmente vivem em clãs, então anões do clã do personagem serão atraídos para viver sobre seu teto. Anões de outros clãs serão normalmente amigáveis, e podem colaborar em tempos de guerra ou desastres. Um anão regente só pode empregar mercenários anões. Especialistas e seguidores de qualquer raça podem ser contratados.
 
