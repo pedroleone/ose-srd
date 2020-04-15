@@ -106,7 +106,7 @@ Se a tentativa de expulsão for bem sucedida, o jogador deve jogar 2d6 para dete
 +-----------+-------+-------+--------+-------+-------+-------+-------+---------+
 | 3         | E     | E     | 7      | 9     | 11    |&ndash;|&ndash;|&ndash;  | 
 +-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 4         | D     | E     | E      |&ndash;| 9     | 11    |&ndash;|&ndash;  | 
+| 4         | D     | E     | E      | 7     | 9     | 11    |&ndash;|&ndash;  | 
 +-----------+-------+-------+--------+-------+-------+-------+-------+---------+
 | 5         | D     | D     | E      | E     | 7     | 9     | 11    |&ndash;  | 
 +-----------+-------+-------+--------+-------+-------+-------+-------+---------+
@@ -122,7 +122,7 @@ Se a tentativa de expulsão for bem sucedida, o jogador deve jogar 2d6 para dete
 +-----------+-------+-------+--------+-------+-------+-------+-------+---------+
 | 11+       | D     | D     | D      | D     | D     | D     | D     | D       | 
 +-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| * Monstros com 2 DV com habilidades especiais                                |
+| &ast; Monstros com 2 DV com habilidades especiais                            |
 | (por exemplo, com um asterisco próximo aos DV, na descrição do monstro.      |
 | † O árbitro pode expandir a tabela para incluir monstros                     |
 | mortos-vivos mais poderosos.                                                 |
