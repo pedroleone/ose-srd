@@ -5,6 +5,3 @@ node_modules
 *.env
 
 .idea/
-
-# Local Netlify folder
-.netlify
