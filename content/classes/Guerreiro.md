@@ -1,14 +1,20 @@
 ---
-title: "Anão"
-metaTitle: "Anão"
-metaDescription: "Classe -> Anão"
+title: "Guerreiro"
+metaTitle: "Guerreiro"
+metaDescription: "Classe -> Guerreiro"
 ---
 **Pré-requisito**: Nenhum
+
 **Requisitos Primários**: FOR
+
 **Dado de Vida**: 1d8
+
 **Nível Máximo**: 14
+
 **Armadura**: Todas, incluindo escudos
+
 **Armas**: Todas
+
 **Idiomas**: Tendência, Comum
 
 Os Guerreiros são aventureiros que dominam as artes do combate em guerra. Em um grupo de aventureiros, o papel dos guerreiros é combater monstros e defender os outros personagens.
