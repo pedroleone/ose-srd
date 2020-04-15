@@ -3,4 +3,7 @@ title: "Anão"
 metaTitle: "Anão"
 metaDescription: "Classe -> Anão"
 ---
-{\rtf1}
+
+Aqui você escreveria a classe anão.
+
+# Teste

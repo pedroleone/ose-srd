@@ -20,6 +20,7 @@ metaDescription: "Classe -> Clérigo"
 
 Clérigos são aventureiros que juraram servir uma divindade. Eles são treinados para batalha e canalizam o poder de sua divindade.
 
+
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
 | Progressão de Nível de Clérigo                                                                                             |
 +===========+==========+========+==========+========+=======+=======+=======+========+=======+=======+=======+=======+=======+
