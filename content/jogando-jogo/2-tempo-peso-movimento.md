@@ -83,7 +83,17 @@ Carga é uma medida tanto do peso quanto do volume que um personagem carrega.
 
 **Taxa de movimento**: é determinada pelo tipo de armadura que o personagem está vestindo e se está carregando uma quantidade significante de tesouros (analisado pelo árbitro). O peso real do tesouro carregado não afeta da taxa de movimento. 
 
-[Inserir tabela]
++-----------------------+-------------------+----------------------+
+|**Carga de tesouro em moedas**                                    |
++=======================+===================+======================+
+|**Armadura Vestida**   |**Sem Tesouro**    |**Carregando Tesouro**|
++-----------------------+-------------------+----------------------+
+|Sem armadura           |36 (12)            |27 (9)                |
++-----------------------+-------------------+----------------------+
+|Armadura Leve          |27 (9)             |18 (6)                |
++-----------------------+-------------------+----------------------+
+|Armadura Pesada        |18 (6)             |9 (3)                 |
++-----------------------+-------------------+----------------------+
 
 ## Opção 2: Carga Detalhada
 Tesouro: o peso das moedas e outros tesouros carregados são controlados.
