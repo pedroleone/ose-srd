@@ -18,14 +18,14 @@ metaDescription: "Classe -> Anão"
 
 **Idiomas**: Tendência, Comum, Anão, Gnomo, Goblin, Kobold
 
-Os anões são semi-humanos fortes de barbados, com cerca de 1,20 m de altura e pesando 75 kg. Os anões normalmente vivem no subterrâneo e amam artesanato fino, ouro, comida farta e bebidas fortes.
+Os anões são semi-humanos fortes e barbados, com cerca de 1,20 m de altura e pesando 75 kg. Os anões normalmente vivem no subterrâneo e amam artesanato fino, ouro, comida farta e bebidas fortes.
 
-Eles tem pelo, cabelos e olhos em tons terrosos. Eles são conhecidos por sua teimosia e praticidade. São um povo vigoroso e possuem forte resistência à magia, como pode ser observado em seus testes de resistência.
+Eles tem pelos, cabelos e olhos em tons terrosos. Eles são conhecidos por sua teimosia e praticidade. São um povo vigoroso e possuem forte resistência à magia, como pode ser observado em seus testes de resistência.
 
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
 | Progressão de Nível do Anão                                                        |
 +===========+==========+========+==========+========+=======+=======+=======+========+
-|                                          | **Jogada de Resistência**               | 
+|                                          | **Resistências**                        | 
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
 | **Nv**    | **XP**   | **DV** | **TAC0** | **Mt** | **V** | **P** | **S** | **Ma** |  
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
