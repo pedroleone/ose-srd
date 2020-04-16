@@ -60,7 +60,7 @@ metaDescription: "Equipamentos > Equipamentos de Aventureiro"
 
 # Descrições
 
-**Mochila**: Possui duas correiras e pode ser usada nas costas, mantendo as mãos livres. Pode carregar até 400 moedas.
+**Mochila**: Possui duas correias e pode ser usada nas costas, mantendo as mãos livres. Pode carregar até 400 moedas.
 
 **Pé de Cabra**: Uma peça de ferro rígido variando de 50 cm a 1 m. Pode ser usado para forçar portas e abrir outros objetos.
 
@@ -101,7 +101,8 @@ metaDescription: "Equipamentos > Equipamentos de Aventureiro"
 **Estacas e marreta**: Uma marreta e três estacas de 45 cm. Úteis contra vampiros.
 
 **Ferramentas de ladão**: Este conjunto contém todas as ferramentas necessárias para abrir fechaduras.
-Estojo de pavio e perderneira: Usada para acender fogos, incluindo tochas. Usar um estojo de pavio e pederneira exige uma rodada. A chance de ser bem sucedido no uso do estojo é de 2 em 6 a cada rodada.
+
+**Estojo de pavio e perderneira**: Usada para acender fogos, incluindo tochas. Usar um estojo de pavio e pederneira exige uma rodada. A chance de ser bem sucedido no uso do estojo é de 2 em 6 a cada rodada.
 
 **Tocha**: Uma tocha queima por 1 hora (6 turnos), iluminando claramente um raio de 9 m. Elas também podem ser usadas em combate.
 
