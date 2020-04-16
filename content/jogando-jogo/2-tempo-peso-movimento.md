@@ -96,7 +96,20 @@ Carga é uma medida tanto do peso quanto do volume que um personagem carrega.
 +-----------------------+-------------------+----------------------+
 
 ## Opção 2: Carga Detalhada
-Tesouro: o peso das moedas e outros tesouros carregados são controlados.
-Equipamento: o peso da armadura e armas do personagem também são controlados (o peso destes itens é apresentado na lista de equipamentos). Os equipamentos de aventureiros gerais (mochila, estacas, sacos, etc.) podem ser contados como pesando 80 moedas.
-Taxa de movimento: a taxa de movimento do personagem é baseado no peso total de todos os itens significantes carregados, incluindo tesouro, armas e armaduras.
-[Inserir tabela]
+**Tesouro**: o peso das moedas e outros tesouros carregados são controlados.
+
+**Equipamento**: o peso da armadura e armas do personagem também são controlados (o peso destes itens é apresentado na lista de equipamentos). Os equipamentos de aventureiros gerais (mochila, estacas, sacos, etc.) podem ser contados como pesando 80 moedas.
+
+**Taxa de movimento**: a taxa de movimento do personagem é baseado no peso total de todos os itens significantes carregados, incluindo tesouro, armas e armaduras.
+
++-----------------------+----------------------+
+|**Carga**              |**Taxa de Movimento** |
++=======================+======================+
+|Até 400 moedas         |36 (12)               |
++-----------------------+----------------------+
+|Até 600 moedas         |27 (9)                |
++-----------------------+----------------------+
+|Até 800 moedas         |18 (6)                |
++-----------------------+----------------------+
+|Até 1.600 moedas       |9 (3)                 |
++-----------------------+----------------------+
