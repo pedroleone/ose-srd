@@ -28,6 +28,10 @@ const config = {
       '/classes',
       '/equipamentos',
       '/magias',
+      '/jogando-jogo',
+      '/monstros',
+      '/mestrando-aventuras',
+      '/tesouros',
       //'/introduction', // add trailing slash if enabled above
 
     ],
