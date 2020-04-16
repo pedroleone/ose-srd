@@ -53,33 +53,35 @@ Carga é uma medida tanto do peso quanto do volume que um personagem carrega.
 
 **Carga máxima**: a carga máxima que um personagem pode carregar é igual a 1.600 moedas. Personagens que carreguem mais do que isso, não conseguem se movimentar.
 
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
+|**Carga de tesouro em moedas**             |
++=======================+===================+
 |**Tesouro**            |**Peso em moedas** |
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
 |Moeda (qualquer tipo)  |1                  |
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
 |Gema                   |1                  |
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
 | Joia (1 peça)         |10                 |
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
 |Poção                  |10                 |
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
 |Bastão                 |20                 |
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
 |Pergaminho             |1                  |
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
 |Cajado                 |40                 |
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
 |Varinha                |10                 |
-+-----------------------+:-----------------:+
++-----------------------+-------------------+
 
 
 ## Opção 1: Carga Básica
-Tesouro: o peso do tesouro carregado é controlado para ter certeza que a carga máxima do personagem não é ultrapassada.
+**Tesouro**: o peso do tesouro carregado é controlado para ter certeza que a carga máxima do personagem não é ultrapassada.
 
-Equipamento: o peso da armadura, armas e equipamentos de aventureiros, não é controlada e não conta para a capacidade máxima de carga do personagem.
+**Equipamento**: o peso da armadura, armas e equipamentos de aventureiros, não é controlada e não conta para a capacidade máxima de carga do personagem.
 
-Taxa de movimento: é determinada pelo tipo de armadura que o personagem está vestindo e se está carregando uma quantidade significante de tesouros (analisado pelo árbitro). O peso real do tesouro carregado não afeta da taxa de movimento. 
+**Taxa de movimento**: é determinada pelo tipo de armadura que o personagem está vestindo e se está carregando uma quantidade significante de tesouros (analisado pelo árbitro). O peso real do tesouro carregado não afeta da taxa de movimento. 
 
 [Inserir tabela]
 
