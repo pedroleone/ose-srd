@@ -35,6 +35,7 @@ Esta versão traduzida, diferente do original, utilizará o sistema internaciona
 
 ## Conversão de Distâncias
 100 cm = 1 m
+
 1 km = 1.000 m
 
 ## Peso: Moedas
