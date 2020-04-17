@@ -5,16 +5,16 @@ metaDescription: "Magia > Lista Mago"
 ---
 
 # 1º Nível
-1. Encantar Pessoas
-2. Detectar Magia
-3. Disco Flutuante
-4. Prender Portais
-5. Luz (Escuridão)
-6. Mísseis Mágicos
-7. Proteção ao Mal
-8. Ler Idiomas
-9. Ler Magias
-10. Escudo
+1. Detectar Magia
+2. Disco Flutuante
+3. Enfeitiçar Pessoas
+4. Escudo
+5. Ler Idiomas
+6. Ler Magias
+7. Luz (Escuridão)
+8. Mísseis Mágicos
+9. Prender Portais
+10. Proteção ao Mal
 11. Sono
 12. Ventriloquismo
 
