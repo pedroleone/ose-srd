@@ -64,7 +64,7 @@ metaDescription: "Equipamentos > Armas e Armaduras"
 
 **Preparar**: posicionar a arma no chão dobra o dano contra montros em carga.
 
-**Carga***: na montoria, movendo pelo menos 18 m em uma rodada e atacando, dobra qualquer dano provocado com um ataque bem sucedido.
+**Carga**: na montaria, se movendo pelo menos 18 m em uma rodada e atacando, dobra qualquer dano provocado com um ataque bem sucedido.
 
 **Corpo a Corpo**: arma de curta distância (1,5 m ou menos).
 
