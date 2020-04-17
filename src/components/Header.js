@@ -106,6 +106,10 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                   src={logoImg_}
                   alt={'logo'}
                 />
+                <img
+                className={'img-responsive displayInline'}
+                src={'https://i.imgur.com/O1vs1gL.png'}
+                />
               </Link>
               <div
                 className={'headerTitle displayInline'}
