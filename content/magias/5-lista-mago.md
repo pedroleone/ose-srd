@@ -49,43 +49,46 @@ metaDescription: "Magia > Lista Mago"
 
 
 # 4º Nível
-1. Enfeitiçar Monstros
-2. Confusão
-3. Porta Dimensional
-4. Ampliar Plantas
-5. Terreno Ilusório
-6. Metamorfose em massa
-7. Metamorfosear outros
-8. Metamorfosear-se
-9. Remover Maldição (Amaldiçoar)
-10. Muralha de Fogo
-11. Muralha de Gelo
-12. Olho Arcano
+01. Ampliar Plantas
+02. Confusão
+03. Enfeitiçar Monstros
+04. Metamorfose em massa
+05. Metamorfosear outros
+06. Metamorfosear-se
+07. Muralha de Fogo
+08. Muralha de Gelo
+09. Olho Arcano
+10. Porta Dimensional
+11. Remover Maldição (Amaldiçoar)
+12. Terreno Ilusório
+
 
 # 5° Nível
-1. Animar os Mortos
-2. Névoa Mortal
-3. Conjurar Elemental
-4. Contato Extraplanar
-5. Enfraquecer o Intelecto
-6. Imobilizar Monstros
-7. Recipiente Arcano
-8. Portal Ilusório
-9. Telecinésia
-10. Teleportação
-11. Pedra em lama (Lama para pedra)
-12. Muralha de pedra
+01. Animar os Mortos
+02. Conjurar Elemental
+03. Contato Extraplanar
+04. Enfraquecer o Intelecto
+05. Imobilizar Monstros
+06. Muralha de pedra
+07. Névoa Mortal
+08. Pedra em lama (Lama para pedra)
+09. Portal Ilusório
+10. Recipiente Arcano
+11. Telecinésia
+12. Teleportação
+
 
 # 6º Nível
-1. Concha Antimagia
-2. Controlar o clima
-3. Magia da Morte
-4. Desintegrar
-5. Tarefa
-6. Caçador Invisível
-7. Tornar Raso
-8. Mover Terra
-9. Partir água 
-10. Projetar Imagem
-11. Reencarnação
-12. Pedra em Carne (Carne em Pedra)
+01. Caçador Invisível
+02. Concha Antimagia
+03. Controlar o clima
+04. Desintegrar
+05. Magia da Morte
+06. Mover Terra
+07. Partir água 
+08. Pedra em Carne (Carne em Pedra)
+09. Projetar Imagem
+10. Reencarnação
+11. Tarefa
+12. Tornar Raso
+
