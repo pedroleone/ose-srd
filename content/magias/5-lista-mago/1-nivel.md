@@ -1,5 +1,5 @@
 ---
-title: "1º Nível 🔴"
+title: "1º Nível"
 metaTitle: "1º Nível Mago"
 metaDescription: "Magia > 1º Nível Mago"
 ---
