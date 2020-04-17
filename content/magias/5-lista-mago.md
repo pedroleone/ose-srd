@@ -34,18 +34,19 @@ metaDescription: "Magia > Lista Mago"
 
 
 # 3º Nível
-1. Clarividência
-2. Dissipar Magia
-3. Bola de Fogo
-4. Vôo
-5. Velocidade
-6. Imobilizar Pessoas
-7. Infravisão
-8. Invisibilidade 3 m
-9. Relâmpago
-10. Proteção ao Mal 3 m
-11. Proteção à Projéteis
-12. Respirar na Água
+01. Bola de Fogo
+02. Clarividência
+03. Dissipar Magia
+04. Imobilizar Pessoas
+05. Infravisão
+06. Invisibilidade 3 m
+07. Proteção à Projéteis
+08. Proteção ao Mal 3 m
+09. Relâmpago
+10. Respirar na Água
+11. Velocidade
+12. Vôo
+
 
 # 4º Nível
 1. Enfeitiçar Monstros
