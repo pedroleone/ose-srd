@@ -1,5 +1,5 @@
 ---
-title: "Colocando Tesouros"
+title: "Colocando Tesouros 🔴"
 metaTitle: "Colocando Tesouros"
 metaDescription: "Tesouro -> Colocando Tesouros"
 ---

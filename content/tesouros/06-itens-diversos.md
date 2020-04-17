@@ -1,5 +1,5 @@
 ---
-title: "Itens Diversos"
+title: "Itens Diversos 🔴"
 metaTitle: "Itens Diversos"
 metaDescription: "Tesouro -> Itens Diversos"
 ---

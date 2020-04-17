@@ -1,5 +1,5 @@
 ---
-title: "Pergaminhos e Mapas"
+title: "Pergaminhos e Mapas 🔴"
 metaTitle: "Pergaminhos e Mapas"
 metaDescription: "Tesouro -> Pergaminhos e Mapas"
 ---

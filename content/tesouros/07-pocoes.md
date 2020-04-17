@@ -1,5 +1,5 @@
 ---
-title: "Poções"
+title: "Poções 🔴"
 metaTitle: "Poções"
 metaDescription: "Tesouro -> Poções"
 ---

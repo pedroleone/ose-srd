@@ -1,5 +1,5 @@
 ---
-title: "Lidando com PJs"
+title: "Lidando com PJs 🔴"
 metaTitle: "Lidando com PJs"
 metaDescription: "Mestrando Aventuras -> Lidando com PJs"
 ---

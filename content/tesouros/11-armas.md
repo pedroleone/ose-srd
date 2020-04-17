@@ -1,5 +1,5 @@
 ---
-title: "Armas"
+title: "Armas 🔴"
 metaTitle: "Armas"
 metaDescription: "Tesouro -> Armas"
 ---

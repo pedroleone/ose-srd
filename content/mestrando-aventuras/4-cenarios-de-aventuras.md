@@ -1,5 +1,5 @@
 ---
-title: "Cenários de Aventuras"
+title: "Cenários de Aventuras 🔴"
 metaTitle: "Cenários de Aventuras"
 metaDescription: "Mestrando Aventuras -> Cenários de Aventuras"
 ---

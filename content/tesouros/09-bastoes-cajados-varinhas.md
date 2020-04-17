@@ -1,5 +1,5 @@
 ---
-title: "Bastões, Cajados e Varinhas"
+title: "Bastões, Cajados e Varinhas 🔴"
 metaTitle: "Bastões, Cajados e Varinhas"
 metaDescription: "Tesouro -> Bastões, Cajados e Varinhas"
 ---

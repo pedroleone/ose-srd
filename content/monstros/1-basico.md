@@ -1,5 +1,5 @@
 ---
-title: "Básico"
+title: "Básico 🔴"
 metaTitle: "Básico"
 metaDescription: "Monstros > Básico"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Espadas Sencientes"
+title: "Espadas Sencientes 🔴"
 metaTitle: "Espadas Sencientes"
 metaDescription: "Tesouro -> Espadas Sencientes"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tipos Tesouros"
+title: "Tipos Tesouros 🔴"
 metaTitle: "Tipos Tesouros"
 metaDescription: "Tesouro -> Tipos Tesouros"
 ---

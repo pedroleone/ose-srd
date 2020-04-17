@@ -1,5 +1,5 @@
 ---
-title: "Grupos Aventureiros"
+title: "Grupos Aventureiros 🔴"
 metaTitle: "Grupos Aventureiros"
 metaDescription: "Monstros > Grupos Aventureiros"
 ---

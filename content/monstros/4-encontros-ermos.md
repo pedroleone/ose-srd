@@ -1,5 +1,5 @@
 ---
-title: "Encontros nos Ermos"
+title: "Encontros nos Ermos 🔴"
 metaTitle: "Encontros nos Ermos"
 metaDescription: "Monstros > Encontros nos Ermos"
 ---

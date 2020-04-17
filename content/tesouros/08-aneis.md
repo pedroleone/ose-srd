@@ -1,5 +1,5 @@
 ---
-title: "Anéis"
+title: "Anéis 🔴"
 metaTitle: "Anéis"
 metaDescription: "Tesouro -> Anéis"
 ---

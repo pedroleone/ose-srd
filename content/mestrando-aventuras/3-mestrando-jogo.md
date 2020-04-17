@@ -1,5 +1,5 @@
 ---
-title: "Mestrando o Jogo"
+title: "Mestrando o Jogo 🔴"
 metaTitle: "Mestrando o Jogo"
 metaDescription: "Mestrando Aventuras -> Mestrando o Jogo"
 ---

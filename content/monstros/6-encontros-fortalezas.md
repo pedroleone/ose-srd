@@ -1,5 +1,5 @@
 ---
-title: "Encontros Fortalezas"
+title: "Encontros Fortalezas 🔴"
 metaTitle: "Encontros Fortalezas"
 metaDescription: "Monstros > Encontros Fortalezas"
 ---

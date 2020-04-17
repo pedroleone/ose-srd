@@ -1,5 +1,5 @@
 ---
-title: "Planejando Cidade Base"
+title: "Planejando Cidade Base 🔴"
 metaTitle: "Planejando Cidade Base"
 metaDescription: "Mestrando Aventuras -> Planejando Cidade Base"
 ---

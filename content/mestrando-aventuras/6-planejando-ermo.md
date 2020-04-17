@@ -1,5 +1,5 @@
 ---
-title: "Planejando Ermos"
+title: "Planejando Ermos 🔴"
 metaTitle: "Planejando Ermos"
 metaDescription: "Mestrando Aventuras -> Planejando Ermos"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Gemas e Jóias"
+title: "Gemas e Jóias 🔴"
 metaTitle: "Gemas e Jóias"
 metaDescription: "Tesouro -> Gemas e Jóias"
 ---

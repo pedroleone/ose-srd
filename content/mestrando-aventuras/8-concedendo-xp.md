@@ -1,5 +1,5 @@
 ---
-title: "Concedendo XP"
+title: "Concedendo XP 🔴"
 metaTitle: "Concedendo XP"
 metaDescription: "Mestrando Aventuras -> Concedendo XP"
 ---

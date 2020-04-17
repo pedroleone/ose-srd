@@ -1,5 +1,5 @@
 ---
-title: "Papel do Mestre"
+title: "Papel do Mestre 🔴"
 metaTitle: "Papel do Mestre"
 metaDescription: "Mestrando Aventuras -> Papel do Mestre"
 ---
