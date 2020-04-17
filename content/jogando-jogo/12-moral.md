@@ -1,5 +1,5 @@
----
-title: "Moral"
+--- 
+title: "Moral 🔴"
 metaTitle: "Moral"
 metaDescription: "Jogando o Jogo > Moral"
 ---

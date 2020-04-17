@@ -1,5 +1,5 @@
 ---
-title: "Combate"
+title: "Combate 🔴"
 metaTitle: "Combate"
 metaDescription: "Jogando o Jogo > Combate"
 ---

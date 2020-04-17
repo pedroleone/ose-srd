@@ -1,5 +1,5 @@
 ---
-title: "Tabelas de Combate"
+title: "Tabelas de Combate 🔴"
 metaTitle: "Tabelas de Combate"
 metaDescription: "Jogando o Jogo > Tabelas de Combate"
 ---

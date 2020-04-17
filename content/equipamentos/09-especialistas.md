@@ -1,5 +1,5 @@
 ---
-title: "Especialistas"
+title: "Especialistas 🔴"
 metaTitle: "Especialistas"
 metaDescription: "Equipamentos > Especialistas"
 ---
