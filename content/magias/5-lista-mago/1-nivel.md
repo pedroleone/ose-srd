@@ -11,7 +11,6 @@ metaDescription: "Magia > 1º Nível Mago"
 
 A magia faz com que Objetos, áreas ou criaturas encantadas brilhem. Itens mágicos permanentes ou temporários são revelados. 
 
-
 # Disco Flutuante
 **Duração**: 6 turnos
 
@@ -20,11 +19,8 @@ A magia faz com que Objetos, áreas ou criaturas encantadas brilhem. Itens mági
 O conjurador cria um disco de energia circular e ligeiramente côncavo, que o segue e pode transportar cargas.
 
 * **Dimensões**: o disco possui 90 cm de diâmetro e 2,5 cm de profundidade no centro.
-
 * **Carga**: ele pode transportar até 5.000 moedas (250 kg).
-
 * **Movimento**: o disco flutua na altura da cintura e permanece nivelado, flutuando horizontalmente dentro do alcance da magia.
-
 * **Encerrando**: quando o disco pisca, no final da duração da magia, tudo que ele estiver transportando cai.
 
 # Enfeitiçar Pessoas
@@ -32,43 +28,74 @@ O conjurador cria um disco de energia circular e ligeiramente côncavo, que o se
 
 **Alcance**: 36 m
 
-Uma única criatura humanóide deve fazer um teste de resistência contra magia, ou será 
+Uma única criatura humanóide deve fazer um teste de resistência contra magia, ou será enfeitiçado, como a seguir:
+
+* **Amizade**: o alvo considera o conjurador um amigo confiável e aliado, e sairá em defesa do conjurador.
+* **Comandos**: se eles compartilharem um idioma, o conjurador pode transmitir comandos que o alvo deve obedecer.
+* **Natureza do Alvo**: comandos que contradigam os hábitos da criatura enfeitiçada ou seu alinhamento, podem ser ignoradas.
+* **Comandos Suicidas**: uma criatura afetada nunca obedecerá ordens suicídas ou obiviamente perigosas.
+
+**Restrições**: humanóides com mais de 4+1 DV e mortos-vivos não são afetados.
+
+**Duração**: o feitiço dura indefinidamente, mas o alvo pode realizar testes de resistência contra magia em determinados intervalos, dependendo de seu valor de INT. Se um destes testes de resistência for bem sucedido, a magia é encerrada.
+
+* **INT 3 - 8**: a criatura pode realizar um novo teste de resistência a cada mês.
+* **INT 9 - 12**: a criatura pode realizar um novo de teste de resistência a cada semana.
+* **INT 13 - 18**: a criatura pode realizar um novo teste de resistência a cada dia.
 
 # Escudo
-Duração: 2 turnos
-Alcance: o conjurador
-A magia cria um campo de força invisível que proteje o conjurador.
-Contra ataques de projéteis: a CA do conjurador é 2 [17]
-Contra outros ataques: a CA do conjurador é 4 [15]
+**Duração**: 2 turnos
+
+**Alcance**: o conjurador
+
+A magia cria um campo de força invisível que protege o conjurador.
+
+* **Contra ataques a distância**: a CA do conjurador é 2 [17]
+* **Contra outros ataques**: a CA do conjurador é 4 [15]
 
 # Ler Idiomas
+**Duração**: 2 turnos
+
+**Alcance**: O conjurador
+
+Pela duração da magia, o conjurador pode ler qualquer idioma, mensagem codificada, ou outro conjunto de instruções escritas. Esta magia não concede a habilidade de falar idiomas desconhecidos.
 
 # Ler Magias
-Duração: 1 turno
-Alcance: o conjurador
+**Duração**: 1 turno
+
+**Alcance**: o conjurador
+
 Por intermédio de ler magias, o conjurador pode decifrar inscrições mágicas ou runas, como segue:
-Pergaminhos: a inscrição mágica de um pergaminho de magias arcanas pode ser entendida. O conjurador é então capaz de ativar o pergaminho a qualquer tempo no futuro.
-Livros de magia: um livro de magias escrito por outro conjurador arcano pode ser decifrado.
-Inscrições: runas ou palavras mágicas inscritas em um objeto ou superfície pode ser entendida.
-Lendo novamente: uma vez que o conjurador tenha lido uma inscrição usando ler magias, ele se torna capaz de ler aquele texto novamente no futuro, sem a necessidade de usar a magia novamente.
+
+* **Pergaminhos**: a inscrição mágica de um pergaminho de magias arcanas pode ser entendida. O conjurador é então capaz de ativar o pergaminho a qualquer tempo no futuro.
+* **Livros de magia**: um livro de magias escrito por outro conjurador arcano pode ser decifrado.
+* **Inscrições**: runas ou palavras mágicas inscritas em um objeto ou superfície pode ser entendida.
+* **Lendo novamente**: uma vez que o conjurador tenha lido uma inscrição usando ler magias, ele se torna capaz de ler aquele texto novamente no futuro, sem a necessidade de usar a magia novamente.
 
 # Luz (Escuridão)
 
+
 # Mísseis Mágicos
-Duração: 1 turno
-Alcance: 45 m
+**Duração**: 1 turno
+
+**Alcance**: 45 m
+
 Esta magia conjura um dardo brilhante de energia que o conjurador pode escolher disparar em uma criatura visível dentro do alcance.
-Acerto: o projétil acerta sem chances de erro (nenhuma jogada de ataque ou teste de resistência é necessário)
-Dano: o projétil causa 1d6+1 pontos de dano.
-Conjuradores de níveis altos: podem conjurar mais projéteis: dois projéteis adicionais são conjurados para cada cinco níveis que o conjurador tenha ganho (exemplo, três projéteis do 6º ao 10º, cinco projéteis do 11º ao 15º nível, etc.). Vários projéteis podem ser direcionados ao mesmo alvo.
+
+* **Acerto**: o projétil acerta sem chances de erro (nenhuma jogada de ataque ou teste de resistência é necessário)
+* **Dano**: o projétil causa 1d6+1 pontos de dano.
+* **Conjuradores de níveis altos**: podem conjurar mais projéteis: dois projéteis adicionais são conjurados para cada cinco níveis que o conjurador tenha ganho (exemplo, três projéteis do 6º ao 10º, cinco projéteis do 11º ao 15º nível, etc.). Vários projéteis podem ser direcionados ao mesmo alvo.
 
 # Prender Portais
+
 
 # Proteção ao Mal
 
 # Sono
 Duração: 4d4 turnos
+
 Alcance: 72 m
+
 A magia sono provoca sonolência nas criaturas, excluindo mortos-vivos. A magia pode atingir:
 Uma única criatura com 4+1 Dados de Vida.
 Um total de 2d8 Dados de Vida de criaturas de 4 DV ou menor.
