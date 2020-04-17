@@ -4,4 +4,32 @@ metaTitle: "Armas e Armaduras"
 metaDescription: "Equipamentos > Armas e Armaduras"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce egestas hendrerit viverra. Pellentesque consequat, urna non finibus aliquet, nisl sapien mollis sem, egestas imperdiet dolor velit quis ligula. Aenean et urna posuere, dapibus lacus eu, pellentesque purus. Mauris semper non sem nec accumsan. Integer ut turpis scelerisque, egestas libero et, venenatis augue. Quisque convallis dignissim nibh. Quisque egestas tempus euismod. Praesent placerat convallis mi in dapibus. 
+# Armas e Armaduras
+
+## Armas
+
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|**Arma**             |**Custo (po)**|**Peso (moedas)**|**Dano**|**Características**                                                  |
++=====================+==============+=================+========+=====================================================================+
+|Machado de Batalha   |7             |50               |1d8     |Corpo a Corpo, Lenta, Duas Mãos                                      |
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Porrete              |3             |50               |1d4     |Concussão, Corpo a Corpo                                             |
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Besta                |30            |50               |1d6     |Distância (até 24 m / até 48 m / até 96 m), Recarga, Lenda, Duas Mãos|
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Adaga                |3             |10               |1d4     |Corpo a Corpo, Distância (até 3 m / até 6 m / até 9 m)               |
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Machadinha           |4             |30               |1d6     |Corpo a Corpo, Distância (até 3 m / até 6 m / até 9 m)               |
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Frasco de Água Benta |25            |-                |1d8     |Distância (até 3 m / até 9 m / até 15 m), Projétil de Área           |
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Dardo                |1             |20               |1d4     |Distância (até 9 m / até 18 m / até 27 m)                            |
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Lança                |5             |120              |1d6     |Carga, Corpo a Corpo                                                 |
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Arco Longo           |40            |30               |1d6     |Distância (até 21 m / até 42 m / até 64 m), Duas Mãos                |
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Maça                 |5             |30               |1d6     |Corpo a Corpo, Concussão                                             |
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
+|Ânfora de Óleo, queimando|4|30|1d6|Corpo a Corpo, Distância (até 3 m / até 6 m / até 9 m|
++---------------------+--------------+-----------------+--------+---------------------------------------------------------------------+
