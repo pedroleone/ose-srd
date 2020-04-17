@@ -4,7 +4,7 @@ metaTitle: "Encontros"
 metaDescription: "Jogando o Jogo > Encontros"
 ---
 
-Um encontro começa quando um grupo de aventureiros tropeça em um monstro, seja porque o árbitro planejou um encontro na área que os PJs estão explorando, ou porque uma jogada para determinar um encontro aleatório indicou um encontro (ver Monstros Errantes, p. XXX).
+Um encontro começa quando um grupo de aventureiros tropeça em um monstro, seja porque o árbitro planejou um encontro na área que os PJs estão explorando, ou porque uma jogada para determinar um encontro aleatório indicou um encontro (ver Monstros Errantes).
 
 # Sequência do Encontro
 1. **Surpresa**: o mestre joga para determinar surpresa, se for aplicável.
