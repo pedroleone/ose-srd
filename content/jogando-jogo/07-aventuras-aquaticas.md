@@ -81,6 +81,7 @@ Grupos que prefiram um sistema um pouco mais detalhado de viagem aquática, pode
 **Embarcações navegáveis**: Embarcações navegáveis podem tentar mover-se com o vento para evitar danos. Isso é feito da seguinte forma:
 * A embarcação viaja a três vezes sua velocidade normal em uma direção aleatória. (O árbitro poderá jogar 1d6, com um resultado de 1 indicando a direção correta que se pretende viajar, 2 indicando 60° a direita, 3 indicando 120° a direita e assim por diante.)
 * Se o navio se aproximar da costa durante a tempestade, existe 75% de chance que ele naufrague.
+
 **Embarcações não navegáveis**: 
 * Existe 80% de chance que a embarcação seja invadida pela água e afunde.
 * Se a embarcação estiver à vista da costa quando o vendaval se abater, será possível tentar aportar. Se a costa for relativamente livre de perigos físicos (rochas, desfiladeiros etc.), considere um sucesso automático; de outra forma, existe uma chance de 2 em 1d6 de encontrar um local que funcione como um porto seguro para resistir a tempestade.
