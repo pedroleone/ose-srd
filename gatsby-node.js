@@ -14,7 +14,7 @@ exports.createPages = ({ graphql, actions }) => {
       graphql(
         `
           {
-            allMdx {
+            allMdx(sort: {fields: fileAbsolutePath}) {
               edges {
                 node {
                   fields {
