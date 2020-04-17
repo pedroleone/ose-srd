@@ -15,7 +15,7 @@ metaDescription: "Equipamentos > Armas e Armaduras"
 +--------------------------+--------------+-----------------+--------+----------------------------------------------------------------+
 |Porrete                   |3             |50               |1d4     |Concussão, Corpo a Corpo                                        |
 +--------------------------+--------------+-----------------+--------+----------------------------------------------------------------+
-|Besta                     |30            |50               |1d6     |Distância (24 m / 48 m / 96 m), Recarga, Lenda, Duas Mãos       |
+|Besta                     |30            |50               |1d6     |Distância (24 m / 48 m / 96 m), Recarga, Lenta, Duas Mãos       |
 +--------------------------+--------------+-----------------+--------+----------------------------------------------------------------+
 |Adaga                     |3             |10               |1d4     |Corpo a Corpo, Distância (3 m / 6 m / 9 m)                      |
 +--------------------------+--------------+-----------------+--------+----------------------------------------------------------------+
@@ -56,7 +56,53 @@ metaDescription: "Equipamentos > Armas e Armaduras"
 |Martelo de Guerra         |5             |30               |1d6     |Concussão, Corpo a Corpo                                        |
 +--------------------------+--------------+-----------------+--------+----------------------------------------------------------------+
 
+**Dano**: dado jogado quando usar a regra opcional de dano de armas variado (ver Combate).
 
+## Qualidade das Armas
+
+**Concussão**: pode ser usada por clérigos.
+
+**Preparar**: posicionar a arma no chão dobra o dano contra montros em carga.
+
+**Carga***: na montoria, movendo pelo menos 18 m em uma rodada e atacando, dobra qualquer dano provocado com um ataque bem sucedido.
+
+**Corpo a Corpo**: arma de curta distância (1,5 m ou menos).
+
+**Distância**: armas arremessadas ou disparadas (distância superior a 1,5 m). As distâncias para alcance curto (+1 para acertar), médio ou longo (-1 para acertar) são mostrados entre parênteses.
+
+**Recarga (regra opcional)**: requer uma rodada para recarregar entre os tiros; só pode ser disparada a cada dois turnos.
+
+**Lenta**: o personagem age por último em cada rodada de combate (ver Combate).
+
+**Projétil de Área**: com um ataque bem sucedido, o recipiente se quebra e molha o alvo com o líquido. O dano indicado é infligido durante duas rodadas, enquanto o líquido escorre.
+
+**Duas Mãos**: requer duas mãos; o personagem não pode usar escudo.
+
+## Munição
++---------------------------------+--------------+
+|**Munição**                      |**Custo (po)**|
++=================================+==============+
+|Flechas (aljava com 20)          |5             |
++---------------------------------+--------------+
+|Virotes de besta (estojo com 30) |10            |
++---------------------------------+--------------+
+|Flecha com ponta de prata (1)    |5             |
++---------------------------------+--------------+
+|Pedras para funda                |Grátis        |
++---------------------------------+--------------+
+
+## Armadura
++---------------------------------+--------------+--------------+-----------------+
+|**Armadura**                     |**CA**        |**Custo (po)**|**Peso (moedas)**|
++=================================+==============+==============+=================+
+|Couro                            |7 [12]        |20            |200              |
++---------------------------------+--------------+--------------+-----------------+
+|Cota de Malha                    |5 [14]        |40            |400              |
++---------------------------------+--------------+--------------+-----------------+
+|Armadura de Placas               |3 [16]        |60            |500              |
++---------------------------------+--------------+--------------+-----------------+
+|Escudo                           |+1 de bônus   |10            |100              |
++---------------------------------+--------------+--------------+-----------------+
 
 
 
