@@ -4,4 +4,20 @@ metaTitle: "Veículos Terrestres"
 metaDescription: "Equipamentos > Veículos Terrestres"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce egestas hendrerit viverra. Pellentesque consequat, urna non finibus aliquet, nisl sapien mollis sem, egestas imperdiet dolor velit quis ligula. Aenean et urna posuere, dapibus lacus eu, pellentesque purus. Mauris semper non sem nec accumsan. Integer ut turpis scelerisque, egestas libero et, venenatis augue. Quisque convallis dignissim nibh. Quisque egestas tempus euismod. Praesent placerat convallis mi in dapibus. 
++-------------+----------------+----------------+-----------------------+----------------------+------------------------+----------------------+------------------------+
+| Veículos Terrestres                                                                                                                                                   |
++=============+================+================+=======================+======================+========================+======================+========================+
+| **Veículo** | **Custo (po)** | **km por dia** | **Taxa de Movimento** | **Nº Min. Animais**  | **Carga Máx (moedas)** | **Animais Extras**   | **Carga Máx (moedas)** | 
++-------------+----------------+----------------+-----------------------+----------------------+------------------------+----------------------+------------------------+
+| Carroça     | 100            | 12             | 18m (6m)              | 1 cavalo de tração   | 4.000                  | 2 cavalos de tração  | 8.000                  |
+|             |                |                |                       | <br/>ou 2 mulas      |                        | <br/>ou 4 mulas      |                        |
++-------------+----------------+----------------+-----------------------+----------------------+------------------------+----------------------+------------------------+
+| Carroção    | 200            | 12             | 18m (6m)              | 2 cavalos de tração  | 15.000                 | 4 cavalos de tração  | 25.000                 |
+|             |                |                |                       | <br/>ou 4 mulas      |                        | <br/>ou 8 mulas      |                        |
++-------------+----------------+----------------+-----------------------+----------------------+------------------------+----------------------+------------------------+
+
+# Animais Necessários
+Esses veículos devem ser puxados por um número mínimo de mulas ou cavalos de tração. Se o dobro de animais for utilizado, cargas adicionais podem ser carregadas.
+
+# Terreno Difícil
+Quando viajando em terreno difícil (desertos, florestas, montanhas, pântanos), estes veículos só podem viajar em estradas conservadas.

@@ -4,7 +4,6 @@ metaTitle: "Empregados"
 metaDescription: "Personagens -> Empregados"
 ---
 
-# EMPREGADOS
 Empregados são PdM contratados por um personagem para realizar determinados serviços. Os tipos de empregados disponíveis dependem do cenário, e são descritos nos livros de ambientação.
 
 # Empregados e Aventuras

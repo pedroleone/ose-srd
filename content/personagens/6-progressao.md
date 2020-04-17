@@ -4,7 +4,7 @@ metaTitle: "Progressão"
 metaDescription: "Personagens -> Progressão"
 ---
 
-# EXPERIÊNCIA
+# Experiência
 Todos os personagens que sobrevivem a uma aventura ganham pontos de experiência (XP), concedidos pelo mestre (Ver Concedendo XP). A experiência é adquirida de duas fontes: tesouro recuperado e monstro derrotado.
 
 # Modificadores de Requisitos Primários

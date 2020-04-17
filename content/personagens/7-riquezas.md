@@ -4,9 +4,9 @@ metaTitle: "Riquezas"
 metaDescription: "Personagens -> Riquezas"
 ---
 
-# RIQUEZAS
 Personagens bem sucedidos acumulam riquezas dos espólios de suas aventuras. Tesouros possuem muitas formas, mas normalmente, o tipo mais útil de tesouro é o dinheiro.
-Dinheiro
+
+# Dinheiro
 A moeda mais comum são as peças de ouro (po). Moedas feitas de outros metais - platina (pl), eléctrum (pe), prata (pp) e cobre (pc) - também são usadas. As taxas de conversão das moedas é mostrada abaixo.
 
 +--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+

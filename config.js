@@ -15,7 +15,7 @@ const config = {
     social: '',
     links: [{ text: '', link: '' }],
     search: {
-      enabled: true,
+      enabled: false,
       indexName: 'OSE_SRD',
       algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
       algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
