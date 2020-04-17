@@ -4,9 +4,7 @@ metaTitle: "Armas e Armaduras"
 metaDescription: "Equipamentos > Armas e Armaduras"
 ---
 
-# Armas e Armaduras
-
-## Armas
+# Armas
 
 +--------------------------+--------------+-----------------+--------+----------------------------------------------------------------+
 |**Arma**                  |**Custo (po)**|**Peso (moedas)**|**Dano**|**Características**                                             |
@@ -58,7 +56,7 @@ metaDescription: "Equipamentos > Armas e Armaduras"
 
 **Dano**: dado jogado quando usar a regra opcional de dano de armas variado (ver Combate).
 
-## Qualidade das Armas
+# Qualidade das Armas
 
 **Concussão**: pode ser usada por clérigos.
 
@@ -78,7 +76,7 @@ metaDescription: "Equipamentos > Armas e Armaduras"
 
 **Duas Mãos**: requer duas mãos; o personagem não pode usar escudo.
 
-## Munição
+# Munição
 +---------------------------------+--------------+
 |**Munição**                      |**Custo (po)**|
 +=================================+==============+
@@ -91,7 +89,7 @@ metaDescription: "Equipamentos > Armas e Armaduras"
 |Pedras para funda                |Grátis        |
 +---------------------------------+--------------+
 
-## Armadura
+# Armadura
 +---------------------------------+--------------+--------------+-----------------+
 |**Armadura**                     |**CA**        |**Custo (po)**|**Peso (moedas)**|
 +=================================+==============+==============+=================+
@@ -104,11 +102,11 @@ metaDescription: "Equipamentos > Armas e Armaduras"
 |Escudo                           |+1 de bônus   |10            |100              |
 +---------------------------------+--------------+--------------+-----------------+
 
-## Carga (Regra Opcional)
+# Carga (Regra Opcional)
 Se a regra opcional para carga for usada (ver Carga), armadura vestidas e armas carregadas são tratadas como a seguir.
 
-### Opção 1: Carga Básica
+## Opção 1: Carga Básica
 Armadura de couro conta como armadura leve, cota de malha e armadura de placas como armaduras pesadas.
 
-### Opção 2: Carga Detalhada
+## Opção 2: Carga Detalhada
 O peso listado da armadura e das armas é rastreado. O peso listado das armas a distância já incluem o peso dos projéteis e de seus recipientes.
