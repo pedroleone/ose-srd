@@ -56,7 +56,7 @@ metaDescription: "Equipamentos > Armas e Armaduras"
 
 **Dano**: dado jogado quando usar a regra opcional de dano de armas variado (ver Combate).
 
-# Qualidade das Armas
+# Características das Armas
 
 **Concussão**: pode ser usada por clérigos.
 
