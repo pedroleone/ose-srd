@@ -77,5 +77,5 @@ A chance de evasão é determinada pela diferença entre as taxas de movimentaç
 
 ## Perseguição
 **Tempo**: É medido em rodadas (ver Tempo, Peso e Movimento).
-**Distância inicial**: Os dois grupos começam a perseguição à uma distância normal de encontro (ver Encontros Marítimos, p. XXX).
+**Distância inicial**: Os dois grupos começam a perseguição à uma distância normal de encontro (ver Encontros Aquáticos).
 **Aproximando-se**: A distância entre os dois grupos diminui pela diferença entre as duas taxas de movimento a cada rodada (a um mínimo de 9 metros por rodada).
