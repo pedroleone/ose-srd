@@ -1,5 +1,5 @@
 ---
-title: "Monstros 🔴"
+title: "Monstros"
 metaTitle: "Monstros"
 metaDescription: "Monstros"
 ---
