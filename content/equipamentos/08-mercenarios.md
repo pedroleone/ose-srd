@@ -1,49 +1,53 @@
 ---
-title: "Mercenários ❌"
+title: "Mercenários"
 metaTitle: "Mercenários"
 metaDescription: "Equipamentos > Mercenários"
 ---
 
-Hired soldiers who will guard, patrol, and otherwise serve in wilderness settings, but only as part of a larger force, not an adventuring party.
+Mercenários são soldados contratados que irão guardar, patrulhar e até servir nos ermos, mas apenas como parte de uma força maior, não em um grupo de aventureiros.
 
-Note that as mercenaries are hired by a character to perform specific services, they are not treated as retainers and thus do not count toward a character’s maximum number of retainers. 
+Note que se um mercenário for contratado por um personagem para realizar serviços específicos, ele não é tratado como um aliado, sendo assim, também não conta para o número máximo de aliados do personagem.
 
-# Wages
+# Salários
 
-**Outside of wartime**: As listed below.
+**Em tempos de paz**: como listados abaixo.
 
-**During wartime**: All wages are doubled.
+**Durante tempos de guerra**: todos os salários são dobrados.
 
-# Upkeep
+# Despesas
 
-The monthly rate of pay includes food and basic gear. Most mercenaries already have weapons and armour when hired, though their employer may give them additional gear. Note that armourers are required to repair mercenaries’ armour and weapons (see Specialists). 
+A remuneração mensal pega inclui alimento e equipamentos básicos. Muitos mercenários já possuem armas e armadura quando são contratados, embora os empregadores possam conceder equipamentos adicionais. Note que armeiros são necessários para reparar as armas e armaduras de mercenários (ver Especialistas)
 
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Mercenaries                                                                            |
+| Mercenários                                                                            |
 +======================+========+=====+=========+=========+=========+=========+==========+
-| Archer               | 6 [13] | 8   | 5gp     | &ndash; | 10gp    | 3gp     | 2gp      |
+|Tipo                  |CA      |Moral|Salários por mês                                  |
++                      +        +     +---------+---------+---------+---------+----------+
+|                      |        |     |Humano   |Anão     |Elfo     |Orc      |Goblin    |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Archer, mounted      | 9 [10] | 9   | 15gp    | &ndash; | 30gp    | &ndash; | &ndash;  |
+| Arqueiro             | 6 [13] | 8   | 5po     | &ndash; | 10po    | 3po     | 2po      |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Crossbowman          | 5 [14] | 8   | 4gp     | 6gp     | &ndash; | 2gp     | &ndash;  |
+| Arqueiro, montado    | 9 [10] | 9   | 15po    | &ndash; | 30po    | &ndash; | &ndash;  |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Crossbowman, mounted | 9 [10] | 9   | &ndash; | 15gp    | &ndash; | &ndash; | &ndash;  |
+| Besteiro             | 5 [14] | 8   | 4po     | 6po     | &ndash; | 2po     | &ndash;  |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Footman, light       | 6 [13] | 8   | 2gp     | &ndash; | 4gp     | 1gp     | 5sp      |
+| Besteiro, montado    | 9 [10] | 9   | &ndash; | 15po    | &ndash; | &ndash; | &ndash;  |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Footman, heavy       | 4 [15] | 8   | 3gp     | 5gp     | 6gp     | 15sp    | &ndash;  | 
+| Infantaria, leve     | 6 [13] | 8   | 2po     | &ndash; | 4po     | 1po     | 5pp      |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Horseman, light      | 7 [12] | 9   | 10gp    | &ndash; | 20gp    | &ndash; | &ndash;  | 
+| Infantaria, pesada   | 4 [15] | 8   | 3po     | 5po     | 6po     | 15pp    | &ndash;  | 
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Horseman, medium     | 5 [14] | 9   | 15gp    | &ndash; | &ndash; | &ndash; | &ndash;  |
+| Cavaleiro, leve      | 7 [12] | 9   | 10po    | &ndash; | 20gp    | &ndash; | &ndash;  | 
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Horseman, heavy      | 3 [16] | 9   | 20gp    | &ndash; | &ndash; | &ndash; | &ndash;  |
+| Cavaleiro, médio     | 5 [14] | 9   | 15po    | &ndash; | &ndash; | &ndash; | &ndash;  |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Longbowman           | 5 [14] | 8   | 10gp    | &ndash; | 20gp    | &ndash; | &ndash;  |
+| Cavaleiro, pesado    | 3 [16] | 9   | 20po    | &ndash; | &ndash; | &ndash; | &ndash;  |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Peasant              | 9 [10] | 6   | 1gp     | &ndash; | &ndash; | &ndash; | &ndash;  |
+| Arqueiro, arco longo | 5 [14] | 8   | 10po    | &ndash; | 20po    | &ndash; | &ndash;  |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Wolf rider           | 7 [12] | 9   | &ndash; | &ndash; | &ndash; | &ndash; | 5gp      |
+| Camponês             | 9 [10] | 6   | 1po     | &ndash; | &ndash; | &ndash; | &ndash;  |
++----------------------+--------+-----+---------+---------+---------+---------+----------+
+| Montador de lobos    | 7 [12] | 9   | &ndash; | &ndash; | &ndash; | &ndash; | 5po      |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
 
 ## Archer
