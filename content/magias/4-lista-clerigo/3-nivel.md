@@ -1,5 +1,5 @@
 ---
-title: "3º Nível 🔴"
+title: "3º Nível"
 metaTitle: "3º Nível Clérigo"
 metaDescription: "Magia > 3º Nível Clérigo"
 ---
