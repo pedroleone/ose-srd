@@ -4,7 +4,7 @@ metaTitle: "Aliados"
 metaDescription: "Equipamentos > Aliados"
 ---
 
-Aliados são PdMs que são contratados pelos personagens para acompanhá0los em aventuras. (PdM contratados por tarefas não relacionadas a aventuras são tratados como empregados.)
+Aliados são PdMs que são contratados pelos personagens para acompanhá-los em aventuras. (PdM contratados por tarefas não relacionadas a aventuras são tratados como empregados.)
 
 **Limite por PJ**: cada personagem é limitado a um número finito de aliados, como indicado pelo valor de Carisma do personagem (ver Atributos).
 
