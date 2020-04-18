@@ -50,38 +50,38 @@ A remuneração mensal pega inclui alimento e equipamentos básicos. Muitos merc
 | Montador de lobos    | 7 [12] | 9   | &ndash; | &ndash; | &ndash; | &ndash; | 5po      |
 +----------------------+--------+-----+---------+---------+---------+---------+----------+
 
-## Archer
-Equipped with a shortbow, leather armour, and a shield.
+## Arqueiro
+Equipamento com um arco curto, armadura de couro e um escudo.
 
-## Archer, Mounted
-Mounted on a riding horse. Equipped with a shortbow.
+## Arqueiro, Montado
+Montado em um cavalo de sela. Equipado com um arco curto.
 
-## Crossbowman
-Equipped with a crossbow and chainmail.
+## Besteiro
+Equipado com uma besta e cota de malha.
 
-## Crossbowman, Mounted
-Mounted on a mule. Equipped with a crossbow.
+## Besteiro, Montado
+Montado em uma mula. Equipado com uma best.
 
-## Footman, Light
-Equipped with a sword, leather armour, and a shield.
+## Infantaria, leve.
+Equipado com uma espada, armadura de couro e um escudo.
 
-## Footman, Heavy
-Equipped with a sword, chainmail, and a shield.
+## Infantaria, pesada.
+Equipado com espada, cota de malha e um escudo.
 
-## Horseman, Light
-Mounted on a riding horse. Equipped with a lance and leather armour.
+## Cavaleiro, Leve
+Montado em um cavalo de sela. Equipado com uma lança e uma armadura de couro.
 
-## Horseman, Medium
-Mounted on a warhorse. Equipped with a lance and chainmail.
+## Cavaleiro, Médio
+Montado em um cavalo de guerra. Equipado com uma lança e uma cota de malhas.
 
-## Horseman, Heavy
-Mounted on a warhorse. Equipped with a sword, a lance, and plate mail.
+## Cavaleiro, Pesado.
+Montado em um cavalo de guerra. Equipado com espada, uma lança e armadura de placas.
 
-## Longbowman
-Equipped with a longbow, a sword, and chainmail.
+## Arqueiro, Arco Longo
+Equipado com arco longo, uma espada e cota de malha.
 
-## Peasant
-Unarmed.
+## Camponês
+Desarmado.
 
-## Wolf Rider
-Mounted on a wolf. Equipped with a spear and leather armour. 
+## Montador de Lobos
+Montado em um lobo. Equipado com uma azagaia e armadura de couro.
