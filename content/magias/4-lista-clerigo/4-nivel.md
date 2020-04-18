@@ -14,6 +14,7 @@ metaDescription: "Magia > 4º Nível Clérigo"
 * **Reversão**: Quando mortas ou ao final da duração da magia, as serpentes voltam a ser bastões.
 
 **Conjurar Serpentes**
+
 CA 6 [13], DV 1 (4 pv), Atq 1 × mordida (1d4), THAC0 19 [0], MV 27 m (9 m), SV D12 W13 P14 B15 S16 (1), ML 17, Tend. Neutro, XP 10 (13 se venenosa), NA See above, TT Não
 
 * **Veneno**: Existe 50% de chance de que as serpentes sejam venenosas.
@@ -53,7 +54,7 @@ Inflige 2d6+2 ponto de dano à criatura tocada. Em combate, é necessário um at
 
 Esta magia tem dois usos:
 
-1. **Plantas normais**: Comunicar-se com plantas normais. O conjurador é capaz de fazer perguntas e receber respostas, e podem solicitar favores simples. As plantas podem consentir, se a requisição puder ser entendida e o favor puder ser realizado. Por exemplo, plantas com densas folhagens poderiam abrir passagem para o conjurador e seu grupo.
+1. **Plantas normais**: Permite ao conjurador comunicar-se com plantas normais, tornando-o capaz de fazer perguntas e receber respostas, podendo inclusive solicitar favores simples. As plantas podem consentir, se a requisição puder ser atendida e o favor puder ser realizado. Por exemplo, plantas com folhagens densas poderiam abrir passagem para o conjurador e seu grupo.
 
 2. **Plantas monstruosas**: Permite a comunicação com criaturas tipo planta ou plantas monstruosas.
 
