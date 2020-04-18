@@ -4,78 +4,89 @@ metaTitle: "Aliados"
 metaDescription: "Equipamentos > Aliados"
 ---
 
-Retainers are NPCs that are hired by characters to accompany them on an adventure. (NPCs hired for non-adventuring tasks are treated as hirelings, see Hirelings.)
+Aliados são PdMs que são contratados pelos personagens para acompanhá0los em aventuras. (PdM contratados por tarefas não relacionadas a aventuras são tratados como empregados.)
 
-**Limit per PC**: Each character is limited to a finite number of retainers, as indicated by the character’s Charisma score (see Ability Scores).
+**Limite por PJ**: cada personagem é limitado a um número finito de aliados, como indicado pelo valor de Carisma do personagem (ver Atributos).
 
-**Duties**: Retainers are not mindless slaves and, although they will usually share the party’s risks, they will not willingly act as battle fodder. If abused in any way, retainers will typically warn others of this and the PCs will soon find it difficult to hire other retainers. 
+**Tarefas**: aliados não são escravos estúpidos e, embora eles normalmente compartilhem os riscos do grupo, eles não agirão voluntariamente como bucha de canhão. Se sofrerem abusos de qualquer tipo, os aliados irão alertar os outros sobre este comportamento e os logo, os PJs vão ter dificuldades para contratar outros aliados.
 
-# Class and Level
+# Classe e Nível
 
-Retainers can be of any class (including normal humans—effectively of level 0), but must be of equal or lower level to the hiring PC.
+Aliados podem ser de qualquer classe (incluindo humanos normais - efetivamente de nível 0), mas devem ser de nível igual ou menor do que o PJ contratante.
 
-# Recruitment
+# Recrutamento
 
-Potential retainers may be located by frequenting drinking establishments or by paying to post notices of help wanted. Applicants are recruited through negotiation, with the referee playing the roles of the NPCs a character attempts to hire. The PC should explain what the job entails and the wages paid.
+Aliados em potencial podem ser localizados em tavernas ou pagando para colocar anúncios de procura-se por ajuda em quadros de notícias. Os candidatos são recrutados através de negociação, com o mestre interpretando o papel do PdM que o personagem está tentando contratar. O PdJ deve explicar qual a natureza do trabalho e que salário será pago.
 
-# Wages and Upkeep
-The referee should determine the rate of pay desired by potential retainers, taking the following factors into account:
+# Salários e Despesas
 
-* **Skill level**: More experienced retainers will want a higher rate of pay, whereas those employed for unskilled tasks will have lower demands.
-* **Competition**: Retainers may accept lower rates of pay if there are many applicants, but may demand higher rates if there is little competition for the job.
+O mestre deve determinar a remuneração dos aliados em potencial, levando os seguintes fatores em consideração:
 
-# Standard Rate
-Retainers will usually want a guaranteed fee (per day or per adventure) and a share of treasure recovered (at very least a half share). For example: a fee of 1gp per day plus a half share of treasure.
+* **Nível de Perícia**: Aliados mais experientes vão querer maiores remunerações, enquanto aqueles empregados para tarefas qnão qualificadas exigirão menores.
 
-# Upkeep
-The hiring PC must also pay for the retainer’s daily upkeep (food and lodgings) and for any new adventuring gear, weapons, or mounts the retainer requires.
+* **Competição**: os aliados podem aceitar remunerações menores se existirem muitos candidatos, mas podem exigir mais se houver baixa concorrência.
 
-# Shares of Treasure
-Fractional shares of treasure are calculated by dividing the treasure by the total number of shares. For example, a party consisting of 5 PCs (who receive full shares) plus one retainer (who is paid a half share) discover 2,750gp of treasure. The total is divided by 5.5 (five full shares plus one half share): 500gp. Thus, each PC gains 500gp and the retainer gains 250gp.
+# Remuneração Padrão
 
-# Applicant Reactions
-Once an offer is made, the referee determines the potential retainer’s reaction by rolling 2d6 on the table below, modified as follows:
+Os aliados normalmente vão querer uma taxa de garantia (por dia ou por aventura) e uma parte do tesouro recuperado (pelo menos uma meia cota). Por exemplo: uma taxa de 1 po por dia, mas meia cota do tesouro.
 
-* **Charisma**: The roll is modified by the hiring character’s NPC reactions modifier due to CHA (see Ability Scores).
-* **Generosity**: The referee may apply a bonus or penalty, depending on the attractiveness of the deal (+1 or +2 for generous offers, –1 or –2 for poor offers).
-* **Reputation**: A penalty of –1 or –2 may be applied, if the hiring PC has a bad reputation.
+# Despesas
+
+O PdJ contratante também deve pagar pelas despesas diárias do aliado (alimentação e alojamento) e por qualquer equipamento de aventura, armas, ou montarias que o aliado precise. 
+
+# Divisão do Tesouro
+
+As divisões fracionadas do tesouro são calculadas divindo o tesouro pelo número total de cotas. Por exemplo, um grupo consistindo de 5 PdJs (que recebem cotas completas), mais um aliado (que é pago com meia cota) descobrem um tesouro com 2.750 po. O total é dividido por 5.5 (cinco cotas completas, mais meia cota), que é igual a 500 po. Sendo assim, cada PdJ recebe 500 po e o aliado ganha 250 po.
+
+# Reação dos Candidatos
+
+Uma vez que uma oferta for feita, o mestre determinará a reação do potencial aliado jogando 2d6 na tabela abaixo, modificado da seguinte forma:
+
+* **Carisma**: a jogada é modificada pelo modificador de reação do PdM do personagem contratante devido ao seu CAR (ver Atributos).
+* **Generosidade**: o mestre pode aplicar bônus ou penalidades, dependendo da atratividade do negócio (+1 ou +2 para ofertas generosas, -1 ou -2 para ofertas insatisfatórias).
+* **Reputação**: uma penalidade de -1 ou -2 podem ser aplicadas, se o PdJ contratante tiver uma má reputação.
 
 +------------------+----------------------------------+
-| Retainer Hiring Reactions                           |
+| Reações do Aliado em Contratação                    |
 +==================+==================================+
-| 2d6              | Result                           |
+| 2d6              | Resultado                        |
 +------------------+----------------------------------+
-| 2 or less        | Ill will                         |
+| 2 ou menos       | Má vontade                       |
 +------------------+----------------------------------+
-| 3–5              | Offer refused                    | 
+| 3–5              | Oferta Recusada                  | 
 +------------------+----------------------------------+
-| 6–8              | Roll again                       |
+| 6–8              | Jogue novamente                  |
 +------------------+----------------------------------+
-| 9–11             | Offer accepted                   |
+| 9–11             | Oferta Aceita                    |
 +------------------+----------------------------------+
-| 12 or more       | Offer accepted, +1 loyalty       |
+| 12 or more       | Oferta Aceita, +1 de Lealdade    |
 +------------------+----------------------------------+
 
-**Ill will**: A –1 penalty applies to further hiring reaction rolls while recruiting in the same town or area.
+**Má Vontade**: uma penalidade de -1 será aplicada a futuras jogadas de reação de contratação na mesma cidade ou área.
 
-# Experience
-Although retainers are played by the referee, they acquire experience in the same way PCs do, can advance in level, and are affected by all of the same class rules as PCs.
+# Experiência
 
-**XP penalty**: Because retainers follow instructions when on an adventure, thus not directly engaging in problem solving, XP they receive is penalised by –50%.
+Embora os aliados sejam jogados pelo mestre, eles adquirem experiência da mesma forma que os PdJs, podendo avançar em nível, e sendo afetados pelas mesmas regras de classes como os PdJs.
 
-**Normal humans**: When a normal human (i.e. a retainer of level 0 with no character class) gains XP, they must choose an adventuring character class.
+**Penalidades de XP**: porque os aliados recebem instruções quando estão se aventurando, não se envolvem diretamente na resolução de problemas, o XP que eles recebem é penalisada em -50%.
 
-# Loyalty
-Retainers have a loyalty rating, determined by the hiring character’s CHA (see Ability Scores). This rating may be adjusted at the referee’s discretion:
+**Humanos normais**: quando um humano normal (exemplo, um aliado de nível 0 sem classe de personagem) ganha XP, ele deve escolher uma classe de personagem aventureiro.
 
-* **Bonuses**: A retainer’s loyalty may be increased if the PC has been particularly good to the retainer (e.g. has repeatedly given additional treasure).
-* **Penalties**: A retainer’s loyalty may be reduced if the PC has been cruel or contrary to their word.
+# Lealdade
 
-# Loyalty Checks
-To make a loyalty check, the referee rolls 2d6 and, if the result is lower than or equal to the retainer’s loyalty rating, accounting for any adjustments, the roll has succeeded.
+Os aliados possuem um fator de lealdade, determinada pelo CAR (ver Atributos) do personagem contratante. Este fator pode ser ajustado de acordo com critérios do mestre:
 
-# When to Check Loyalty
-Loyalty checks are made in two circumstances:
+* **Bônus**: a lealdade de um aliado pode ser elevada se o PdJ tem sido particularmente bom com o aliado (exemplo, tem dado repetidademente tesouro adicional).
 
-* **Peril**: Each time the retainer is exposed to a particularly perilous situation. If the roll fails, the retainer will likely flee.
-* **After an adventure**: If the roll fails, the retainer will not work for the PC again.
+* **Penalidades**: a lealdade de um aliado por ser reduzida se um PdJ tem sido cruel ou não tem cumprido com a sua palavra.
+
+# Testes de Lealdade
+Para fazer um teste de lealdade, o mestre joga 2d6 e, se o resultado for menor ou igual ao fator de lealdade do aliado, contabilizando quaisquer ajustes, a jogada é bem sucedida.
+
+# Quando Testar Lealdade
+
+Os testes de lealdade são feitos em duas circunstâncias:
+
+* **Perigo**: cada vez que um aliado for exposto a uma situação particularmente perigosa. Se o teste falha, o aliado muito provavelmente fugirá.
+
+* **Depois de uma aventura**: se o teste falhar, o aliado não trabalhará mais para o PdJ.
