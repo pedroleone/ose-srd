@@ -11,6 +11,7 @@ metaDescription: "Magia > 2º Nível Clérigo"
 
 Pode ser usando em uma das duas situações:
 1. **Batalha**: Aliados dentro de uma área de 6 m² que ainda não estejam em combate, ganham um bônus de +1 nas jogadas de ataque, danos e +1 nos testes de moral.
+
 2. **Ritual**: Conjurar Benção também pode fazer parte dos rituais de purificação ou consagração, de acordo com a árbitro.
 
 ## Reverso: Flagelo
@@ -63,6 +64,7 @@ O conjurador pode se comunicar com um tipo de animais dentro do alcance, quando 
 Essa magia faz com que um ou mais humanos, semi humanos ou monstros humanóides fiquem paralisados se falharem em um teste de resistência contra magia. Ela pode ser conjurada de duas maneiras.
 
 1. **Contra um indivíduo**: O teste de resistência do alvo recebe uma penalidade de -2.
+
 2. **Contra um grupo**: A magia é direcionada a 1d4 indivíduos de um grupo.
 
 **Restrições**: Humanóides com 4+1 Dados de Vida ou mais, assim como mortos vivos, não são afetados.
