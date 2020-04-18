@@ -1,112 +1,113 @@
 ---
-title: "Especialistas ❌"
+title: "Especialistas"
 metaTitle: "Especialistas"
 metaDescription: "Equipamentos > Especialistas"
 ---
 
+# Salários
+
 +--------------------------------+-----------------------------+
-| Wages                                                        |
+| **Especialista**               | **Salário por mês**         | 
 +================================+=============================+
-| **Specialist**                 | **Wage per Month**          |                 
+| Alquimista                     | 1.000 po                    |      
 +--------------------------------+-----------------------------+
-| Alchemist                      | 1,000gp                     |      
+| Adestrador                     | 500 po                      |    
 +--------------------------------+-----------------------------+
-| Animal trainer                 | 500gp                       |    
+| Armeiro                        | 100 po                      |    
 +--------------------------------+-----------------------------+
-| Armourer                       | 100gp                       |    
+| Assistente de armeiro          | 15 po                       |   
 +--------------------------------+-----------------------------+
-| Assistant armourer             | 15gp                        |   
+| Ferreiro                       | 25 po                       |   
 +--------------------------------+-----------------------------+
-| Blacksmith                     | 25gp                        |   
+| Engenheiro                     | 750 po                      |    
 +--------------------------------+-----------------------------+
-| Engineer                       | 750gp                       |    
+| Navegador                      | 150 po                      |    
 +--------------------------------+-----------------------------+
-| Navigator                      | 150gp                       |    
+| Remador                        | 2 po                        |  
 +--------------------------------+-----------------------------+
-| Oarsman                        | 2gp                         |  
+| Erudito                        | 2.000 po                    |      
 +--------------------------------+-----------------------------+
-| Sage                           | 2,000gp                     |      
+| Marinheiro                     | 10 po                       |   
 +--------------------------------+-----------------------------+
-| Sailor                         | 10gp                        |   
+| Capitão de Navio               | 250 po                      |    
 +--------------------------------+-----------------------------+
-| Ship’s captain                 | 250gp                       |    
+| Espião                         | 500 po (ou mais)            |              
 +--------------------------------+-----------------------------+
-| Spy                            | 500gp (or more)             |              
-+--------------------------------+-----------------------------+
-# Alchemist
 
-**Recreating potions**: Based on a sample or recipe, an alchemist can produce a potion at twice the normal speed and for half the normal cost (see Magical Research).
+# Alquimista
 
-**Researching potions**: An alchemist may also research new potions, but this takes twice as long and costs twice as much as normal.
+**Recriar poções**: baseado em uma amostra ou fórmula, um alquimista pode produzir uma poção duas vezes mais rápido e pela metade do preço normal (ver Pesquisa Mágica)
 
-# Animal Trainer
+**Pesquisando poções**: um alquimista também pode pesquisar novas poções, mas isso demora duas vezes mais e custa duas vezes mais do que o custo normal.
 
-Trainers are not required for small numbers of common animals like dogs, horses, or mules, but more exotic animals or larger numbers of normal animals require a specialized trainer.
+# Adestrador
 
-**Speciality**: All animal trainers are specialized in a particular kind of animal.
+Adestradores não são necessários para pequenos números de animais comuns, como cães, cavalos ou mulas, mas animais mais exóticos ou um número maior de animais maiores pode requerer treinamento especializado.
 
-**Number of animals**: A trainer can have up to six animals under their care at a time.
+**Especialidade**: todos os adestradores são especializados em um tipo particular de animal.
 
-**Time required**: The referee decides how long an animal must be trained, based on the nature of the training. It will take a minimum of one month to teach an animal the first new behaviour or trick. After this first month, an animal has become accustomed to the trainer and can be taught additional behaviours at twice the rate (two weeks per behaviour).
+**Número de Animais**: um adestrador pode treinar até seis animais por vez.
+
+**Tempo Necessário**: o mestre decide por quanto tempo um animal deve ser treinado, baseado na natureza do treinamento. O treinamento levará pelo menos um mês para ensinar o primeiro novo comportamento ou truque. Depois deste primeiro mês, um animal se acostuma ao adestrador e pode aprender novos comportamentos duas vezes mais rápido (duas semanas por comportamento).
 
 Interruptions: If training is interrupted, all time already spent on that particular behaviour is lost and the animal becomes unable to learn further behaviours.
 
-# Armourer
+# Armeiro
 
-**Producing weapons and armour**: Per month, an armourer can make five weapons, three shields, or one suit of armour.
+**Produzindo Armas e Armaduras**: por mês, um armeiro pode fazer cinco armas, três escudos, ou um conjunto de armadura.
 
-**Maintaining mercenaries’ gear**: A dedicated armourer is required per 50 troops.
+**Manutenção do Equipamento de Mercenários**: um armeiro dedicado é necessário para cada 50 mercenários.
 
-**Assistants**: An armourer’s output (either in terms of arms produced or troops maintained) may be doubled by hiring two assistant armourers and one blacksmith. If four assistants and two blacksmiths are hired, the armourer’s output may be quadrupled. An armourer cannot coordinate more assistants than this.
+**Assistentes**: a produção de um armeiro (tanto em termos de armas produzidas ou manutenção da tropa) pode ser dobrada pela contratação de dois assistentes de armeiro e um ferreiro. Se quatro assistentes e dois ferreiros forem contratados, a produção do armeiro pode ser quadruplicada. Um armeiro não pode coordenar mais aprendizes do que isso.
 
-# Assistant Armourer
+# Assistente de Armeiro
 
-Apprentices who may work under an armourer to increase the rate of production. See Armourer.
+Aprendizes que trabalham sob a supervisão de um armeiro para aumentar a taxa de produção. Ver Armeiro.
 
-# Blacksmith
+# Ferreiro
 
-Craftsmen trained in the art of forging metal. Blacksmiths may be hired to work under an armourer to increase the rate of production. See Armourer.
+Artesão treinado na arte de forjar metal. Ferreiros podem ser contratados para trabalhar sob a supervisão de um armeiro para aumentar a taxa de produção. Ver Armeiro.
 
-# Engineer
+# Engenheiro
 
-Engineers plan and oversee large construction projects such as building strongholds (see Construction).
+Os engenheiros planejam e supervisionam grandes projetos de construção, como a construção de fortalezas (ver Construção).
 
-**Number required**: One engineer is needed per 100,000gp cost of the project.
+**Número Necessário**: é necessário um engenheiro para cada 100.000 po de custo do projeto.
 
-**Specialty**: Humans usually handle overground structures, while dwarves may be hired for underground construction.
+**Especialidade**: os humanos normalmente lidam com projetos na superfície, enquanto anões pode ser contratados para construções subterrâneas. 
 
-# Navigator
+# Navegador
 
-A navigator is a sailor who understands how to read charts and navigate based on instruments and the position of the stars. Any time a ship ventures beyond sight of a coastline, it becomes lost if a navigator is not aboard. (See Waterborne Adventuring.)
+Um navegador é um marinheiro que entende como ler cartas e nevagar com o auxílio de instrumentos e pela posição das estrelas. Sempre que uma embarcação navegar além da vista da costa, ele se perderá se um navegador não estiver a bordo. (Ver Aventuras Aquáticas).
 
-# Oarsman
+# Remador
 
-Unskilled normal humans who man the oars of sea vessels. Not trained for combat.
+Um humano normal não especializado que rema embarcações marítimas. Não é treinado em combate.
 
-# Sage
+# Erudito
 
-Sages are very rare individuals who devote their lives to the study of obscure knowledge. A sage may be consulted to answer unusual questions.
+Eruditos são indivíduos muito raros que devotam as suas vidas ao estudo de conhecimento obscuro. Um erudito pode ser consultado sobre assuntos incomuns.
 
-**Time and cost**: The referee must judge the time and cost required to research the answer to a question.
+**Tempo e Custo**: o mestre deve julgar o tempo e custo necessários para que uma pesquisa responda a uma questão.
 
-**Chance of success**: There is never a 100% chance of success in finding an answer.
+**Chance de Sucesso**: nunca existe 100% de certeza de encontrar uma resposta.
 
-# Sailor
+# Marinheiro
 
-Skilled normal humans who can handle a ship. Sailors can fight to defend their ship, typically being equipped with a sword, shield, and leather armour.
+Um humano normal perito na lida com um navio. Marinheiros podem lutar para se defender o navio, tipicamente estando equipados com espada, escudo e armadura de couro.
 
-# Ship’s Captain
+# Capitão de Navio
 
-A captain is required for any large ship, is skilled like a sailor, and has an intimate knowledge of the particular coasts they frequent.
+Toda embarcação grande necessita de um capitão, um marinheiro experiente, que tenha conhecimento íntimo sobre a costa que ele frequenta.
 
-# Spy
+# Espião
 
-A spy is hired to gather information about a person or group. The spy may be an outsider who tries to infiltrate or may be a traitor already connected with the person or group to be spied upon.
+Um espião é contratado para obter informação de uma pessoa ou grupo. O espião pode ser um forasteiro que tenta se infiltrar ou pode ser um traidor já conectado com a pessoa ou grupo que será espionado.
 
-**Class**: Spies are often NPC thieves, but may be of any character class.
+**Classe**: espiões normalmente são PdM ladrões, mas podem pertencer a qualquer classe.
 
-**Time**: The referee will determine the time required for the job.
+**Tempo**: o mestre determinará o tempo necessário para realização do trabalho.
 
-**Chance of success**: The referee judges the probability of success in the mission, based on the circumstances.
+**Chance de Sucesso**: o mestre julgará a probabilidade de sucesso da missão, baseada nas circunstâncias.
 
-**Reliability**: Spies may or may not be reliable and could stab the hiring character in the back (perhaps literally!). 
+**Confiabilidade**: espiões pode ser ou não confiáveis, podendo até apunhalar o personagem contratante nas costas (talvez literalmente!).
