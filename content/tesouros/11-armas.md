@@ -3,5 +3,72 @@ title: "Armas 🔴"
 metaTitle: "Armas"
 metaDescription: "Tesouro -> Armas"
 ---
++----------+-----------+----------------------------------------------------------------------+
+| Weapons                                                                                     |
++==========+===========+======================================================================+
+|**B: d4** | **X: d%** | **Weapon**                                                           |                                
++----------+-----------+----------------------------------------------------------------------+
+|          | 1–2       | Arrows +1(3d10 arrows)                                               |                              
++----------+-----------+----------------------------------------------------------------------+
+|1         | 3–12      | Arrows +1 (Basic: 10; Expert: 2d6 arrows)                            |                                                 
++----------+-----------+----------------------------------------------------------------------+
+|          | 13–18     | Arrows +2(1d6 arrows)                                                |                             
++----------+-----------+----------------------------------------------------------------------+
+|2         | 19–27     | Axe +1                                                               |              
++----------+-----------+----------------------------------------------------------------------+
+|          | 28–30     | Axe +2                                                               |              
++----------+-----------+----------------------------------------------------------------------+
+|          | 31–33     | Bow +1                                                               |              
++----------+-----------+----------------------------------------------------------------------+
+|          | 34–43     | Crossbow Bolts +1 (2d6 bolts)                                        |                                     
++----------+-----------+----------------------------------------------------------------------+
+|          | 44–45     | Crossbow Bolts +1 (3d10 bolts)                                       |                                      
++----------+-----------+----------------------------------------------------------------------+
+|          | 46–52     | Crossbow Bolts +2 (1d6 bolts)                                        |                                     
++----------+-----------+----------------------------------------------------------------------+
+|3         | 53–55     | Dagger +1                                                            |                 
++----------+-----------+----------------------------------------------------------------------+
+|          | 56        | Dagger +2, +3 vs orcs, goblins, and kobolds                          |                                                   
++----------+-----------+----------------------------------------------------------------------+
+|4         | 57–64     | Mace +1                                                              |               
++----------+-----------+----------------------------------------------------------------------+
+|          | 65–67     | Mace +2                                                              |               
++----------+-----------+----------------------------------------------------------------------+
+|          | 68        | Mace +3                                                              |               
++----------+-----------+----------------------------------------------------------------------+
+|          | 69–74     | Sling +1                                                             |                
++----------+-----------+----------------------------------------------------------------------+
+|          | 75–82     | Spear +1                                                             |                
++----------+-----------+----------------------------------------------------------------------+
+|          | 83–86     | Spear +2                                                             |                
++----------+-----------+----------------------------------------------------------------------+
+|          | 87        | Spear +3                                                             |                
++----------+-----------+----------------------------------------------------------------------+
+|          | 88–94     | War Hammer +1                                                        |                     
++----------+-----------+----------------------------------------------------------------------+
+|          | 95–99     | War Hammer +2                                                        |                     
++----------+-----------+----------------------------------------------------------------------+
+|          | 0         | War Hammer +3, Dwarven Thrower                                       |                                      
++----------+-----------+----------------------------------------------------------------------+                  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce egestas hendrerit viverra. Pellentesque consequat, urna non finibus aliquet, nisl sapien mollis sem, egestas imperdiet dolor velit quis ligula. Aenean et urna posuere, dapibus lacus eu, pellentesque purus. Mauris semper non sem nec accumsan. Integer ut turpis scelerisque, egestas libero et, venenatis augue. Quisque convallis dignissim nibh. Quisque egestas tempus euismod. Praesent placerat convallis mi in dapibus. 
+
+**B**: Basic characters (levels 1–3) 
+
+**X**: Expert characters (level 4+)
+
+**Usage**: Per normal class restrictions.
+
+# Cursed Swords and Weapons
+**Penalty**: Cursed weapons specify a penalty that is applied to both attack rolls and damage rolls made with the weapon.
+
+**Discarding**: Once the weapon has been used in combat, the character comes under the curse and is not able to discard the item. In fact, they will favour the weapon and use it whenever possible. The curse can only be removed with magic.
+
+# Enchanted Swords and Weapons
+**Bonus**: Enchanted weapons specify a bonus that is applied to both attack rolls and damage rolls made with the weapon.
+
+**Bonus vs creature type**: Some weapons have a special bonus when used against a certain type of creature.
+
+# War Hammer +3, Dwarven Thrower
+In the hands of a dwarf, this weapon may function as a thrown missile weapon.
+* **Range**: 60’.
+* **After being thrown**: It returns to its wielder’s hands.
