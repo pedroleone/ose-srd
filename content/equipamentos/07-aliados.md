@@ -1,5 +1,5 @@
 ---
-title: "Aliados ❌"
+title: "Aliados"
 metaTitle: "Aliados"
 metaDescription: "Equipamentos > Aliados"
 ---
