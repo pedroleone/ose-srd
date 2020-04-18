@@ -143,11 +143,10 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 * **Classe de personagem**: O personagem é possui 1d6 níveis de experiência (ou no máximo o mesmo nível que o personagem tinha antes de morrer). O personagem encarnado pode continuar a ganhar experiência e avançar normalmente, na nova classe.
 * **Monstro**: O tipo deve ser determinado pelo árbitro. O monstro deve ser pelo menos parcialmente inteligente, não tem mais DVs do que o nível de personagem encarnado (no máximo 6 DV), e ser da mesma tendência. As tabelas a seguir podem ser usadas, ou o árbitro podem criar suas próprias tabelas. Monstros não podem ganhar experiência ou avançar de nível.
 
+**Reencarnação: Classe**
 +-------+-----------------------------------------+
-|Reencarnação: Classe                             |
-+=======+=========================================+
 |**d10**|**Reencarnação**                         |
-+-------+-----------------------------------------+
++=======+=========================================+
 |1      |Anão                                     |
 +-------+-----------------------------------------+
 |2      |Clérigo                                  |
@@ -167,10 +166,11 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 |9-10   |Mesma classe                             |
 +-------+-----------------------------------------+
 
+**Reencarnação: Monstros Ordeiros**
+
 +-------+-----------------------+--------+
-|**Reencarnação: Monstros Ordeiros**     |
-+=======+==================+=============+
 |**d6** |**Reencarnação**       |**DV**  |
++=======+==================+=============+
 +-------+-----------------------+--------+
 |1      |Gnomo                  |1       |
 +-------+-----------------------+--------+
@@ -185,12 +185,11 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 |6      |Pássaro roca, pequeno  |6       |
 +-------+-----------------------+--------+
 
+**Reencarnação: Monstros Neutros** 
 
 +-------+-----------------------+--------+
-|**Reencarnação: Monstros Neutros**      |
-+=======+=======================+========+
 |**d6** |**Reencarnação**       |**DV**  |
-+-------+-----------------------+--------+
++=======+=======================+========+
 |1      |Pixie ou Sprite        |1       |
 +-------+-----------------------+--------+
 |2      |Homem Lagarto          |2       |
@@ -204,12 +203,11 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 |6      |Homem Urso             |6       |
 +-------+-----------------------+--------+
 
+**Reencarnação: Monstros Caóticos**  
 
 +-------+-----------------------+--------+
-|**Reencarnação: Monstros Caóticos**     |
-+=======+==================+=============+
 |**d10**|**Reencarnação**       |**DV**  |
-+-------+-----------------------+--------+
++=======+==================+=============+
 |1      |Goblin                 |1       |
 +-------+-----------------------+--------+
 |2      |Hobglobin              |1       |
