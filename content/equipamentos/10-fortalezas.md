@@ -4,179 +4,181 @@ metaTitle: "Fortalezas"
 metaDescription: "Equipamentos > Fortalezas"
 ---
 
-# Construction
+# Construção
 
-When PCs wish to construct strongholds or any other type of building, the following procedure should be used:
+Quando os PdJs desejam construir fortalezas ou qualquer outro tipo de construção, os seguintes procedimentos devem ser adotados:
 
-1. **Permission**: It may be necessary to secure permission to build from an existing authority over the land. This may not be required if the land is uncharted wilderness.
-2. **Clear land**: If the construction site is in the wilderness, all monsters in a 6-mile area (i.e. one hex on a typical small-scale wilderness map) must be killed or driven off.
-3. **Design**: The player creates a plan for the stronghold and calculates the costs (see construction prices below).
-4. **Review**: The referee should review and approve the player’s plans.
-5. **Hire engineers**: For every 100,000gp cost of the stronghold, the PC must hire one engineer (see Specialists).
-6. **Construction**: Once the land has been cleared and construction materials delivered, construction may commence. The time required depends entirely on the stronghold’s total price: one day of game time per 500gp.
-7. **Prepare for settlers**: If the PC wishes to found a dominion and attract settlers, a wider area around the stronghold should be cleared of dangers.
+1. **Permissão**: pode ser necessário conseguir uma permissão de uma autoridade local para construção. Isso não será necessário se as terras estiverem em áreas não exploradas.
+2. **Área liberada**: se o local da construção for nos ermos, todos os monstros em uma área de 9 km (um hexágono em um mapa típico de exploração dos ermos) devem ter sido mortos ou expulsos.
+3. **Projeto**: o jogador cria um projeto da fortaleza e calcula os custos (veja preços de construção abaixo).
+4. **Revisão**: o mestre deve revisar e aprovar o projeto da fortaleza.
+5. **Contratar Engenheiros**: para cada 100.000 po de custo de projeto, o PdJ deve contratar um engenheiro (ver Especialistas)
+6. **Construção**: uma vez que o terreno tenha sido liberado e os materiais de construção entregues, a construção se inicia. O tempo necessário depende inteiramente do preço total da construção: um dia de jogo para cada 500 po.
+7. **Preparar-se para os colonos**: se os PdJ desejarem fundar um domínio e atrair colonos, uma área ainda maior ao redor da fortaleza deve ser liberada de perigos.
 
-# Building in Towns
+# Construindo em Cidades
 
-**Permission**: While local rulers may allow PCs to build in a town, it is unlikely that they will grant permission for the construction of castles or fortifications.
+**Permissão**: embora regentes locais possam permitir que os PdJ construam em uma vila, é improvável que eles concedam permissão para a construção de castelos ou fortificações.
 
-Costs: When building in an existing town or city, the proximity of materials and labour greatly reduce the costs.
+Custos: quando construir em uma vila ou cidade,  a proximidade dos materiais e da mão-de-obra reduzem bastante os custos.
 
-**Stone buildings**: Reduced by 60%.
+**Construções de pedra**: reduzidas em 60%.
 
-**Wooden buildings**: Reduced by 80%. 
+**Construções de madeira**: reduzidas em 80%.
 
-# Domains
+# Domínios
 
-## Maintaining Cleared Lands
-To prevent monsters from returning to cleared lands, mercenaries may be hired to conduct patrols. These patrols can cover a maximum radius of 18 miles around a stronghold (6 miles, in inhospitable terrain such as swamp, mountains, or thick jungle). If the area to be maintained is larger, additional garrisons must be stationed at intervals.
+## Manutenção de terras liberadas
 
-## Settlers
-The PC may wish to attract settlers into a cleared area. In addition to ensuring the safety of surrounding lands, the character will have to fund construction of other buildings (e.g. accommodation, commercial facilities, transport infrastructure, etc.) to attract settlers. Advertising may also be necessary. The referee will determine the costs involved and how many settlers are attracted.
+Para prevenir que monstros retornem às áreas liberadas, mercenários podem ser contratados para conduzir patrulhas. Estas patrulhas podem cobrir um raio máximo de 27 km ao redor da fortaleza (9 km em terrenos inóspitos, como pântanos, montanhas ou selvas densas). Se a área a ser preservada for maior, guarnições adicionais devem ser posicionadas em intervalos.
 
-## Taxation
-If settlers move into the PC’s domain, the character can expect to gain 10gp of taxes per year from each settler. 
+## Colonos
 
-# Structures
+O PdJ pode desejar atrair colonos para uma área liberada. Além disso, para garantir a segurança das terras ao redor, o personagem deve financiar a construção de outras instalações (exemplo, acomodações, instalações comerciais, infraestrutura de transporte etc.) para atrair colonos. Propaganda também pode ser necessária. O mestre determinarps os custos envolvidos e quantos colonos são atraídos.
+
+## Taxação
+
+Se colonos se mudarem para o domínio do PdJ, o personagem pode esperar receber uma taxa de 10 po por ano de caso colono.
+
+# Estruturas
 
 +------------------------------------------+-----------------------+
-| Structure Prices                                                 |
+| Preços das Estruturas                                            |
 +==========================================+=======================+
-| **Structure**                            | **Cost**              |
+| **Estrutura**                            | **Custo**             |
 +------------------------------------------+-----------------------+                
-| Barbican                                 | 37,000gp              |                    
+| Antemuro                                 | 37.000 po             |                    
 +------------------------------------------+-----------------------+
-| Bastion                                  | 9,000gp               |                   
+| Bastião                                  | 9.000 po              |                   
 +------------------------------------------+-----------------------+
-| Civilian building, stone                 | 3,000gp               |                   
+| Edifício civil, pedra                    | 3.000 po              |                   
 +------------------------------------------+-----------------------+
-| Civilian building, wood                  | 1,500gp               |                   
+| Edifício civil, madeira                  | 1.500 po              |                   
 +------------------------------------------+-----------------------+
-| Drawbridge                               | 500gp                 |                 
+| Ponte levadiça                           | 500 po                |                 
 +------------------------------------------+-----------------------+
-| Gatehouse                                | 6,500gp               |                   
+| Portaria                                 | 6.500 po              |                   
 +------------------------------------------+-----------------------+
-| Keep                                     | 75,000gp              |                    
+| Torre de Menagem                         | 75.000 po             |                    
 +------------------------------------------+-----------------------+
-| Moat                                     | 400gp                 |                 
+| Fosso                                    | 400 po                |                 
 +------------------------------------------+-----------------------+
-| Subterranean passage                     | 500gp                 |                 
+| Passaegm subterrânea                     | 500 po                |                 
 +------------------------------------------+-----------------------+
-| Tower, large                             | 30,000gp              |                    
+| Torre, grande                            | 30.000 po             |                    
 +------------------------------------------+-----------------------+
-| Tower, small                             | 15,000gp              |                    
+| Torre, pequena                           | 15.000 po             |                    
 +------------------------------------------+-----------------------+
-| Wall, castle                             | 5,000gp               |                   
+| Muro, castelo                            | 5.000 po              |                   
 +------------------------------------------+-----------------------+
 
-## Descriptions
+## Descrições
 
-**Barbican**: Heavily fortified entry/exit point in a castle wall: two small towers, a gatehouse, and a drawbridge.
+**Antemuro**: ponto fortificado de entrada/saída no muro do casteço: duas torres pequenas, uma portaria e uma ponte levadiça.
 
-**Bastion**: Semi-circular tower built against a castle wall. 30’ base, 30’ high, walls 5’ thick.
+**Bastião**: torre semi-circular construída contra a parede de um castelo. 9 m de base, 9 m de altura e paredes de 1,5 m.
 
-**Civilian building, stone**: Two levels; wooden stairs, doors, floors, and roof; attic. Outer wall 120’ long (e.g. 30’×30’), walls 1&ndash;2’ thick.
+**Edifício civil, pedra**: dois níveis; escadas de madeira, portas, piso e teto; sótão. Parede externa 36 m (exemplo,  9 m x 9 m), paredes 30&ndash;60 cm de espessura.
 
-**Civilian building, wood**: Two levels; wooden stairs, doors, floors, and roof; attic. Outer wall 120’ long (e.g. 30’×30’).
+**Edifício civil, madeira**: dois níveis; escadas de madeira, portas, piso e teto; sótão. Parede externa 36 m (exemplo,  9 m x 9 m)
 
-**Drawbridge**: Raisable wooden bridge crossing a moat. May be attached to a gatehouse. 10’ long.
+**Ponte levadiça**: ponde de madeira levadiça cruzando um fosso. Pode ser ligada a uma portaria. 3 m de comprimento.
 
-**Gatehouse**: Fortified entry/exit point in a castle wall. Includes a portcullis. 30’×20’ base, 20’ high, walls 5’ thick.
+**Portaria**: ponto fortificado de entrada e saída em um muro de castelo. Inclui uma grade. 9 m x 6 m de base, 6 m de altura, muros com 1,5 m de espessura.
 
-**Keep**: Fortified, central building of a castle. 60’ square, 80’ high, walls 10’ thick.
+**Torre de menagem**: construção central e fortificada de um castelo. Um quadrado de 18 m de lado, 24 m de altura, paredes de 3 m de espessura.
 
-**Moat**: Defensive ditch, often filled with water. 100’ long, 20’ wide, 10’ deep.
+**Fosso**: vala defensiva, frequentemente cheia de água. 30 m de comprimento, 6 m de largura, 3 m de profundidade.
 
-**Subterranean passage**: Typical 10’×10’×10’ dungeon passageway.
+**Passaem subterrânea**: uma passagem para as masmorras com normalmente 3 m x 3 m x 3 m. 
 
-**Tower, large**: Round tower, either freestanding or built into a castle wall. 30’ base, 40’ high, walls 5’ thick.
+**Torre, grande**: torre circular, independente ou embutida na parede do castelo. Base de 9 m, 12 m de altura, paredes com 1,5 m.
 
-**Tower, small**: Round tower, either freestanding or built into a castle wall. 20’ base, 30’ high, walls 5’ thick.
+**Torre, pequena**: torre circular, independente ou embutida na parede do castelo. Base de 6 m, 9 m de altura, paredes com 1,5 m.
 
-**Wall, castle**: Stone wall with battlements. 100’ long, 20’ high, 10’ thick.
+**Muro, castelo**: muro de pedra com améias. 30 m de comprimento, 6 m de altura, 3 m de espessura.
 
-## Non-Standard Dimensions
+## Dimensões não padronizadas
 
-### Bastions
+### Bastiões
 
-Bastions of dimensions other than those listed may be constructed. Use the guidelines for towers, below, and divide by two.
+Bastiões de dimensões diferentes daquelas listadas podem ser construídas. Use as orientações para torres, abaixo, e divida por dois.
 
-### Castle Walls
+### Muros de castelos
 
-Higher castle walls may be constructed at increased cost. A 100’ length of 30’ high wall costs 7,500gp. Every additional 10’ of height beyond this (up to a maximum of 60’ high) costs 5,000gp.
+Muros de castelo mais altos podem ser construídos com aumento do preço. Um muro de 30 m de comprimento e 9 m de altura custa 7.500 po. Cada 3 m adicionais na altura, além desta (até o máximo de 18 m) custa 5.000 po.
 
-### Towers
+### Torres
 
-Towers of dimensions other than those listed may be constructed. The cost is determined by the height of the tower and the diameter of its base (in feet).
+Torres de dimensões diferentes das listadas podem ser construídas. O custo é determinado pela altura da torre e o diâmetro de sua base (em metros).
 
-* **Maximum height**: Twice the base diameter.
-* **Up to the base diameter**: Each 10’ of height costs 200gp × the base diameter.
-* **Above the base diameter**: Each 10’ of height costs 400gp × the base diameter.
+* **Altura máxima**: duas vezes o diâmetro da base.
+* **Até o diâmetro da base**: cada 3 m de altura custa 2.000 po x o diâmetro da base/3.
+* **Acima do diâmetro da base**: cada 3 m de altura custa 4.000 po x o diâmetro da base/3.
 
-### Example Tower Cost Calculation
+### Exemplo de cálculo de custo de uma torre
 
-A 60’ high tower with a 40’ diameter base is to be constructed.
+Uma torre com 18 m de altura e 12 m de diâmetro de base deve ser construída.
 
-The cost will be 8,000gp (40 × 200gp) per 10’ for the first 40’ of height and 16,000gp (40 × 400gp) per 10’ for the remainder of the height.
+*Primeiro devemos dividir todos os valores em segmentos de 3 m. Assim, a torre terá 6 segmentos de altura por 4 segmentos de base. Os primeiros 12 m de altura da torre custam 32.000 po (4 segmentos da base x os 4 primeiros segmentos de altura x 2.000 po). Além do valor da base (12 m), o custo será de 32.000 po (4 segmentos da base x 2 segmentos de altura x 4.000 po), totalizando 64.000 po.*
 
-The total cost is thus (8,000gp × 4) + (16,000gp × 2) = 64,000gp.
+## Características internas
 
-## Interior Features
+As características internas de uma fortaleza são listadas na tabela abaixo.
 
-The common interior features of a stronghold are listed in the table below.
+### Abordagem simples
 
-### Simple Approach
+Por simplicidade, o custo de uma fortaleza pode ser elevada em 25% para levar em consideração os detalhes do interior, incluindo: portas reforçadas, escadas de pedra, piso de laje, cobertura de telhas, janelas ou seteiras, barras e persianas nas janelas, e mobiliário comum.
 
-For simplicity, the cost of a stronghold may be increased by 25% to account for interior details, including: reinforced doors, stone stairs, flagstone flooring, tile roofing, windows or arrow slits, bars and shutters on windows, and standard furnishings.
+### Abordagem detalhada
 
-### Detailed Approach
+Se o grupo desejar realizar cálculos mais detalhados ou se características adicionais forem requeridas, a tabela abaixo pode ser consultada.
 
-If the group wishes to perform more detailed calculations or if additional features are desired, the table below may be consulted.
 
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Structure Interior Features                                                                                                        |
+| Características de estruturas internas                                                                                             |
 +==================================================+=====================================================+===========================+
-| **Detail**                                       | **Dimensions**                                      | **Cost (gp)**             |                        
+| **Detalhe*                                       | **Dimensões **                                      | **Custo (po)**            |                        
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Arrow slit                                       | &ndash;                                             | 10                        |             
+| Seteiras                                         | &ndash;                                             | 10                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Door, iron                                       | 3’ wide, 7’ tall                                    | 50                        |             
+| Porta, ferro                                     | 90 cm largura, 2,1 m de altura                      | 50                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Door, reinforced wood                            | 3’ wide, 7’ tall                                    | 20                        |             
+| Porta, madeira reforçada                         | 90 cm largura, 2,1 m de altura                      | 20                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Door, stone                                      | 3’ wide, 7’ tall                                    | 50                        |             
+| Porta, pedra                                     | 90 cm largura, 2,1 m de altura                      | 50                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Door, wood                                       | 3’ wide, 7’ tall                                    | 10                        |             
+| Porta, madeira                                   | 90 cm largura, 2,1 m de altur                       | 10                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Floor, flagstones or tiles                       | 10’×10’ section                                     | 100                       |              
+| Piso, lage ou ladrilho                           | Seção de 3 m x 3 m                                  | 100                       |              
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Floor, wood                                      | 10’×10’ section                                     | 40                        |             
+| Piso, madeira                                    | Seção de 3 m x 3 m                                  | 40                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Roof, tiled                                      | 10’×10’ section                                     | 100                       |              
+| Cobertura, telhas                                | Seção de 3 m x 3 m                                  | 100                       |              
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Roof, wood                                       | 10’×10’ section                                     | 40                        |             
+| Cobertura, madeira                               | Seção de 3 m x 3 m                                  | 40                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Secret door or trapdoor                          | Normal                                              | 5 × normal                |                     
+| Porta secreta ou alçapão                         | Normal                                              | 5 × normal                |                     
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Shifting wall                                    | 10’×10’ section                                     | 1,000                     |                
+| Parede móvel                                     | Seção de 3 m x 3 m                                  | 1.000                     |                
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Stairs, stone                                    | 3’ wide, 10’ long section                           | 60                        |             
+| Escadsa, pedra                                   | Seção de 90 cm de largura, 3 m comprimento          | 60                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Stairs, wooden                                   | 3’ wide, 10’ long section                           | 20                        |             
+| Stairs, wooden                                   | Seção de 90 cm de largura, 3 m comprimento          | 20                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Trapdoor, iron                                   | 4’×3’                                               | 120                       |              
+| Alçapão, ferro                                   | 1,2 m x 90 cm                                       | 120                       |              
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Trapdoor, reinforced wood                        | 4’×3’                                               | 40                        |             
+| Alçapão, madeira reforçada                       | 1,2 m x 90 cm                                       | 40                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Trapdoor, stone                                  | 4’×3’                                               | 120                       |              
+| Alçapão, pedra                                   | 1,2 m x 90 cm                                       | 120                       |              
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Trapdoor, wood                                   | 4’×3’                                               | 20                        |             
+| Alçapão, madeira                                 | 1,2 m x 90 cm                                       | 20                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Window                                           | &ndash;                                             | 10                        |             
+| Janela                                           | &ndash;                                             | 10                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Window bars                                      | &ndash;                                             | 10                        |             
+| Barras para janelas                              | &ndash;                                             | 10                        |             
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Window shutters                                  | &ndash;                                             | 5                         |   
+| Persianas para janelas                           | &ndash;                                             | 5                         |   
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
 
 
