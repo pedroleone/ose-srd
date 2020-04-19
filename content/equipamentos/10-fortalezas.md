@@ -1,5 +1,5 @@
 ---
-title: "Fortalezas ❌"
+title: "Fortalezas"
 metaTitle: "Fortalezas"
 metaDescription: "Equipamentos > Fortalezas"
 ---
