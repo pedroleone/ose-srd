@@ -4,27 +4,27 @@ metaTitle: "Dicionário de Termos"
 metaDescription: "Dicionário de Termos"
 ---
 
-**Characters**: 
+**Characters**: Personagens
 
-**Ability Scores**:
+**Ability Scores**: Atributos
 
-**Class**:
+**Class**: Classe
 
-**Race**:
+**Race**: Raça
 
-**Level**:
+**Level**: Nível
 
-**Class**:
+**Class**: Classe
 
 **Prime Requisite**:
 
-**Alignment**:
+**Alignment**: Alinhamento
 
-**Hit Dice**:
+**Hit Dice**: Dado de Vida
 
-**Armour Class**:
+**Armour Class**: Classe de Armadura
 
-**Saving Throw**:
+**Saving Throw**: 
 
 **Movement Rate**:
 
@@ -55,3 +55,5 @@ metaDescription: "Dicionário de Termos"
 **Dungeon Adventuring**:
 
 **Checks, Damage and Saves**:
+
+**Spells / Rods / Staves**: Magias / Bastões / Cajados
