@@ -44,6 +44,13 @@ const SidebarLayout = ({ location }) => (
                   return (
                     <ListItem key={index} to={`#${itemId}`} level={1}>
                       {innerItem.title}
+                      { innerItem.items && console.log(innerItem.items[0].url.replace('-','')) }
+                      { innerItem.items && innerItem.items.map((item,index)=>(
+                        <ListItem key={index} to={`#${item.title.replace(/\s+/g, '').replace(/-+/g,'').toLowerCase()}`} level={2}>
+                          {item.title}
+                        </ListItem>
+                        
+                        ))  }
                     </ListItem>
                   );
                 });
