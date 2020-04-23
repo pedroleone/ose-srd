@@ -1,34 +1,34 @@
 ---
-title: "Papel do Mestre ❌"
+title: "Papel do Mestre"
 metaTitle: "Papel do Mestre"
 metaDescription: "Mestrando Aventuras -> Papel do Mestre"
 ---
 
-# Facilitator of Fun and Adventure
-The referee should bring to life exciting adventures for the enjoyment of the group.
+# Facilitador de Diversão e Aventura
+O árbitro deve trazer à vida aventuras empolgantes para o divertimento do grupo.oup.
 
-**Preparation**: Before the game begins, the adventure should be planned out and required maps drawn. Advice on adventure design is found later in this section.
+**Preparação**: Antes do início do jogo, a aventura deve ser planejada e os mapas necessários, desenhados. Conselhos sobre _design_ de aventuras estão mais à frente nesta seção. 
 
-**Improvisation**: In spite of the referee’s preparation, it is impossible to predict every possible player action. Players will come up with ideas that the referee has not even considered. It is thus important for the referee to remain flexible and to roll with any unexpected turns the adventure might take!
+**Improvisação**: Apesar da preparação do árbitro, é impossível prever todas as possíveis ações dos jogadores. Eles irão trazer ideias que o árbitro sequer imaginou. Por isso é importante que o árbitro se mantenha flexível e se adapte a qualquer rumo inesperado que a aventura possa tomar!
 
-**Procedures**: This book provides procedures for many common adventuring situations. These exist in order to aid the referee in running the game. However, the referee should feel free to adapt and add to these procedures during play, in order to keep the game moving.
+**Procedimentos**: Este livro contém procedimentos para muitas das situações comuns em aventuras. Eles existem para ajudar o árbitro a rodar o jogo. No entanto o árbitro deve sentir livre para adaptar e adicionar procedimentos durante o jogo para manter o mesmo em movimento.
 
-**Balance**: The referee must maintain a fun balance of risk and reward.
+**Equilíbrio**: O árbitro deve manter um equilíbrio divertido de risco e recompensa.
 
-# Neutral Judge
-The referee must remain neutral in all things—neither on the side of the players nor against them.
+# Juíz Neutro
+O árbitro deve manter-se neutro em todos aspectos - nem do lado dos jogadores, nem contra eles.
 
-**Non-competitive**: The game is not a competition, with the players attempting to defeat the referee, or vice versa.
+**Não-competitivo**: O jogo não é uma competição, com os jogadores tentando derrotar o árbitro ou vice-versa.
 
-**Fairness**: The rules of the game should be applied equally to player characters, monsters, and NPCs.
+**Justiça**: As regras do jogo devem ser aplicadas igualmente para personagens dos jogadores, monstros e PNJs.
 
-# Arbiter of Rules
-The referee must decide when and how to apply the rules of the game.
+# Árbitro das Regras
+O árbitro deve decidir quandom e como aplicar as regras do jogo.
 
-**Rulings**: The rules of the game—including descriptions of magic items, spells, or monsters’ special abilities—do not cover all possible scenarios, so the referee must be ready to apply judgement to resolve any unexpected situations which arise. 
+**Resoluções**: As regras do jogo - incluindo descrições de itens mágicos, magias ou habilidades especiais de monstros - não cobrem todas os cenários possíveis, então o árbitro deve estar pronto para decidir como resolver qualquer situação inesperada que surja.
 
-**Resolving actions**: When a player wishes to do something not covered by a standard rule, the referee must consider how to determine the outcome. Sometimes, the situation can be dealt with simply by deciding what would happen. Sometimes, the referee may require the player to make an ability check (see Ability Checks) or a saving throw (see Saving Throws) to determine what happens. Other times, the referee may judge the likelihood of the action succeeding (e.g. expressed as a percentage or X-in-6 chance), tell the player the chances, and let them decide whether to take the risk or not.
+**Resolvendo ações**: Quando um jogador deseja fazer algo não previsto por uma regra, o árbitro deve considerar como determinar o resultado. Algumas vezes pode-se lidar com a situação simplesmente decidindo o que aconteceria. Algumas vezes, o árbitro pode requerer que o jogador deve realizar um teste de habilidade (veja Testes de Habilidade) ou um teste de resistência (veja Testes de Resitência) para determinar o que acontece. Outras vezes, o árbitro pode julgar a probabilidade da ação ser bem sucedida (i.e. expressa como uma porcentagem ou uma chance X em d6), dizer ao jogador as chances, e deixar que eles decidam se irão arriscar ou não.
 
-**Disagreements**: The players may not always agree with the referee’s application of the rules of the game. When this happens, the group should (briefly!) discuss the point of disagreement and come to a decision. The referee is always the final arbiter in such cases and should ensure that the game does not get bogged down in long discussions about the rules.
+**Discordâncias**: Os jogadores podem nem sempre concordar com a aplicação das regras do jogo pelo árbitro. Quando isso ocorrer, o grupo deverá (brevemente!) discutir o ponto da discordância e chegar a uma decisão. O árbitro tem sempre a palavra final em tais casos e deverá assegurar que o jogo não se demore em longas discussões sobre regras.
 
-**Randomness**: The referee should make judicious use of die rolls, random tables, etc. While these can add an element of fun and unpredictability to the game, overuse of randomness can also spoil an adventure by derailing it too much. 
+**Aleatoriedade**: O árbitro deverá fazer uso comedido de rolagens de dados, tabelas aleatórias, etc. Apesar deles adicionarem um grau de diversão e imprevisibilidade ao jogo, o exagero no uso pode estragar uma aventura ao desvia-lá demais.
