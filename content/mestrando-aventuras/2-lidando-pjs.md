@@ -1,28 +1,28 @@
 ---
-title: "Lidando com PJs ❌"
+title: "Lidando com PJs"
 metaTitle: "Lidando com PJs"
 metaDescription: "Mestrando Aventuras -> Lidando com PJs"
 ---
 
-# Rate of Advancement
-Each group will have its own preferences as to how quickly player characters gain experience points and increase in level.
-**Standard**: After three to four sessions, it is normal for at least one PC to have reached 2nd level. If this has not happened, the referee may wish to increase the amount of treasure. If, on the other hand, most PCs have reached 3rd level in this time-frame, the referee might place less treasure or make monsters tougher.
+# Taxa de Avanço
+Cada grupo terá suas preferências de quão rápido os personagens dos jogadores ganham pontos de experiência e aumentam o nível.
+**Padrão**: Depois de três a quatro sessões, é normal ao menos um PJ alcançar o 2º nível. Se isso não ocorreu, o árbitro pode desejar em aumentar o montante de tesouro. Se, por outro lado, a maioria dos PJs tiverem alcançado o 3º nível neste período de tempo, o árbitro pode diminuir os tesouros ou tornar os monstros mais resistentes.
 
-**Fast**: For groups who prefer a game where characters advance quickly, the referee should place large treasure hoards. These should, however, be guarded by appropriately challenging monsters.
+**Rápida**: Para grupo que preferem avanço mais rápido, o árbitro deve colocar maiores montantes de tesouros. No entanto, isto deve ser guardado por monstros apropriadamente mais desafiadores.
 
-**Slow**: For groups who prefer the game to focus on character development rather than high risk, the rate of advancement and the danger presented by monsters may be reduced.
+**Devagar**: Para grupos que preferem focar no desenvolvimento dos personagens, ao invés de risco alto, a taxa de avanço e perigo apresentado pelos monstros deve ser reduzido.
 
-# Character Knowledge
-Attention must be paid to the distinction between what a player knows and what their PC knows. Players may at times act on information that their PC could not know. The referee may occasionally need to remind players of this and may even need to forbid certain actions.
+# Conhecimento do Personagem
+Deve-se prestar atenção à distinção entre o que o jogador sabe e o que o PJ dele sabe. Jogadores podem agir com base em informações que os personagens deles não conhecem. O árbitro pode, ocasionalmente, lembrar os jogadores disto e até mesmo proibir certas ações.
 
-# Grudges
-Player characters may, through the course of play, naturally develop grudges or rivalries. This is especially a possibility when characters of opposite alignments adventure together. This is a natural and fun part of good role-playing. However, the referee should ensure that such grudges do not dominate play and spoil the adventure for others.
+# Rancores
+Personagens dos jogadores podem, durante o jogo, desenvolverem rancores e rivalidades, naturalmente. Isto é especialmente possível quando personagens de alinhamentos opostos aventuram-se juntos. Isto é natural e uma parte divertida da boa interpretação de papéis. No entanto, o árbitro deve garantir que tais rancores não dominem o jogo e estraguem a aventura dos demais.
 
-# Maintaining Challenge
-It is important that the referee keep the game challenging, even when player characters have reached high levels and amassed great wealth and power.
+# Mantendo o Desafio
+É importante que o árbitro mantenha o jogo desafiante, mesmo quando os personagens dos jogadores alcancarem um alto nível e tenham acumulado vasta riqueza e poder.
 
-**Magical research**: Spell-casting characters may attempt to create new spells and magic items. When this happens, the referee should pay very careful attention to game balance. Magic that is permanent, may be used without limit, does not allow a saving throw, or that increases in power with level can easily become imbalanced. If in doubt, one option is to allow a new spell or item to be tested for a period, under the proviso that it may need to be altered if it proves to imbalance play.
+**Pesquisa mágica**: Personagens conjuradores podem tentar criar novas magias e itens mágicos. Quando isso acontecer, o árbitro deve atentar para o equilíbrio de jogo. Magia que é permanente, que possa ser usada sem limite, não permitem teste de resistência, ou que aumentem de poder com o avanço de níveis podem ficar desequilibradas facilmente. Na dúvida, uma opção é permitir uma nova magia ou item ser testada por um período, sob a condição que precise ser alterada caso se prove desequilibrado em jogo.
 
-**Special abilities**: Players may sometimes try to find ways to gain special abilities and powers beyond their characters’ normal class abilities. The referee should be very careful when allowing this, as it can lead to imbalance. The guidelines for magical research, above, should be used.
+**Habilidades especiais**: Jogadores podem, algumas vezes, tentar encontrar meios de obter habilidades especiais e poderes além das capacidades usuais das classes de seus personagens. O árbitro deve ser cuidadoso ao permitir isso, pois pode levar ao desequilíbrio. As orientações para pesquisa mágica, acima, devem ser usadas.
 
-**Excess wealth**: If the level of PC wealth has gotten out of hand, the referee may wish to find ways to take excess money away from characters. This should always be done in such a way as to present the player with a choice, for example: pay a local tax or become an outlaw? 
+**Riqueza excessiva**: Se o nível de riqueza de PJ estiver fora de controle, o árbitro pode querer encontrar meios de remover o dinheiro em excesso dos personagens. Isto deve sempre ser feito de maneira que o jogador tenha uma escolha, por exemplo: pagar um imposto ou se tornar um fora da lei?
