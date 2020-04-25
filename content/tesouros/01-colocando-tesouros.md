@@ -1,41 +1,41 @@
 ---
-title: "Colocando Tesouros ❌"
+title: "Colocando Tesouros"
 metaTitle: "Colocando Tesouros"
 metaDescription: "Tesouro -> Colocando Tesouros"
 ---
 
-# Rolling Randomly
+# Rolando Aleatóriamente
 
-Monster listings note which treasure type is present in the creature’s lair and which it may carry on its person. Each treasure type (see below) lists one or more types of coins or items that may be found in the hoard. For each item in the list:
+As listagens de monstros mostram que tipo de tesouro está presente no covil da criatura e quais ela pode levar consigo. Cada tipo de tesouro (veja abaixo) lista um ou mais tipos de moedas ou items que podem ser encontrados no tesouro. Para cada item da lista:
 
-1. If a percentage value is given, first roll d100 to see whether this item is present in the hoard.
-2. If a range of values is given (e.g. 1d6 × 1,000cp, 6d6 gems), roll the specified dice to determine the quantity of this item that is present in the hoard.
-3. For gems, jewellery, and magic items, the procedures for determining the value and properties of the items in the hoard are found in later sections.
+1. Se um valor em porcentagem for fornecido, primeiro role um d100 para ver se esse item está presente no tesouro.
+2. Se for fornecido um intervalo de valores (por exemplo, 1d6 × 1.000cp, 6d6 gemas), role os dados especificados para determinar a quantidade desse item que está presente no tesouro.
+3. Para gemas, jóias e itens mágicos, os procedimentos para determinar o valor e as propriedades dos itens encontrados no tesouro são mostrados nas seções posteriores.
 
-## Manual Adjustments
-If the value of the randomly generated treasure is significantly above or below the average value of the treasure type, the referee may adjust the results manually.
+## Ajustes Manuais
+Se o valor do tesouro gerado aleatoriamente estiver significativamente acima ou abaixo do valor médio para o tipo de tesouro, o Mestre poderá ajustar os resultados manualmente.
 
-# Referee Choice
-The referee may wish to choose treasures appropriate to the monsters and the PC party. As treasure is the main source of XP (see Awarding XP), the referee should carefully consider treasure placement. The following procedure is recommended:
+# Escolha do Mestre
+O Mestre pode escolher tesouros adequados aos monstros e à parte do PC. Como o tesouro é a principal fonte de XP (consulte Recompensa de XP), o Mestre deve considerar cuidadosamente a localização do tesouro. O procedimento a seguir é recomendado:
 
-1. Consider the size of the adventuring party, the levels of the characters, and the XP they need to go up in level.
-2. Decide how many experience points the treasure hoard should provide if the party successfully acquires it.
-3. Place treasures whose total value matches the determined XP total.
+1. Considere o tamanho do grupo de aventureiros, os níveis dos personagens e o XP que eles precisam para subir de nível.
+2. Decida quantos pontos de experiência o tesouro deve fornecer se o grupo o adquirir com sucesso.
+3. Coloque tesouros cujo valor total corresponda ao total determinado em XP.
 
-## Balance of Reward Versus Danger
-When using this approach, the referee should ensure that the treasure is guarded by sufficiently powerful monsters. Adventurers should have to earn this reward!
+## Equilíbrio de Recompensa Versus Perigo
+Ao usar esta abordagem, o Mestre deve garantir que o tesouro seja guardado por monstros suficientemente poderosos. Os aventureiros devem ter que conquistar essa recompensa!
 
-# Items of Value
-**Common treasures**: The treasure tables (see below) describe methods for generating hoards of coins, gems, jewellery, and magic items.
+# Itens de Valor
+**Tesouros Comuns**: As tabelas de tesouros (veja abaixo) descrevem métodos para gerar tesouros de moedas, gemas, jóias, e itens mágicos.
 
-**Unusual treasures**: Adventures may also include valuable items of other kinds, whose worth may not always be obvious:
+**Tesouros Incomuns**:  As aventuras também podem incluir itens valiosos de outros tipos, cujo valor nem sempre pode ser óbvio:
 
-* **Artwork**: Paintings, statuary.
-* **Books**: Rare tomes or scrolls.
-* **Foodstuffs**: Spices, valuable wines.
-* **Furnishings**: Rugs, tapestries.
-* **Utensils**: Silver cutlery, unusual kitchen or laboratory implements.
-* **Valuables**: Furs, ivory, ores, silks.
+* **Obra de Arta**: Pinturas, estátuas.
+* **Livros**: Tomos raros ou pergaminhos.
+* **Alimentos**: Especiarias, vinhos valiosos.
+* **Mobiliário**: Tapetes, tapeçarias.
+* **Utensílios**: Talheres de prata, utensílios de cozinha ou de laboratório incomuns.
+* **Objetos de valor**: Peles, marfim, minérios, sedas.
 
-## Value and Weight
-For each unusual item placed, the referee should note its value (in gold pieces) and (if using the optional rules for Encumbrance) its weight. 
+## Valor e Peso
+Para cada item incomum colocado, o mestre deve anotar seu valor (em peças de ouro) e (se estiver usando as regras opcionais para o Peso) seu peso.
