@@ -1,35 +1,35 @@
 ---
-title: "Mestrando o Jogo ❌"
+title: "Mestrando o Jogo"
 metaTitle: "Mestrando o Jogo"
 metaDescription: "Mestrando Aventuras -> Mestrando o Jogo"
 ---
 
-# Describing the Unknown
+# Descrevendo o Desconhecido
 
-When describing what player characters experience during an adventure, the referee should be careful to keep an air of mystery. The best way of achieving this is to only describe what characters see, hear, smell, and so on, without providing the players any additional information.
+Quando estiver descrevendo o que os personagens dos jogadores experimentam durante a aventura, o árbitro ter cuidado para manter o ar de mistério. A melhor forma de atingir este objetivo é descrever apenas o que os personagens veem, cheiram etc, sem lhes dar informações detalhadas.
 
-**Monsters**: Should be described, rather than referred to by name. Players will come to recognise different types of monsters by their descriptions and behaviours.
+**Monstros**: devem ser descritos, ao invés de referenciados pelo nome. Os jogadores irão reconhecer os diferentes tipos de monstros por suas descrições e comportamentos.
 
-**Surprise attacks**: When characters are attacked by surprise, the referee should simply describe the attack itself, rather than giving players the complete description of the attacking monster. For example, a character may just see a clawed hand reaching out of the shadows. Only in subsequent combat rounds should a more detailed description of the monster be provided.
+**Ataques surpresa**: quando os personagens forem atacados de surpresa, o árbitro deve simplesmente descrever o ataque, ao invés de dar aos jogdores uma descrição completa do monstro atacando. Por exemplo, um personagem pode ver apenas uma mão com garras acertando-o a partir das sombras. Apenas nas rodadas de combate seguintes uma descrição mais detalhada do monstro deve ser fornecida.
 
-**Monster and NPC game stats**: The game statistics (e.g. hit points, level) of monsters and NPCs should never be revealed to players. In combat, the referee should describe the effects of damage on a monster, rather than telling the players how many hit points it has remaining.
+**Estatísticas de monstros e PnJ**: as estatísticas de jogo (exemplo pontos de vida, nível) de monstros e PnJ nunca devem ser reveladas aos jogadores. Em combate, o árbitro deve descrever os efeitos do dano em um monstro, ao invés de dizer aos jogadores quantos pontos de vida ele ainda tem.
 
-**Magic items**: Should be described, rather than referred to by name. Only by experimentation can players find out what powers a magic item has (and indeed whether an item is magical at all!).
+**Itens mágicos**: devem ser descritos, ao invés de referidos pelo nome. Apenas pela experimentação os personagens podem descobrir quais poderes um item mágico possui (e se ele é realmente um item mágico!) 
 
-# Describing Explored Areas
-The usual procedure is for the players to draw maps of areas being explored, based on the referee’s descriptions.
+# Descrevendo Áreas Exploradas
+O procedimento normal é os jogadores desenharem mapas das áreas sendo exploradas, baseado na descrição do árbitro.
 
-**Squares**: One way to speed up mapping is to specify dimensions (e.g. the width and length of rooms in a dungeon) in terms of map squares, rather than in feet. Of course, the referee and the players must agree on the size of one map square.
+**Quadrados**: uma forma de acelerar o mapeamento é especificar dimensões (exemplo, a largura e comprimento de uma masmorra) em termos de quadrados, ao invés de em metros. É claro, o árbitro e os jogadores devem concordar com o tamanho de um quadrado no mapa.
 
-**Known areas**: Sometimes, characters may already know the shape of an area being explored. In this case, the referee may draw the parts of the map which are already known.
+**Áreas conhecidas**: algumas vezes, os personagens já conhecem a forma de uma área sendo explorada. Neste caso, o árbitro pode desenhar partes do mapa que eles já conhecem.
 
-**Complex areas**: In the case of extremely complicated areas, the referee may draw directly on the players’ map. This is not generally to be encouraged, however, as this does not help the players to improve their own mapping skills.
+**Áreas complexas**: no caso de áreas extremamente complexas, o árbitro pode desenhar diretamente no mapa dos jogadores. Isso não é geralmente encorajado, no entanto, uma vez que isso não ajuda os jogadores a melhorar as suas habilidades de mapeamento.
 
-# Using Miniatures
-Some groups like to use miniatures along with a gridded tabletop surface to track exploration and combat.
+# Usando Miniaturas
+Alguns grupos gostam de usar miniaturas junto com uma superfície quadriculada para conduzir a exploração e o combate.
 
-**Play surface**: The most convenient type of surface is something on which maps can be drawn with erasable pens. The surface should be gridded for ease of tracking the movements of characters.
+**Superfície de Jogo**: o tipo mais conveniente de superfície para o jogo é aquele onde mapas possam ser desenhados com lápis apagáveis. A superfície deve ser quadriculada para facilitar o desenvolvimento do movimento dos personagens.
 
-**Scale**: The typical scale used is 1” on the play surface = 5’ in the game world (or 5 yards for outdoor encounters).
+**Escala**: a escala mais utilizada é de 2,5 cm na superfície equivalando a 1,5 m no mundo de jogo (ou 5 metros para encontros externos)
 
-**Miniatures**: Miniature figures are available to purchase from many different companies. Alternatively, simple tokens like dice or beads can be used. 
+**Miniaturas**: miniaturas estão disponíveis para venda em muitas companhias diferentes. Alternativamente, simples marcadores como dados ou missangas podem ser usadas.
