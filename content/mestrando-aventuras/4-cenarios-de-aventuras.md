@@ -1,47 +1,47 @@
 ---
-title: "Cenários de Aventuras ❌"
+title: "Cenários de Aventuras"
 metaTitle: "Cenários de Aventuras"
 metaDescription: "Mestrando Aventuras -> Cenários de Aventuras"
 ---
 
-The first step in designing an adventure of any kind is to decide on the type of scenario. This is the hook that draws the player characters to the adventure site, and provides a background theme that the referee can use to tie the location together. The scenario drives the referee’s choices of specific traps, treasures, and monsters to be placed in the location. The following examples may be used for inspiration. 
+O primeiro passo na construção de uma aventura de qualquer tipo, é decidir o tipo de cenário. Este é o gancho que atrai os personagens dos jogadores para o local de aventura, e fornece um pano de fundo que o árbitro pode usar para amarrar o conjunto. O cenário direciona as escolhas do árbitro sobre armadilhas específicas, tesouros, e monstros a serem colocados no local. Os seguintes exemplos podem ser usados para inspirar.
 
-# 1. Banishing Ancient Evil
+# 1. Banindo um mal ancestral 
 
-An evil presence (e.g. a monster or NPC) must be banished or destroyed. It may have been dormant for many years, and have only recently been awakened (perhaps as a result of another party’s meddling).
+Uma presença maligna (exemplo, um monstro ou PnJ) deve ser banido ou destruído. Ele pode ter ficado dormente por vários anos, e só recentemente despertou (talvez como resultado da interferência de outro grupo).
 
-# 2. Clearing Ruins
+# 2. Liberando ruínas
 
-Settlers plan to move into an abandoned settlement or stronghold. Before they arrive, the PCs need to scout the area and clear out any monsters or other dangers that are present. The ruins need not be in a remote area—they could even be within (or beneath) a major settlement.
+Colonos planejam se mudar para um assentamento ou fortaleza abandonada. Antes de chegarem, os PdJs precisam observar a área e livrá-la da presença de qualquer monstro ou perigo presente na área. As ruínas não precisam estar em uma área remota - elas podem até mesmo estar dentro (ou próximas) de um assentamento maior.
 
-# 3. Contacting a Lost Civilisation
+# 3. Contactando uma civilização perdida
 
-The PCs discover a long-lost race in a fantastic location. They may have once been human, but are now adapted to their strange environment. For example, they may have reverted to bestial behaviour or may be adapted to subterranean life, with pale skin and infravision.
+Os PdJs descobrem uma raça perdida a muito tempo em um local fantástico. Eles uma vez foram humanos, mas agora estão adaptados a um estranho ambiente. Por exemplo, eles poder ter revertido a um comportamento bestial ou podem ter se adaptado a vida no subterrâneo, com pele pálida e infravisão.
 
-# 4. Escaping from Captivity
+# 4. Escapando do cativeiro
 
-The PCs have been taken prisoner by an enemy and begin the adventure in captivity, possibly with a grisly fate awaiting them in the near future. They must regain their freedom.
+Os PdJs foram aprisionados por um inimigo no começam a aventura presos, possivelmente com um destino aterrador aguardando-os em um futuro próximo. Eles precisam ganhar a liberdade.
 
-# 5. Exploring Unknown Territory
+# 5. Explorando um território desconhecido
 
-An NPC hires the party to explore and map an unknown region. This may be a previously uncharted area or may be a recent alteration to a familiar region (e.g. a magic castle may appear in an empty plain).
+Um PnJ contrata o grupo para explorar e mapear uma região desconhecida. Ela pode ser uma área descoberta recentemente ou pode ter sido uma região conhecida alterada recentemente (exemplo, um castelo mágico que aparece em um planície desocupada).
 
-# 6. Performing a Quest
+# 6. Realizando uma missão
 
-A deity or powerful NPC (e.g. a king) sends the PCs on a quest. This may involve recovering holy or magical items.
+Uma divindade ou PnJ poderoso (exemplo, o rei) envia os PdJs em uma missão. Isso pode envolver a recuperação de um item sagrado ou mágico.
 
-# 7. Rescuing Captives
+# 7. Resgatando cativos
 
-Important NPCs have been kidnapped by bandits, wicked monsters, or an evil wizard. The PCs attempt to rescue the prisoners, either seeking a reward or because of a personal connection with the unfortunate captives. It is also possible that the PCs may be hired as bodyguards to NPCs who are negotiating with the kidnappers.
+PnJs importantes foram sequestrados por bandidos, monstros perversos, ou um mago maligno. Os PdJs tentam resgatar os prisioneiros, ou em busca de uma recompensa ou porque possuem uma conexão pessoal com os desafortunados cativos. Também é possível que os PdJs tenham sido contratados como guarda-costas dos PnJs que estão negociando com os sequestradores.
 
-# 8. Scouting an Enemy Outpost
+# 8. Observar um posto avançado inimigo
 
-An invasion is looming (or in progress)! The PCs are tasked with infiltrating an outpost of the enemy, gathering intelligence as to their plans, strengths, and weaknesses, and (if possible) destroying them.
+Uma invasão é iminente (ou está em progresso)! Os PdJs são incumbidos com a missão de se infiltrar no posto avançado de um inimigo, colhendo informações sobre seus planos, forças e fraquezas, e (se possível), destruí-los.
 
-# 9. Seeking a Magical Doorway
+# 9. Procurando por uma entrada mágica
 
-A gateway exists that allows magical travel (either one-way or bidirectional) between distant locations or even other worlds. The PCs may be tasked with locating a lost portal or closing a portal used by enemies. The portal may also be the only means of travel to a fantastic destination that the PCs must visit.
+Existe um portal que permite viagem mágica (tanto uni quando bidirecional) entre locais distantes ou mesmo entre mundos. Os PdJs podem ser incumbidos de localizar o portal perdido ou fechar o portal usado por inimigos. O portal também pode ser a única forma de viagem para um destino fantástico que os PdJs precisam visitar.
 
-# 10. Visiting a Sacred Site
+# 10. Visitar um local sagrado
 
-In order to consult with an oracle, remove a curse, or find a holy relic, the PCs must journey to a sacred site (e.g. a shrine or temple). The exact location of the site is usually a matter of conjecture. 
+Para consultar um oráculo, remover uma maldição, ou encontrar uma relíquia sagrada, os PdJs devem realizar uma viagem a um local sagrado (exemplo, um santuário ou templo). A localização exata do lugar é normalmente uma questão de suposições.
