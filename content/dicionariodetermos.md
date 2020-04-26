@@ -57,3 +57,11 @@ metaDescription: "Dicionário de Termos"
 **Checks, Damage and Saves**:
 
 **Spells / Rods / Staves**: Magias / Bastões / Cajados
+
+**Hamlet** = Aldeia
+
+**Village** = Vilarejo
+
+**Town** = Vila
+
+**City** = Cidade
