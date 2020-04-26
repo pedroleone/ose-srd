@@ -1,33 +1,33 @@
 ---
-title: "Gemas e Jóias ❌"
+title: "Gemas e Jóias"
 metaTitle: "Gemas e Jóias"
 metaDescription: "Tesouro -> Gemas e Jóias"
 ---
 
-# Gems
-The value of each gem in a treasure hoard is determined by the following table:
+# Gemas
+O valor de cada gema em um tesouro é determinado pela seguinte tabela:
 
-+----------+---------------+
-| Gem Values               |
-+==========+===============+
-| **d20**  | **Gem Value** |
-+----------+---------------+
-| 1–4      | 10gp          |
-+----------+---------------+
-| 5–9      | 50gp          |
-+----------+---------------+
-| 10–15    | 100gp         |
-+----------+---------------+
-| 16–19    | 500gp         |
-+----------+---------------+
-| 20       | 1,000gp       |
-+----------+---------------+
++----------+-------------------+
+| Valos das Gemas              |
++==========+===================+
+| **d20**  | **Valor da Gema** |
++----------+-------------------+
+| 1–4      | 10po              |
++----------+-------------------+
+| 5–9      | 50po              |
++----------+-------------------+
+| 10–15    | 100po             |
++----------+-------------------+
+| 16–19    | 500po             |
++----------+-------------------+
+| 20       | 1,000po           |
++----------+-------------------+
 
-# Jewellery
-Each piece of jewellery indicated by a treasure type is worth 3d6 × 100gp (or more, if the referee wishes, for characters above 3rd level).
+# Jóias
+Cada peça de joalheria indicada por um tipo de tesouro vale 3d6 × 100po (ou mais, se o Árbitro desejar, para personagens acima do 3º nível).
 
-## Damaged Jewellery
-Rough treatment of jewellery (e.g. crushing, intense heat or fire, lightning) can damage it, reducing its value by 50%.
+## Jóias Danificadas
+A exposição das jóias à condições adversas (por exemplo, esmagamento, calor intenso ou fogo, raios) pode danificá-las, reduzindo seu valor em 50%.
 
-# Combining Values
-When a treasure type indicates the presence of multiple gems or pieces of jewellery, the referee may combine the values, as desired. For example, a roll of five 50gp value gems may be placed as a single 250gp gem, a 100gp gem and three 50gp gems, or any other combination. 
+# Combinando Valores
+Quando um tipo de tesouro indica a presença de várias gemas ou peças de joalheria, o árbitro pode combinar os valores, conforme desejado. Por exemplo, uma rolagem de cinco gemas com valor de 50po pode ser trocada para uma única gema de 250po, uma gema de 100po e três gemas de 50po ou qualquer outra combinação.

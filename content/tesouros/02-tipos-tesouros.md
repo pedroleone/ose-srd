@@ -1,173 +1,173 @@
 ---
-title: "Tipos Tesouros ❌"
+title: "Tipos Tesouros"
 metaTitle: "Tipos Tesouros"
 metaDescription: "Tesouro -> Tipos Tesouros"
 ---
 
-# Average Values
-The average value of each treasure type is listed alongside the letter code. These values sum the average results of gems, jewellery, and all types of coins. Magic items that the treasure type may indicate are not counted toward the average value, as magic items do not have fixed sale values.
+# Valores Médios
+O valor médio de cada tipo de tesouro é listado ao lado do código de letras. Esses valores somam os resultados médios de gemas, jóias e todos os tipos de moedas. Os itens mágicos que o tipo de tesouro pode indicar não são contados para o valor médio, pois os itens mágicos não têm valores fixos de venda.
 
-# Alternative Treasures
-For genres or settings where precious metal coinage is not in common use, the referee may replace gold pieces etc. with currency of equivalent value. The same goes for gems and jewellery, which may be replaced with other kinds of valuable substances or decorative objects.
+# Tesouros Alternativos.
+Para gêneros ou cenários onde a cunhagem de metais preciosos não é comum, o Árbitro pode substituir peças de ouro etc. por moedas de valor equivalente. O mesmo vale para gemas e jóias, que podem ser substituídas por outros tipos de substâncias valiosas ou objetos de decoração.
 
-# Hoards: A–O
-These treasure types indicate the sum wealth of a large monster or a community of smaller monsters. Such hoards are usually hidden in the monsters’ lair.
+# Tesouros: A–O
+Esses tipos de tesouros indicam a soma da riqueza de um monstro grande ou de uma comunidade de monstros menores. Tais tesouros geralmente estão escondidos no covil dos monstros.
 
-**Small lairs**: Monster listings note the number of individuals found in a lair. If the number rolled is below average and the lair encounter size is at least 1d4, the amount of treasure in the hoard may be reduced accordingly. 
+**Covis Pequenos**: As listagens de monstros indicam o número de indivíduos encontrados em um covil. Se o número rolado estiver abaixo da média e o tamanho do encontro no covil for pelo menos 1d4, a quantidade de tesouro no tesouro poderá ser reduzida de acordo.
 
-## Type A (18,000gp average)
-* 25%: 1d6 × 1,000cp.
-* 30%: 1d6 × 1,000sp.
-* 20%: 1d4 × 1,000ep.
-* 35%: 2d6 × 1,000gp.
-* 25%: 1d2 × 1,000pp.
-* 50%: 6d6 gems.
-* 50%: 6d6 pieces of jewellery.
-* 30%: 3 magic items.
+## Tipo A (18,000po em média)
+* 25%: 1d6 × 1,000pc.
+* 30%: 1d6 × 1,000pp.
+* 20%: 1d4 × 1,000pe.
+* 35%: 2d6 × 1,000po.
+* 25%: 1d2 × 1,000pl.
+* 50%: 6d6 gemas.
+* 50%: 6d6 peças de joalheria.
+* 30%: 3 itens mágicos.
 
-## Type B (2,000gp average)
-* 50%: 1d8 × 1,000cp.
-* 25%: 1d6 × 1,000sp.
-* 25%: 1d4 × 1,000ep.
-* 25%: 1d3 × 1,000gp.
-* 25%: 1d6 gems.
-* 25%: 1d6 pieces of jewellery.
-* 10%: 1 magic sword, suit of armour, or weapon.
+## Tipo B (2,000gp average)
+* 50%: 1d8 × 1,000pc.
+* 25%: 1d6 × 1,000pp.
+* 25%: 1d4 × 1,000pe.
+* 25%: 1d3 × 1,000po.
+* 25%: 1d6 gemas.
+* 25%: 1d6 peças de joalheria.
+* 10%: 1 espada mágica, armadura, ou arma.
 
-## Type C (1,000gp average)
-* 20%: 1d12 × 1,000cp.
-* 30%: 1d4 × 1,000sp.
-* 10%: 1d4 × 1,000ep.
-* 25%: 1d4 gems.
-* 25%: 1d4 pieces of jewellery.
-* 10%: 2 magic items.
+## Tipo C (1,000po em média)
+* 20%: 1d12 × 1,000pc.
+* 30%: 1d4 × 1,000pp
+* 10%: 1d4 × 1,000pe.
+* 25%: 1d4 gemas.
+* 25%: 1d4 peças de joalheria.
+* 10%: 2 itens mágicos.
 
-## Type D (3,900gp average)
+## Tipo D (3,900po em média)
 
-* 10%: 1d8 × 1,000cp.
-* 15%: 1d12 × 1,000sp.
-* 60%: 1d6 × 1,000gp.
-* 30%: 1d8 gems.
-* 30%: 1d8 pieces of jewellery.
-* 15%: 2 magic items plus 1 potion.
+* 10%: 1d8 × 1,000pc.
+* 15%: 1d12 × 1,000pp.
+* 60%: 1d6 × 1,000po.
+* 30%: 1d8 gemas.
+* 30%: 1d8 peças de joalheria.
+* 15%: 2 itens mágicos mais 1 poção.
 
-## Type E (2,300gp average)
+## Tipo E (2,300po em média)
 
-* 5%: 1d10 × 1,000cp.
-* 30%: 1d12 × 1,000sp.
-* 25%: 1d4 × 1,000ep.
-* 25%: 1d8 × 1,000gp.
-* 10%: 1d10 gems.
-* 10%: 1d10 pieces of jewellery.
-* 25%: 3 magic items plus 1 scroll.
+* 5%: 1d10 × 1,000pc.
+* 30%: 1d12 × 1,000pp.
+* 25%: 1d4 × 1,000pe.
+* 25%: 1d8 × 1,000po.
+* 30%: 1d8 gemas.
+* 10%: 1d10 peças de joalheria.
+* 25%: 3 itens mágicos mais 1 pergaminho.
 
-## Type F (7,700gp average)
+## Tipo F (7,700po em média)
 
-* 10%: 2d10 × 1,000sp.
-* 20%: 1d8 × 1,000ep.
-* 45%: 1d12 × 1,000gp.
-* 30%: 1d3 × 1,000pp.
-* 20%: 2d12 gems.
-* 10%: 1d12 pieces of jewellery.
-* 30%: 3 magic items (not weapons), plus 1 potion, plus 1 scroll.
+* 10%: 2d10 × 1,000pp.
+* 20%: 1d8 × 1,000pe.
+* 45%: 1d12 × 1,000po.
+* 30%: 1d3 × 1,000pl.
+* 20%: 2d12 gemas.
+* 10%: 1d12 peças de joalheria.
+* 30%: 3 itens mágicos (sem ser armas), mais 1 poção, mais 1 pergaminho.
 
-## Type G (23,000gp average)
+## Tipo G (23,000po em média)
 
-* 50%: 1d4 × 10,000gp.
-* 50%: 1d6 × 1,000pp.
-* 25%: 3d6 gems.
-* 25%: 1d10 pieces of jewellery.
-* 35%: 4 magic items plus 1 scroll.
+* 50%: 1d4 × 10,000po.
+* 50%: 1d6 × 1,000pl.
+* 25%: 3d6 gemas.
+* 25%: 1d10 peças de joalheria.
+* 35%: 4 itens mágicos mais 1 pergaminho.
 
-## Type H (60,000gp average)
+## Tipo H (60,000po em média)
 
-* 25%: 3d8 × 1,000cp.
-* 50%: 1d100 × 1,000sp.
-* 50%: 1d4 × 10,000ep.
-* 50%: 1d6 × 10,000gp.
-* 25%: 5d4 × 1,000pp.
-* 50%: 1d100 gems.
-* 50%: 1d4 × 10 pieces of jewellery.
-* 15%: 4 magic items, plus 1 potion, plus 1 scroll.
+* 25%: 3d8 × 1,000pc.
+* 50%: 1d100 × 1,000pp.
+* 50%: 1d4 × 10,000pe.
+* 50%: 1d6 × 10,000po.
+* 25%: 5d4 × 1,000pl.
+* 50%: 1d100 gemas.
+* 50%: 1d4 × 10 peças de joalheria.
+* 15%: 4 itens mágicos, mais 1 poção, mais 1 pergaminho.
 
-## Type I (11,000gp average)
+## Tipo I (11,000po em média)
 
-* 30%: 1d8 × 1,000pp.
-* 50%: 2d6 gems.
-* 50%: 2d6 pieces of jewellery.
-* 15%: 1 magic item.
+* 30%: 1d8 × 1,000pl.
+* 50%: 2d6 gemas.
+* 50%: 2d6 peças de joalheria.
+* 15%: 1 item mágico.
 
-## Type J (25gp average)
+## Tipo J (25po em média)
 
-* 25%: 1d4 × 1,000cp.
-* 10%: 1d3 × 1,000sp.
+* 25%: 1d4 × 1,000pc.
+* 10%: 1d3 × 1,000pp.
 
-## Type K (180gp average)
+## Tipo K (180gpoem média)
 
-* 30%: 1d6 × 1,000sp.
-* 10%: 1d2 × 1,000ep.
+* 30%: 1d6 × 1,000pp.
+* 10%: 1d2 × 1,000pe.
 
-## Type L (240gp average)
+## Tipo L (240po em média)
 
-* 50%: 1d4 gems.
+* 50%: 1d4 gemas.
 
-## Type M (50,000gp average)
+## Tipo M (50,000po em média)
 
-* 40%: 2d4 × 1,000gp.
-* 50%: 5d6 × 1,000pp.
-* 55%: 5d4 gems.
-* 45%: 2d6 pieces of jewellery.
+* 40%: 2d4 × 1,000po.
+* 50%: 5d6 × 1,000pl.
+* 55%: gemas 5d4.
+* 45%: 2d6 peças de joalheria.
 
-## Type N (0gp average)
+## Tipo N (0po em média)
 
-* 40%: 2d4 potions.
+* 40%: 2d4 poções.
 
-## Type O (0gp average)
+## Tipo O (0po em média)
 
-* 50%: 1d4 scrolls.
+* 50%: 1d4 pergaminhos.
 
-# Individual Treasure: P–T
+# Tesouro Individual: P–T
 
-Intelligent monsters: Each individual carries this much treasure.
+Monstros inteligentes: cada indivíduo carrega essa quantidade de tesouro.
 
-Unintelligent monsters: The treasure is loot from the bodies of the monsters’ victims.
+Monstros não inteligentes: o tesouro é resultado do saque que os monstros fizeram em suas vítimas.
 
-# Type P (0.1gp average)
-* 3d8cp.
+# Tipo P (0.1po em média)
+* 3d8pc.
 
-# Type Q (1gp average)
-* 3d6sp.
+# Tipo Q (1po em média)
+* 3d6pp.
 
-# Type R (3gp average)
-* 2d6ep.
+# Tipo R (3po em média)
+* 2d6pe.
 
-# Type S (5gp average)
-* 2d4gp.
+# Tipo S (5po em média)
+* 2d4po.
 
-# Type T (17gp average)
-* 1d6pp.
+# Tipo T (17po em média)
+* 1d6pl.
 
-# Group Treasure: U–V
+# Tesouro de Grupo: U–V
 
-**Intelligent monsters**: The group carries this much treasure between them.
+**Monstros inteligentes**: O grupo carrega esse tesouro dividido entre eles.
 
-**Unintelligent monsters**: The treasure is loot from the bodies of the monsters’ victims.
+**Monstros não inteligentes**: o tesouro é resultado do saque que os monstros fizeram em suas vítimas.
 
-## Type U (160gp average)
+## Tipo U (160po em média)
 
-* 10%: 1d100cp.
-* 10%: 1d100sp.
-* 5%: 1d100gp.
-* 5%: 1d4 gems.
-* 5%: 1d4 pieces of jewellery.
-* 2%: 1 magic item.
+* 10%: 1d100pc.
+* 10%: 1d100pp.
+* 5%: 1d100po.
+* 5%: 1d4 gemas.
+* 5%: 1d4 peças de joalheria.
+* 2%: 1 item mágico.
 
-## Type V (330gp average)
+## Tipo V (330po em média)
 
-* 10%: 1d100sp.
-* 5%: 1d100ep.
-* 10%: 1d100gp.
-* 5%: 1d100pp.
-* 10%: 1d4 gems.
-* 10%: 1d4 pieces of jewellery.
-* 5%: 1 magic item.
+* 10%: 1d100pp.
+* 5%: 1d100pe.
+* 10%: 1d100po.
+* 5%: 1d100pl.
+* 10%: 1d4 gemas.
+* 10%: 1d4 peças de joalheria.
+* 5%: 1 item mágico.

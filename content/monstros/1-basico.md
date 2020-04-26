@@ -1,105 +1,106 @@
 ---
-title: "Básico ❌"
+title: "Básico"
 metaTitle: "Básico"
 metaDescription: "Monstros > Básico"
 ---
 
-# Game Statistics
 
-Monsters are described by the following statistics.
 
-## Armour Class (AC)
+# Estatísticas do Jogo
 
-The monster’s ability to avoid damage in combat.
+Os monstros estão descritos com as seguintes estatísticas.
 
-**Ascending AC**: The optional AAC score is listed afterwards in square brackets.
+## Classe de Armadura (CA)
 
-## Hit Dice (HD)
+A habilidade do monstro em evitar danos em combate.
 
-The number of d8s rolled to determine an individual’s hit points.
+**CA Ascendente**: Os valores opcionais de CAA estão listados no final entre colchetes.
 
-**Asterisks**: One or more asterisks after the HD number indicate the number of special abilities the monster has, for the purpose of XP calculation (see p228).
+## Dados de Vida (DV)
 
-**Modifiers**: Modifiers to the HD (e.g. +3, –1) are applied to the hit point total after rolling the specified number of d8s.
+O número de d8s rolados para determinar os pontos de vida de um indivíduo.
 
-**Fractional Hit Dice**: Some monsters are listed as having less than one HD, either as ½ (roll 1d4) or as a fixed number of hit points.
+**Asteriscos**: um ou mais asteriscos após o número de DV indicam o número de habilidades especiais que o monstro possui, para fins de cálculo de XP (veja a pág. 228).
 
-**Average hit points**: The average hit point value is listed in parentheses.
+**Modificadores**: modificadores para os DV (por exemplo, +3, –1) são aplicados ao total de pontos de vida após rolar o número especificado de d8s.
 
-## Attacks Usable Per Round (Att)
+**Dados de Vida Fracionários**: Alguns monstros são listados como tendo menos de um DV, ou como ½ (role 1d4) ou como um número fixo de pontos de vida.
 
-The attacks that the monster can use each round, with the inflicted damage in parentheses. (Note that monsters’ attack and damage rolls are not modified by STR or DEX, unless specified.)
+**Média de pontos de vida**: o valor médio dos pontos de vida está listado entre parênteses.
 
-Alternative attack routines: Square brackets are used to distinguish between alternative attack routines that a monster may choose from.
+## Ataques Utilizáveis por Rodada (Att)
 
-# Saving Throw Values (SV)
+Os ataques que o monstro pode usar a cada rodada, com o dano causado entre parênteses. (Note que as rolagens de ataque e de dano dos monstros são modificadas por FOR ou DEX a não ser que esteja especificado.)
 
-The monster’s saving throw values:
+Hábitos de ataque alternativos: Colchetes são usados para distinguir entre hábitos de ataque alternativo que um monstro pode escolher.
+Valores de Salvaguarda (VS)
 
-* **D**: Death/poison.
-* **W**: Wands.
-* **P**: Paralysis/petrification.
-* **B**: Breath attacks.
-* **S**: Spells/rods/staves.
+Os valores de salvaguarda do monstro:
 
-**Save as HD**: The HD at which the monster saves is listed in parentheses (with NH indicating that it saves as a normal human). This is not always equal to the monster’s HD rating—unintelligent monsters typically save at half their HD rating; magical monsters may save at a higher HD rating.
+* **D**: Morte/Veneno.
+* **W**: Varinhas.
+* **P**: Paralisia/petrificação.
+* **B**: Ataques de Baforada.
+* **S**: Magias/Bastões/Cajados.
 
-Some monsters save as a character class. In this case, the class and level are listed in parentheses after the saving throw values: C=Cleric, D=Dwarf, E=Elf, F=Fighter, H=Halfling, MU=Magic-User, T=Thief.
+**Salvaguarda como DV**: O DV que o monstro usa está listado entre parênteses (com um HN indicando que ele faz a salvaguarda como um humano normal). Esse valor nem sempre vai ser igual à classificação de DV do monstro — monstros não-inteligentes tipicamente fazem a salvaguarda com metade da classificação de DV deles; monstros mágicos podem fazer a salvaguarda com valores maiores de classificação de DV.
 
-## Attack Roll “to Hit AC 0” (THAC0)
+Alguns monstros fazem salvaguardas como uma classe de personagem. Nesse caso, a classe e nível estão listados entre parênteses depois dos valores de salvaguarda: C=Clérigo, A=Anão, E=Elfo, G=Guerreiro, H=Halfling, UM=Usuário de Magia, L=Ladino.
 
-The monster’s ability to hit foes in combat, determined by its Hit Dice (see Monster THAC0 by Hit Dice, p125).
+## Rolagem de Ataque "pra acertar CA 0" (THAC0=To hit AC 0)
 
-**Attack bonus**: The monster’s attack bonus (required when using the optional rule for Ascending AC) is listed afterwards in square brackets.
+A capacidade do monstro em acertar os seus inimigos em combate, determinada por seus DV (veja o THAC0 dos monstros por Dados de vida, p125).
 
-## Movement Rate (MV)
+**Bônus de ataque**: o bônus de ataque do monstro (necessário ao usar a regra opcional para CA Ascendente) é listado posteriormente entre colchetes.
 
-The speed at which the monster can move. Every monster has a base movement rate and an encounter movement rate (noted in parentheses, one third of the base movement rate).
+## Taxa de movimento (MV)
 
-Modes of movement: If the monster has multiple modes of movement (e.g. walking, flying, climbing), they are listed individually, separated by slashes.
+A velocidade com que o monstro pode se mover. Todo monstro tem uma taxa de movimento básica e uma taxa de movimento de encontro (anotada entre parênteses, um terço da taxa de movimento básica).
 
-## Morale Rating (ML)
+**Modos de movimento**: se o monstro tiver vários modos de movimento (por exemplo, caminhar, voar, escalar), eles serão listados individualmente, separados por barras.
 
-The monster’s likelihood to persist in battle. See Morale (Optional Rule).
+## Taxa de Moral (ML)
 
-## Alignment (AL)
+A probabilidade do monstro persistir na batalha. Consulte Moral (Regra Opcional).
 
-The monster’s affiliation to Law, Neutrality, or Chaos. If “any” is listed, the referee may roll randomly or choose the creature’s alignment.
+## Alinhamento (AL)
 
-## XP Award (XP)
+A afiliação do monstro à Ordem, Neutralidade ou Caos. Se "qualquer" estiver listado, o Mestre pode rolar aleatoriamente ou escolher o alinhamento da criatura.
 
-Pre-calculated XP award for defeating the monster.
+## Recompensa em XP (XP)
 
-## Number Appearing (NA)
+Recompensa de XP pré-calculado por derrotar o monstro.
 
-Listed as two values, the second in parentheses.
+## Número de Aparecimento (NA)
 
-**Zeros**: If the first value is a zero, monsters of this type are not usually encountered in dungeons. If the second value is a zero, monsters of this type are not usually encountered in the wilderness and do not usually have lairs.
+Listado como dois valores, o segundo entre parênteses.
 
-**Usage**: The use of these values depends on the situation in which monsters are encountered:
+**Zeros**: Se o primerio valor é zero, monstros desse tipo geralmente não serão encontrados em masmorras. Se o segundo valor é um zero, monstros desse tipo não serão geralmente encontrados em regiões selvagens e geralemnte não têm covis.
 
-* **Wandering monsters in a dungeon**: The first value determines the number of monsters encountered roaming in a dungeon level equal to their HD. If the monster is encountered on a level greater than its HD, the number appearing may be increased; if encountered on a level less than its HD, the number appearing should be reduced.
-* **Monster lair in a dungeon**: The second value lists the number of monsters found in a lair in a dungeon.
-* **Wandering monsters in the wilderness**: The second value indicates the number of monsters encountered roaming in the wilderness.
-* **Monster lair in the wilderness**: The second value multiplied by 5 indicates the number of monsters found in a lair in the wilderness.
+**Uso**: O uso desses valores depende da situação em que os monstros são encontrados:
 
-## Treasure Type (TT)
+* **Monstros vagantes em uma masmorra**: O primeiro valor determina o númerod e monstros encontrados vagando em uma masmorra em um nível igual ao seu DV. Se o monstro encontrado é de um nível maior que seu DV, o número de aparecimento pode ser aumentado; se encontrado em um nível menor que seu DV, o número de aparecimento pode ser reduzido.
+* **Covil de monstros em uma masmorra**: O segundo valor lista o número de monstros encontrados em um covil numa masmorra.
+Monstros vagantes em regiões selvagens: O segundo valor indica o número de monstros encontrados vagando em regiões selvagens.
+* **Covil de monstros em regiões selvagens**: O segundo valor multiplicado por 5 indica o número de monstros encontrados num covil em regiões selvagens.
 
-The letter code used to determine the amount and type of treasure possessed by the monster(s) (see Treasure Types, p230). The letters listed are used as follows:
+## Tipo de Tesouro (TT)
 
-* **A to O**: Indicate a hoard: the sum wealth of a large monster or a community of smaller monsters, usually hidden in the lair. For monsters with a lair encounter size (see Number Appearing) of greater than 1d4, the amount of treasure in the hoard may be reduced, if the number of monsters is below average.
-* **P to V**: If listed for an intelligent monster, indicate treasure carried by individuals (P to T) or a group (U, V). If listed for an unintelligent monster, indicate treasure from the bodies of its victims.
+O código de letras usado para determinar a quantidade e tipo de tesouro possuído por monstro(s) (veja Tipos de Tesouro, p230) As letras listadas são usadas da seguinte forma:
 
-# General Notes
+* **A até O**: Indica uma acumulação: a soma de riquezas de um monstro grande ou uma ocmunidade pequena de monstros, geralmente escondidos no covil. Para monstros com um tamanho de encontro de covil (veja Números de Aparecimento) maiores que 1d4, a quantidade de tesouro acumulado pode ser reduzida, se o número de monstros for menor que a média.
+* **P até V**: Se listado para um monstro inteligente, indica o tesouro carregado por indivíduos (P até T) ou por um grupo (U, V). Se listados para um monstro não-inteligente, indica o tesouro dos corpos de suas vítimas.
 
-## Infravision
+# Notas Gerais
 
-All non-human monsters have infravision (see Darkness, p106). Unless specified in a monster’s description, this allows monsters to see in the dark up to 60’.
+## Infravisão
 
-## Languages
+Todos os monstros não humanos tem infravisão (veja Escuridão, p106). A menos que especificado na descrição do monstro, isso permite que os monstros vejam no escuro até 60 pés (18 metros).
 
-20% of intelligent monsters speak Common (see Languages, p19), unless the monster description states otherwise. Many intelligent monster species also have their own tongue.
+## Idiomas
 
-## Persons
+20% dos monstros intelgentes conseguem falar Comum (veja Idiomas, p19), a não ser que a descrição do monstro diga o contrário. Muitas espécies de monstros inteligentes também tem seu próprio idioma.
 
-The following monsters in this book are classified as “persons”, for the sake of magical effects: acolyte, bandit, berserker, brigand, buccaneer, bugbear, dervish, dwarf, elf, gnoll, gnome, goblin, halfling, hobgoblin, kobold, lizard man, medium, merchant, merman, neanderthal, nixie, noble, normal human, ogre, orc, pirate, pixie, sprite, trader, troglodyte, veteran. 
+## Pessoas
+
+Os seguintes monstros deste livro são classificados como "pessoas", por motivos de efeitos mágicos: acólito, bandido, berserker, bandido, bucaneiro, bugurso, dervixe, anão, elfo, gnoll, gnomo, goblin, halfling, hobgoblin, kobold, homem lagarto, médium, mercador, tritão, neandertal, nixie, nobre, humano normal, ogro, orc, pirata, pixie, sprite, comerciante, troglodita, veterano.

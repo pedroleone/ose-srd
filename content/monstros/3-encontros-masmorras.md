@@ -1,5 +1,5 @@
 ---
-title: "Encontros em Masmorras 🔴"
+title: "Encontros em Masmorras "
 metaTitle: "Encontros em Masmorras"
 metaDescription: "Monstros > Encontros em Masmorras"
 ---
