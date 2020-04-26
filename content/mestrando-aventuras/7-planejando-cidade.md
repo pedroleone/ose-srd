@@ -1,44 +1,44 @@
 ---
-title: "Planejando Cidade Base ❌"
+title: "Planejando Cidade Base"
 metaTitle: "Planejando Cidade Base"
 metaDescription: "Mestrando Aventuras -> Planejando Cidade Base"
 ---
 
-# 1. Determine Size
+# 1. Determina o tamanho
 
-Decide how large the base town is and roughly how many inhabitants it has. The size of settlements generally depends on the level of technology available in the setting. For medieval or similar settings, the following may be used as a guide:
+Decida quão grande a cidade base é, e aproximadamente quantos habitantes ela possui. O tamanho do assentamento normalmente depende do nível de tecnologia disponível no cenário. Para cenários medievais ou similares, os seguintes valores podem ser usados como base:
 
-+----------------+------------------------------+
-| **Town Size**  | **Inhabitants**              |
-+----------------+------------------------------+
-| Village        | 50–999                       |       
-+----------------+------------------------------+
-| Small Town     | 1,000–4,999                  |            
-+----------------+------------------------------+
-| Large Town     | 5,000–14,999                 |             
-+----------------+------------------------------+
-| City           | 15,000+                      |
-+----------------+------------------------------+        
++------------------------+--------------------+
+| **Tamanho da Cidade**  | **Habitantes**     |
++------------------------+--------------------+
+| Aldeia                 | 50–999             |
++------------------------+--------------------+
+| Vila Pequena           | 1.000 – 4.999      |
++------------------------+--------------------+
+| Vila Grande            | 5.000 – 14.999     |
++------------------------+--------------------+
+| Cidade                 | 15.000+            |
++------------------------+--------------------+        
 
 
-# 2. Note Services
+# 2. Anote os serviços
 
-Make some notes on the presence of the following services that adventurers may require:
+Faça alguns anotações sobre a presença dos seguintes serviços que os aventureiros podem precisar:
 
-* **Black market**: For selling treasure and contacting thieves or smugglers.
-* **Guard**: A town militia or police force to keep the peace and protect the town. It may be useful to note whether the guards are open to bribery and how frequently they patrol various areas of the town.
-* **Healing**: Some means for characters to cure their wounds (and possibly more advanced services such as curing diseases or even raising the dead). In settings where magical healing exists, such services may be available at a temple, church, or shrine.
-* **Lodgings**: Rooms to rent, inns, etc.
-* **Rumours**: Places where notices are posted and gossip spreads.
+* **Mercado negro**: para vender tesouros e contactar ladrões e contrabandistas.
+* **Guarda**: uma milícia ou força policial que mantem a paz e protege a vila. Pode ser útil registrar se os guardas são abertos a subornos e a periodicidade de patrulha nas áreas da vila.
+* **Cura**: algumas formas para que os aventureiros curem os seus ferimentos (e possivelmente serviços mais avançados como curar doenças ou mesmo ressuscitar os mortos). Em cenários onde cura mágica existe, estes serviços podem estar disponíveis em um templo, igreja ou santurário. 
+* **Alojamentos**: quartos para alugar, tavernas etc.
+* **Rumores**: locais onde notícias são publicadas e boatos são espalhados.
 
-# 3. Detail Ruler
+# 3. Detalhe o regente
 
-Decide how the town is ruled: whether by a local sheriff or mayor appointed by a lord, an elected council, a confederacy of merchants, etc. It is also possible that a high-level NPC adventurer (with attendant guards and magic) may rule the town.
+Decida como a vila é regida: se por um xerife local ou prefeito apontado por um Lorde, um conselho eleito, uma confedereção de comerciantes etc. Também é possível que um PnJ aventureiro de alto nível (com guardas e magia) possa governar a cidade.
 
-# 4. Detail Other NPCs
+# 4. Detalhe outros PnJs
 
-Other important NPCs in the town should be noted, especially those associated with one of the services mentioned above or those who might wish to hire the PCs to undertake missions.
+Outros PnJs importantes na vila devem ser registrados, especialmente aqueles associados com um dos serviços mencionados acima, ou aqueles que possam querer contratar os PdJs para realizar missões.
 
-# 5. Create Rumours
+# 5. Crie rumores
 
-A few local rumours may be noted, to provide hooks for the player characters to start exploring the local area and possibly find their way to one of the placed dungeons. 
+Alguns rumores locais podem ser registrados, para fornecer ganchos para os personagens começaram a explorar a área e possivelmente encontrar o caminho para masmorras inseridas no cenário.
