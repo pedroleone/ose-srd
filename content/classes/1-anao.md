@@ -56,7 +56,7 @@ Eles tem pelos, cabelos e olhos em tons terrosos. Eles são conhecidos por sua t
 | &ast; Modificadores de CON não se        |**Mt**: Morte / veneno; **V**: Varinhas; |
 |aplicam mais.                             |**P**: Paralisia / petrificar;           |
 |                                          |**S**: Ataques de sopro;                 |
-|                                          |**Ma**: Feitiços / varinhas / bastões    |
+|                                          |**Ma**: Magias / Bastões / Cajados       |
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
 
 # Combate
@@ -76,4 +76,3 @@ Anões tem uma chance de 2 em 6 de ouvir ruídos (veja Aventurando em Masmorras)
 
 # Após Alcançar o 9° Nível
 Um anão tem a opção de criar uma fortaleza subterrânea que atraia anões de todas as partes. Anões normalmente vivem em clãs, então anões do clã do personagem serão atraídos para viver sobre seu teto. Anões de outros clãs serão normalmente amigáveis, e podem colaborar em tempos de guerra ou desastres. Um anão regente só pode empregar mercenários anões. Especialistas e seguidores de qualquer raça podem ser contratados.
-
