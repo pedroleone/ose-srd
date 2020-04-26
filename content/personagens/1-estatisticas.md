@@ -4,7 +4,7 @@ metaTitle: "Estatísticas de jogo"
 metaDescription: "Personagens -> Estatísticas"
 ---
 
-Os personagens jogadores (PJs) são descritos, em termos de jogo, por um grupo de valores que definem as suas habilidades, pontos fortes e fraquezas no mundo de jogo.
+Os personagens dos jogadores (PdJs) são descritos, em termos de jogo, por um grupo de valores que definem as suas habilidades, pontos fortes e fraquezas no mundo de jogo.
 
 # Valores de Atributos
 Os Atributos definem os pontos fortes e fracos dos personagens. Existem 6 atributos: Força (abreviado FOR), Inteligência (INT), Sabedoria (SAB), Destreza (DES), Constituição (CON) e Carisma (CAR). O personagem é classificado em cada atributo por um número entre 3 e 18 (3 sendo o pior número possível e 18 o melhor).
