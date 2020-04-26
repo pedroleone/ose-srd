@@ -1,51 +1,51 @@
 ---
-title: "Planejando Ermos ❌"
+title: "Planejando Ermos"
 metaTitle: "Planejando Ermos"
 metaDescription: "Mestrando Aventuras -> Planejando Ermos"
 ---
 
-# 1. Choose the Setting
+# 1. Escolha o Cenário
 
-**Basic geography**: Decide on the basic geography and climate of the region to be described: whether it primarily consists of mountains, forest, desert, etc. The size of the region should also be determined.
+**Geografia básica**: decida sobre a geografia básica e o clima da região a ser descrita: se ele consiste primarimente de montanhas, florestas, desertos etc. O tamanho da região deve ser determinada.
 
-**Milieu**: At this stage, the nature of the milieu being detailed should also be considered: the general level of technology, availability of magic, presence of different monsters and intelligent races, and so on.
+**Ambientação**: nesse estágio, a natureza da ambientação sendo detalhada deve ser considerada: o nível geral de tecnologia, disponibilidade de magia, presença de diferentes tipos de monstros e raças inteligentes, e assim por diante.
 
-**New campaigns**: When starting a new campaign, it is recommended to begin by detailing a small, self-contained area that can be expanded upon over time.
+**Novas campanhas**: quando estiver começando uma nova campanha, é recomendado começar detalhando uma pequena área independente que possa ser expandida com o tempo.
 
-# 2. Map the Region
+# 2. Mapa da região
 
-**Major terrain features**: Using graph or hex paper, create a map of the wilderness area, marking on the major terrain features such as mountain ranges, rivers, seas, lakes, islands, forests, swamps, and so on. Real world maps may serve as inspiration as to the natural structure and relationship of terrain features.
+**Principais elementos do terreno**: usando papel quadriculado ou hexagonal, crie um mapa dos ermos, marcando os principais elementos do terreno, como cadeias de montanhas, rios, mares, lagos, ilhas, florestas, pântanos, e assim por diante. Mapas do mundo real podem servir como inspiração para criação das estruturas naturais e os elementos do terreno.
 
-**Scale**: Typically, a large scale map (24 miles per hex) is drawn first, followed by smaller scale maps (6 miles per hex) of certain areas, adding more detail.
+**Escala**: Normalmente, primeiro é desenhado um mapa com escala maior (36 km por hexágono), seguido por um com escala menor (9 km por hexágono) de certas áreas, adicionando mais detalhes.
 
-# 3. Locate Human Realms
+# 3. Localize os reinos humanos
 
-Mark the areas that are controlled by humans, bearing in mind the needs of human civilisation (rivers, farmland, etc.).
+Marque as áreas que são controladas por humanos, mantendo em mente as necessidades da civilização humana (rios, terras agricultáveis etc.).
 
-**Government**: Also note the ruler of each human-controlled area: a petty lord, a mighty king, a league of merchants, etc.
+**Governo**: fala também anotações sobre o regente de cada área controlada pelos humanos: um senhor mesquinho, um poderoso rei, uma liga de comerciantes etc.
 
-**Base town (see step 5)**: Is typically placed in one of these regions.
+**Cidade base (ver passo 5)**: normalmente é inserida em uma dessas regiões.
 
-# 4. Locate Non-Human Realms
+# 4. Localize os reinos não humanos
 
-Mark regions that are controlled by other intelligent species that exist in the setting (e.g. demihumans, monstrous races, and so on), taking their preferred environment and way of life into account.
+Marque as regiões que são controladas por outras espécies inteligentes que existam no cenário (exemplos semihumanos, raças monstruosas, e assim por diante), levando em consideração o seu ambiente preferido e meio de vida.
 
-**Nomads**: Some intelligent species may keep domains with well-defined boundaries while others may move around—hunting or raiding—within a more vaguely defined area.
+**Nômades**: algumas espécies inteligentes podem manter domínios com fronteiras bem definidas, enquanto outros podem mover-se - caçando ou invadindo - uma região definida mais vagamente.
 
-**Monsters**: The territories of significant, non-intelligent monsters may also be marked on the map at this stage.
+**Monstros**: os territórios de monstros não inteligentes mais importantes também podem ser marcados no mapa nesse estágio.
 
-# 5. Place the Base Town
+# 5. Insira a cidade base
 
-Locate a base town for player characters on the map, typically close to a river or road near the centre of the map. This is where play will begin. The guidelines to the right may be used to help flesh out the base town.
+Localize a cidade base para os personagens jogadores no mapa, normalmente próxima de um rio ou estrada próxima do centro do mapa. Ela será onde o jogo começará. As orientações a seguir podem ajudá-lo a detalhar a cidade base.
 
-# 6. Place Dungeons
+# 6. Insira masmorras
 
-Place one or more dungeons on the map, somewhere in the vicinity of the base town.
+Insira uma ou mais masmorras no mapa, em algum lugar próximo à cidade base.
 
-**Distance**: Dungeons are normally located around a day’s journey from the base town—close enough that travel between the town and the dungeon is convenient, but not so close that the town is plagued by monsters from the dungeon.
+**Distância**: as masmorras estão normalmente localizadas a cerca de um dia de viagem da cidade base - perto o suficiente para tornar viagem entre a cidade e a masmorra conveniente, mas não tão perto para que a cidade  atormentada por monstros da masmorra.
 
-# 7. Create Regional Encounter Tables
+# 7. Crie tabelas de encontros regionais
 
-**Standard tables**: The standard encounter tables from a monster book may be suited to some areas of the campaign map.
+**Tabelas padrão**: as tabelas de encontro padrão de um livro de monstros podem ser adequadas para algumas áreas do mapa da campanha.
 
-**Custom tables**: For other areas, the referee may prefer to create new tables, with a selection of monsters customised to the area. Special encounter tables should take account of the intelligent and monstrous species marked on the map. 
+**Tabelas personalizadas**: para outras áreas, o árbitro pode preferir criar novas tabelas, com uma selação de monstros personalizada para a área. Tabelas de encontro especiais devem levar em conta as especies monstruosas e inteligentes marcadas no mapa.
