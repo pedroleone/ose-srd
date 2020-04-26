@@ -1,83 +1,83 @@
 ---
-title: "Concedendo XP ❌"
+title: "Concedendo XP"
 metaTitle: "Concedendo XP"
 metaDescription: "Mestrando Aventuras -> Concedendo XP"
 ---
 
-All characters who return from an adventure alive receive experience points (XP). XP is gained from two sources: treasure recovered and monsters defeated. 
+Todos os personagens que retornam de uma aventura vivos recebem pontos de experiência (XP). A XP é ganha a partir de duas fontes: tesouros recuperados e monstros derrotados.
 
-# Recovered Treasure
+# Tesouro recuperado
 
-Treasure that PCs bring back from an adventure is the primary means by which they gain XP—usually accounting for ¾ or more of the total XP earned.
+Tesouros que os PdJ trazem de suas aventuras são a principal forma de ganhar XP - representando cerca de 3/4 ou mais da XP total recebida.
 
-**Non-magical treasure**: Characters gain 1 XP per 1 gold piece (gp) value of the treasure.
+**Tesouros não mágicos**: os personagens ganham 1 XP por peça de ouro (po) em valor do tesouro.
 
-**Magical treasure**: Does not grant XP.
+**Tesouro mágico**: não concede XP.
 
-# Defeated Monsters
+# Derrotando monstros
 
-All monsters defeated by the party (i.e. slain, outsmarted, captured, scared away, etc.) grant XP based on how powerful they are. See the table below.
+Todos os monstros derrotados pelo grupo (exemplo, mortos, enganados, capturados, amedrontados etc.) concedem XP baseado no quanto são poderosos. Veja a tabela abaixo.
 
-**Base XP**: The XP value of a monster is determined by its Hit Dice. Monsters whose Hit Dice are notated as a number of dice plus a fixed hit point bonus (e.g. 4+2) are more powerful and are listed separately in the table. For example, a monster with 2 HD is worth 20 XP, but a monster with 2+2 HD is worth 25 XP.
+**XP base**: o valor base de XP de um monstro é determinado pelos seus Dados de Vida. Monstros que tem os seus Dados de Vida registrados como um número mais um número fixo (exemplo 4 +2) são mais poderosos e listados separadamente na tabela. Por exemplo, um monstro com 2 DV concede 20 XP, mas um monstro com 2+2 DV concede 25 XP.
 
-**Bonus XP / ability**: A monster’s XP value is increased for each special ability it has. Special abilities are indicated by asterisks following the monster’s HD rating.
+**Bônus de XP / Habilidade**: O valor de XP concedido por um monstro é aumentada para cada habilidade especial que ele possua. Habilidades especiais são indicadas com asteriscos seguindo os DV da criatura.
 
-**Higher HD monsters**: For each HD above 21, add 250 XP to the Base and Bonus amounts.
+**Monstros com DV maiores**: para cada DV acima do 21, adiciona 250 XP a quantidade base de XP.
 
-**Extraordinary peril bonus**: A monster defeated under especially dangerous circumstances may be treated as one Hit Dice category higher on the table. 
+**Bônus por perigo extraordinário**: um monstro derrotado sob circunstâncias especialmente perigosas pode ser tratado como tendo um DV a mais na tabela. 
 
 +--------------------+-----------------+--------------------------+
-| XP Awards for Defeated Monsters                                 |
-+====================+=================+==========================+
-| **Monster HD**     | **Base XP**     | **Bonus XP / Ability**   |   
+| XP Concedida por derrotar monstros                              |
++====================+============================================+
+|**DV do Monstro**   | **Base XP**     | **XP Bônus / Habilidade**|
 +--------------------+-----------------+--------------------------+
-| Less than 1        | 5               | 1                        |          
+| Menor do que 1     | 5               | 1                        |
 +--------------------+-----------------+--------------------------+
-| 1                  | 10              | 3                        |          
+| 1                  | 10              | 3                        |
 +--------------------+-----------------+--------------------------+
-| 1+                 | 15              | 4                        |          
+| 1+                 | 15              | 4                        |
 +--------------------+-----------------+--------------------------+
-| 2                  | 20              | 5                        |          
+| 2                  | 20              | 5                        |
 +--------------------+-----------------+--------------------------+
-| 2+                 | 25              | 10                       |           
+| 2+                 | 25              | 10                       |
 +--------------------+-----------------+--------------------------+
-| 3                  | 35              | 15                       |           
+| 3                  | 35              | 15                       |
 +--------------------+-----------------+--------------------------+
-| 3+                 | 50              | 25                       |           
+| 3+                 | 50              | 25                       |
 +--------------------+-----------------+--------------------------+
-| 4                  | 75              | 50                       |           
+| 4                  | 75              | 50                       |
 +--------------------+-----------------+--------------------------+
-| 4+                 | 125             | 75                       |           
+| 4+                 | 125             | 75                       |
 +--------------------+-----------------+--------------------------+
-| 5                  | 175             | 125                      |            
+| 5                  | 175             | 125                      |
 +--------------------+-----------------+--------------------------+
-| 5+                 | 225             | 175                      |            
+| 5+                 | 225             | 175                      |
 +--------------------+-----------------+--------------------------+
-| 6                  | 275             | 225                      |            
+| 6                  | 275             | 225                      |
 +--------------------+-----------------+--------------------------+
-| 6+                 | 350             | 300                      |            
+| 6+                 | 350             | 300                      |
 +--------------------+-----------------+--------------------------+
-| 7–7+               | 450             | 400                      |            
+| 7–7+               | 450             | 400                      |
 +--------------------+-----------------+--------------------------+
-| 8–8+               | 650             | 550                      |            
+| 8–8+               | 650             | 550                      |
 +--------------------+-----------------+--------------------------+
-| 9–10+              | 900             | 700                      |            
+| 9–10+              | 900             | 700                      |
 +--------------------+-----------------+--------------------------+
-| 11–12+             | 1,100           | 800                      |            
+| 11–12+             | 1.100           | 800                      |
 +--------------------+-----------------+--------------------------+
-| 13–16+             | 1,350           | 950                      |            
+| 13–16+             | 1.350           | 950                      |
 +--------------------+-----------------+--------------------------+
-| 17–20+             | 2,000           | 1,150                    |              
+| 17–20+             | 2.000           | 1.150                    |
 +--------------------+-----------------+--------------------------+
-| 21–21+             | 2,500           | 2,000                    |               
+| 21–21+             | 2.500           | 2.000                    |
 +--------------------+-----------------+--------------------------+
 
-# Division of Experience
+# Divisão de experiência
 
-The XP awards for treasures recovered and monsters defeated are totalled and divided evenly between all characters who survived the adventure—this includes retainers (see Retainers).
+A XP concedida por tesouros recuperados e monstros derrotados são totalizados e divididos igualmente entre todos os personagens que sobreviveram a aventura - incluindo empregados (ver Empregados).
 
-Awarded XP is always divided evenly, irrespective of how the players decide to divide the treasure.
+A XP concedida é sempre divida igualmente, independente do montante de tesouro que eles dividam entre si.
 
-# Bonuses and Penalties​
+# Bônus e penalidades
 
-The referee may optionally grant XP bonuses to players who did particularly well. Likewise, players who did not do their share of the work may be penalized. 
+O árbitro pode, opcionalmente, conceder XP bônus aos jogadores que se saíram particularmente bem. Da mesma forma, jogadores que não fizeram sua parte no trabalho podem ser penalizados.
