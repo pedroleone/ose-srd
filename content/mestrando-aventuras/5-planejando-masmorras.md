@@ -1,127 +1,127 @@
 ---
-title: "Planejando Masmorras ❌"
+title: "Planejando Masmorras"
 metaTitle: "Planejando Masmorras"
 metaDescription: "Mestrando Aventuras -> Planejando Masmorras"
 ---
 
-# 1. Choose the Setting
-Decide on the basic form and structure of the dungeon (the table below may be used) and begin to consider ideas for the main rooms or areas.
+# 1. Escolha o cenário
+Decida sobre  forma básica e a estrutura da masmorra (a tabela abaixo pode ser usada) e comece a considerar ideias para as salas ou áreas principais.
 
 +--------+-----------------------------------------------------------+
-| Dungeon Setting                                                    |
+| Cenário da Masmorra                                                |
 +========+===========================================================+
-| **d6** | **Setting**                                               |
+| **d6** | **Cenário**                                               |
 +--------+-----------------------------------------------------------+               
-| 1      | Crypt or tomb complex                                     |                        
+| 1      | Cripta ou complexo de tumbas                              |                        
 +--------+-----------------------------------------------------------+
-| 2      | Natural caverns                                           |                  
+| 2      | Cavernas naturais                                         |                  
 +--------+-----------------------------------------------------------+
-| 3      | Settlement (e.g. stronghold, city)                        |                                     
+| 3      | Assentamento (exemplo, fortaleza, cidade)                 |                                     
 +--------+-----------------------------------------------------------+
-| 4      | Subterranean delving (e.g. mine)                          |                                   
+| 4      | Exploração do subterrâneo (exemplo, uma mina)             |                                   
 +--------+-----------------------------------------------------------+
-| 5      | Temple                                                    |         
+| 5      | Templo                                                    |         
 +--------+-----------------------------------------------------------+
-| 6      | Tower or fortification                                    |
+| 6      | Torre ou fortificação                                     |
 +--------+-----------------------------------------------------------+
 
-# 2. Choose Monsters
+# 2. Escolha os monstros
 
-Based on the selected adventure scenario and dungeon setting, decide what types of monsters inhabit the dungeon, choosing from any monster books that are available, creating new monsters specially for the dungeon, or tailoring standard monsters to the location.
+Baseado no cenário escolhido para a aventura e ambiente da masmorra, decida que tipos de monstros moram lá, escolhendo a partir de qualquer livro de monstros que esteja disponível, criando novos monstros especialmente para a masmorra, ou personalizando monstros padrão para a localidade.
 
-# 3. Map the Dungeon
+# 3. O mapa da masmorra
 
-**Overall shape**: The structure of the rooms and connecting passages will be determined by the dungeon setting (e.g. rough cavern walls, carefully laid-out defensive structures, etc.).
+**Formato geral**: a estrutura das salas e as passagens que a conectam serão determinadas pelo cenário da masmorra (exemplo, paredes irregulares de uma caverna, estruturas defensivas cuidadosamente projetadas etc.).
 
-**Mapping scale**: Typically, dungeon maps are drawn on graph paper with a scale of 10’ per square. (Larger or smaller scales may be used as appropriate.)
+**Escala do mapeamento**: normalmente, os mapas das masmorras são desenhados em papel quadriculado com uma escola de 3 m por quadrado. (Escalas maiores ou menores podem ser usadas se apropriado.)
 
-**Numbering**: Give each area (e.g. room or cave) of the dungeon a number, so that the area on the map can easily be cross-referenced with the description of its contents (see step 4).
+**Numerando**: dê a cada área (exemplo, uma sala ou caverna) da masmorra um número, de forma que seja possível cruzar referências rapidamente da área com a descrição do que há nela (veja passo 4).
 
-# 4. Stock the Dungeon
+# 4. Preencha a masmorra
 
-Make notes describing each area on the map that was given a number. Monsters or areas that play an important role in the adventure should be noted first. Areas of less importance may then be stocked (using the guidelines to the right if desired).
+Faça anotações descrevendo cada área no mapa que recebeu um número. Monstros ou áreas que desempenham um papel importante na aventura devem ser descritos primeiro. Áreas de menor importância podem ser deixadas para depois (usando as orientações a seguir).
 
-**Important details**: Monsters (including the possibility of patrols in the area), traps, tricks, treasures, or special magical effects that are present should be noted.
+**Detalhes importantes**: monstros (incluindo a possibilidade de patrulhas na área), armadilhas, truques, tesouros, ou efeitos mágicos especiais que estão presentes, devem ser registrados.
 
-**Secondary details**: Additional descriptive details for each area may also be noted: furnishings, everyday items, smells, sounds, lights, etc.
+**Detalhes secundários**: detalhes descritivos adicionais para cada área também devem ser registrados: móveis, itens do dia a dia, cheiros, sons, luzes etc.
 
-## Dungeon Levels
-Dungeons often consist of a series of deeper and deeper floors—known as levels—accessible by stairways, trap doors, chutes, pits, etc. PCs enter the 1st level of a dungeon initially and may discover entrances to deeper levels.
+## Níveis da masmorra
+As masmorras normalmente consistem de uma série de andares mais e mais profundos - conhecidos como níveis - acessíveis por meio de escadas, alçapões, calhas, poços etc. Os PdJs entram no 1º nível da masmorra inicialmente e podem descobrir entradas para para níveis mais profundos.
 
-## Danger and Reward
-Generally, the level of danger and the amount of treasure in a dungeon should be suitable to the level of the PCs.
+## Perigo e recompensa
+Geralmente, o nível de perigo e a quantidade de tesouro em uma masmorra deve ser apropriada para o nível dos PdJs.
 
-It is usual for lower levels of the dungeon to have greater risks and rewards. Normally, 1 HD monsters live in the 1st level of a dungeon, 2 HD monsters in the 2nd level, and so on.
+É comum para os níveis mais inferiores da masmorra que existam grandes riscos e recompensas. Normalmente, monstros de 1 DV vivem no primeiro nível da masmorra, mostros com 2 DV no segundo nível da masmorra e assim por diante.
 
-## Unguarded Treasure
+## Tesouros desprotegidos
 
-Treasure is usually guarded by monsters or traps, but sometimes an unguarded cache of loot may be found.
+Os tesouros são normalmente guardados por monstros ou armadilhas, mas algumas vezes uma quantidade de tesouro desprotegido pode ser encontrado.
 
-**Experienced players**: When designing dungeons for experienced players, the referee should consider placing only very few completely unguarded treasures.
+**Jogadores experientes**: quando planejar uma masmorra para jogadores experientes, o árbitro deve considerar inserir uma quantidade muito pequena de tesouros completamente desprotegidos.
 
-**Deep dungeon levels**: The referee may wish to not place any unguarded treasures in the 9th or deeper dungeon levels.
+**Níveis profundos da masmorra**: o árbitro pode não querer inserir tesouros desprotegidos em masmorras de nível 9 ou maior.
 
-# Random Room Stocking
+# Sala aleatória 
 
 +--------+-----------------------+-----------------------------------+
-| Random Dungeon Room Contents                                       |
+| Conteúdo das salas aleatórios de masmorras                         |
 +========+=======================+===================================+
-| **d6** | **Contents**          | Chance of Treasure                |             
+| **d6** | **Conteúdo**          | Chance de Tesouro                 |             
 +--------+-----------------------+-----------------------------------+
-| 1–2    | Empty                 | 1-in-6                            | 
+| 1–2    | Vazia                 | 1-em-6                            | 
 +--------+-----------------------+-----------------------------------+
-| 3–4    | Monster               | 3-in-6                            | 
+| 3–4    | Monstro               | 3-em-6                            | 
 +--------+-----------------------+-----------------------------------+
-| 5      | Special               | None                              |
+| 5      | Especial              | Não                               |
 +--------+-----------------------+-----------------------------------+
-| 6      | Trap                  | 2-in-6                            | 
+| 6      | Armadilha             | 2-em-6                            | 
 +--------+-----------------------+-----------------------------------+
-**Monsters**: May be selected by hand or rolled on an encounter table.
+**Monstros**: podem ser selecionados manualmente ou podem ser rolados em uma tabela de encontros.
 
-**Specials**: Weird or magical features of an area, including tricks or puzzles.
+**Especial**: características estranhas ou mágicas na área, incluindo truques ou charadas.
 
-**Traps**: If treasure is present, the trap may be set so that it is triggered when the treasure is tampered with (a treasure trap). Otherwise, the trap may be triggered by simply entering the room or a certain area of it (a room trap).
+**Armadilhas**: se houver um tesouro presente, a armadilha pode ser configurada para ser acionada quando o tesouro for violado (uma armadilha de tesouro). Caso contrário, a armadilha pode ser acionada simplesmente entrando na sala ou em uma determinada área (uma armadilha ambiente).
 
-**Treasure**: If a monster is in the room, roll the treasure type indicated in its description. Otherwise, the treasure depends on the dungeon level (see below).
+**Tesouro**: se um monstro estiver na sala, role o tipo de tesouro indicado na sua descrição. Caso contrário, o tesouro dependerá do nível da masmorra (veja a seguir).
 
-## Example Room Traps
+## Exemplos de armadilha ambiente
 
-1. **Falling block**: Inflicts 1d10 damage (save versus petrification to avoid).
-2. **Gas**: Poisonous gas fills the room (save versus poison or die).
-3. **Mist**: Harmless; looks like poison gas.
-4. **Pit**: Opens up beneath characters’ feet, inflicting falling damage on any who fall in (see Falling).
-5. **Scything blade**: Swings from the ceiling, attacking for 1d8 damage.
-6. **Slide**: Opens up beneath characters’ feet, sending them to a lower level.
+1. **Queda de bloco**: causa 1d10 pontos de dano (teste de resistência contra petrificação para evitar).
+2. **Gás**: gás venenoso preenche a sala (teste de resistência contra veneno ou morte).
+3. **Névoa**: inofensivo; se parece com gás venenoso.
+4. **Poço**: se abre sob os pés dos personagens, causando dano por queda em qualquer um que esteja sobre ele (ver Caindo).
+5. **Lâminas cortantes**: oscilam do teto, atacando e causado 1d8 pontos de dano.
+6. **Deslizamento**: se abre sob os pés dos personagens, mandando-os para o nível inferior.
 
-## Example Treasure Traps
+## Exemplos de armadilhas tesouro
 
-1. **Darts**: 1d6 spring-loaded darts fire at the character, doing 1d4 damage each.
-2. **Flash of light**: Causes blindness for 1d8 turns (save versus spells).
-3. **Hidden monster**: e.g. a snake. Released when the treasure is disturbed.
-4. **Illusion**: Typically of a monster. The monster has AC 9 [10] and vanishes if hit in combat. Its attacks do not inflict real damage: a PC who appears to die just falls unconscious for 1d4 turns.
-5. **Spray**: A mysterious liquid covers the character. Monsters are attracted to the smell: the chance of wandering monsters is doubled for 1d6 hours.
-6. **Sprung needle**: A needle coated with poison jabs out (save vs poison or die).
+1. **Dardos**: 1d6 dardos propelidos por molas acertam o personagem, causando 1d4 pontos de dano cada.
+2. **Clarão de luz**: provoca cegueira por 1d8 turnos (teste de resistência contra magias).
+3. **Monstro escondido**: exemplo, uma cobra. Libertada quando o tesouro é perturbado.
+4. **Ilusão**: tipicamente de um monstro. O monstro tem CA 9 [10] e desaparece se for acertado em combate. Seu ataque não causa dano real: um PdJ que aparentemente morra, apenas ficará inconsciente por 1d4 turnos.
+5. **Borrifo**: um líquido misterioso cobre o personagem. Os monstros são atraídos pelo cheiro: a chance de monstros errantes é dobrada por 1d6 horas.
+6. **Picada de agulha**: uma agulha embebida em veneno pica (teste de resistência contra veneno ou morte).
 
-## Example Specials
+## Exemplos de especiais
 
-1. **Alarms**: Entry alarm that attracts nearby guardians.
-2. **Animating objects**: Inanimate objects that attack if disturbed.
-3. **Falling blocks**: Stone block falls to prevent passage.
-4. **Illusions**: Illusionary passages, doors, or stairways.
-5. **Shifting** architecture: Doors lock and the room rotates, rises, or falls.
-6. **Strange waters**: Pool or fountain with weird, magical effects.
-7. **Teleports**: Magical portal or teleporter to another area of the dungeon.
-8. **Trapdoors**: Leading to a hidden area.
-9. **Voices**: Walls or architectural features speak or moan (e.g. a talking statue).
+1. **Alarmes**: alarme na entrada que atrai guardas próximos.
+2. **Objetos animados**: objetos inanimados que atacam se perturbados.
+3. **Queda de blocos**: blocos de pedra que caem para evitar a passagem.
+4. **Ilusões**: passagens ilusórias, portas ou escadas.
+5. **Mutável** arquitetura: portas se fecham e a sala rotaciona, se eleva ou desce.
+6. **Águas estranhas**: poço ou fonte com efeitos mágicos estranhos.
+7. **Teleporte**: portal mágico ou teleporte para outra área da masmorra.
+8. **Alçapões**: levando para uma área escondida.
+9. **Vozes**: paredes ou elementos arquitetônicos falam ou gemem (exemplo, estátua falante).
 
-## Treasure
+## Tesouro
 
-**Level 1**: 1d6 × 100sp; 50%: 1d6 × 10gp; 5%: 1d6 gems; 2%: 1d6 pieces of jewellery; 2%: 1 magic item.
+**Nível 1**: 1d6 × 100pp; 50%: 1d6 × 10po; 5%: 1d6 gemas; 2%: 1d6 peças de joalheria; 2%: 1 item mágico.
 
-**Level 2–3**: 1d12 × 100sp; 50%: 1d6 × 100gp; 10%: 1d6 gems; 5%: 1d6 pieces of jewellery; 8%: 1 magic item.
+**Nível 2–3**: 1d12 × 100pp; 50%: 1d6 × 100po; 10%: 1d6 gemas; 5%: 1d6 peças de joalheria; 8%: 1 item mágico.
 
-**Level 4–5**: 1d6 × 1,000sp; 1d6 × 200gp; 20%: 1d6 gems; 10%: 1d6 pieces of jewellery; 10%: 1 magic item.
+**Level 4–5**: 1d6 × 1,000pp; 1d6 × 200po; 20%: 1d6 gemas; 10%: 1d6 peças de joalheria; 10%: 1 item mágico.
 
-**Level 6–7**: 1d6 × 2,000sp; 1d6 × 500gp; 30%: 1d6 gems; 15%: 1d6 pieces of jewellery; 15%: 1 magic item.
+**Level 6–7**: 1d6 × 2,000pp; 1d6 × 500po; 30%: 1d6 gemas; 15%: 1d6 peças de joalheria; 15%: 1 item mágico.
 
-**Level 8–9**: 1d6 × 5,000sp; 1d6 × 1,000gp; 40%: 1d12 gems; 20%: 1d12 pieces of jewellery; 20%: 1 magic item. 
+**Level 8–9**: 1d6 × 5,000pp; 1d6 × 1,000po; 40%: 1d12 gemas; 20%: 1d12 peças de joalheria; 20%: 1 item mágico. 
