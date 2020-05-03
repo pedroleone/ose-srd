@@ -34,9 +34,18 @@ Além dos incrementos de tempo (minutos, horas, dias, e assim por diante), as se
 Esta versão traduzida, diferente do original, utilizará o sistema internacional de medidas.
 
 ## Conversão de Distâncias
-100 cm = 1 m
+1 pé = 12 polegadas
 
-1 km = 1.000 m
+1 jarda = 3 pés
+
+1 milha = 1.760 jardas = 5.280 pés
+
+Abaixo, uma conversão aproximada, das unidades imperiais para o sistema métrico:
+
+1 pé = 30 cm
+
+1 milha = 1,5 km
+
 
 ## Peso: Moedas
 A medida do peso costuma entrar em jogo apenas quando se discute quanto os personagens podem carregar (ver Carga, ao lado). Como as moedas são a forma de tesouro mais frequentemente encontrados por aventureiros, todos os pesos são medidos em moedas (dez moedas equivalem a 0,5 kg).
