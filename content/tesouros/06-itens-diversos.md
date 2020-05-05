@@ -1,258 +1,258 @@
 ---
-title: "Itens Diversos ❌"
+title: "Itens Diversos"
 metaTitle: "Itens Diversos"
 metaDescription: "Tesouro -> Itens Diversos"
 ---
 
-Item Descriptions
+Descrição de Itens
 
-Click on the item in the table to read the full description.
+Clique no item na tabela para ler a descrição completa.
 
 +-------------+------------+-------------------------------------------------------------+
-| Miscellaneous Magic Items                                                              | 
+| Itens Mágicos Diversos                                                                 |
 +=============+============+=============================================================+
-| **B: d10**  | **X: d%**  | **Item**                                                    |       
+| **B: d10**  | **X: d%**  | **Item**                                                    |
 +-------------+------------+-------------------------------------------------------------+
 +-------------+------------+-------------------------------------------------------------+
-|             | 1-3        | Amulet of Protection Against Scrying                        |                                   
+|             | 1-3        | Amuleto de Proteção contra Vidência                         |
 +-------------+------------+-------------------------------------------------------------+
-| 1           | 4-5        | Bag of Devouring                                            |               
+| 1           | 4-5        | Bolsa Devoradora                                            |
 +-------------+------------+-------------------------------------------------------------+
-| 2           | 6-11       | Bag of Holding                                              |             
+| 2           | 6-11       | Bolsa de Carga                                              |
 +-------------+------------+-------------------------------------------------------------+
-|             | 12-16      | Boots of Levitation                                         |                  
+|             | 12-16      | Botas da Levitação                                          |
 +-------------+------------+-------------------------------------------------------------+
-|             | 17-21      | Boots of Speed                                              |             
+|             | 17-21      | Botas de Velocidade                                         |
 +-------------+------------+-------------------------------------------------------------+
-|             | 22-26      | Boots of Travelling and Leaping                             |                              
+|             | 22-26      | Botas de Viagar e Saltar                                    |
 +-------------+------------+-------------------------------------------------------------+
-| 3           | 27-31      | Broom of Flying                                             |              
+| 3           | 27-31      | Vassoura Voadora                                            |
 +-------------+------------+-------------------------------------------------------------+
-| 4           | 32-35      | Crystal Ball                                                |           
+| 4           | 32-35      | Bola de Cristal                                             |
 +-------------+------------+-------------------------------------------------------------+
-|             | 36-37      | Crystal Ball with Clairaudience                             |                              
+|             | 36-37      | Bola de Cristal com Clariaudiência                          |
 +-------------+------------+-------------------------------------------------------------+
-|             | 38         | Crystal Ball with ESP                                       |                    
+|             | 38         | Bola de Cristal com Percepção Extrassensorial               |
 +-------------+------------+-------------------------------------------------------------+
-|             | 39-40      | Displacer Cloak                                             |              
+|             | 39-40      | Capa Deslocadora                                            |
 +-------------+------------+-------------------------------------------------------------+
-|             | 41         | Drums of Panic                                              |             
+|             | 41         | Tambores de Pânico                                          |
 +-------------+------------+-------------------------------------------------------------+
-|             | 42         | Efreeti Bottle                                              |             
+|             | 42         | Garrafa Efreeti                                             |
 +-------------+------------+-------------------------------------------------------------+
-|             | 43         | Elemental Summoning Device: Air                             |                              
+|             | 43         | Dispositivo de Invovação Elemental: Ar                      |
 +-------------+------------+-------------------------------------------------------------+
-|             | 44         | Elemental Summoning Device: Earth                           |                                
+|             | 44         | Dispositivo de Invovação Elemental: Terra                   |
 +-------------+------------+-------------------------------------------------------------+
-|             | 45         | Elemental Summoning Device: Fire                            |                               
+|             | 45         | Dispositivo de Invovação Elemental: Fogo                    |
 +-------------+------------+-------------------------------------------------------------+
-|             | 46         | Elemental Summoning Device: Water                           |                                
+|             | 46         | Dispositivo de Invovação Elemental: Água                    |
 +-------------+------------+-------------------------------------------------------------+
-| 5           | 47-56      | Elven Cloak and Boots                                       |                    
+| 5           | 47-56      | Capa e Botas Élficas                                        |
 +-------------+------------+-------------------------------------------------------------+
-|             | 57         | Flying Carpet                                               |            
+|             | 57         | Tapete Voador                                               |
 +-------------+------------+-------------------------------------------------------------+
-| 6           | 58-64      | Gauntlets of Ogre Power                                     |                      
+| 6           | 58-64      | Manoplas do Poder Ogro                                      |
 +-------------+------------+-------------------------------------------------------------+
-|             | 65-66      | Girdle of Giant Strength                                    |                       
+|             | 65-66      | Cinturão da Força Gigante                                   |
 +-------------+------------+-------------------------------------------------------------+
-| 7           | 67-77      | Helm of Alignment Changing                                  |                         
+| 7           | 67-77      | Elmo da Alteração de Alinhamento                            |
 +-------------+------------+-------------------------------------------------------------+
-|             | 78-82      | Helm of Reading Languages and Magic                         |                                  
+|             | 78-82      | Elmo da Leitura de Idiomas e Magia                          |
 +-------------+------------+-------------------------------------------------------------+
-| 8           | 83         | Helm of Telepathy                                           |                
+| 8           | 83         | Elmo da Telepatia                                           |
 +-------------+------------+-------------------------------------------------------------+
-|             | 84         | Helm of Teleportation                                       |                    
+|             | 84         | Elmo do Teletranspore                                       |
 +-------------+------------+-------------------------------------------------------------+
-|             | 85         | Horn of Blasting                                            |               
+|             | 85         | Chifre da Explosão                                          |
 +-------------+------------+-------------------------------------------------------------+
-| 9           | 86-90      | Medallion of ESP 30’                                        |                   
+| 9           | 86-90      | Medalhão da Percepção Extrassensorial 9m                    |
 +-------------+------------+-------------------------------------------------------------+
-|             | 91-93      | Medallion of ESP 90’                                        |                   
+|             | 91-93      | Medalhão da Percepção Extrassensorial 27m                   |
 +-------------+------------+-------------------------------------------------------------+
-|             | 94-94      | Mirror of Life Trapping                                     |                      
+|             | 94-94      | Espelho de Prender Vida                                     |
 +-------------+------------+-------------------------------------------------------------+
-| 10          | 95-97      | Rope of Climbing                                            |               
+| 10          | 95-97      | Corda de Escalada                                           |
 +-------------+------------+-------------------------------------------------------------+
-|             | 98-00      | Scarab of Protection                                        |                   
+|             | 98-00      | Escaravelho de Proteção                                     |
 +-------------+------------+-------------------------------------------------------------+
 
 
-**Usage**: All characters (unless noted).
+**Uso**: Todos os personagens (a manos que indicado).
 
-**Activating**: Unless an item’s description states otherwise, it may be used any number of times per day and is activated by concentration. 
+**Ativando**: A menos que a descrição de um item indique o contrário, ele pode ser usado várias vezes por dia e é ativado por concentração.
 
-# Amulet of Protection Against Scrying
-An amulet that provides protection from remote viewing and mind-reading.
-* **Crystal balls**: The person wearing this amulet cannot be viewed in a crystal ball.
-* **ESP**: The wearer is immune to all forms of ESP.
+# Amuleto de Proteção contra Vidência
+Um amuleto que fornece proteção contra visualização remota e leitura da mente.
+* **Bolas de Cristal**: A pessoa que usa este amuleto não pode ser vista em uma bola de cristal.
+* **Percepção Extrassensorial**: O usuário fica imune a todas as formas de Percepção Extrassensorial.
 
-# Bag of Devouring
-A normal-looking, small sack that devours objects placed inside it.
-* **Objects**: Anything placed inside the bag vanishes from existence after 1d6+6 turns.
-* **Living creatures**: May be affected, but only if the entire creature fits inside the bag.
+# Bolsa Devoradora
+Uma bolsa pequena de aparência normal que devora objetos colocados dentro dele.
+* **Objetos**: Tudo o que é colocado dentro da bolsa desaparece após 1d6+6 turnos.
+* **Criaturas vivas**: Podem ser afetadas, mas apenas se a criatura inteira couber na bolsa.
 
-# Bag of Holding
-A normal-looking small sack that can magically hold large objects and weights.
-* **Size**: Objects of up to 10’×5’×3’ can fit inside the bag.
-* **Weight**: Up to 10,000 coins of weight can be placed in the bag.
-* **When full**: The bag weighs 600 coins.
+# Bolsa de Carga
+Uma bolsa pequena de aparência normal que pode guardar magicamente objetos e cargas.
+* **Tamanho**: Objetos de até 3m x 1,5m x 90cm podem ser colocados dentro da bolsa.
+* **Peso**: Até 10,000 moedas de peso podem ser colocadas dentor da bolsa.
+* **Quando estiver cheia**: A bolsa pesa 600 moedas.
 
-# Boots of Levitation
-The wearer is able to move up and down through the air at will.
-* **Vertical**: The caster mentally directs vertical movement at up to 20’ per round.
-* **Horizontal**: The caster can push against solid objects to move laterally.
-* **Weight**: A normal amount of weight can be carried while levitating.
-* **Usage**: The enchantment may be used without limit of frequency or duration.
+# Botas da Levitação
+O usuário é capaz de se mover pra cima e pra baixo pelo ar à vontade.
+* **Vertical**: O usuário direciona mentalmente o movimento vertical em até 6m por rodada. 
+* **Horizontal**: O usuário pode se empurrar apoiando-se em objetos sólidos para se mover lateralmente.
+* **Peso**: Uma quantidade normale de peso pode ser carregada enquanto estiver levitando.
+* **Uso**: O encantamento pode ser usado sem o limite de vezes ou duração.
 
-# Boots of Speed
-The wearer is able to move at up to 240’ (80’)—the speed of a riding horse.
-* **Duration**: This can be maintained for up to 12 hours.
-* **Rest**: Afterwards, the wearer must rest for 1 day.
+# Botas de Velocidade
+O usuário é capaz de se mover até 72m (24m) — a velocidade de um cavalo de montaria. (
+* **Duração**: Esse efeito pode ser mantido por até 12 horas.
+* **Descanso**: Depois disso, o usuário deve descansar por 1 dia.
 
-# Boots of Travelling and Leaping
-The wearer is able to travel without tiring and leap great distances.
-* **Tirelessness**: The normal need for rest when travelling may be ignored (see Wilderness Adventuring, p110).
-* **Jumping**: The wearer can leap up to 10’ high and 30’ horizontally.
+# Botas de Viagar e Saltar
+O usuário é capaz de viajar sem se cansar e saltar grandes distâncias.
+* **Incansabilidade**: A necessidade de descanso normal quando se está viajando pode ser ignorada (veja Aventuras nos Ermos, p110).
+* **Pulando**: O usuário pode saktar até 3m (10') de altura e 9m (30') horizontalmente.
 
-# Broom of Flying
-A broom that can be commanded to fly, carrying the owner aloft.
-* **Speed**: The broom flies at 240’ (80’).
-* **Passengers**: An additional passenger may be carried. When carrying two people, the broom’s speed is 180’ (60’).
+# Vassoura Voadora
+Uma vassoura que pode ser comandada a voar, carregando o proprietário consigo.
+* **Velocidade**: A vassoura voa a 72m/240’ (24m/80’).
+* **Passageiros**: Um passageiro adicional pode ser transportado. Quando estiver carregando duas pessoas, a velocidade da vassoura é 54m/180' (18m/60').
 
-# Crystal Ball
-Allows an arcane spell caster to view any place or object that is brought to mind:
-* **Duration**: The vision lasts for one turn.
-* **Clarity**: The clarity of the vision is dependant on the scryer’s familiarity with the subject.
-* **Usage frequency**: A crystal ball may be used at most 3 times a day.
-* **Casting spells**: It is not possible to cast spells through a crystal ball into the viewed scene.
+# Bola de Cristal
+Permite que um usuário de magia veja qualquer lugar ou objeto que ele traga à mente:
+* **Duração**: A visão dura por um turno.
+* **Clareza**: A clareza da visão depende da familiaridade do examinador com o assunto.
+* **Frequência de uso**: Uma bola de cristal pode ser usada no máximo 3 vezes por dia.
+* **Conjurar magias**: Não é possível conjurar magias através da bola de cristal para a cena vista.
 
-# Crystal Ball With Clairaudience
-The scryer can hear, as well as see, the desired scene.
+# Bola de Cristal com Clariaudiência
+O vidente pode ouver, além de ver, a cena desejada.
 
-# Crystal Ball With ESP
-Allows the scryer to spy on the thoughts of creatures viewed in the crystal ball:
-* **Reading thoughts**: The thoughts of a single creature viewed through the crystal ball may be read.
-* **Meaning**: The scryer understands the meaning of all thoughts even if they do not share the creature’s language.
-* **Obstructions**: The ability to perceive thoughts is obstructed by a thin layer of lead or by rock of 2’ thick or greater.
+# Bola de Cristal com Percepção Extrassensorial
+Permite ao vidente espionar os pensamentos de criaturas vistas na bol de cristal:
+* **Lendo pensamentos**: Apenas os pensamentos de uma única criatura vista através da bola podem ser lidos.
+* **Significado**: O vidente entende o significado de todos os pensamentos, mesmo se ele não entende o idioma da criatura.
+* **Obstruções**: A habilidade de perceber pensamentos é obstruída por uma pequena camada de chumbo ou rocha de 60cm ou maior.
 
-# Displacer Cloak
-A cloak that bends light, making one who wears it appear to be 5’ away from their true location.
-* **Save bonus**: The wearer gains a +2 bonus to saving throws against petrification, rods, spells, staves, and wands.
-* **Melee attacks**: Against the wearer are penalised by –2.
+# Manto Deslocador
+Um manto que dobra a luz, fazendo que quem o veste pareça estar 1,5m metro mais longe da sua verdadeira localização.
+* **Bônus em Testes de Resistência**: O usuário recebe um bônus de +2 para testes de resistência contra petrificação, cajados, magias, bastões, e varinhas.
+* **Ataques corpo-a-corpo**: Contra o usuário são penalizados com -2.
 
-# Drums of Panic
-Large war drums that induce panic in those who hear their sound.
-* **Range**: Creatures up to 240’ away, are affected, when the drums are played. Those within 10’ of the drums are not affected.
-* **Affected creatures**: Are afflicted by the drums’ enchantment of fear: they must save versus spells or make a morale check with a –2 penalty (if the optional morale rules are being used—see Morale, p123).
-* **Effects**: Creatures that fail the saving throw or morale check flee from the sound of the drums at full running speed for 30 rounds.
+# Tambores de Pânico
+Tambores de guerra grandes que induzem pânico àqueles que ouvem seu som.
+* **Alcance**: Criaturas até 72m de distância, são afetadas, quando os tambores são tocados. Aqueles que estiverem dentro de 3m dos tambores não são afetados.
+* **Criaturas Afetadas**: São afligidas pelo encatamento de medo dos tambores: elas devem fazer um teste de resistência contra magias ou fazer um teste de moral cm uma penalidade de -2 (se a regra opcional de Moral estiver sendo usada — veja Moral, p123).
+* **Efeitos**: Criaturas que falhem no testes de resistência ou moral, fogem do som dos tambores com toda sua velocidade de deslcoamento por 30 rodadas.
 
-# Efreeti Bottle
-A 3’ tall, weighty jug with a sealed stopper. Breaking the seal and removing the stopper releases a trapped efreeti (see p157), who will serve the character.
-* **Frequency of service**: The efreeti will serve the one who freed it (and only that character) once per day.
-* **Duration**: After 101 days, its service ends. The creature then returns to its home—the legendary City of Brass.
-* **If the efreeti is killed**: Its service ends.
+# Garrafa Efreeti
+Um jarro pesado de 1 metro selado com uma rolha. Quebrar o selo e remover a rolha liberam o Efreeti preso (veja p157), que irá servir ao personagem.
+* **Frequência do serviço**: O efreeti servirá aquele que o libertou )e apenas esse personagem) uma vez por dia.
+* **Duração**: Depois de 101 dias, seus serviços se encerram.. A criatura retorna então para sua casa — a lendária Cidade de Latão.
+* **Se o efreeti for morto**: Seu serviço se encerra.
 
-# Elemental Summoning Device
-Ritual items enchanted with the power to summon beings from the elemental planes. Each elemental plane has a different type of device:
-* **Air**: A censer.
-* **Earth**: A 6” diameter stone.
-* **Fire**: A brazier.
-* **Water**: A 3’ diameter bowl.
+# Dispositivo de Invocação Elemental
+Itens ritualísticos encantados com o poder de invocar seres dos planos elementais. Cada plano elemental tem um tipo diferente de dispositivo:
+* **Ar**: Um incensário.
+* **Terra**: Uma pedra com 15 cm de diâmetro.
+* **Fogo**: Um braseiro.
+* **Água**: Uma bacia de 90cm de diâmetro.
 
-**Usage**: The items may be used as follows:
+**Uso**: Os itens podem ser usados da seguinte forma:
 
-* **Frequency**: The summoning power may only be used once per day.
-* **Before use**: The device must be prepared. This takes one turn.
-* **Activation**: Once prepared, activating the device takes one round.
-* **Summoned elemental**: A 12 HD elemental (see p158) is conjured to do the summoner’s bidding.
-* **Command over the elemental**: Works as described in the magic-user spell conjure elemental (see p90).
+* **Frequência**: O poder de invocação só pode ser usado uma vez por dia.
+* **Antes do uso**: O dispositivo deve ser preparado. Isso demora um turno.
+* **Ativação**: Uma vez preparado, ativar o dispositivo leva uma rodada.
+* **Elemental invocado**: Um elemetal de 12 DV (veja p158) é conjurado a fazer o pedido do invocador.
+* **Comandos sobre o elemental**: Funcioname de acordo com o descrito na magia Conjurar Elemental do Usuário de Magia (veja p90).
 
-# Elven Cloak and Boots
-A set of enchanted boots and a matching cloak, of elven origin.
-* **Stealth**: The wearer of the boots is able to move silently.
-* **Near invisibility**: The wearer of the cloak is rendered almost invisible: there is only a 1-in-6 chance of them being spotted.
-* **Attacking**: The cloak’s power of invisibility is nullified for one turn, if the wearer attacks.
+# Capa e Botas Élficas
+Um conjunto de botas encantadas e uma capa que combina, de origem élfica.
+* **Furtividade**: Quem veste as botas é capaz de se mover sileciosamente.
+* **Quase invisibilidade**: O usuário da capa fica quase invisível: existe apenas a chance de 1-em-6 da pessa ser vista.
+* **Atacando**: O poder de invisibilidade da capa é anulado por um turno, se o usuário atacar.
 
-# Flying Carpet
-An enchanted carpet that can fly through the air, carrying up to three passengers (and their gear). The movement rate depends on the number of passengers:
-* 1 passenger: 300’ (100’).
-* 2 passengers: 240’ (80’).
-* 3 passengers: 180’ (60’).
+# Tapete Voador
+Um tapete encantado que pode voar pelo ar, carregando até três passageiros (e seus equipamentos) A taxa de movimentação do tapete depende do número de passageiros:
+* 1 passageiro: 90m (30m)
+* 2 passageiros: 72m (24m)
+* 3 passageiros: 54m (18m)
 
-# Gauntlets of Ogre Power
-A character who wears these gauntlets has a Strength score of 18. This grants all the usual bonuses, including:
-* **Melee attacks**: +3 bonus to attack and damage rolls, in melee.
-* **Unarmed attacks**: Deal 1d2+3 damage.
+# Manoplas do Poder Ogro
+Um personagem que use essas manoplas fica com o valor de Força de 18.  Isso lhe concede todos os bônus usuais, incluindo:
+* **Ataques corpo-a-corpo**: +3 de bônus para atacar e em rolagens de dano, em jogadas corpo-a-corpo.
+* **Ataques desarmados**: Causa 1d2+3 de dano.
 
-**Encumbrance**: If using the optional rules for detailed encumbrance (see Time, Weight, Movement, p102):
-* **Extra weight**: The character’s ability to carry weight is increased by 1,000 coins. (i.e. the character can carry 1,400 coins without becoming encumbered.)
+**Carga**: Se estiver usando as regras detalhadas de Carga (veja Tempo, Peso, Movimento, p102):
+* **Carga Extra**: A capacidade do personagem para carregar peso é aumentada em 1,000 moedas. (i.e. o personagem pode carregar 1,400 moedas sem ficar sobrecarregado.)
 
-# Girdle of Giant Strength
-A character who wears this girdle gains the strength of a hill giant.
-* **Combat ability**: The wearer’s ability in combat is augmented: the character attacks as an 8 Hit Dice monster. (If the character already has better attack probabilities, the girdle does not alter these.)
-* **Damage**: The wearer inflicts 2d8 damage in combat, or twice normal damage, if using the optional variable weapon damage rules (see Combat, p120).
+# Cinturão da Força Gigante
+Um personagem que usar esse cinturão recebe a força de um gigante da colina.
+* **Habilidade em Combate**: A habilidade em combate do usuário é aumentada: o personagem ataque como se fosse um monstro de 8 Dados de Vida. (se o personagem já tiver melhores probabilidades para o ataque, o cinturão não as afeta.)
+* **Dano**: O usuário inflinge 2d8 de dano em combate, ou duas vezes o dano normal, se estiver usando as regras opcionais de dano variável (veja Combate, p120).
 
-# Helm of Alignment Changing
-A beautifully crafted but cursed helmet.
-* **Putting** on the helmet: Instantly causes the wearer’s alignment to change. The new alignment is determined at random.
-* **Removing**: The curse is such that the wearer cannot remove the helmet, once in place, and will resist attempts to remove it.
-* **Dispelling**: The curse can be removed by magic (e.g. remove curse), or (at the referee’s option) by performing a special quest.
+# Elmo da Alteração de Alinhamento
+Um elmo lindamente trabalhado, mas amaldiçoado.
+* **Colocando** o elmo: faz com que o alinhamento do usuário mude instantâneamento. O novo alinhamento é determinado aleatóriamente.
+* **Removendo**: A maldição funciona de forma que o usuário não consegue remover o elmo, uma vez colocado, e resistirá a tentativas de removê-lo.
+* **Dissipando a magia**: A maldição pode ser removida por magia (por exemplo, remover maldição), ou (se o árbitro quiser) executando uma missão especial.
 
-# Helm of Reading Languages and Magic
-A fragile helmet that grants the wearer the ability to read writing of all kinds.
-* **Normal text**: Text in any language can be understood.
-* **Magical text**: Even magical writing is comprehensible. (This does not grant the ability to cast spells, however.)
-* **Fragility**: Each time the wearer is hit, there is a 1-in-10 chance of the helm being destroyed. If the wearer is killed, the helm is destroyed.
+# Elmo da Leitura de Idiomas e Magia
+Um elmo frágil que garante ao usuário a capacidade de ler escritos de todos os tipos.
+* **Textos normais**: Textos em qualquer idioma podem ser entendidos.
+* **Textos mágicos**: Até mesmo escrita mágica é compreensível. (Entretanto, isso não concede a capacidade de conjudar magias.)
+* **Fragilidade**: Toda vez que o usuário é atingido, existe uma chance de 1-em-10 do elmo ser destruído. Se o usuário for morto, o elmo é destruído.
 
-# Helm of Telepathy
-A beautifully crafted helmet that grants the magical ability of telepathy: reading and sending thoughts.
-* **Range**: The range of the power is 90’.
-* **Concentration**: To read a creature’s thoughts, the wearer must remain still and concentrate on that creature.
-* **Comprehension**: The creature’s thoughts are made comprehensible to the wearer of the helm.
-* **Bidirectional communication**: The wearer may initiate bidirectional, telepathic communication, though the creature is not compelled to respond.
+# Elmo da Telepatia
+Um elmo lindamente trabalhado que garante ao usuário a capacidade de telepatia: ler e enviar pensamentos.
+* **Alcance**: O alcance do poder é de 27m.
+* **Concentração**: Para ler os pensamentos de uma criatura, o usuário deve permanecer quieto e se concentrar na criatura.
+* **Compreensão**: Os pensamentos da criatura se tornam compreensível para o usuário do elmo.
+* **Comunicação bidirecional**: O usuário pode iniciar uma comunicação bidirecional telepática, embora a criatura alvo não seja compelida a responder.
 
-# Helm of Teleportation
-A magical helm that gives an arcane spell caster the ability to cast the teleport spell (see p93).
-* **Subject**: The wearer may teleport themselves, another creature, or an object.
-* **Resisting**: If used on another creature or object, a save versus spells is allowed to resist being teleported.
-* **When first found**: The helm’s power is usable only once.
-* **Recharging**: To be used again, a teleport spell must be cast upon the helm.
-* **Once recharged**: The wearer may use the helm an unlimited number of times (at most once per round). If the helm is used on an unwilling subject, it once again loses its power and must be recharged, as above, to be used again.
+# Elmo do Teletranspore
+Um elmo mágico que dá ao conjurador usuário de magia a capacidade de conjurar a magia teleporte (ver p93).
+* **Sujeitos**: O usuário pode teleportar a si mesmo, outras criaturas, ou um objeto.
+* **Resistindo**: Se usado em outra criatura ou objeto, um teste de resistência contra magias pode ser feito para resistir ao teleporte.
+* **Ao ser encontrado**: O poder do elmo só é utilizável uma vez.
+* **Recarregando**: Para ser usado novamente, uma magia de teleporte deve ser conjurada no elmo.
+* **Uma vez recarregado**: O usuário pode usar o elmo por uma quantidade ilimitada de vezes (no máximo uma vez por rodada). Se o elmo for usado em um sujeito que não está predisposto, o elmo perde seus poderes novamente e deve ser recarregado, como descrito acima, para ser usado novamente.
 
-# Horn of Blasting
-A horn that can be blown to release a blast of destructive noise.
-* **Creatures**: Within a 100’ long cone (20’ wide at the end) suffer 2d6 damage.
-* **Deafness**: Affected creatures are also deafened for one turn (save versus spells to avoid).
-* **Buildings**: At the referee’s discretion, the horn may also be able to damage objects and buildings (e.g. a single blast might be enough to destroy a simple cottage; a 10’ section of castle wall might require three blasts).
-* **Frequency**: The horn may be used once per turn.
+# Chifre da Explosão
+Um chifre que pode ser tocado para liberar uma explosão destrutiva de barulho.
+* **Criaturas**: Dentro de um cone de 30m de comprimento (6m de largura no fim) sofrem 2d6 de dano.
+* **Surdez**Criaturas afetadas também ficam surdas por um turno (teste de resistência contra magias para evitar).
+* **Construções**: A critério do árbitro, o barulho também pode danificar objetos e edifícios (por exemplo, uma única explosão pode ser suficiente para destruir uma casa simples; já uma seção de 3 metros de uma muralha de castelo pode exigir três explosões)
+* **Frequência **: O barulho pode ser usado uma vez por turno.
 
-# Medallion of ESP 30’
-A medallion on a chain, enchanted with the power of reading thoughts.
-* **Focus**: By concentrating for 1 round, the wearer may target a creature within 30’.
-* **Resisting**: At the referee’s option, the target may save versus spells to resist.
-* **Concentration**: While reading thoughts, the wearer may move, but cannot cast spells or attack.
-* **Misfires**: The medallion is not entirely reliable. Per usage, there is a 1-in-6 chance of it misfiring, instead sending the wearer’s thoughts to all within 30’.
+# Medalhão da Percepção Extrassensorial 9m
+Um medalhão em uma corrente, encantado com o poder de ler os pensamentos.
+* **Foco **: Ao se concentrar por 1 rodada, o usuário pode selecionar uma criatura dentro de 9m como alvo.
+* **Resistindo**: Á critério do árbitro, o alvo pode fazer um teste de resistência contra magias para tentar resistir.
+* **Concentração**: Enquanto estiver lendo pensamentos, o usuário pode se mover, mas não pode conjurar magias ou atacar.
+* **Imprecisões**: O medalhão não é completamente confiável. A cada uso, existe uma chande de 1-em-6 de ele errar o alvo, enviando então os pensamentos do usuário para todos dentro de 9 metros.
 
-# Medallion of ESP 90’
-A medallion on a chain, enchanted with the power of reading thoughts. This works in the same way as the magic-user spell ESP (see p81).
+# Medalhão da Percepção Extrassensorial 27m
+Um medalhão em uma corrente, encantado com o poder de ler os pensamentos. Esse item funciona da mesma forma que a magia de Percepção Extrassensorial do Usuário de Magia (veja p81)
 
-# Mirror of Life Trapping
-A mirror with the ability to magically trap living creatures behind its pane.
-* **Gazing into the mirror**: Any creature of human size or smaller who gazes into the mirror is sucked inside (save versus spells to resist), with all its belongings.
-* **Capacity**: Up to 20 creatures can be trapped in the mirror. When this number is reached, it becomes safe to look into the mirror.
-* **Inside the mirror**: A creature will live indefinitely, without the need for air or sustenance, and unaffected by ageing.
-* **Communication**: Trapped creatures may converse with those outside, but are utterly powerless.
-* **Breaking the mirror**: Releases those trapped.
+# Espelho de Prender Vida
+Um espelho com a capacidade de magicamente aprisionar criaturas vivas atrás de seu vidro.
+* **Olhar no espelho**: Qualquer criatura de tamanho humano ou menor que olhe dentro do espelho é puxada para dentro (teste de resistência contra magias para tentar resistir), assim como todos os seus pertences.
+* **Capacidade**: Até 20 criaturas podem ser aprisionadas no espelho. Quando esse número é atingido, torna-se seguro olhar para o espelho.
+* **Dentro do espelho**: Uma criatura vai viver indefinidamente, sem precisar de ar ou alimentação, também não sendo afetada por envelhecimento.
+* **Comunicação**: Criaturas aprisionadas podem conversar com aquelas do lado de fora, mas são completamente impotentes.
+* **Quebrar o espelho**: Liberta aqueles que estão aprisionados.
 
-# Rope of Climbing
-A coil of thin, strong rope, 50’ in length.
-* **Commanding**: The owner may command it to climb in any direction.
-* **Attaching**: The rope can also be commanded to attach to a surface.
-* **Load**: Up to 10,000 coins of weight can be suspended from the rope.
+# Corda de Escalada
+Um rolo de corda fina, mas forte, contendo a extensão de 15m.
+* **Comando**: O proprietário pode comandar que a corda escale em qualque direção.
+* **Segurando**: A corda também pode ser comandada para se segurar em uma superfície.
+* **Carga**: Até 10,000 moedas de peso podem ser suspendidas pela corda.
 
-# Scarab of Protection
-Protects the bearer from baleful magic.
-* **Curses**: Of all kinds are nullified.
-* **Finger of death**: (see p75) is nullified.
-* **Charges**: The scarab’s enchantment works 2d6 times before it is spent.
+# Escaravelho de Proteção
+Protege o portador de magia maligna.
+* **Maldições**: De todos os tipos são anuladas
+* **Dedo da morte**: (veja p75) é anulado.
+* **Cargas**: O encanto do escaravelho funciona 2d6 vezes antes que de parar de funcionar.
