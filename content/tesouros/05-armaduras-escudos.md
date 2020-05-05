@@ -4,82 +4,82 @@ metaTitle: "Armaduras e Escudos"
 metaDescription: "Tesouro -> Armaduras e Escudos"
 ---
 
-Armour and Shields
-Jump to:navigation, search
+Armaduras e Escudos
+Ir para: navegação, pesquisa
 
-Usage: Per normal class restrictions.
+Uso: Por restrições normais de classe.
 +------------+------------+-----------------------------------------------+
 | **B: d4**  | **X: d%**  | **Item**                                      |
 +------------+------------+-----------------------------------------------+
-| 1          | 1-15       | Armour +1                                     |
+| 1          | 1-15       | Armadura +1                                   |
 +------------+------------+-----------------------------------------------+
-| 2          | 16-25      | Armour +1, Shield +1                          |           
+| 2          | 16-25      | Armadura +1, Escudo +1                        |
 +------------+------------+-----------------------------------------------+
-|            | 26-27      | Armour +1, Shield +2                          |           
+|            | 26-27      | Armadura +1, Escudo +2                        |
 +------------+------------+-----------------------------------------------+
-|            | 28         | Armour +1, Shield +3                          |           
+|            | 28         | Armadura +1, Escudo +3                        |
 +------------+------------+-----------------------------------------------+
-|            | 29-33      | Armour +2                                     |
+|            | 29-33      | Armadura +2                                   |
 +------------+------------+-----------------------------------------------+
-|            | 34-36      | Armour +2, Shield +1                          |           
+|            | 34-36      | Armadura +2, Escudo +1                        |
 +------------+------------+-----------------------------------------------+
-|            | 37-41      | Armour +2, Shield +2                          |           
+|            | 37-41      | Armadura +2, Escudo +2                        |
 +------------+------------+-----------------------------------------------+
-|            | 42         | Armour +2, Shield +3                          |           
+|            | 42         | Armadura +2, Escudo +3                        |
 +------------+------------+-----------------------------------------------+
-|            | 43-45      | Armour +3                                     |
+|            | 43-45      | Armadura +3                                   |
 +------------+------------+-----------------------------------------------+
-|            | 46         | Armour +3, Shield +1                          |           
+|            | 46         | Armadura +3, Escudo +1                        |
 +------------+------------+-----------------------------------------------+
-|            | 47         | Armour +3, Shield +2                          |           
+|            | 47         | Armadura +3, Escudo +2                        |
 +------------+------------+-----------------------------------------------+
-|            | 48         | Armour +3, Shield +3                          |           
+|            | 48         | Armadura +3, Escudo +3                        |
 +------------+------------+-----------------------------------------------+
-|            | 49-51      | Cursed Armour -1                              |       
+|            | 49-51      | Armadura Amaldiçoada -1                       |
 +------------+------------+-----------------------------------------------+
-|            | 52-53      | Cursed Armour -2                              |       
+|            | 52-53      | Armadura Amaldiçoada -2                       |
 +------------+------------+-----------------------------------------------+
-|            | 54         | Cursed Armour -2 with Shield +1               |                      
+|            | 54         | Armadura Amaldiçoada -2 com Escudo +1         |
 +------------+------------+-----------------------------------------------+
-| 3          | 55-56      | Cursed Armour, AC 9 [10]                      |               
+| 3          | 55-56      | Armadura Amaldiçoada, AC 9 [10]               |
 +------------+------------+-----------------------------------------------+
-|            | 57-62      | Cursed Shield -2                              |       
+|            | 57-62      | Escudo Amaldiçoado -2                         |
 +------------+------------+-----------------------------------------------+
-|            | 63-65      | Cursed Shield, AC 9 [10]                      |               
+|            | 63-65      | Escudo Amaldiçoado, AC 9 [10]                 |
 +------------+------------+-----------------------------------------------+
-| 4          | 66-85      | Shield +1                                     |
+| 4          | 66-85      | Escudo +1                                     |
 +------------+------------+-----------------------------------------------+
-|            | 86-95      | Shield +2                                     |
+|            | 86-95      | Escudo +2                                     |
 +------------+------------+-----------------------------------------------+
-|            | 96-00      | Shield +3                                     |
+|            | 96-00      | Escudo +3                                     |
 +------------+------------+-----------------------------------------------+
 
-# Type of Armour
+# Tipo de Armadura
 
-The referee may choose the type of armour in a treasure hoard, or may roll on the following table:
+O árbitro pode escolher o tipo de armadura em um montante de tesouro, ou pode rolar na seguinte tabela:
 
 +---------+------------------------------------+
-| **d8**  | **Type of Armour**                 |
+| **d8**  | **Tipo de Armadura**               |
 +---------+------------------------------------+
-| 1-2     | Leather                            | 
+| 1-2     | Couro                              |
 +---------+------------------------------------+
-| 3-6     | Chainmail                          |   
+| 3-6     | Cota de Malha                      |
 +---------+------------------------------------+
-| 7-8     | Plate mail                         |   
+| 7-8     | Cota de Placas                     |
 +---------+------------------------------------+
 
-# Cursed Armour and Shields
+# Armaduras Almaldiçoadas e Escudos
 
-**AC penalty**: Some types of cursed armour specify an Armour Class penalty. This modifier worsens the wearer’s Armour Class score. For example, a cursed suit of chainmail –1 grants a base Armour Class of 6 [13], one point worse than the AC 5 [14] of non-magical chainmail.
+**Penalidade na CA**: Alguns tipos de armadura amaldiçoadas especificam uma penalidade de Classe de Armadura. Esse modificador piora o valor da Classe de Armadura. Por exemplo, um conjunto amaldiçoado de cota de malha -1 concece uma Classe de Armadura base de 6 [13], um ponto pior que a CA 5 [14] de cotas de malha não mágicas.
 
-**AC 9 [10]**: Some types of cursed armour give the wearer a base Armour Class of 9 [10] (before modifiers due to Dexterity).
+**CA 9[10]**: Algunst tipos de armadura amaldiçoada dá ao usuário uma Classe de Armadura base de 9 [10] (antes de aplicar os modificadores de Destreza).
 
-**Testing**: All types of tests indicate that a cursed shield or suit of armour is enchanted with a +1 bonus. It is only when the armour is used in deadly combat that the curse is revealed.
+**Testando**: Todos os tipos de teste indicam que um escudo ou conjunto de armadura amaldiçoados estão encantados com um bônus de +1. A maldição se revela apenas quando a armadura é usada em uma situação de combate mortal.
 
-**Removing**: Once a cursed shield or suit of armour has been used, the character comes under the curse and is not able to discard the item. It can only be removed with magic.
+**Removendo**: Uma vez que um escudo ou conjunto de armadura amaldiçoada sejam usados, o personagem está sob a maldição e não pode descartar o item. Ele só pode ser removido com magia.
 
-# Enchanted Armour and Shields
+# Armaduras e Escudos Encantados
 
-**AC bonus**: Enchanted armour and shields specify a protective bonus that improves the wearer’s Armour Class score. For example, a suit of chainmail +1 grants a base Armour Class of 4 [15], one point better than the AC 5 [14] of non-magical chainmail.
+**Bônus de CA**: Escudos e Armaduras encantados concedem um bônus protetor que aumentam o valor da Classe de Armadura do usuário. Por exemplo, um conjunto de cota de malha +1 concece uma Classe de Armadura base de 4 [15], um ponto melhor que a CA 5 [14] de cotas de malha não mágicas.
 
-**Weight**: When using option 2 of the encumbrance rules (see Encumbrance), the enchanted armour’s encumbrance value is 50% less than that of normal armour. 
+**Peso**: Ao usar a opção 2 das regras de carga (veja Carga), o valor do peso de carga da armadura encantada é 50% menor do que o normal pra armadura.
