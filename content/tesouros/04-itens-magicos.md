@@ -1,5 +1,5 @@
 ---
-title: "Itens Mágicos ❌"
+title: "Itens Mágicos"
 metaTitle: "Itens Mágicos"
 metaDescription: "Tesouro -> Itens Mágicos"
 ---
