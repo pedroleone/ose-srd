@@ -30,7 +30,6 @@ Probabilidades separadas estão listadas na tabela para personagens de nível B�
 É recomendado que as probabilidades usadas estejam adequadas ao nível de experiência do grupo. De forma alternativa, se o árbitro preferir distribuir uniformemente os itens,  indenpedente do nível do personagem, as probabilidades do Especialista podem ser usadas sempre.
 
 +------------+------------+----------------------------+
-
 | Tipo de Item Mágico                                  |
 +============+============+============================+
 | **B: d%**  | **X: d%**  | Tipo de Item               |
