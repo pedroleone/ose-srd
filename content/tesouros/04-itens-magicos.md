@@ -4,83 +4,83 @@ metaTitle: "Itens Mágicos"
 metaDescription: "Tesouro -> Itens Mágicos"
 ---
 
-Magic items are usually classified according to one of the categories listed below. General information about each category of magic item is provided in the following pages. Specific details on individual magic items are found in the genre-specific treasures book that is in use.
+Itens mágicos são geralmente classificados de acordo com uma das categorias listadas abaixo. Informações gerais sobre cada categoria de item mágico são fornecidas nas páginas a seguir. Detalhes sobre os itens mágicos específicos são encontrados no livro de tesouros do gênero que está sendo usado.
 
-* **Armour** and shields: Grant protective benefits to the user.
-* **Miscellaneous** items: Enchanted items that do not fit into any other category.
-* **Potions**: Magical liquids stored in glass vials.
-* **Rings**: Plain or bejewelled rings that place an enchantment about the wearer.
-* **Rods** / staves / wands: Magical lengths of wood, metal, crystal, etc. Used by spell casters to unleash magical effects.
-* **Scrolls and maps**: Aged sheets of parchment or paper inscribed with either magical script or instructions leading to a treasure hoard. Note that treasure maps are rolled on the magic items table, although they are not usually magical.
-* **Swords**: Grant bonuses to hit and damage in combat. May also be enchanted with additional powers.
-* **Weapons**: All enchanted weapons other than swords. Grant bonuses to hit and damage in combat. May also be enchanted with additional powers.
+* **Armadura** e escudos: Concede benefícios de proteção ao usuário..
+* **Itens Diversos** : Itens encantados que não se enquadram em nenhuma outra categoria
+* **Poções**: Líquidos mágicos guardados em frascos de vidro.
+* **Anéis**: Anéis simples ou com jóias que concedem um encantamento a que o usa.
+* **Cajados** / bastões / varinhas: Pedaços compridos de madeira, metal, cristal ou outro material encantado magicamente.. Utilizado por usuários de magia para desencadear efeitos mágicos.
+* **Pergaminhos e mapas**: folhas antigas de pergaminho ou papel, inscritas com runas mágicas ou instruções que levam a um tesouro. Observe que os mapas de tesouro são rolados na tabela de itens mágicos, embora geralmente não sejam mágicos.
+* **Espadas**: Concede bônus para acertar ataques e de dano em combate. Também podem estar encantadas com poderes adicionas.
+* **Armas**: Todas as armas encantadas que não são espadas. Concede bônus para acertar ataques e de dano em combate. Também podem estar encantadas com poderes adicionas.
 
-# Alternative Magic Item Categories
-The referee may decide that a certain category of magic items does not exist in the campaign or may wish to create additional magic item categories. In some settings, magic items may actually be artefacts of high technology. In such cases, the table of magic item types (see below) should be adapted.
+# Categorias Alternativas de Itens Mágicos
+O árbitro pode decidir tirar uma certa categoria de Item Mágico não existe na campanha ou pode desejar criar uma categoria adicional de ites mágicos. Em alguns cenários, itens mágicos podem ser artefatos de alta tecnologia. Nesses casos, a tabela de tipos de itens mágicos (veja abaixo) deve ser adaptada. c
 
-# Rolling Magic Items
-When a treasure type indicates that a magic item is present, the following procedure is used to determine its nature:
+# Rolando Itens Mágicos
+Quando um tipo de tesouro indica que um item mágico está presente, o seguinte procedimento é usado para determinar sua natureza:
 
-* **Specific type of item**: If the treasure type indicates a specific type of magic item (e.g. 3 potions), roll on the table for that type of item (found in the genre-specific treasure book).
-* **Type of item not specified**: Otherwise, first roll on the table below to determine the type of the item, then roll on the table for that type (found in the genre-specific treasure book).
+* **Tipo específico de item **: Se o tipo de tesouro indicar um tipo específico de item mágico (por exemplo, 3 poções), role na tabela desse tipo de item (encontrado na parte de tesouros do livro de gênero específico).
+* **Tipo de item não especificado **: caso contrário, role primeiro na tabela abaixo para determinar o tipo do item, depois role na tabela daquele tipo (encontradona parte de tesouros do livro de gênero específico).
 
-# Basic and Expert Magic Items
-Separate probabilities are listed in the table for Basic and Expert level characters (i.e. characters of 1st to 3rd level and characters of 4th level or higher). The Basic probabilities are listed in the B column, and the Expert probabilities in the X column.
+# Itens Mágicos Básicos e Especializados
+Probabilidades separadas estão listadas na tabela para personagens de nível Básico e Especialista (ou seja, personagens do 1º ao 3º nível e personagens do 4º nível ou superior). As probabilidades para o Básico estão listadas na coluna B, e as probabilidades para o avançado estão listadas na coluna X.
 
-It is recommended that the probabilities appropriate to the group’s experience level be used. Alternatively, if the referee prefers to have an even distribution of magic items, irrespective of player character level, the Expert probabilities may always be used.
+É recomendado que as probabilidades usadas estejam adequadas ao nível de experiência do grupo. De forma alternativa, se o árbitro preferir distribuir uniformemente os itens,  indenpedente do nível do personagem, as probabilidades do Especialista podem ser usadas sempre.
 
 +------------+------------+----------------------------+
-| Magic Item Type                                      |
+| Tipo de Item Mágico                                  |
 +============+============+============================+
-| **B: d%**  | **X: d%**  | Type of Item               |
+| **B: d%**  | **X: d%**  | Tipo de Item               |
 +------------+------------+----------------------------+
-| 1–10       | 1–10       | Armour or Shield           |
+| 1–10       | 1–10       | Armadura ou Escudo         |
 +------------+------------+----------------------------+
-| 11–15      | 11–15      | Miscellaneous Item         |
+| 11–15      | 11–15      | Itens Diversos             |
 +------------+------------+----------------------------+
-| 16–40      | 16–35      | Potion                     |
+| 16–40      | 16–35      | Poção                      |
 +------------+------------+----------------------------+
-| 41–45      | 36–40      | Ring                       |
+| 41–45      | 36–40      | Anel                       |
 +------------+------------+----------------------------+
-| 46–50      | 41–45      | Rod / Staff / Wand         |
+| 46–50      | 41–45      | Cajado / Bastão / Varinha  |
 +------------+------------+----------------------------+
-| 51–70      | 46–75      | Scroll or Map              |
+| 51–70      | 46–75      | Pergaminho ou Mapa         |
 +------------+------------+----------------------------+
-| 71–90      | 76–95      | Sword                      |
+| 71–90      | 76–95      | Espada                     |
 +------------+------------+----------------------------+
-| 91–00      | 96–00      | Weapon                     |
+| 91–00      | 96–00      | Arma Mágica                |
 +------------+------------+----------------------------+
 
-# Identifying Magic Items
-**Testing**: The most common way of identifying magic items is by trial and error—sipping a potion, donning a suit of armour, using a weapon in battle, etc.
-**Retainers**: Players may wish to use retainers as “guinea pigs” to test magic items of unknown properties. Retainers may agree to do this, but only if allowed to keep the item in question.
-**By magic**: High-level NPC magic-users may also be able to identify magic items. They will always require payment or a service in kind. The process takes time: possibly several weeks.
+# Identificando Itens Mágicoságicos
+**Testando**: A maneira mais comum de identificar itens mágicos é por tentativa e erro - beber uma poção, vestir uma armadura, usar uma arma na batalha, etc.
+**Ajudantes**: Jogadores podem querer usar os ajudantes como "cobaias" para testar itens com propriedades desconhecidas. Os ajudantes podem concordar em fazer isso, mas podem colocar a condição de poder ficar com item que testaram. 
+**Através de Magia**: PNJs usuários de magia de um nível alto também podem identificar itens mágicos. Eles sempre vão exigir um pagamento ou serviço em troca. O processo leva tempo: possivelmente várias semanas.
 
-# Using Magic Items
-**Appropriate use**: In order to be effective, a magic item must be used, held, or worn after the normal fashion for that type of object.
+# Usando Itens Mágicos
+** Uso apropriado**: Para ser eficaz, um item mágico deve ser usado, mantido ou usado da maneira que geralmente se utiliza o tipo de objeto.
 
-**Concentration**: To activate an item’s magic, the user must concentrate on its effect. When using a magic item in this way, the character cannot take any other actions.
+**<x1 /> Concentração**: para ativar a magia de um item, o usuário deve se concentrar em seu efeito. Ao usar um item mágico dessa maneira, o personagem não pode realizar nenhuma outra ação.
 
-**Items that are always active**: The following items do not require concentration, and are always active: magic swords, weapons, armour, and protective items (e.g. rings of protection).
+**Itens que ficam sempre ativos **: Os itens a seguir não requerem concentração e estão sempre ativos: espadas mágicas, armas, armaduras e itens de proteção (por exemplo, anéis de proteção).
 
-**Actions per round**: A magic item’s effect can normally be used only once per round, unless its description notes otherwise.
+**Ações por rodada**: O efeito de um item mágico normalmente pode ser usado apenas uma vez por rodada, a menos que a descrição do item mágico indique o contrário.
 
-# Wishes
-Some magic items grant wishes, the powerful ability for a character to change the nature of reality in any conceivable way that they desire. Wishes are generally regarded as the most powerful magic in the game and have the potential to greatly upset the balance of play if not handled carefully by the referee.
+# Desejos
+Alguns itens mágicos concedem desejos, uma habilidade poderosa em que um personagem mudar a natureza da realidade de qualquer maneira concebível que desejar. Desejos geralmente são considerados a magia mais poderosa do jogo e tem o potencial de pertubar bastante o equilíbrio do jogo se não forem tratados com cuidado pelo árbitro.
 
-## Adjudication Guidelines
+## Diretrizes para Decisões 
 
-**Wording**: The player and referee must pay great attention to the precise wording of a wish.
+**Texto**: O jogador e árbitro devem prestar muita atenção ao texto do desejo, de forma precisa.
 
-**Fundamental changes**: A wish that would alter some fundamental aspect of the game or the campaign world will have no effect. For example, a wish that altered the abilities of all monsters of a particular type would fail.
+**Mudanças fundamentais**: Um desejo que alteraria algum aspecto fundamental do jogo ou mundo da campanha não terá efeito. Por exemplo, um desejo que alterare as habilidades de todos os monstros de um tipo particular, iria falhar.
 
-**Greedy wishes**: A wish that the referee judges to be unreasonable or overly greedy may come to pass, but with its intent twisted in some way. For example, a wish for a very powerful magic item may cause the item to appear, but in the possession of a dangerous enemy.
+**Desejos gananciosos**: Um desejo que o árbitro julgue como não razoável ou excessivamente ganancioso pode acontecer, mas distorcido de alguma forma. Por exemplo, um desejo que peça por um item mágico muito poderoso pode fazer o item aparecer, mas sob a posse de um inimigo perigoso.
 
-**Wishing for more wishes**: This will result in an infinite time loop, putting the character out of play.
+**Desejar mais desejos**: Isso vai resultar em um voltas (loop) infinito de tempo, colocando o personagem fora do jogo. .
 
-## Example Wishes
-Some examples of reasonable wishes:
+## Exemplos de Desejos
+Alguns exemplos de desejos razoáveis:
 
-* Wishing for a weapon to help fight magical monsters. The wish may grant a +1 sword that vanishes when the combat ends.
-* Wishing that a monster had not attacked. The wish may place the characters back in time and change the reaction of the monster.
-* Wishing that a deadly blow had not occurred. The affected character may return to life, wounded but not dead.    
+* Desejar uma arma que ajude a lutar contra monstros mágicos. O desejo pode conceder uma espada +1 que desaparece quando o combate se encerra.
+* Desejar que um monstro não tivesse atacado. O desejo pode voltar os personagens no tempo e mudar a reação de um monstro. 
+* Desejar que um golpe mortal não tivesse acontecido. O personagem afetado pode voltar à vida, ferido, mas não morto.
