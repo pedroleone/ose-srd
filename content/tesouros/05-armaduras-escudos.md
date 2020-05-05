@@ -1,5 +1,5 @@
 ---
-title: "Armaduras e Escudos ❌"
+title: "Armaduras e Escudos"
 metaTitle: "Armaduras e Escudos"
 metaDescription: "Tesouro -> Armaduras e Escudos"
 ---
