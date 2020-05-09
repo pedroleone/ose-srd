@@ -1,223 +1,223 @@
 ---
-title: "Poções ❌"
+title: "Poções"
 metaTitle: "Poções"
 metaDescription: "Tesouro -> Poções"
 ---
 
 +------------+------------+--------------------------------------+
-| Magic Potions                                                  |
+| Poções Mágicas                                                 |
 +============+============+======================================+
-| **B: d8**  | **X: d%**  | **Potion**                           |
+| **B: d8**  | **X: d%**  | **Poção**                            |
 +------------+------------+--------------------------------------+
-|            | 1–3        |  Clairaudience                       |
+|            | 1–3        |  Clariaudiência                      |
 +------------+------------+--------------------------------------+
-|            | 4–7        |  Clairvoyance                        |
+|            | 4–7        |  Clarividência                       |
 +------------+------------+--------------------------------------+
-|            | 8–10       |  Control Animal                      |
+|            | 8–10       |  Controlar Animal                    |
 +------------+------------+--------------------------------------+
-|            | 11–13      |  Control Dragon                      |
+|            | 11–13      |  Controlar Dragão                    |
 +------------+------------+--------------------------------------+
-|            | 14–16      |  Control Giant                       |
+|            | 14–16      |  Controlar Gigante                   |
 +------------+------------+--------------------------------------+
-|            | 17–19      |  Control Human                       |
+|            | 17–19      |  Controlar Humano                    |
 +------------+------------+--------------------------------------+
-|            | 20–22      |  Control Plant                       |
+|            | 20–22      |  Controlar Planta                    |
 +------------+------------+--------------------------------------+
-|            | 23–25      |  Control Undead                      |
+|            | 23–25      |  Controlar Morto-vivo                |
 +------------+------------+--------------------------------------+
-|            | 26–32      |  Delusion                            |
+|            | 26–32      |  Ilusão                              |
 +------------+------------+--------------------------------------+
-| 1          | 33–35      |  Diminution                          |
+| 1          | 33–35      |  Diminuição                          |
 +------------+------------+--------------------------------------+
-| 2          | 36–39      |  ESP                                 |
+| 2          | 36–39      |  Percepção Extrassensorial           |
 +------------+------------+--------------------------------------+
-|            | 40–43      |  Fire Resistance                     |                                 
+|            | 40–43      |  Resistência à Fogo                  |
 +------------+------------+--------------------------------------+
-|            | 44–47      |  Flying                              |   
+|            | 44–47      |  Voar                                |
 +------------+------------+--------------------------------------+
-| 3          | 48–51      |  Gaseous Form                        |         
+| 3          | 48–51      |  Foram Gasosa                        |
 +------------+------------+--------------------------------------+
-|            | 52–55      |  Giant Strength                      |           
+|            | 52–55      |  Força Gigante                       |
 +------------+------------+--------------------------------------+
-| 4          | 56–59      |  Growth                              |   
+| 4          | 56–59      |  Crescimento                         |
 +------------+------------+--------------------------------------+
-| 5          | 60–63      |  Healing                             |    
+| 5          | 60–63      |  Cura                                |
 +------------+------------+--------------------------------------+
-|            | 64–68      |  Heroism                             |    
+|            | 64–68      |  Heroísmo                            |
 +------------+------------+--------------------------------------+
-| 6          | 69–72      |  Invisibility                        |         
+| 6          | 69–72      |  Invisibilidade                      |
 +------------+------------+--------------------------------------+
-|            | 73–76      |  Invulnerability                     |            
+|            | 73–76      |  Invulnerabilidade                   |
 +------------+------------+--------------------------------------+
-| 7          | 77–80      |  Levitation                          |       
+| 7          | 77–80      |  Levitação                           |
 +------------+------------+--------------------------------------+
-|            | 81–84      |  Longevity                           |      
+|            | 81–84      |  Longevidade                         |
 +------------+------------+--------------------------------------+
-| 8          | 85–86      |  Poison                              |   
+| 8          | 85–86      |  Veneno                              |
 +------------+------------+--------------------------------------+
-|            | 87–89      |  Polymorph Self                      |           
+|            | 87–89      |  Polimorfia                          |
 +------------+------------+--------------------------------------+
-|            | 90–97      |  Potion of Speed                     |            
+|            | 90–97      |  Poção de Velocidade                 |
 +------------+------------+--------------------------------------+
-|            | 98–00      |  Treasure Finding                    |             
+|            | 98–00      |  Encontrar Tesouro                   |
 +------------+------------+--------------------------------------+
 
-**B**: Basic characters (levels 1–3) 
+**B**: Personagens Básicos (níveis 1–3)
 
-**X**: Expert characters (level 4+) 
+**X**: Personagens Especialistas (nível 4+)
 
-**Usage**: All characters (unless noted).
+**Uso**: Todos os personagens (a manos que indicado).
 
-**Identifying**: A potion may be identified by sipping a small amount. It is difficult to identify potions purely by smell or taste, as even potions with the same effect are not alike.
+**Indetificando**: Uma poção pode ser identificada bebendo uma pequena quantidade. É difícil identificar poções puramente pelo seu cheiro ou gosto, pois mesmo as poções com mesmo efeito não são iguais.
 
-**Drinking**: Drinking a full dose of a potion takes one round, and brings on the magical effect for 1d6+6 turns. The referee should roll for and track this duration, and not tell the player how long the potion will last for. 
+**Bebendo**: Beber uma dose completa de uma poção leva uma rodada e provoca o efeito mágico por 1d6 + 6 turnos. O árbitro deve rolar e acompanhar essa duração, e não informar ao jogador quanto tempo a poção durará.
 
-# Mixing Potions
-Drinking a potion while already under the effects of another potion is dangerous:
+# Misturando Poções
+Beber uma poção enquanto já está sob os efeitos de outra poção é perigoso:
 
-* **Sickness**: The character is completely disabled for 3 turns, due to sickness.
-* **Cancellation**: The effects of both potions are cancelled.
+* **Doença **: O personagem fica completamente desabilitado por 3 turnos, devido a doença.
+* **Cancelamento **: Os efeitos de ambas as poções são cancelados.
 
-This rule does not apply to potions with instantaneous or permanent duration. 
+Esta regra não se aplica a poções com duração instantânea ou permanente.
 
-# Potion of Clairaudience
-Enables the character to hear through the ears of another creature.
-* **Range**: The other creature must be within 60’.
-* **Obstructions**: Lead blocks the effect.
+# Poção de Clariaudiência
+Permite que o personagem ouça através dos ouvidos de outra criatura.
+* **Alcance **: a outra criatura deve estar dentro de 18m.
+* **Obstruções**: Cumbo bloqueia o efeito.
 
-# Potion of Clairvoyance
-Enables the character to see through the eyes of another creature.
-* **Range**: The other creature must be within 60’.
-* **Obstructions**: Lead blocks the effect.
+# Poção da Clarividência
+Permite que o personagem veja através dos olhos de outra criatura.
+* **Alcance **: a outra criatura deve estar dentro de 18m.
+* **Obstruções**: Cumbo bloqueia o efeito.
 
-# Potion of Control
-A potion of this type allows the one who drinks it to control the actions of creatures of a certain type.
-* **Concentration**: Exercising control requires concentration.
-* **Visual range**: The character can only control creatures that they can see.
-* **Suicidal commands**: Controlled creatures will resist commands that are deadly to themselves.
+# Poção de Controle
+Uma poção desse tipo permite àquele que a beber, controlar as ações de criaturas de um determinado tipo.
+* **Concentração**: Exercer controle requer concentração.
+* **Alcance Visual**: O personagem só pode controlar criaturas que ele possa ver.
+* **Comandos suicídas**: Criaturas controladas irão resistir a comandos que forem mortais a si mesmas.
 
-# Control Animal
-* **Affects**: Up to 3d6 Hit Dice of normal or giant (but not magical) animals.
-* **When the potion’s effect ends**: Affected animals will move away.
+# Controlar Animal
+* **Afeta **: Até 3d6 Dados de Vida de animais normais ou gigantes (mas não mágicos).
+* **Quando o efeito da poção termina **: Os animais afetados se afastam.
 
-# Control Dragon
-* **Affects**: 1–3 dragons of a specific type. (The referee should determine which type of dragon the potion affects.)
-* **Spell casting**: It is not possible to command a dragon to cast spells.
-* **When the potion’s effect ends**: Affected dragons have a hostile reaction.
+# Controlar Dragão
+* ** Afeta **: 1-3 dragões de um tipo específico. (O árbitro deve determinar que tipo de dragão a poção afeta.)
+* ** Conjurar magias **: Não é possível comandar um dragão para lançar feitiços.
+* ** Quando o efeito da poção termina **: Os dragões afetados têm uma reação hostil.
 
-# Control Giant
-* Affects: 1–4 giants of a specific type. (The referee should determine which type of giant the potion affects.)
+# Controlar Gigante
+* Afeta: 1-4 gigantes de um tipo específico. (O árbitro deve determinar que tipo de gigante a poção afeta.)
 
-# Control Human
-* **Usage**: A charm may be placed upon a human within 60’. One target may be charmed per round.
-* **Resisting**: The subject may save versus spells to resist the charm.
-* **Maximum subjects**: Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as ½ HD.
-* **Charmed individuals**: Regard the character as a trusted friend, and will come to their defence. They will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.
+# Controlar Humano
+* ** Uso **: Uma magia pode ser colocada em um ser humano dentro 18m. Um alvo pode ser encantado por rodada.
+* ** Resistindo **: O sujeito pode fazer um teste de resistência contra magias para resistir ao encantamento.
+* **Número máximo de alvos**: Até 6 Dados de Vida de seres humanos podem ser encantados dessa maneira. Humanos normais contam como ½ (meio) DV. 
+* ** Indivíduos encantados **: Consideram o personagem como um amigo de confiança e irão defendê-lo. Eles obedecerão aos comandos do personagem, desde que não sejam obviamente perigosos e não contradigam o alinhamento do sujeito.
 
-# Control Plant
-* **Affects**: All plants (including plant monsters) in a 30’ square area up to 60’ distant.
-* **Commands**: Affected plants may be commanded to move around as the character wishes, and may be used to entangle creatures in the area.
+# Controlar Planta
+* ** Afeta **: Todas as plantas (incluindo monstros plantas) em uma área quadrada de 9m em até 18m de distância.
+* ** Comandos **: As plantas afetadas podem receber ordens para se moverem conforme o personagem desejar e podem ser usadas para emaranhar criaturas na área.
 
-# Control Undead
-* **Affects**: Up to 3d6 Hit Dice of undead.
-* **When the potion’s effect ends**: Affected undead have a hostile reaction.
+# Conrtolar Mortos Vivos
+* ** Afeta **: Até 3d6 Dados de Vida de mortos-vivos.
+* ** Quando o efeito da poção termina **: Mortos-vivos afetados têm uma reação hostil.
 
-# Potion of Delusion
-A character who drinks this potion believes is under the effects of another type of potion.
-* **Type**: The other type of potion should be determined by the referee.
-* **Describing**: The referee should try to trick the player into believing that the character is under the effects of the other potion, only revealing the truth at some vital juncture.
+# Poção da Ilusão
+Um personagem que bebe esta poção acredita estar sob os efeitos de outro tipo de poção.
+* ** Tipo **: O outro tipo de poção deve ser determinado pelo árbitro.
+* ** Descrevendo **: O árbitro deve tentar convencer o jogador a acreditar que o personagem está sob os efeitos da outra poção, apenas revelando a verdade em algum momento vital.
 
-# Potion of Diminution
-The character shrinks to 6” high.
-* **Combat effectiveness**: While shrunk, the character is unable to harm creatures larger than 1’ tall.
-* **Narrow spaces**: The character can slip through narrow spaces.
-* **Remaining motionless**: The character only has a 10% chance of being spotted.
+# Poção da Diminuição
+O personagem diminui para 15cm de altura.
+* ** Eficácia no combate **: Enquanto encolhido, o personagem não pode causar dano a criaturas maiores que de 30cm de altura.
+* ** Espaços estreitos **: O personagem pode passar por espaços estreitos.
+* ** Ficando imóvel **: O personagem tem apenas 10% de chance de ser visto.
 
-# Potion of ESP
-Grants the power of reading thoughts. This works in the same way as the magic-user spell ESP (see p81). The standard potion duration applies.
+# Poção da Percepção Extrassensorial
+Concede o poder de ler pensamentos. Esse item funciona da mesma forma que a magia de Percepção Extrassensorial do Usuário de Magia (veja p81) Se aplica a duração padrão da poção.
 
-# Potion of Fire Resistance
-Grants protection against fire:
-* **Normal heat**: Unharmed by non-magical heat or fire.
-* **Save bonus**: Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.
-* **Fire-based damage**: Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)
+# Poção de Resistência ao Fogo
+Concede proteção contra fogo:
+* ** Calor normal **: Não é afetado por calor ou fogo não mágico.
+* ** Bônus para Testes de Resistência ** Ganha um bônus de +2 em todos os testes de resistência contra ataques mágicos ou de Ataques de Sopro baseados em fogo.
+* ** Dano basedo em fogo**: é reduzido em 1 por cada dado de dano rolado. (Cada dado causa um mínimo de 1 ponto de dano.)
 
-# Potion of Flying
-Grants the ability to fly through the air.
-* **Movement rate**: Up to 360’ (120’).
-* **Free movement**: Is possible in any direction, including the ability to levitate and to hover in mid-air.
+# Poção de Voar
+Concede a capacidade de voar pelo ar.
+* **Taxa de Movimento**: Até 108m (36m).(
+* **Movimentação Livre**: É possível se mover em qualquer direção, incluindo a capacidade de levitar e pairar no ar.
 
-# Potion of Gaseous Form
-The character’s body becomes a cloud of vapour. This has the following effects:
-* **Equipment and clothing**: Drops to the floor.
-* **Movement**: The character may move, as a cloud of gas, through small cracks in stone walls, wooden objects, etc.
-* **Attacking**: Is not possible, while in gaseous form.
-* **Invulnerability**: The character’s AC is –2 [21]. Non-magical weapons cannot harm the character.
+# Poção da Forma Gasosa
+O corpo do personagem se torna uma nuvem de vapor. Isso tem os seguintes efeitos:
+* **Equipamentos e roupas**: Caem no chão.
+* **Movimento**: O personagem pode se mover como uma nuvem de gás, através de pequenas rachaduras nas paredes de pedra, objetos de madeira, etc.
+* **Atacar**: Não é possível, enquanto na fora gasosa.
+* **Invulnerabilidade**: A CA do personagem é -2 [21]. Armas não mágicas não podem causar dano ao personagem.
 
-# Potion of Giant Strength
-Grants the strength of a frost giant.
-* **Attacks with weapons**: Inflict double damage.
-* **Throw boulders**: The character may throw boulders for 3d6 damage, with a range of up to 200’.
-* **Non-cumulative**: The effects of this potion are not cumulative with other magic items that augment strength (e.g. a girdle of giant strength).
+# Poção da Força Gigante
+Concede a força de um gigante do gelo.
+* **Ataques com armas**: Causam o dobro de dano.
+* **Arremessar pedra**: O personagem pode aremesar pedras para causar 3d6 de dano dentro de um alcance de até 60m.
+* **Não cumulativo**: Os efeitos desta poção não são cumulativos com outros itens mágicos que aumentam a força (por exemplo, um Cinturão da Força Gigante).
 
-# Potion of Growth
-The character doubles in size.
-* **Melee attacks**: The character’s increased strength means that their melee attacks deal double damage.
+# Poção de Crescimento
+O personagem dobra de tamanho.
+* **Ataques corpo-a-corpo**: O aumento da força do personagem significa que seus ataques corpo a corpo causam o dobro de dano.
 
-# Potion of Healing
-Has one of two effects on the character who drinks it:
-1. **Healing a living subject**: Restores 1d6+1 hit points of damage. This cannot grant more hit points than the subject’s normal maximum.
-2. **Curing paralysis**: Paralysing effects are negated.
+# Poção de Cura
+Tem um dos dois seguintes efeitos no personagem que bebe:
+1. **Cura um sujeito vivo**: Restaura 1d6+1 Pontos de Vida. A poção não concede mais pontos de vida do que o máximo normal do sujeito.
+2. **Cura paralisia**: Efeitos paralisantes são negados.
 
-# Potion of Heroism
-Normal humans and characters of a combat-focused, non-magic using class (e.g. dwarf, fighter, halfling) who drink a potion of heroism temporarily gain additional levels. The number of levels gained depends on the character’s normal experience level:
-* **Normal human**: Gain the abilities of a 4th level fighter.
-* **1st–3rd level**: Gain 3 levels.
-* **4th–7th level**: Gain 2 levels.
-* **8th–10th level**: Gain 1 level.
-* **11th level**+: No effect.
+# Poção do Heroísmo
+Os seres humanos normais e os personagens de uma classe que não usa magia, focada em combate (por exemplo, anão, guerreiro, halfling) que bebem uma poção de heroísmo ganham temporariamente níveis adicionais. O número de níveis ganhos depende do nível de experiência normal do personagem:
+* **Humano normal**: Adquire as habilidades de um guerreito de 4° nível.
+* **1° ao 3° nível**: Adquire 3 níveis.
+* **4° ao 7° nível**: Adquire 2 níveis.
+* **8° ao 10° nível**: Adquire 1 nível.
+* **11° nivel**+: Sem efeito.
 
-**Effects**: All abilities of the additional levels are gained, including extra hit points.
+** Efeitos **: Todas as habilidades dos níveis adicionais são adquiridas, incluindo pontos de vida extras.
 
-**Damage**: Damage suffered while under the effects of this potion is first deducted from the pool of additional hit points granted.
+** Dano **: O dano sofrido enquanto estiver sob os efeitos desta poção são reduzidos primeiro dos pontos de vida adicionais recebidos.
 
-# Potion of Invisibility
-Drinking this potion, the character becomes invisible. This works the same as the magic-user spell invisibility (see p82). The standard potion duration applies.
-* **Small doses**: At the referee’s discretion, a potion of invisibility may be consumed in six smaller doses, each with a reduced duration.
+# Poção de Invisibilidade
+Ao beber esta poção, o personagem se torna invisível. Esse item funciona da mesma forma que a magia de Invisibilidade do Usuário de Magia (veja p82) Se aplica a duração padrão da poção.
+* ** Pequenas doses **: A critério do árbitro, uma poção de invisibilidade pode ser consumida em seis doses menores, cada uma com uma duração reduzida.
 
-# Potion of Invulnerability
-The character is magically protected from harm, gaining the following benefits:
-* **Armour Class**: A +2 AC bonus.
-* **Saving throws**: A +2 bonus to all saves.
-* **Usage frequency**: If a character consumes more than one potion of invulnerability in the space of a week, the effects are inverted (a –2 penalty to AC and saves).
+# Poção de Invulnerabilidade
+O personagem torna-se magicamente protegido contra danos, obtendo os seguintes benefícios:
+* **Classe de Armadura**: Um bônus de +2 na CA.
+* **Testes de resistência **: Um bônus de +2 a todos os testes de resistência.
+* ** Frequência de uso **: Se um personagem consome mais de uma poção de invulnerabilidade no período de uma semana, os efeitos são invertidos (uma penalidade de -2 na CA e testes de resistência).
 
-# Potion of Levitation
-The character gains the ability to move up and down through the air at will.
-* **Vertical**: The character mentally directs vertical movement at up to 60’ per round.
-* **Horizontal**: The character can push against solid objects to move laterally.
-* **Weight**: A normal amount of weight can be carried while levitating.
+# Poção de Levitação
+O personagem ganha a capacidade de se mover para cima e para baixo pelo ar à vontade.
+* **Vertical**: O persoangem direciona mentalmente o movimento vertical em até 18m por rodada. 
+* **Horizontal**: O personagem pode se empurrar apoiando-se em objetos sólidos para se mover lateralmente.
+* ** Peso **: Uma quantidade normal de peso pode ser transportada enquanto se está levitando.
 
-# Potion of Longevity
-Instantly and permanently causes the character to become 10 years younger.
+# Poção da Longevidade
+Instantaneamente e permanentemente, o personagem se torna 10 anos mais jovem.
 
-# Potion of Poison
-Appears the same as any other potion.
-* **Effect**: Causes death (save vs poison).
-* **Sipping**: Even a sip has the full effect.
+# Poção de Veneno
+Tem a mesma aparência de qualquer outra poção.
+* **Efeito**: Causa a morte (Teste de Resistência contra Veneno).
+* **Provando**: Até mesmo um gole tem o efeito total.
 
-# Potion of Polymorph Self
-Upon drinking this potion, the character transforms into another being (of their choice). This works in the same way as the magic-user spell polymorph self (see p87). The standard potion duration applies.
+# Poção da Polimorfia
+Ao beber esta poção, o personagem se transforma em outro ser (à sua escolha). Esse item funciona da mesma forma que a magia de Polimorfia do Usuário de Magia (veja p81) Se aplica a duração padrão da poção.
 
-# Potion of Speed
-The character’s movements and actions are magically accelerated.
-* **Movement**: Movement rate is doubled.
-* **Attacks**: The number of attacks per round the character can make is doubled.
-* **Other actions**: May be performed at double speed.
+# Poção de Velocidade
+Os movimentos e ações do personagem são magicamente acelerados.
+* ** Movimento **: A taxa de movimento é dobrada.
+* ** Ataques **: O número de ataques por rodada que o personagem pode fazer é dobrado.
+* **Outras ações**: Podem ser executadas no dopro da velocidade.
 
-# Potion of Treasure Finding
-Grants the ability to sense treasure.
-* **Range**: Treasure up to 360’ away can be detected.
-* **Direction and distance**: The character gains an awareness of the direction and distance of treasure.
-* **Concentration**: The character must concentrate in order to sense this information.
-* **Multiple hoards**: The largest treasure hoard within range is sensed.
-* **Obstructions**: The magic is blocked by lead.
+# Poção de Encontrar Tesouro
+Concede a capacidade de sentir tesouros próximos.
+* **Alcance**: Tesouros até 108m de distância podem ser detectados.
+* **Direção e distâcia**: O personagem ganha uma consciência da direção e distância do tesouro.
+* **Concentração**: O personagem deve se concentrar para conseguir sentir essa informação.
+* **Vários montantes de tesouros**: O maior montante de tesouro no alcance é sentido.
+* **Obstruções**: A magia é bloqueada por chumbo.
