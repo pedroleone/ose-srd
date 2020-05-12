@@ -1,152 +1,152 @@
 ---
-title: "Anéis ❌"
+title: "Anéis"
 metaTitle: "Anéis"
 metaDescription: "Tesouro -> Anéis"
 ---
 
 +-----------+-----------+----------------------------------------+
-| Magic Rings                                                    |
+| Anéis Mágicos                                                  |
 +===========+===========+========================================+
-| **B: d6** | **X: d%** | **Ring**                               |
-+-----------+-----------+----------------------------------------+    
-| 1         | 1–5       | Control Animals                        |   
+| **B: d6** | **X: d%** | **Anel**                               |
 +-----------+-----------+----------------------------------------+
-|           | 6–10      | Control Humans                         |   
+| 1         | 1–5       | Controlar Animais                      |
 +-----------+-----------+----------------------------------------+
-|           | 11–16     | Control Plants                         |   
+|           | 6–10      | Controlar Humanos                      |
 +-----------+-----------+----------------------------------------+
-|           | 17–26     | Delusion                               |
+|           | 11–16     | Controlar Plantas                      |
 +-----------+-----------+----------------------------------------+
-|           | 27–29     | Djinni Summoning                       |      
+|           | 17–26     | Ilusão                                 |
 +-----------+-----------+----------------------------------------+
-| 2         | 30–39     | Fire Resistance                        |     
+|           | 27–29     | Invocar Djinni                         |
 +-----------+-----------+----------------------------------------+
-| 3         | 40–50     | Invisibility                           |  
+| 2         | 30–39     | Resistência à Fogo                     |
 +-----------+-----------+----------------------------------------+
-|           | 51–55     | Protect. +1, 5’ radius                 |            
+| 3         | 40–50     | Invisibilidade                         |
 +-----------+-----------+----------------------------------------+
-| 4         | 56–70     | Protection +1                          |   
+|           | 51–55     | Proteção. +1, Raio de 1,5m             |
 +-----------+-----------+----------------------------------------+
-|           | 71–72     | Regeneration                           | 
+| 4         | 56–70     | Proteção +1                            |
 +-----------+-----------+----------------------------------------+
-|           | 73–74     | Spell Storing                          |   
+|           | 71–72     | Regeneração                            |
 +-----------+-----------+----------------------------------------+
-|           | 75–80     | Spell Turning                          |   
+|           | 73–74     | Guardar Magia                          |
 +-----------+-----------+----------------------------------------+
-|           | 81–82     | Telekinesis                            | 
+|           | 75–80     | Refletir Magia                         |
 +-----------+-----------+----------------------------------------+
-| 5         | 83–88     | Water Walking                          |   
+|           | 81–82     | Telecinese                             |
 +-----------+-----------+----------------------------------------+
-| 6         | 89–94     | Weakness                               |
+| 5         | 83–88     | Andar na Água                          |
 +-----------+-----------+----------------------------------------+
-|           | 95–96     | Wishes, 1–2                            | 
+| 6         | 89–94     | Fraqueza                               |
 +-----------+-----------+----------------------------------------+
-|           | 97        | Wishes, 1–3                            |
+|           | 95–96     | Desejos, 1–2                           |
 +-----------+-----------+----------------------------------------+
-|           | 98        | Wishes, 2–4                            |
+|           | 97        | Desejo, 1–3                            |
 +-----------+-----------+----------------------------------------+
-|           | 99–00     | X-Ray Vision                           | 
+|           | 98        | Desejo, 2–4                            |
++-----------+-----------+----------------------------------------+
+|           | 99–00     | Visão de Raio-X                        |
 +-----------+-----------+----------------------------------------+
 
-# Ring of Controlling Animals
-Grants the power to control the actions of animals.
-* **Affects**: 1d6 normal animals or 1 giant animal (not magical or intelligent animals).
-* **Resisting**: No saving throw is allowed.
-* **Visual range**: The character can only control animals that they can see.
-* **Concentration**: Control is broken if the user of the ring moves or attacks.
-* **When concentration ends**: The referee should make a reaction roll with a –1 penalty (see Encounters, p114) to determine the animals’ behaviour.
-* **Usage frequency**: May be used up to once per turn.
+# Anel de Controlar Animais
+Concede o poder de controlar as ações dos animais.
+* **Afeta**: 1d6 animais normais ou 1 animal gigante (exceto animais mágicos ou inteligentes).
+* **Resistindo**: Nenhum teste de resistência é permitido.
+* **Alcance Visual**: O personagem só pode controlar animais que ele possa ver.
+* ** Concentração **: O controle é interrompido se o usuário do anel se mover ou atacar.
+* ** Quando a concentração terminar **: O árbitro deve fazer um teste de reação com uma penalidade de -1 (consulte Encontros, p114) para determinar o comportamento dos animais.
+* ** Frequência de uso **: Pode ser usado até uma vez por turno.
 
-# Ring of Controlling Humans
-Grants the power to charm humans.
-* **Usage**: A charm may be placed upon a human within 60’. One target may be charmed per round.
-* **Resisting**: The subject may save versus spells (with a –2 penalty) to resist.
-* **Maximum subjects**: Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as ½ HD.
-* **Charmed individuals**: Regard the character as a trusted friend, and will come to their defence. They will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.
-* **Duration**: The charm lasts until dispelled, until the ring is removed, or until the wearer cancels it.
+# Anel de Controlar Humanos
+Concede o poder de enfeitiçar os humanos.
+* ** Uso **: Um feitiço pode ser colocado em um ser humano dentro 18m. Um alvo pode ser enfeitiçado por rodada.
+* ** Resistindo **: O sujeito pode fazer um teste de resistência contra magias (com uma penalidade de -2) para resistir.
+* **Número máximo de alvos**: Até 6 Dados de Vida de seres humanos podem ser enfeitiçados dessa maneira. Humanos normais contam como ½ (meio) DV. 
+* ** Indivíduos Enfeitiçados **: Consideram o personagem como um amigo de confiança e irão defendê-lo. Eles obedecerão aos comandos do personagem, desde que não sejam obviamente perigosos e não contradigam o alinhamento do sujeito.
+* ** Duração **: O feitiço dura até ser dissipado, até o anel ser removido ou até o usuário o cancelar.
 
-# Ring of Controlling Plants
-Grants the power to control plants.
-* **Affects**: All plants (including plant monsters) in a 10’ square area.
-* **Range**: The area may be up to 60’ distant.
-* **Commands**: Affected plants may be commanded to move around as the character wishes.
-* **Concentration**: The effect lasts as long as the wearer of the ring concentrates.
+# Anel de Controlar Plantas
+Concede o poder de controlar plantas.
+* ** Afeta **: Todas as plantas (incluindo monstros plantas) em uma área quadrada de 3m.
+* **Alcance**: A área pode estar em até 18m de distância.
+* **Comandos**: Plantas afetadas podem ser comandadas a se moverem conforme o personagem desejar.
+* **Concentração**: O efeito dura enquanto o usuário usar o anel.
 
-# Ring of Delusion
-The wearer believes is under the effects of another type of magic ring.
-* **Type**: The other type of ring should be determined by the referee (e.g. a ring of protection or a ring of spell turning).
-* **Describing**: The referee should try to trick the player into believing that the character is under the effects of the other ring, only revealing the truth at some vital juncture.
+# Anel da Ilusão
+O usuário acredita que está sob os efeitos de outro tipo de anel mágico.
+* ** Tipo **: O outro tipo de anel deve ser determinado pelo árbitro (por exemplo, um anel de proteção ou um anel de virar de feitiço).
+* ** Descrevendo **: O árbitro deve tentar convencer o jogador a acreditar que o personagem está sob os efeitos da outra poção, apenas revelando a verdade em algum momento vital.
 
-# Ring of Djinni Summoning
-This ring grants the power to summon a djinni (see p151).
-* **Duration of service**: The djinni will serve the character who summoned it for up to 24 hours.
-* **Commands**: The djinni only obeys the one who summoned it—another character who takes the ring has no power over the djinni.
-* **Usage frequency**: The ring may be used up to once per day.
+# Anel de Invocar Djinni
+Esse anel concede o poder de convocar um djinni (consulte a p151).
+* ** Duração do serviço **: O djinni servirá ao personagem que o convocou por até 24 horas.
+* ** Comandos **: O djinni só obedece a quem o convocou - outro personagem que pega o anel não tem poder sobre o djinni.
+* ** Frequência de uso **: O anel pode ser usado até uma vez por dia.
 
-# Ring of Fire Resistance
-Grants the wearer protection against fire.
-* **Normal fire**: Unharmed by non-magical fire.
-* **Save bonus**: Gain a +2 bonus to all saving throws versus fire-based magical or breath attacks.
-* **Fire-based damage**: Is reduced by 1 point per damage die rolled. (Each die inflicts a minimum of 1 hit point damage.)
+# Anel de Resistência ao Fogo
+Concede ao usuário proteção contra fogo.
+* ** Fogo normal **: Não é afetado por fogo não mágico.
+* **Bônus em Testes de Resistência **: Ganha um bônus de +2 em todos os testes de resistência contra ataques mágicos ou de ataques de sopro baseados em fogo.
+* ** Dano basedo em fogo**: é reduzido em 1 por cada dado de dano rolado. (Cada dado causa um mínimo de 1 ponto de dano.)
 
-# Ring of Invisibility
-The wearer of this ring becomes invisible.
-* **Attacking**: If the character attacks or casts a spell, the invisibility is broken.
-* **Usage frequency**: May be used up to once per turn.
+# Anel da Invisibilidade
+O usuário deste anel se torna invisível.
+* ** Atacando **: Se o personagem atacar ou lançar um feitiço, a invisibilidade será quebrada.
+* ** Frequência de uso **: Pode ser usado até uma vez por turno.
 
-# Ring of Protection
-Grants a measure of protection from harm:
-* **Armour Class**: A +1 AC bonus.
-* **Saving throws**: A +1 bonus to all saves.
+# Anel de Proteção
+Concede uma determinada de proteção contra danos:
+* **Classe de Armadura**: Um bônus de +1 na CA.
+* **Testes de resistência **: Um bônus de +1 a todos os testes de resistência.
 
-# Ring of Protection, 5’ Radius
-Allies within 5’ of the wearer also benefit from the ring’s protective power. For example, two characters fighting beside the wearer of the ring would gain the protective benefit.
+# Anel de proteção, Raio de 1,5m
+Aliados dentro de 1,5m do usuário também se beneficiam do poder de proteção do anel. Por exemplo, dois personagens lutando ao lado do usuário do anel ganhariam o benefício de proteção.
 
-# Ring of Regeneration
-The wearer heals at an accelerated rate.
-* **Rate**: The wearer regains 1 hit point per round.
-* **Severed limbs**: Will also regrow. The rate depends on the size of the limb (e.g. finger may regrow in one day, while a whole limb may take a week).
-* **Fire or acid damage**: Cannot be regenerated.
-* **Death**: The ring does not function if the wearer is reduced to 0 or less hit points.
+# Anel da Regeneração
+O usuário se cura a uma velocidade acelerada.
+* ** Velocidade **: O usuário recupera 1 ponto de vida por rodada.
+* ** Membros decepados **: Também crescerão de volta. O tempo depende do tamanho do membro (por exemplo, um dedo pode crescer de volta em um dia, enquanto um membro inteiro pode levar uma semana).
+* ** Dano de fogo ou ácido **: Não pode ser regenerado.
+* ** Morte **: O anel não funciona se o usuário for reduzido para 0 ou menos pontos de vida.
 
-# Ring of Spell Storing
-Stores a number of magical spells that the wearer can release on command.
-* **Capacity**: The ring contains 1d6 spells. (The spells can be triggered and recharged, but cannot be changed.)
-* **Type of magic**: There is a 20% chance of divine spells, otherwise they are arcane spells.
-* **Knowledge**: The wearer of the ring knows which spells it contains.
-* **Triggering**: The wearer of the ring can trigger the spells at will (up to one spell per round).
-* **Caster level**: For spells whose effects vary by the level of the caster, the wearer of the ring is treated as a caster of the lowest level required to cast the spell.
-* **Recharging**: Once a spell is triggered, it may not be reused until it is recharged—the expired spell must be cast directly onto the ring.
+# Anel de Guardar Magia
+Armazena uma quantidade de magias que o usuário pode liberar com um comando.
+* ** Capacidade **: O anel contém 1d6 magias. (As magias podem ser acionadas e recarregadas, mas não podem ser mudadas.)
+* ** Tipo de magia **: Há 20% de chance de serem magias divinas, caso contrário, são magias arcanas.
+* ** Conhecimento **: O usuário do anel sabe quais feitiços ele contém.
+* ** Ativando **: O usuário do anel pode disparar as magias à vontade (até uma magia por rodada).
+* ** Nível do lançador **: Para magias cujos efeitos variam de acordo com o nível do lançador, o usuário do anel é tratado como um lançador do nível mais baixo necessário para lançar a magia.
+* ** Recarregando **: Uma vez que uma magia é acionada, ela não pode ser reutilizada até que seja recarregada - a magia expirada deve ser lançado diretamente no anel.
 
-# Ring of Spell Turning
-Spells cast on the wearer of this ring are reflected back onto the caster.
-* **Charges**: After 2d6 spells are reflected, the ring loses its power.
+# Anel de Refletir Magia
+Magias lançadas no usuário desse anel serão refletidas de volta no lançador.
+* **Cargas**: Depois que 2d6 magias forem refletidas, o anel perde seu poder.
 
-# Ring of Telekinesis
-Grants the power to move objects or creatures within 120’ by concentrating.
-* **Weight**: Up to 2,000 coins of weight may be targeted.
-* **Movement**: The target may be moved up to 20’ per round, in whatever direction the wearer of the ring wishes (including vertically).
-* **Resisting**: A targeted creature may save versus spells to resist.
-* **Concentration**: If concentration is broken, the target falls.
+# Anel de Telecinese
+Concede o poder de mover objetos ou criaturas dentro de 36m através de concentração.
+* **Peso**: Até 2,000 moedas de peso podem ser afetadas como alvo.
+* **Movimento**: O alvo pode ser movido em até 6m por rodada, em qualquer direção que o usuário do anel desejar (incluindo verticalmente).
+* **Resistindo**: Uma criatura afetada pode fazer um Teste de resistência contra magias para tentar resistir.
+* **Concentração**: Se a concentração for quebrada, o alvo cai.
 
-# Ring of Water Walking
-Grants the power to walk on the surface of water, without sinking.
+# Anel de Andar na Água
+Concede o poder de caminhar na superfície da água, sem afundar.
 
-# Ring of Weakness
-A cursed ring that weakens the wearer.
-* **Effect**: Within 6 rounds of putting the ring on, the wearer’s STR is reduced to 3.
-* **Removing**: The ring cannot be removed, once worn.
-* **Dispelling**: The curse can be removed by magic (e.g. remove curse), or (at the referee’s option) by performing a special quest.
+# Anel da Fraqueza
+Um anel amaldiçoado que enfraquece o usuário.
+* **Efeito**: Dentro de 6 rodadas após a colocação do anel, a FOR do usuário é reduzida para 3.
+* **Removendo**: O anel não pode ser removido, uma vez colocado.
+* **Dissipando a magia**: A maldição pode ser removida por magia (por exemplo, remover maldição), ou (se o árbitro quiser) executando uma missão especial.
 
-# Ring of Wishes
-Grants the wearer’s wishes (see p233).
-* **Charges**: The number of wishes granted is noted in the Rings table. Once all wishes have been used, the ring’s magic is spent.
+# Anel dos Desejos
+Concede desejos ao usuário (consulte a p233).
+* **Cargas**: O número de desejos concedidos está anotado na tabela de Anéis. Depois que todos os desejos forem usados, a mágica do anel acaba.
 
-# Ring of X-Ray Vision
-Grants the power to see through solid objects.
-* **Through dense materials**: Sight up to 60’ through less dense materials (cloth, water, wood) is possible.
-* **Through stone**: Sight up to 30’ through stone is possible.
-* **Obstructions**: Sight through gold or lead is blocked.
-* **Searching**: When used for the purpose of searching (see Dungeon Adventuring, p108), the wearer is guaranteed to notice secret doors or traps in the 10’ square area being examined.
-* **Concentration**: Using the ring requires concentration (the wearer cannot move).
-* **Usage frequency**: May be used at most once per turn.
+# Anel de Visão de Raio-X
+Concede o poder de ver através de objetos sólidos.
+* ** Através de materiais densos **: É possível ver até 18m através de materiais menos densos (pano, água, madeira).
+* ** Através de pedra **: É possível ver até 9m através de pedra.
+* **Obstruções**: Visão através de ouro ou chumbo é bloqueada.
+* ** Procurando **: Quando usado para o propósito de procurar algo (consulte Dungeon Adventuring, p108), o usuário recebe a capacidade de perceber portas ou armadilhas secretas na área quadrada de 3m que está sendo examinada.
+* **Concentração**: Usar o anel requer concentração (o usuário não pode se mover).
+* ** Frequência de uso **: Pode ser usado até uma vez por turno.
