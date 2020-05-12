@@ -64,9 +64,9 @@ metaDescription: "Tesouro -> Armas"
 **Descartando**: Uma vez que a arma foi usada em comabte, o personagem está sob a maldição e não pode descartar o item. De fato, ele protegerá a arma e vai usá-la sempre que possível.  A maldição só pode ser removida com magia.
 
 # Espadas e Armas Encantadas
-**Bõnus**: Armas encantadas especificam o bônus que é aplicado à rolagens de ataque e de dano feitas com a arma.
+**Bônus**: Armas encantadas especificam o bônus que é aplicado à rolagens de ataque e de dano feitas com a arma.
 
-**Bônus contra tipo de criatura **: Algumas armas tem um tipo especial de bônus quando usadas contra um certo tipo de criatura.
+**Bônus contra tipo de criatura**: Algumas armas tem um tipo especial de bônus quando usadas contra um certo tipo de criatura.
 
 # Martelo de Batalha +3, Martelo de Arremesso Anão
 Nas mãos de um anão, essa arma pode funcionar como uma arma de longa distância. 
