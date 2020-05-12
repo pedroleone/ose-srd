@@ -1,5 +1,5 @@
 ---
-title: "Poções"
+title: "Poções ❌"
 metaTitle: "Poções"
 metaDescription: "Tesouro -> Poções"
 ---
@@ -7,7 +7,7 @@ metaDescription: "Tesouro -> Poções"
 +------------+------------+--------------------------------------+
 | Poções Mágicas                                                 |
 +============+============+======================================+
-| **B: d8**  | **X: d%**  | **Poção**                            |
+| **B: d8** | **X: d%** | **Poção**                           |
 +------------+------------+--------------------------------------+
 |            | 1–3        |  Clariaudiência                      |
 +------------+------------+--------------------------------------+
@@ -75,19 +75,19 @@ metaDescription: "Tesouro -> Poções"
 # Misturando Poções
 Beber uma poção enquanto já está sob os efeitos de outra poção é perigoso:
 
-* **Doença **: O personagem fica completamente desabilitado por 3 turnos, devido a doença.
-* **Cancelamento **: Os efeitos de ambas as poções são cancelados.
+* **Doença**: O personagem fica completamente desabilitado por 3 turnos, devido a doença.
+* **Cancelamento**: Os efeitos de ambas as poções são cancelados.
 
 Esta regra não se aplica a poções com duração instantânea ou permanente.
 
 # Poção de Clariaudiência
 Permite que o personagem ouça através dos ouvidos de outra criatura.
-* **Alcance **: a outra criatura deve estar dentro de 18m.
+* **Alcance**: a outra criatura deve estar dentro de 18m.
 * **Obstruções**: Cumbo bloqueia o efeito.
 
 # Poção da Clarividência
 Permite que o personagem veja através dos olhos de outra criatura.
-* **Alcance **: a outra criatura deve estar dentro de 18m.
+* **Alcance**: a outra criatura deve estar dentro de 18m.
 * **Obstruções**: Cumbo bloqueia o efeito.
 
 # Poção de Controle
@@ -97,50 +97,50 @@ Uma poção desse tipo permite àquele que a beber, controlar as ações de cria
 * **Comandos suicídas**: Criaturas controladas irão resistir a comandos que forem mortais a si mesmas.
 
 # Controlar Animal
-* **Afeta **: Até 3d6 Dados de Vida de animais normais ou gigantes (mas não mágicos).
-* **Quando o efeito da poção termina **: Os animais afetados se afastam.
+* **Afeta**: Até 3d6 Dados de Vida de animais normais ou gigantes (mas não mágicos).
+* **Quando o efeito da poção termina**: Os animais afetados se afastam.
 
 # Controlar Dragão
-* ** Afeta **: 1-3 dragões de um tipo específico. (O árbitro deve determinar que tipo de dragão a poção afeta.)
-* ** Conjurar magias **: Não é possível comandar um dragão para lançar feitiços.
-* ** Quando o efeito da poção termina **: Os dragões afetados têm uma reação hostil.
+* **Afeta**: 1-3 dragões de um tipo específico. (O árbitro deve determinar que tipo de dragão a poção afeta.)
+* **Conjurar magias**: Não é possível comandar um dragão para lançar feitiços.
+* **Quando o efeito da poção termina**: Os dragões afetados têm uma reação hostil.
 
 # Controlar Gigante
 * Afeta: 1-4 gigantes de um tipo específico. (O árbitro deve determinar que tipo de gigante a poção afeta.)
 
 # Controlar Humano
-* ** Uso **: Uma magia pode ser colocada em um ser humano dentro 18m. Um alvo pode ser encantado por rodada.
-* ** Resistindo **: O sujeito pode fazer um teste de resistência contra magias para resistir ao encantamento.
+* **Uso**: Uma magia pode ser colocada em um ser humano dentro 18m. Um alvo pode ser encantado por rodada.
+* **Resistindo**: O sujeito pode fazer um teste de resistência contra magias para resistir ao encantamento.
 * **Número máximo de alvos**: Até 6 Dados de Vida de seres humanos podem ser encantados dessa maneira. Humanos normais contam como ½ (meio) DV. 
-* ** Indivíduos encantados **: Consideram o personagem como um amigo de confiança e irão defendê-lo. Eles obedecerão aos comandos do personagem, desde que não sejam obviamente perigosos e não contradigam o alinhamento do sujeito.
+* **Indivíduos encantados**: Consideram o personagem como um amigo de confiança e irão defendê-lo. Eles obedecerão aos comandos do personagem, desde que não sejam obviamente perigosos e não contradigam o alinhamento do sujeito.
 
 # Controlar Planta
-* ** Afeta **: Todas as plantas (incluindo monstros plantas) em uma área quadrada de 9m em até 18m de distância.
-* ** Comandos **: As plantas afetadas podem receber ordens para se moverem conforme o personagem desejar e podem ser usadas para emaranhar criaturas na área.
+* **Afeta**: Todas as plantas (incluindo monstros plantas) em uma área quadrada de 9m em até 18m de distância.
+* **Comandos**: As plantas afetadas podem receber ordens para se moverem conforme o personagem desejar e podem ser usadas para emaranhar criaturas na área.
 
 # Conrtolar Mortos Vivos
-* ** Afeta **: Até 3d6 Dados de Vida de mortos-vivos.
-* ** Quando o efeito da poção termina **: Mortos-vivos afetados têm uma reação hostil.
+* **Afeta**: Até 3d6 Dados de Vida de mortos-vivos.
+* **Quando o efeito da poção termina**: Mortos-vivos afetados têm uma reação hostil.
 
 # Poção da Ilusão
 Um personagem que bebe esta poção acredita estar sob os efeitos de outro tipo de poção.
-* ** Tipo **: O outro tipo de poção deve ser determinado pelo árbitro.
-* ** Descrevendo **: O árbitro deve tentar convencer o jogador a acreditar que o personagem está sob os efeitos da outra poção, apenas revelando a verdade em algum momento vital.
+* **Tipo**: O outro tipo de poção deve ser determinado pelo árbitro.
+* **Descrevendo**: O árbitro deve tentar convencer o jogador a acreditar que o personagem está sob os efeitos da outra poção, apenas revelando a verdade em algum momento vital.
 
 # Poção da Diminuição
 O personagem diminui para 15cm de altura.
-* ** Eficácia no combate **: Enquanto encolhido, o personagem não pode causar dano a criaturas maiores que de 30cm de altura.
-* ** Espaços estreitos **: O personagem pode passar por espaços estreitos.
-* ** Ficando imóvel **: O personagem tem apenas 10% de chance de ser visto.
+* **Eficácia no combate**: Enquanto encolhido, o personagem não pode causar dano a criaturas maiores que de 30cm de altura.
+* **Espaços estreitos**: O personagem pode passar por espaços estreitos.
+* **Ficando imóvel**: O personagem tem apenas 10% de chance de ser visto.
 
 # Poção da Percepção Extrassensorial
 Concede o poder de ler pensamentos. Esse item funciona da mesma forma que a magia de Percepção Extrassensorial do Usuário de Magia (veja p81) Se aplica a duração padrão da poção.
 
 # Poção de Resistência ao Fogo
 Concede proteção contra fogo:
-* ** Calor normal **: Não é afetado por calor ou fogo não mágico.
-* ** Bônus para Testes de Resistência ** Ganha um bônus de +2 em todos os testes de resistência contra ataques mágicos ou de Ataques de Sopro baseados em fogo.
-* ** Dano basedo em fogo**: é reduzido em 1 por cada dado de dano rolado. (Cada dado causa um mínimo de 1 ponto de dano.)
+* **Calor normal**: Não é afetado por calor ou fogo não mágico.
+* **Bônus para Testes de Resistência**Ganha um bônus de +2 em todos os testes de resistência contra ataques mágicos ou de Ataques de Sopro baseados em fogo.
+* **Dano basedo em fogo**: é reduzido em 1 por cada dado de dano rolado. (Cada dado causa um mínimo de 1 ponto de dano.)
 
 # Poção de Voar
 Concede a capacidade de voar pelo ar.
@@ -177,25 +177,25 @@ Os seres humanos normais e os personagens de uma classe que não usa magia, foca
 * **8° ao 10° nível**: Adquire 1 nível.
 * **11° nivel**+: Sem efeito.
 
-** Efeitos **: Todas as habilidades dos níveis adicionais são adquiridas, incluindo pontos de vida extras.
+**Efeitos**: Todas as habilidades dos níveis adicionais são adquiridas, incluindo pontos de vida extras.
 
-** Dano **: O dano sofrido enquanto estiver sob os efeitos desta poção são reduzidos primeiro dos pontos de vida adicionais recebidos.
+**Dano**: O dano sofrido enquanto estiver sob os efeitos desta poção são reduzidos primeiro dos pontos de vida adicionais recebidos.
 
 # Poção de Invisibilidade
 Ao beber esta poção, o personagem se torna invisível. Esse item funciona da mesma forma que a magia de Invisibilidade do Usuário de Magia (veja p82) Se aplica a duração padrão da poção.
-* ** Pequenas doses **: A critério do árbitro, uma poção de invisibilidade pode ser consumida em seis doses menores, cada uma com uma duração reduzida.
+* **Pequenas doses**: A critério do árbitro, uma poção de invisibilidade pode ser consumida em seis doses menores, cada uma com uma duração reduzida.
 
 # Poção de Invulnerabilidade
 O personagem torna-se magicamente protegido contra danos, obtendo os seguintes benefícios:
 * **Classe de Armadura**: Um bônus de +2 na CA.
-* **Testes de resistência **: Um bônus de +2 a todos os testes de resistência.
-* ** Frequência de uso **: Se um personagem consome mais de uma poção de invulnerabilidade no período de uma semana, os efeitos são invertidos (uma penalidade de -2 na CA e testes de resistência).
+* **Testes de resistência**: Um bônus de +2 a todos os testes de resistência.
+* **Frequência de uso**: Se um personagem consome mais de uma poção de invulnerabilidade no período de uma semana, os efeitos são invertidos (uma penalidade de -2 na CA e testes de resistência).
 
 # Poção de Levitação
 O personagem ganha a capacidade de se mover para cima e para baixo pelo ar à vontade.
 * **Vertical**: O persoangem direciona mentalmente o movimento vertical em até 18m por rodada. 
 * **Horizontal**: O personagem pode se empurrar apoiando-se em objetos sólidos para se mover lateralmente.
-* ** Peso **: Uma quantidade normal de peso pode ser transportada enquanto se está levitando.
+* **Peso**: Uma quantidade normal de peso pode ser transportada enquanto se está levitando.
 
 # Poção da Longevidade
 Instantaneamente e permanentemente, o personagem se torna 10 anos mais jovem.
@@ -210,8 +210,8 @@ Ao beber esta poção, o personagem se transforma em outro ser (à sua escolha).
 
 # Poção de Velocidade
 Os movimentos e ações do personagem são magicamente acelerados.
-* ** Movimento **: A taxa de movimento é dobrada.
-* ** Ataques **: O número de ataques por rodada que o personagem pode fazer é dobrado.
+* **Movimento**: A taxa de movimento é dobrada.
+* **Ataques**: O número de ataques por rodada que o personagem pode fazer é dobrado.
 * **Outras ações**: Podem ser executadas no dopro da velocidade.
 
 # Poção de Encontrar Tesouro
