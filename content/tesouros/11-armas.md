@@ -1,74 +1,74 @@
 ---
-title: "Armas ❌"
+title: "Armas"
 metaTitle: "Armas"
 metaDescription: "Tesouro -> Armas"
 ---
 +----------+-----------+----------------------------------------------------------------------+
-| Weapons                                                                                     |
+| Armas                                                                                     |
 +==========+===========+======================================================================+
-|**B: d4** | **X: d%** | **Weapon**                                                           |                                
+|**B: d4** | **X: d%** | **Armas**                                                           |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 1–2       | Arrows +1(3d10 arrows)                                               |                              
+|          | 1–2       | Flechas +1(3d10 flechas)                                               |
 +----------+-----------+----------------------------------------------------------------------+
-|1         | 3–12      | Arrows +1 (Basic: 10; Expert: 2d6 arrows)                            |                                                 
+|1         | 3–12      | Flechas +1 (Básico: 10; Especialista: 2d6 flechas)                            |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 13–18     | Arrows +2(1d6 arrows)                                                |                             
+|          | 13–18     | Flechas +2(1d6 flechas)                                                |
 +----------+-----------+----------------------------------------------------------------------+
-|2         | 19–27     | Axe +1                                                               |              
+|2         | 19–27     | Machado +1                                                               |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 28–30     | Axe +2                                                               |              
+|          | 28–30     | Machado +2                                                               |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 31–33     | Bow +1                                                               |              
+|          | 31–33     | Arco +1                                                               |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 34–43     | Crossbow Bolts +1 (2d6 bolts)                                        |                                     
+|          | 34–43     | Virotes +1 (2d6 virotes)                                        |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 44–45     | Crossbow Bolts +1 (3d10 bolts)                                       |                                      
+|          | 44–45     | Virotes +1 (3d10 virotes)                                       |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 46–52     | Crossbow Bolts +2 (1d6 bolts)                                        |                                     
+|          | 46–52     | Virotes +2 (1d6 virotes)                                        |
 +----------+-----------+----------------------------------------------------------------------+
-|3         | 53–55     | Dagger +1                                                            |                 
+|3         | 53–55     | Adaga +1                                                            |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 56        | Dagger +2, +3 vs orcs, goblins, and kobolds                          |                                                   
+|          | 56        | Adaga +2, +3 vs orcs, goblins, e kobolds                          |
 +----------+-----------+----------------------------------------------------------------------+
-|4         | 57–64     | Mace +1                                                              |               
+|4         | 57–64     | Maça +1                                                              |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 65–67     | Mace +2                                                              |               
+|          | 65–67     | Maça +2                                                              |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 68        | Mace +3                                                              |               
+|          | 68        | Maça +3                                                              |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 69–74     | Sling +1                                                             |                
+|          | 69–74     | Funda +1                                                             |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 75–82     | Spear +1                                                             |                
+|          | 75–82     | Azagaia +1                                                             |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 83–86     | Spear +2                                                             |                
+|          | 83–86     | Azagaia +2                                                             |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 87        | Spear +3                                                             |                
+|          | 87        | Azagaia +3                                                             |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 88–94     | War Hammer +1                                                        |                     
+|          | 88–94     | Martelo de Batalha +1                                                        |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 95–99     | War Hammer +2                                                        |                     
+|          | 95–99     | Martelo de Batalha +2                                                        |
 +----------+-----------+----------------------------------------------------------------------+
-|          | 0         | War Hammer +3, Dwarven Thrower                                       |                                      
-+----------+-----------+----------------------------------------------------------------------+                  
+|          | 0         | Martelo de Batalha +3, Martelo de Arremesso Anão                                       |
++----------+-----------+----------------------------------------------------------------------+
 
 
-**B**: Basic characters (levels 1–3) 
+**B**: Personagens Básicos (níveis 1–3)
 
-**X**: Expert characters (level 4+)
+**X**: Personagens Especialistas (nível 4+)
 
-**Usage**: Per normal class restrictions.
+** Uso **: Por restrições normais e classe
 
-# Cursed Swords and Weapons
-**Penalty**: Cursed weapons specify a penalty that is applied to both attack rolls and damage rolls made with the weapon.
+# Armas e Espadas Amaldiçoadas
+**Penalidade**: Armas amaldiçoadas especificam a penalidade que é aplicada à rolagens de ataque e de dano feitas com a arma.
 
-**Discarding**: Once the weapon has been used in combat, the character comes under the curse and is not able to discard the item. In fact, they will favour the weapon and use it whenever possible. The curse can only be removed with magic.
+**Descartando**: Uma vez que a arma foi usada em comabte, o personagem está sob a maldição e não pode descartar o item. De fato, ele protegerá a arma e vai usá-la sempre que possível.  A maldição só pode ser removida com magia.
 
-# Enchanted Swords and Weapons
-**Bonus**: Enchanted weapons specify a bonus that is applied to both attack rolls and damage rolls made with the weapon.
+# Espadas e Armas Encantadas
+**Bõnus**: Armas encantadas especificam o bônus que é aplicado à rolagens de ataque e de dano feitas com a arma.
 
-**Bonus vs creature type**: Some weapons have a special bonus when used against a certain type of creature.
+**Bônus contra tipo de criatura **: Algumas armas tem um tipo especial de bônus quando usadas contra um certo tipo de criatura.
 
-# War Hammer +3, Dwarven Thrower
-In the hands of a dwarf, this weapon may function as a thrown missile weapon.
-* **Range**: 60’.
-* **After being thrown**: It returns to its wielder’s hands.
+# Martelo de Batalha +3, Martelo de Arremesso Anão
+Nas mãos de um anão, essa arma pode funcionar como uma arma de longa distância. 
+* **Alcance**: 18m.
+* **Depois de ser jogada**: Ela retorna às maos de seu portador.
