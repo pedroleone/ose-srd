@@ -10,7 +10,7 @@ Itens mágicos são geralmente classificados de acordo com uma das categorias li
 * **Itens Diversos** : Itens encantados que não se enquadram em nenhuma outra categoria
 * **Poções**: Líquidos mágicos guardados em frascos de vidro.
 * **Anéis**: Anéis simples ou com jóias que concedem um encantamento a que o usa.
-* **Cajados** / bastões / varinhas: Pedaços compridos de madeira, metal, cristal ou outro material encantado magicamente.. Utilizado por usuários de magia para desencadear efeitos mágicos.
+* **Bastões** / cajados / varinhas: Pedaços compridos de madeira, metal, cristal ou outro material encantado magicamente.. Utilizado por usuários de magia para desencadear efeitos mágicos.
 * **Pergaminhos e mapas**: folhas antigas de pergaminho ou papel, inscritas com runas mágicas ou instruções que levam a um tesouro. Observe que os mapas de tesouro são rolados na tabela de itens mágicos, embora geralmente não sejam mágicos.
 * **Espadas**: Concede bônus para acertar ataques e de dano em combate. Também podem estar encantadas com poderes adicionas.
 * **Armas**: Todas as armas encantadas que não são espadas. Concede bônus para acertar ataques e de dano em combate. Também podem estar encantadas com poderes adicionas.
@@ -29,26 +29,26 @@ Probabilidades separadas estão listadas na tabela para personagens de nível B�
 
 É recomendado que as probabilidades usadas estejam adequadas ao nível de experiência do grupo. De forma alternativa, se o árbitro preferir distribuir uniformemente os itens,  indenpedente do nível do personagem, as probabilidades do Especialista podem ser usadas sempre.
 
-+------------+------------+----------------------------+
-| Tipo de Item Mágico                                  |
+-----------+------------+----------------------------+
+| Tipo de Item Mágico                                      |
 +============+============+============================+
 | **B: d%**  | **X: d%**  | Tipo de Item               |
 +------------+------------+----------------------------+
-| 1–10       | 1–10       | Armadura ou Escudo         |
+| 1–10       | 1–10       | Armadura ou Escudo           |
 +------------+------------+----------------------------+
-| 11–15      | 11–15      | Itens Diversos             |
+| 11–15      | 11–15      | Itens Diversos          |
 +------------+------------+----------------------------+
-| 16–40      | 16–35      | Poção                      |
+| 16–40      | 16–35      | Poção                     |
 +------------+------------+----------------------------+
 | 41–45      | 36–40      | Anel                       |
 +------------+------------+----------------------------+
-| 46–50      | 41–45      | Cajado / Bastão / Varinha  |
+| 46–50      | 41–45      | Bastão / Cajado / Varinha         |
 +------------+------------+----------------------------+
-| 51–70      | 46–75      | Pergaminho ou Mapa         |
+| 51–70      | 46–75      | Pergaminho ou Mapa              |
 +------------+------------+----------------------------+
-| 71–90      | 76–95      | Espada                     |
+| 71–90      | 76–95      | Espada                      |
 +------------+------------+----------------------------+
-| 91–00      | 96–00      | Arma Mágica                |
+| 91–00      | 96–00      | Arma Mágica                     |
 +------------+------------+----------------------------+
 
 # Identificando Itens Mágicoságicos
