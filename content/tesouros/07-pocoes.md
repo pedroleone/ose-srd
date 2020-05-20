@@ -1,5 +1,5 @@
 ---
-title: "Poções ❌"
+title: "Poções"
 metaTitle: "Poções"
 metaDescription: "Tesouro -> Poções"
 ---
@@ -55,7 +55,7 @@ metaDescription: "Tesouro -> Poções"
 +------------+------------+--------------------------------------+
 | 8          | 85–86      |  Veneno                              |
 +------------+------------+--------------------------------------+
-|            | 87–89      |  Polimorfia                          |
+|            | 87–89      |  Metamorfosear-se                          |
 +------------+------------+--------------------------------------+
 |            | 90–97      |  Poção de Velocidade                 |
 +------------+------------+--------------------------------------+
@@ -205,8 +205,8 @@ Tem a mesma aparência de qualquer outra poção.
 * **Efeito**: Causa a morte (Teste de Resistência contra Veneno).
 * **Provando**: Até mesmo um gole tem o efeito total.
 
-# Poção da Polimorfia
-Ao beber esta poção, o personagem se transforma em outro ser (à sua escolha). Esse item funciona da mesma forma que a magia de Polimorfia do Usuário de Magia (veja p81) Se aplica a duração padrão da poção.
+# Poção de Metamorfosear-se
+Ao beber esta poção, o personagem se transforma em outro ser (à sua escolha). Esse item funciona da mesma forma que a magia Metamorfosear-se do Usuário de Magia (veja p81) Se aplica a duração padrão da poção.
 
 # Poção de Velocidade
 Os movimentos e ações do personagem são magicamente acelerados.
