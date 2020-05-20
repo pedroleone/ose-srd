@@ -35,7 +35,7 @@ metaDescription: "Tesouro -> Poções"
 +------------+------------+--------------------------------------+
 |            | 44–47      |  Voar                                |
 +------------+------------+--------------------------------------+
-| 3          | 48–51      |  Foram Gasosa                        |
+| 3          | 48–51      |  Forma Gasosa                        |
 +------------+------------+--------------------------------------+
 |            | 52–55      |  Força Gigante                       |
 +------------+------------+--------------------------------------+
@@ -151,7 +151,7 @@ Concede a capacidade de voar pelo ar.
 O corpo do personagem se torna uma nuvem de vapor. Isso tem os seguintes efeitos:
 * **Equipamentos e roupas**: Caem no chão.
 * **Movimento**: O personagem pode se mover como uma nuvem de gás, através de pequenas rachaduras nas paredes de pedra, objetos de madeira, etc.
-* **Atacar**: Não é possível, enquanto na fora gasosa.
+* **Atacar**: Não é possível, enquanto na forma gasosa.
 * **Invulnerabilidade**: A CA do personagem é -2 [21]. Armas não mágicas não podem causar dano ao personagem.
 
 # Poção da Força Gigante
