@@ -33,9 +33,9 @@ O número de d8s rolados para determinar os pontos de vida de um indivíduo.
 Os ataques que o monstro pode usar a cada rodada, com o dano causado entre parênteses. (Note que as rolagens de ataque e de dano dos monstros são modificadas por FOR ou DEX a não ser que esteja especificado.)
 
 Hábitos de ataque alternativos: Colchetes são usados para distinguir entre hábitos de ataque alternativo que um monstro pode escolher.
-Valores de Salvaguarda (VS)
+Valores de Teste de Resistência (VTR)
 
-Os valores de salvaguarda do monstro:
+Os valores de Teste de Resistência do monstro:
 
 * **D**: Morte/Veneno.
 * **W**: Varinhas.
@@ -43,9 +43,9 @@ Os valores de salvaguarda do monstro:
 * **B**: Ataques de Baforada.
 * **S**: Magias/Bastões/Cajados.
 
-**Salvaguarda como DV**: O DV que o monstro usa está listado entre parênteses (com um HN indicando que ele faz a salvaguarda como um humano normal). Esse valor nem sempre vai ser igual à classificação de DV do monstro — monstros não-inteligentes tipicamente fazem a salvaguarda com metade da classificação de DV deles; monstros mágicos podem fazer a salvaguarda com valores maiores de classificação de DV.
+**Teste de Resistência como DV**: O DV que o monstro usa está listado entre parênteses (com um HN indicando que ele faz o teste de resistência como um humano normal). Esse valor nem sempre vai ser igual à classificação de DV do monstro — monstros não-inteligentes tipicamente fazem o teste de resistência com metade da classificação de DV deles; monstros mágicos podem fazer o teste de resistência com valores maiores de classificação de DV.
 
-Alguns monstros fazem salvaguardas como uma classe de personagem. Nesse caso, a classe e nível estão listados entre parênteses depois dos valores de salvaguarda: C=Clérigo, A=Anão, E=Elfo, G=Guerreiro, H=Halfling, UM=Usuário de Magia, L=Ladino.
+Alguns monstros fazem testes de resistência como uma classe de personagem. Nesse caso, a classe e nível estão listados entre parênteses depois dos valores de teste de resistência: C=Clérigo, A=Anão, E=Elfo, G=Guerreiro, H=Halfling, UM=Usuário de Magia, L=Ladino.
 
 ## Rolagem de Ataque "pra acertar CA 0" (THAC0=To hit AC 0)
 
