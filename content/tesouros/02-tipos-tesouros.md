@@ -10,10 +10,10 @@ O valor médio de cada tipo de tesouro é listado ao lado do código de letras. 
 # Tesouros Alternativos.
 Para gêneros ou cenários onde a cunhagem de metais preciosos não é comum, o Árbitro pode substituir peças de ouro etc. por moedas de valor equivalente. O mesmo vale para gemas e jóias, que podem ser substituídas por outros tipos de substâncias valiosas ou objetos de decoração.
 
-# Tesouros: A–O
-Esses tipos de tesouros indicam a soma da riqueza de um monstro grande ou de uma comunidade de monstros menores. Tais tesouros geralmente estão escondidos no covil dos monstros.
+# Montantes de Tesouros: A–O
+Esses tipos de tesouros indicam a soma da riqueza de um monstro grande ou de uma comunidade de monstros menores. Tais montantes de tesouros geralmente estão escondidos no covil dos monstros.
 
-**Covis Pequenos**: As listagens de monstros indicam o número de indivíduos encontrados em um covil. Se o número rolado estiver abaixo da média e o tamanho do encontro no covil for pelo menos 1d4, a quantidade de tesouro no tesouro poderá ser reduzida de acordo.
+**Covis Pequenos**: As listagens de monstros indicam o número de indivíduos encontrados em um covil. Se o número rolado estiver abaixo da média e o tamanho do encontro no covil for pelo menos 1d4, a quantidade de tesouro no montante poderá ser reduzida de acordo.
 
 ## Tipo A (18,000po em média)
 * 25%: 1d6 × 1,000pc.
