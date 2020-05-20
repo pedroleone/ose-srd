@@ -113,12 +113,12 @@ O usuário é capaz de se mover até 72m (24m) — a velocidade de um cavalo de 
 # Botas de Viajar e Saltar
 O usuário é capaz de viajar sem se cansar e saltar grandes distâncias.
 * **Incansabilidade**: A necessidade de descanso normal quando se está viajando pode ser ignorada (veja Aventuras nos Ermos, p110).
-* **Pulando**: O usuário pode saktar até 3m (10') de altura e 9m (30') horizontalmente.
+* **Pulando**: O usuário pode saktar até 3m de altura e 9m horizontalmente.
 
 # Vassoura Voadora
 Uma vassoura que pode ser comandada a voar, carregando o proprietário consigo.
-* **Velocidade**: A vassoura voa a 72m/240’ (24m/80’).
-* **Passageiros**: Um passageiro adicional pode ser transportado. Quando estiver carregando duas pessoas, a velocidade da vassoura é 54m/180' (18m/60').
+* **Velocidade**: A vassoura voa a 72m (24m).
+* **Passageiros**: Um passageiro adicional pode ser transportado. Quando estiver carregando duas pessoas, a velocidade da vassoura é 54m (18m).
 
 # Bola de Cristal
 Permite que um usuário de magia veja qualquer lugar ou objeto que ele traga à mente:
