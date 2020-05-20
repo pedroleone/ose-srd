@@ -9,72 +9,72 @@ Descrição de Itens
 Clique no item na tabela para ler a descrição completa.
 
 +-------------+------------+-------------------------------------------------------------+
-| Itens Mágicos Diversos                                                                 |
+| Itens Mágicos Diversos                                                              |
 +=============+============+=============================================================+
 | **B: d10**  | **X: d%**  | **Item**                                                    |
 +-------------+------------+-------------------------------------------------------------+
 +-------------+------------+-------------------------------------------------------------+
-|             | 1-3        | Amuleto de Proteção contra Vidência                         |
+|             | 1-3        | Amuleto de Proteção contra Escriação                        |
 +-------------+------------+-------------------------------------------------------------+
-| 1           | 4-5        | Bolsa Devoradora                                            |
+| 1           | 4-5        | Mochila Devoradora                                            |
 +-------------+------------+-------------------------------------------------------------+
-| 2           | 6-11       | Bolsa de Carga                                              |
+| 2           | 6-11       | Mochila de Carga                                              |
 +-------------+------------+-------------------------------------------------------------+
-|             | 12-16      | Botas da Levitação                                          |
+|             | 12-16      | Mochila da Levitação                                        |
 +-------------+------------+-------------------------------------------------------------+
-|             | 17-21      | Botas de Velocidade                                         |
+|             | 17-21      | Botas de Velocidade                                              |
 +-------------+------------+-------------------------------------------------------------+
-|             | 22-26      | Botas de Viagar e Saltar                                    |
+|             | 22-26      | Botas de Viajar e Saltar                             |
 +-------------+------------+-------------------------------------------------------------+
-| 3           | 27-31      | Vassoura Voadora                                            |
+| 3           | 27-31      | Vassoura Voadora                                             |
 +-------------+------------+-------------------------------------------------------------+
-| 4           | 32-35      | Bola de Cristal                                             |
+| 4           | 32-35      | Bola de Cristal                                                |
 +-------------+------------+-------------------------------------------------------------+
-|             | 36-37      | Bola de Cristal com Clariaudiência                          |
+|             | 36-37      | Bola de Cristal com Clariaudiência                             |
 +-------------+------------+-------------------------------------------------------------+
-|             | 38         | Bola de Cristal com Percepção Extrassensorial               |
+|             | 38         | Bola de Cristal com Percepção Extrassensorial                                       |
 +-------------+------------+-------------------------------------------------------------+
-|             | 39-40      | Capa Deslocadora                                            |
+|             | 39-40      | Capa Deslocadora                                             |
 +-------------+------------+-------------------------------------------------------------+
-|             | 41         | Tambores de Pânico                                          |
+|             | 41         | Tambores de Pânico                                              |
 +-------------+------------+-------------------------------------------------------------+
-|             | 42         | Garrafa Efreeti                                             |
+|             | 42         | Garrafa Efreeti                                              |
 +-------------+------------+-------------------------------------------------------------+
-|             | 43         | Dispositivo de Invovação Elemental: Ar                      |
+|             | 43         | Dispositivo de Invovação Elemental: Ar                             |
 +-------------+------------+-------------------------------------------------------------+
-|             | 44         | Dispositivo de Invovação Elemental: Terra                   |
+|             | 44         | Dispositivo de Invovação Elemental: Terra                           |
 +-------------+------------+-------------------------------------------------------------+
-|             | 45         | Dispositivo de Invovação Elemental: Fogo                    |
+|             | 45         | Dispositivo de Invovação Elemental: Fogo                            |
 +-------------+------------+-------------------------------------------------------------+
-|             | 46         | Dispositivo de Invovação Elemental: Água                    |
+|             | 46         | Dispositivo de Invovação Elemental: Água                           |
 +-------------+------------+-------------------------------------------------------------+
-| 5           | 47-56      | Capa e Botas Élficas                                        |
+| 5           | 47-56      | Capa e Botas Élficas                  |
 +-------------+------------+-------------------------------------------------------------+
 |             | 57         | Tapete Voador                                               |
 +-------------+------------+-------------------------------------------------------------+
-| 6           | 58-64      | Manoplas do Poder Ogro                                      |
+| 6           | 58-64      | Manoplas do Poder Ogro                                     |
 +-------------+------------+-------------------------------------------------------------+
-|             | 65-66      | Cinturão da Força Gigante                                   |
+|             | 65-66      | Cinturão da Força Gigante                                    |
 +-------------+------------+-------------------------------------------------------------+
-| 7           | 67-77      | Elmo da Alteração de Alinhamento                            |
+| 7           | 67-77      | Elmo da Alteração de Alinhamento                                  |
 +-------------+------------+-------------------------------------------------------------+
-|             | 78-82      | Elmo da Leitura de Idiomas e Magia                          |
+|             | 78-82      | Elmo da Leitura de Idiomas e Magia                         |
 +-------------+------------+-------------------------------------------------------------+
 | 8           | 83         | Elmo da Telepatia                                           |
 +-------------+------------+-------------------------------------------------------------+
 |             | 84         | Elmo do Teletranspore                                       |
 +-------------+------------+-------------------------------------------------------------+
-|             | 85         | Chifre da Explosão                                          |
+|             | 85         | Chifre da Explosão                                            |
 +-------------+------------+-------------------------------------------------------------+
-| 9           | 86-90      | Medalhão da Percepção Extrassensorial 9m                    |
+| 9           | 86-90      | Medalhão da Percepção Extrassensorial 9m                                        |
 +-------------+------------+-------------------------------------------------------------+
-|             | 91-93      | Medalhão da Percepção Extrassensorial 27m                   |
+|             | 91-93      | Medalhão da Percepção Extrassensorial 27m                                        |
 +-------------+------------+-------------------------------------------------------------+
 |             | 94-94      | Espelho de Prender Vida                                     |
 +-------------+------------+-------------------------------------------------------------+
-| 10          | 95-97      | Corda de Escalada                                           |
+| 10          | 95-97      | Corda de Escalada                                            |
 +-------------+------------+-------------------------------------------------------------+
-|             | 98-00      | Escaravelho de Proteção                                     |
+|             | 98-00      | Escaravelho de Proteção                                        |
 +-------------+------------+-------------------------------------------------------------+
 
 
@@ -87,12 +87,12 @@ Um amuleto que fornece proteção contra visualização remota e leitura da ment
 * **Bolas de Cristal**: A pessoa que usa este amuleto não pode ser vista em uma bola de cristal.
 * **Percepção Extrassensorial**: O usuário fica imune a todas as formas de Percepção Extrassensorial.
 
-# Bolsa Devoradora
+# Mochila Devoradora
 Uma bolsa pequena de aparência normal que devora objetos colocados dentro dele.
 * **Objetos**: Tudo o que é colocado dentro da bolsa desaparece após 1d6+6 turnos.
 * **Criaturas vivas**: Podem ser afetadas, mas apenas se a criatura inteira couber na bolsa.
 
-# Bolsa de Carga
+# Mochila de Carga
 Uma bolsa pequena de aparência normal que pode guardar magicamente objetos e cargas.
 * **Tamanho**: Objetos de até 3m x 1,5m x 90cm podem ser colocados dentro da bolsa.
 * **Peso**: Até 10,000 moedas de peso podem ser colocadas dentor da bolsa.
@@ -102,7 +102,7 @@ Uma bolsa pequena de aparência normal que pode guardar magicamente objetos e ca
 O usuário é capaz de se mover pra cima e pra baixo pelo ar à vontade.
 * **Vertical**: O usuário direciona mentalmente o movimento vertical em até 6m por rodada. 
 * **Horizontal**: O usuário pode se empurrar apoiando-se em objetos sólidos para se mover lateralmente.
-* **Peso**: Uma quantidade normale de peso pode ser carregada enquanto estiver levitando.
+* **Peso**: Uma quantidade normal de peso pode ser transportada enquanto se está levitando.
 * **Uso**: O encantamento pode ser usado sem o limite de vezes ou duração.
 
 # Botas de Velocidade
@@ -110,7 +110,7 @@ O usuário é capaz de se mover até 72m (24m) — a velocidade de um cavalo de 
 * **Duração**: Esse efeito pode ser mantido por até 12 horas.
 * **Descanso**: Depois disso, o usuário deve descansar por 1 dia.
 
-# Botas de Viagar e Saltar
+# Botas de Viajar e Saltar
 O usuário é capaz de viajar sem se cansar e saltar grandes distâncias.
 * **Incansabilidade**: A necessidade de descanso normal quando se está viajando pode ser ignorada (veja Aventuras nos Ermos, p110).
 * **Pulando**: O usuário pode saktar até 3m (10') de altura e 9m (30') horizontalmente.
@@ -229,7 +229,7 @@ Um chifre que pode ser tocado para liberar uma explosão destrutiva de barulho.
 
 # Medalhão da Percepção Extrassensorial 9m
 Um medalhão em uma corrente, encantado com o poder de ler os pensamentos.
-* **Foco **: Ao se concentrar por 1 rodada, o usuário pode selecionar uma criatura dentro de 9m como alvo.
+* **Foco**: Ao se concentrar por 1 rodada, o usuário pode selecionar uma criatura dentro de 9m como alvo.
 * **Resistindo**: Á critério do árbitro, o alvo pode fazer um teste de resistência contra magias para tentar resistir.
 * **Concentração**: Enquanto estiver lendo pensamentos, o usuário pode se mover, mas não pode conjurar magias ou atacar.
 * **Imprecisões**: O medalhão não é completamente confiável. A cada uso, existe uma chande de 1-em-6 de ele errar o alvo, enviando então os pensamentos do usuário para todos dentro de 9 metros.
