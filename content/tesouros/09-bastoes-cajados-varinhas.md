@@ -1,234 +1,237 @@
 ---
-title: "Bastões, Cajados e Varinhas ❌"
+title: "Bastões, Cajados e Varinhas"
 metaTitle: "Bastões, Cajados e Varinhas"
 metaDescription: "Tesouro -> Bastões, Cajados e Varinhas"
 ---
 
 +------------+--------------+------------------------------------------------+
-| Magic Rods, Staves, and Wands                                              |
+| Cajados, Bastões e Varinhas Mágicas                                              |
 +============+==============+================================================+
-| **B: d6**  | **X: d%**    | **Item**                                       |
+| **B: d6** | **X: d%**   | **Item**                                      |
 +------------+--------------+------------------------------------------------+
-| 1          |  1–8         | Rod of Cancellation                            |                            
+| 1          |  1–8         | Bastão do Cancelamento                            |
 +------------+--------------+------------------------------------------------+
-|            |  9–11        | Staff of Commanding                            |                             
+|            |  9–11        | Cajado do Comando                            |
 +------------+--------------+------------------------------------------------+
-| 2          |  12–21       | Staff of Healing                               |                           
+| 2          |  12–21       | Cajado da Cura                               |
 +------------+--------------+------------------------------------------------+
-|            |  22–23       | Staff of Power                                 |                         
+|            |  22–23       | Cajado do Poder                                 |
 +------------+--------------+------------------------------------------------+
-| 3          |  24–28       | Staff of Snakes                                |                          
+| 3          |  24–28       | Cajado das Cobras                                |
 +------------+--------------+------------------------------------------------+
-|            |  29–31       | Staff of Striking                              |                            
+|            |  29–31       | Cajado do Ataque                              |
 +------------+--------------+------------------------------------------------+
-|            |  32–34       | Staff of Withering                             |                             
+|            |  32–34       | Cajado de Definhar                             |
 +------------+--------------+------------------------------------------------+
-|            |  35          | Staff of Wizardry                              |                         
+|            |  35          | Cajado da Magia                              |
 +------------+--------------+------------------------------------------------+
-|            |  36–40       | Wand of Cold                                   |                       
+|            |  36–40       | Varinha de Frio                                   |
 +------------+--------------+------------------------------------------------+
-| 4          |  41–45       | Wand of Enemy Detection                        |                                  
+| 4          |  41–45       | Varinha de Detectar Inimigos                        |
 +------------+--------------+------------------------------------------------+
-|            |  46–50       | Wand of Fear                                   |                       
+|            |  46–50       | Varinha de Medo                                   |
 +------------+--------------+------------------------------------------------+
-|            |  51–55       | Wand of Fire Balls                             |                             
+|            |  51–55       | Varinha de Bolas de Fogo                             |
 +------------+--------------+------------------------------------------------+
-|            |  56–60       | Wand of Illusion                               |                           
+|            |  56–60       | Varinha de Ilusão                               |
 +------------+--------------+------------------------------------------------+
-|            |  61–65       | Wand of Lightning Bolts                        |                                  
+|            |  61–65       | Varinha de Relâmpagos                        |
 +------------+--------------+------------------------------------------------+
-| 5          |  66–70       | Wand of Magic Detection                        |                                  
+| 5          |  66–70       | Varinha de Detectar Magia                        |
 +------------+--------------+------------------------------------------------+
-|            |  71–75       | Wand of Metal Detection                        |                                  
+|            |  71–75       | Varinha de Detectar Metal                        |
 +------------+--------------+------------------------------------------------+
-|            |  76–80       | Wand of Negation                               |                           
+|            |  76–80       | Varinha de Negação                               |
 +------------+--------------+------------------------------------------------+
-| 6          |  81–85       | Wand of Paralysation                           |                               
+| 6          |  81–85       | Varinha de Paralisação                           |
 +------------+--------------+------------------------------------------------+
-|            |  86–90       | Wand of Polymorph                              |                            
+|            |  86–90       | Varinha de Metamorfose                              |
 +------------+--------------+------------------------------------------------+
-|            |  91–95       | Wand of Secret Door Detection                  |                                        
+|            |  91–95       | Varinha de Detectar Porta Secreta                  |
 +------------+--------------+------------------------------------------------+
-|            |  96–00       | Wand of Trap Detection                         |                                 
+|            |  96–00       | Varinha de Detectar Armadilha                         |
 +------------+--------------+------------------------------------------------+
 
-B: Basic characters (levels 1–3)
-X: Expert characters (level 4+)
+B: Personagens básicos (níveis 1–3)
+X: Personagens Especialistas (níveis 4+)
 
 
-# Charges
-Rods, staves, and wands have a limited number of uses, called “charges”.
+# Cargas
+Cajados, bastões, e varinhas tem um número limitado de usos, chamados de "cargas".
 
-**Number of charges**: The number of charges in an item when discovered is determined by the referee, and depends on the type of the item. It is not possible for characters to discover the number of charges in an item.
+**Número de cargas**: O número de cargas de um item, quando ele encontrado, é determinado pelo árbitro e depende do tipo do item. Não é possível que os personagens descubram o número de cargas de um item.
 
-**Usage**: Each use of the item takes one round and consumes one charge.
+**Uso**: Cada uso do item dura uma rodada e consome uma carga.
 
-**Consuming the last charge**: The item loses its magical potency.
+**Usando a última carga**: O item perde sua potência mágica.
 
-**Recharging**: Is not possible.
+**Recarregando**: Não é possível.
 
-# Rods
-**Usage**: All characters (unless noted).
+# Cajados
 
-**Dimensions**: Thin, 3’ long.
+**Uso**: Todos os personagens (a manos que indicado).
 
-**Charges**: Unless noted, magic rods contain 1d10 charges when found.
+**Dimensões**: Finos, 1m de comprimento.
 
-# Staves
-**Usage**: Spell casters. Some staves may only be used by either arcane or divine spell casters (this is noted in the item’s description).
+**Cargas**: A menos que indicado, cajados mágicos têm 1d10 cargas quando encontrados.
 
-**Dimensions**: 2” thick, 6’ long.
+# Bastões
 
-**Charges**: Unless noted, magic staves contain 3d10 charges when found.
+**Uso**: Usuários de Magia. Alguns bastões só podem ser usados por usuários de magia arcana ou divina (isso está indicado na descrição do item).
 
-# Wands
-**Usage**: Arcane spell casters.
+**Dimensões**: 5cm de espessura, 15cm de comprimento.
 
-**Dimensions**: Thin, 1.’ long.
+**Cargas**: A menos que indicado, bastões mágicos têm 3d10 cargas quando encontrados.
 
-**Charges**: Unless noted, magic wands contain 2d10 charges when found.
+# Varinhas
 
-# Rod of Cancellation
-Drains the enchantment from a magic item that is touched.
-* **In combat**: Usage requires an attack roll against AC 9 [10] (adjusted by the referee, if the target item is being actively used).
-* **Effect**: The item that is touched becomes utterly non-magical.
-* **One use only**: The rod may only be used once: it has but a single charge.
+**Uso**: Usuários de Magia Arcana.
 
-# Staff of Commanding
-Grants the power to control animals, humans, and plants.
+**Dimensões**: Finos, 30cm de comprimento.
 
-## Commanding Animals
-* **Affects**: 1d6 normal animals or 1 giant animal (but not magical or intelligent animals).
-* **Resisting**: No saving throw is allowed.
-* **Visual range**: The character can only control animals that they can see.
-* **Concentration**: Control is broken if the user of the staff moves or attacks.
-* **When concentration ends**: The referee should make a reaction roll with a –1 penalty (see Encounters, p114) to determine the animals’ behaviour.
-* **Usage frequency**: This power of the staff may be used up to once per turn.
+**Cargas**: A menos que indicado, varinhas mágicas têm 2d10 cargas quando encontradas.
 
-## Commanding Humans
-* **Usage**: A charm may be placed upon a human within 60’. One target may be charmed per round.
-* **Resisting**: The subject may save versus spells (with a –2 penalty) to resist.
-* **Maximum subjects**: Up to 6 Hit Dice of humans may be charmed in this way. Normal humans count as . HD.
-* **Charmed individuals**: Regard the character as a trusted friend, and will come to their defence. They will obey the character’s commands, as long as these are not obviously harmful and do not contradict the subject’s alignment.
-* **Duration**: The charm lasts indefinitely, but ends if cancelled by the wielder of the staff, or when dispelled.
+# Cajado do Cancelamento
+Drena o encantamento de um item mágico que é tocado.
+* **Em combate**: O uso requer uma jogada de ataque contra CA 9 [10] (ajustado pelo árbitro, se o item alvo estiver sendo usado ativamente).
+* **Efeito**: O item tocado se torna totalmente não mágico.
+* **Apenas um uso**: O cajado pode ser usado apenas uma vez: possui apenas uma carga.
 
-## Commanding Plants
-* **Affects**: All plants (including plant monsters) in a 10’ square area.
-* **Range**: The area may be up to 60’ distant.
-* **Commands**: Affected plants may be commanded to move around as the character wishes.
-* **Concentration**: The effect lasts as long as the wielder of the staff concentrates.
+# Cajado do Comando
+Concede o poder de controlar animais, seres humanos e plantas.
 
-# Staff of Healing
-Has the power to heal those touched.
-* **Divine magic**: Usable by divine spell casters only.
-* **Effect**: Heals 1d6+1 hit points with each usage.
-* **Usage limit**: Is effective on any individual at most once per day.
-* **No charges**: Does not use charges; may be used an unlimited number of times.
+## Comandar Animais
+* **Afeta** 1d6 animais normais ou 1 animal gigante (mas não animais mágicos ou inteligentes).
+* **Resistindo**: Nenhum teste de resistência é permitido.
+* **Alcance Visual**: O personagem só pode controlar animais que ele possa ver.
+* **Concentração**: O controle é interrompido se o usuário do bastão se mover ou atacar.
+* **Quando a concentração terminar**: O árbitro deve fazer um teste de reação com uma penalidade de -1 (consulte Encontros, p114) para determinar o comportamento dos animais.
+* **Frequência de uso**: Este poder do cajado pode ser usado até uma vez por turno.
 
-# Staff of Power
-An item of great wizardly power, this staff may be used as a weapon in melee, and may evoke five different magical effects.
-* **Arcane magic**: Usable by arcane spell casters only.
-* **Melee**: Expending one charge, inflicts 2d6 damage on a successful hit.
-* **Cone of cold**: Conjures a cone of freezing energy, 60’ long and 30’ wide at the far end. Creatures caught in the cone suffer 8d6 damage (save versus spells for half damage).
-* **Spells**: Can cast: continual light (see p81), fire ball (8d6 damage—see p84), lightning bolt (8d6 damage—see p85), telekinesis (up to 2,400 coins of weight—see p92).
+## Comandar Humanos
+* **Uso**: Um feitiço pode ser colocado em um ser humano dentro 18m. Um alvo pode ser enfeitiçado por rodada.
+* **Resistindo**: O sujeito pode fazer um teste de resistência contra magias (com uma penalidade de -2) para resistir.
+* **Número máximo de alvos**: Até 6 Dados de Vida de seres humanos podem ser enfeitiçados dessa maneira. Humanos normais contam como. DV.
+* **Indivíduos Enfeitiçados**: Consideram o personagem como um amigo de confiança e irão defendê-lo. Eles obedecerão aos comandos do personagem, desde que não sejam obviamente perigosos e não contradigam o alinhamento do sujeito.
+* **Duração**: O feitiço dura indefinidamente, mas termina se for cancelado pelo portador do cajado ou quando for dissipado.
 
-# Staff of Snakes
-A magical staff that has the power to transform into a snake, on command.
-* **Divine magic**: Usable by divine spell casters only.
-* **In melee**: Treated as a staff with a +1 magic bonus to attacks and damage.
-* **On a successful hit**: Upon a human-sized (or smaller) creature, the wielder of the staff may speak the command word, causing it to transform into a serpent and coil around the victim.
-* **Victims**: Must save versus spells or be immobilised in the coils of the snake. Victims are completely helpless while held by the snake (1d4 turns, or released as the wielder of the staff commands).
-* **Snake**: Has AC 5 [14], HD 3 (20hp), and a movement rate of 60’ (20’).
-* **When the victim is released**: The snake returns to the owner and transforms back into a staff. (At this point, it is healed of any damage it has suffered.)
-* **If the snake is killed**: It does not return to its staff form, becoming non-magical.
-* **No charges**: Does not use charges; may be used any number of times.
+## Comandando Plantas
+* **Afeta**: Todas as plantas (incluindo monstros plantas) em uma área quadrada de 3m.
+* **Alcance**: A área pode estar em até 18m de distância.
+* **Comandos**: Plantas afetadas podem ser comandadas a se moverem conforme o personagem desejar.
+* **Concentração**: O efeito dura enquanto o usuário do cajado se concentrar.
 
-# Staff of Striking
-Used as a magical melee weapon.
-* **Expending one charge**: Inflicts 2d6 damage on a successful hit.
-* **Usage frequency**: Only one charge may be spent per strike.
+# Cajado da Cura
+Tem o poder de curar aqueles que toca.
+* **Magia Divina**: Utilizável apenas por conjudaroes de magias divinas.
+* **Efeito**: Cura 1d6 + 1 ponto de vida a cada uso.
+* **Limite de uso**: É eficaz em qualquer indivíduo no máximo uma vez por dia.
+* **Sem cargas**: Não utiliza cargas; pode ser usado um número ilimitado de vezes.
 
-# Staff of Withering
-Creatures hit by the staff are magically aged:
-* **Divine magic**: Usable by divine spell casters only.
-* **Effect**: The target is aged 10 years. Living creatures die upon reaching their natural life span.
-* **Especially long-lived species**: Ignore the effects of a certain amount of ageing. (For example, elves may ignore up to 200 years of ageing, dwarves ignore up to 50 years, and so on.)
-* **Undead creatures**: Are unaffected by the power of this staff.
+# Cajado do Poder
+Um item de grande poder mágico, esse cajado pode ser usado como arma em combate corpo a corpo, e pode evocar cinco efeitos mágicos diferentes.
+* **Magia Arcana**: Utilizável apenas por conjudaroes de magia arcana.
+* **Corpo a corpo**: Gastando uma carga, causa 2d6 de dano em um acerto bem-sucedido.
+* **Cone de frio**:  Conjura um cone de energia congelante, com 18m de comprimento e 9m de largura na extremidade final do cone. As criaturas atingidas pelo cone sofrem 8d6 de dano (teste de resistência contra magias para tomar metade do dano).
+* **Magias**: Pode conjurar: Luz Contínua (veja a pág. 81), Bola de Fogo (dano de 8d6 - veja p84), Relâmpago (dano de 8d6 - veja a página 85), Telecinésia (até 2.400 moedas de peso - veja p92).
 
-# Staves in Melee
-Although magic-users are generally only allowed to use daggers in combat, they are able to use the staff of power, staff of striking, and staff of wizardry in melee.
+# Cajado das Cobras
+Um cajado ágico que tem o poder de se transformar em uma cobra com um comando.
+* **Magia Divina**: Utilizável apenas por conjudaroes de magias divinas.
+* **Corpo a corpo**: Tratado como um cajado com um bônus mágico de +1 em rolagens de ataques e danos.
+* **Ao acertar**: Uma criatura do tamanho de um ser humano (ou menor), o portador do cajado pode pronunciar a palavra de comando, fazendo com que ela se transforme em uma serpente e se enrole em torno da vítima.
+* **Vítimas**: Devem fazer um teste de resistência contra magias ou estarão imobilizadas nos laços da cobra. As vítimas ficam completamente desamparadas enquanto estiverem seguradas pela cobra (por 1d4 turnos, ou até ser liberado pelo portador do cajado).
+* **Cobra**: Possui CA 5 [14], DV 3 (20 hp) e uma taxa de movimento de 18m (6m).
+* **Quando a vítima é liberada**: A cobra retorna ao proprietário e se transforma novamente em um cajado. (Ao fazer isso, ela se cura de qualquer dano que tenha sofrido.)
+* **Se a cobra for morta**: Ela não retorna à sua forma de cajado, tornando-se não mágica.
+* **Sem cargas**: Não utiliza cargas; pode ser usado um número ilimitado de vezes.
 
-# Staff of Wizardry
-An item of supreme wizardly power, this staff may be used as a weapon in melee, and may evoke a dozen different magical effects.
-* **Arcane magic**: Usable by arcane spell casters only.
-* **In melee**: Treated as a staff with a +1 magic bonus to attack and damage rolls.
-* **Striking**: Expending one charge, inflicts 2d6 damage on a successful hit.
-* **Cone of cold**: Conjures a cone of freezing energy, 60’ long and 30’ wide at the far end. Creatures caught in the cone suffer 8d6 damage, with a successful save versus spells indicating half damage.
-* **Paralysation**: Conjures a cone of magical energy, 60’ long and 30’ wide at the far end. Creatures caught in the cone are paralysed for 6 turns (save versus spells to avoid).
-* **Spells**: Can cast: conjure elemental (8 HD—p90), continual light (see p81), fire ball (8d6 damage—see p84), invisibility (see p82), lightning bolt (8d6 damage—see p85), pass-wall (see p92), telekinesis (up to 2,400 coins of weight—see p92), web (see p83).
-* **Whirlwind**: Conjures a whirlwind 70’ tall, 20’ wide at the top, and 10’ wide at the base. The whirlwind lasts for 3 rounds, and moves at 120’ (40’), as the wielder of the staff directs. All in its path suffer 2d6 damage. Creatures with less than 2HD are swept aside (save versus death to avoid).
-* **Sacrifice**: The wielder may sacrifice the staff by breaking it in two. Doing so unleashes a 30’ radius fireball that inflicts 8 points of damage per remaining charge in the staff. The wielder of the staff also suffers this damage.
+# Cajado do Ataque
+Usado como uma arma mágica corpo-a-corpo.
+* **Gastando uma carga**: Infringe 2d6 de dano em um acerto bem-sucedido.
+* **Frequência de uso**: Somente uma carga pode ser usada por ataque.
 
-# Wand of Cold
-Conjures a cone of freezing energy.
-* **Area**: The cone is 60’ long and 30’ wide at the far end.
-* **Creatures caught in the cone**: Suffer 6d6 damage, with a successful save versus wands indicating half damage.
+# Cajado de Definhar
+As criaturas atingidas pelo cajado são envelhecidas magicamente:
+* **Magia Divina**: Utilizável apenas por conjudaroes de magias divinas.
+* **Efeito**: O alvo envelhece 10 anos. As criaturas vivas morrem ao atingir sua expectativa de vida natural.
+* **Espécies que vivem muito**: Ignoram parcialmente os efeitos, ignorando uma certa quantidade de envelhecimento. (Por exemplo, os elfos podem ignorar até 200 anos de envelhecimento, os anões ignoram até 50 anos e assim por diante.)
+* **Criaturas mortas-vivas**: Não são afetadas pelo poder desse cajado.
 
-# Wand of Enemy Detection
-Grants the power to detect nearby enemies.
-* **Expending a charge**: Causes enemies within 60’ to be haloed in a fiery glow.
-* **Hidden enemies**: Even enemies that are concealed or invisible are affected.
+# Cajados em lutas Corpo-a-corpo
+Embora geralmente seja permitido aos usuários de magia usar apenas adagas em combate, eles são capazes de usar o Cajado do Poder, Cajado do Ataque e o Cajado da Magia em combate corpo a corpo.
 
-# Wand of Fear
-Conjures a cone of magical energy that terrifies those within it.
-* **Area**: The cone is 60’ long and 30’ wide at the far end.
-* **Creatures in the cone**: Are struck with terror, and will flee from the wielder of the wand at maximum speed for 30 rounds. (A save versus wands negates the effect).
+# Cajado da Magia
+Um item de poder mágico supremo, esse cajado pode ser usado como arma em combate corpo a corpo, e pode evocar uma dúzia de efeitos mágicos diferentes.
+* **Magia Arcana**: Utilizável apenas por conjudaroes de magia arcana.
+* **Corpo a corpo**: Tratado como um cajado com um bônus mágico de +1 em rolagens de ataques e danos.
+* **Corpo a corpo**: Gastando uma carga, causa 2d6 de dano em um acerto bem-sucedido.
+* **Cone de frio**:  Conjura um cone de energia congelante, com 18m de comprimento e 9m de largura na extremidade final do cone. As criaturas atingidas pelo cone sofrem 8d6 de dano (teste de resistência contra magias para tomar metade do dano).
+* **Paralisação**: Conjura um cone de energia mágica com 18m de comprimento e 9m de largura na extremidade final. As criaturas atingidas pelo cone estão paralisadas por 6 turnos (teste de resistência contra magias para tomar metade do dano).
+* **Magias**: Pode conjurar: Conjurar Elemental (8 HD—p90), Luz Contínua (ver p81), Bola de Fogo (dano 8d6 — ver p84), Invisibilidade (ver p82), Relâmpago (dano 8d6) - veja a pág. 85), Portal Ilusório (consulte a pág. 92), Telecinésia (até 2.400 moedas de peso - consulte a pág. 92), Teia (consulte a pág. 83).
+* **Furação:** Conjura um turbilhão de vento de 20m de altura, 6m de largura no topo, e 3m de largura na base. O turbilhão dura 3 rodadas e se move a 36m (12), conforme o portador do bastão o direciona. Tudo em seu caminho sofre 2d6 de dano. Criaturas com menos de 2DV são arremessadas pelo vento (teste de resistênciac contra morte para evitar).
+* **Sacrifício**: O usuário pode sacrificar o bastão, quebrando-o em dois. Fazer isso conjura uma bola de fogo de 9m de raio que causa 8 pontos de dano por carga restante no cajado. O portador do cajado também sofre esse dano.
 
-# Wand of Fire Balls
-Conjures fire balls:
-* **Range**: A streak of flame shoots towards an area up to 240’ distant.
-* **Area**: The flame detonates in a 40’ diameter sphere of fire.
-* **Creatures caught in the fire ball**: Suffer 6d6 damage, with a successful save versus wands indicating half damage.
+# Varinha do Frio
+Conjura um cone de energia congelante.
+* **Área**: O cone tem 18m de comprimento e 9m de largura na extremidade final.
+* **As criaturas atingidas pelo cone** sofrem 6d6 de dano (teste de resistência contra varinhas para tomar metade do dano).
 
-# Wand of Illusion
-Expending a charge, an illusion of the character’s choosing manifests. This works in the same way as the magic-user spell phantasmal force (see p83), except:
-* **Concentration**: Is required to maintain the illusion. The wielder of the wand may move at up to half normal movement rate while concentrating. Concentration is broken if the wielder attacks, casts a spell, or is successfully attacked (damaged, targeted by a malicious spell, etc.).
+# Varinha de Detectar Inimigos
+Concede o poder de detectar inimigos próximos.
+* **Gastando uma carga**: Faz com que os inimigos em um raio de 18m sejam se iluminem com um brilho ardente.
+* **Inimigos escondidos**: Até mesmo os inimigos escondidos ou invisíveis são afetados.
 
-# Wand of Lightning Bolts
-Conjures strokes of powerful electricity:
-* **Point of origin**: A lightning bolt may emanate from a point up to 180’ distant.
-* **Area**: The bolt is 60’ long and 5’ wide.
-* **Creatures caught in the lightning bolt**: Suffer 6d6 damage, with a successful save versus wands indicating half damage.
-* **Bouncing**: If the lightning bolt hits a solid barrier before its full length is reached, it is reflected and travels for any remaining distance of its full length in the direction of the wielder of the wand.
+# Varinha do Medo
+Conjura um cone de energia mágica que aterroriza aqueles que forem pegos por ele.
+* **Área**: O cone tem 18m de comprimento e 9m de largura na extremidade final.
+* **Criaturas no cone**: São atingidas pelo terror e fogem do portador da varinha com sua velocidade máxima por 30 rodadas. (Um teste de resistência contra varinhas nega o efeito).
 
-# Wand of Magic Detection
-Grants the power to detect magic nearby.
-* **Expending a charge**: Causes magic items within 20’ to be haloed with light.
-* **Concealed items**: Also glow, but the light might not be seen.
+# Varinha das Bolas de Fogo
+Conjura bolas de fogo:
+* **Alcance**: Uma série de chamas são disparadas em direção a uma área a até 72m de distância.
+* **Área**: A chama detona em uma esfera de fogo de 12m de diâmetro.
+* **Criaturas pegas pela bola de fogo**: sofrem 6d6 de dano, e metade do dano caso passem em um teste de resistência contra varinhas.
 
-# Wand of Metal Detection
-Grants the power to detect masses of metal of any type.
-* **Expending a charge**: Causes the wand to point towards metal within 20’.
-* **Type**: The type of metal is revealed.
-* **Minimum mass**: Only masses of metal of at least 1,000 coins in weight are detected.
+# Varinha da Ilusão
+Gastando uma carga, uma ilusão à escolha do personagem se manifesta. Isso funciona da mesma maneira que a magia Força Fantasmagórica do Usuário de Magia (consulte a pág. 83), com as seguintes diferenças:
+* **Concentração**: É necessária para manter a ilusão. O portador da varinha pode se mover com a metade da taxa normal de movimento enquanto se concentra. A concentração é interrompida se o usuário atacar, conjurar uma magia ou se um ataque o acertar (tomar dano, ser alvo de uma magia maligna, etc.).
 
-# Wand of Negation
-Has the power to negate the effects of other wands or staves.
-* **Declare intent**: Before rolling initiative, the wielder of the wand must declare the intention to use it.
-* **Target**: Another wand or staff must be targeted.
-* **Effect**: The effects of the targeted item are negated for one round.
+# Varinha dos Relâmpagos
+Conjura poderosos raios de eletricidade:
+* **Ponto de origem**: Um raio pode emanar de um ponto em até 54m de distância.
+* **Área**: O raio tem 18m de comprimento e 1,5m de largura.
+* **As criaturas atingidas pelo relâmpago** sofrem 6d6 de dano (teste de resistência contra varinhas para tomar metade do dano).
+* **Ricocheteando**: Se o raio atingir uma barreira sólida antes de ter seu comprimento total, ele é refletido e viaja por qualquer distância restante do seu comprimento total na direção do portador da varinha.
 
-# Wand of Paralysation
-Conjures a cone of paralysing energy.
-* **Area**: The cone is 60’ long and 30’ wide at the far end.
-* **Creatures caught in the cone**: Are paralysed for 6 turns, with a successful save versus wands negating the effect.
+# Varinha de Detecção Mágica
+Concede o poder de detectar magia nas proximidades.
+* **Gastando uma carga**: Faz com que itens mágicos em um raio de 6m fique ilumindados por um brilho.
+* **Itens escondidos**: Também brilham, mas a luz pode não ser vista.
 
-# Wand of Polymorph
-By expending a charge, the wielder of the wand or another creature within 60’ changes into another type of creature, as selected by the wielder. This works in the same way as the magic-user spells polymorph self and polymorph others (see p87).
-* **Resisting**: An unwilling subject may make a saving throw versus wands to negate the effect.
+# Varinha de Detectar Metal
+Concede o poder de detectar montantes de metal de qualquer tipo.
+* **Gastando uma carga**: Faz com que a varinha aponte em direção ao metal dentro de 6m.
+* **Tipo**: O tipo de metal é revelado.
+* **Montante mínimo**: Somente montantes metálicos de pelo menos 1.000 moedas de peso são detectados.
 
-# Wand of Secret Door Detection
-Reveals the location of any secret door within 20’.
+# Varinha da Negação
+Tem o poder de negar os efeitos de outras varinhas ou cajados.
+* **Declarar intenção**: Antes de rolar a iniciativa, o usuário da varinha deve declarar a intenção de usá-la.
+* **Alvo**: Outra varinha ou cajado deve ser o alvo.
+* **Efeito**: Os efeitos do item alvo são negados por uma rodada.
 
-# Wand of Trap Detection
-Reveals the location of all traps within 20’.
+# Varinha da Paralisação
+Conjura um cone de energia paralisante.
+* **Área**: O cone tem 18m de comprimento e 9m de largura na extremidade final.
+* **Criaturas atingidas no cone**: Ficam paralisadas por 6 turnos, podendo fazer um teste de resistência contra varinhas para negar o efeito.
+                                            
+# Varinha da Metamorfose
+Ao gastar uma carga, o usuário da varinha ou outra criatura dentro de 18m se transforma em outro tipo de criatura, conforme selecionado pelo portador. Isso funciona da mesma forma que a magia Metamorfosear-se e Metamorfosear Outros, do Usuário de Magia (veja p87)
+* **Resistindo**: Uma criatura que não esteja predisposta à transformação pode fazer um teste de resistência contra varinhas para negar o efeito.
+
+# Varinha de Detectar Porta Secreta
+Revela a localização de qualquer porta secreta dentro de 6m.
+
+# Varinha de Detectar Armadilha
+Revela a localização de todas as armadilhas dentro de 6m.
