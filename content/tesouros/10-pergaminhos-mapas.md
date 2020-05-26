@@ -1,183 +1,183 @@
 ---
-title: "Pergaminhos e Mapas ❌"
+title: "Pergaminhos e Mapas"
 metaTitle: "Pergaminhos e Mapas"
 metaDescription: "Tesouro -> Pergaminhos e Mapas"
 ---
 
 
 +-----------+-----------+-------------------------------------+
-| Magic Scrolls and Maps                                      |
+| Pergaminho Mágicos e Mapas                                  |
 +===========+===========+=====================================+
-| **B: d8** | **X: d%** | **Scroll**                          |                   
+| **B: d8** | **X: d%** | **Pergaminho**                      |
 +-----------+-----------+-------------------------------------+
-| 1         | 1–15      | 1 Spell                             |         
+| 1         | 1–15      | 1 Magia                             |
 +-----------+-----------+-------------------------------------+
-| 2         | 16–25     | 2 Spells                            |           
+| 2         | 16–25     | 2 Magias                            |
 +-----------+-----------+-------------------------------------+
-| 3         | 26–31     | 3 Spells                            |           
+| 3         | 26–31     | 3 Magias                            |
 +-----------+-----------+-------------------------------------+
-|           | 32–34     | 5 Spells                            |           
+|           | 32–34     | 5 Magias                            |
 +-----------+-----------+-------------------------------------+
-|           | 35        | 7 Spells                            |        
+|           | 35        | 7 Magias                            |
 +-----------+-----------+-------------------------------------+
-| 4         | 36–40     | Cursed Scroll                       |                
+| 4         | 36–40     | Pergaminho Amaldiçoado              |
 +-----------+-----------+-------------------------------------+
-|           | 41–50     | Prot. from Elementals               |                        
+|           | 41–50     | Prot. contra Elementais             |
 +-----------+-----------+-------------------------------------+
-| 5         | 51–60     | Prot. from Lycanthropes             |                          
+| 5         | 51–60     | Prot. contra Licantropos            |
 +-----------+-----------+-------------------------------------+
-|           | 61–65     | Prot. from Magic                    |                   
+|           | 61–65     | Prot. contra Magia                  |
 +-----------+-----------+-------------------------------------+
-| 6         | 66–75     | Prot. from Undead                   |                    
+| 6         | 66–75     | Prot. contra Mortos-vivos           |
 +-----------+-----------+-------------------------------------+
-| 7         | 76–78     | Treasure Map: I                     |                  
+| 7         | 76–78     | Mapa de Tesouro: I                  |
 +-----------+-----------+-------------------------------------+
-|           | 79–80     | Treasure Map: II                    |                   
+|           | 79–80     | Mapa de Tesouro: II                 |
 +-----------+-----------+-------------------------------------+
-|           | 81–82     | Treasure Map: III                   |                    
+|           | 81–82     | Mapa de Tesouro: III                |
 +-----------+-----------+-------------------------------------+
-|           | 83        | Treasure Map: IV                    |                
+|           | 83        | Mapa de Tesouro: IV                 |
 +-----------+-----------+-------------------------------------+
-|           | 84        | Treasure Map: V                     |               
+|           | 84        | Mapa de Tesouro: V                  |
 +-----------+-----------+-------------------------------------+
-|           | 85        | Treasure Map: VI                    |                
+|           | 85        | Mapa de Tesouro: VI                 |
 +-----------+-----------+-------------------------------------+
-|           | 86        | Treasure Map: VII                   |                 
+|           | 86        | Mapa de Tesouro: VII                |
 +-----------+-----------+-------------------------------------+
-| 8         | 87–90     | Treasure Map: VIII                  |                     
+| 8         | 87–90     | Mapa de Tesouro: VIII               |
 +-----------+-----------+-------------------------------------+
-|           | 91–95     | Treasure Map: IX                    |                   
+|           | 91–95     | Mapa de Tesouro: IX                 |
 +-----------+-----------+-------------------------------------+
-|           | 96        | Treasure Map: X                     |               
+|           | 96        | Mapa de Tesouro: X                  |
 +-----------+-----------+-------------------------------------+
-|           | 97–98     | Treasure Map: XI                    |                   
+|           | 97–98     | Mapa de Tesouro: XI                 |
 +-----------+-----------+-------------------------------------+
-|           | 99–00     | Treasure Map: XII                   |                    
-+-----------+-----------+-------------------------------------+                            
+|           | 99–00     | Mapa de Tesouro: XII                |
++-----------+-----------+-------------------------------------+
 
-**B**: Basic characters (levels 1–3)
+**B**: Personagens Básicos (níveis 1–3)
 
-**X**: Expert characters (level 4+)
+**X**: Personagens Especialistas (nível 4+)
 
-Scrolls are aged sheets of parchment or paper on which magical words have been written by a high-level spell caster.
+Pergaminhos são folhas envelhecidas de papel, papiro ou couro nas quais palavras mágicas foram escritas por um conjurador de feitiços de alto nível.
 
-**One use only**: When a scroll is read, the words disappear.
+**Um uso apenas**: Quando um pergaminho é lido, as palavras desaparecem.
 
-**Light**: A scroll can only be used if there is enough light to read by.
+**Luz**: Um pergaminho só pode ser usado se houver luz suficiente para lê-lo.
 
-# Cursed Scroll
-**Usage**: All characters (unless noted).
+# Pergaminho Amaldiçoado
+**Uso**: Todos os personagens (a manos que esteja indicado).
 
-**Activation**: Merely looking at the baneful script on the scroll curses the character. The referee should determine the nature of the curse (see examples below).
+**Ativação**: Só de olhar para as inscrições profanas no pergaminho amaldiçado personagem é o suficiente para ativar a maldição. O árbitro deve determinar a natureza da maldição (veja exemplos abaixo).
 
-**Removing**: A curse can be removed by magic, or (at the referee’s option) by performing a special quest.
+**Removendo**: Uma maldição pode ser removida por mágica, ou (à critério do árbitro), executando uma missão especial.
 
-# Example Curses
+# Exemplos de Maldições
 
-* **Transformation**: The reader changes into a harmless creature (e.g. a frog).
-* **Summoning**: A wandering monster appears next to the reader and attacks (gaining surprise). The monster is of equal level to the reader.
-* **Lost item**: A magic item in the reader’s possession vanishes. The referee may select the item or choose it at random.
-* **Energy drain**: The reader permanently loses one experience level (or Hit Die). This incurs a loss of one Hit Die of hit points, as well as all other benefits due to the lost level (e.g. spells, saving throws, etc.). A character’s XP is reduced to halfway between the former and new levels. A person who loses all levels dies.
-* **Ability score re-roll**: The player must re-roll the character’s prime requisite.
-* **Slow healing**: The reader’s healing capacity is reduced. Natural healing takes double the normal amount of time, and healing spells only cure half the normal number of hit points.
+* **Transformação**: O leitor se transforma em uma criatura inofensiva (por exemplo, um sapo).
+* **Invocação**: Um monstro errante aparece ao lado do leitor e o ataca (ganhando a surpresa). O monstro é do mesmo nível que o leitor.
+* **Perder um item**: Um item mágico na posse do leitor desaparece. O árbitro pode selecionar o item ou escolhê-lo aleatoriamente.
+* **Drenagem de energia**: O leitor perde permanentemente um nível de experiência (ou Dado de Vida). Isso acarreta a perda de um dado de vida dos pontos de vida, bem como todos os outros benefícios decorrentes do nível perdido (por exemplo, magias, testes de resistência, etc.). A XP de um personagem é reduzida para a metade do caminho entre o nível antigo e o novo. Uma pessoa que perder todos os níveis morre.
+* **Re-rolar a pontuação de um atributo**: O jogador deve rolar novamente o atributo principal do personagem.
+* **Cura lenta**: A capacidade do leitor de se curar é reduzida. A recuperação natural leva o dobro da quantidade normal de tempo, e as magias de cura recuperam apenas metade do número normal de pontos de vida.
 
-# Protection Scroll
-**Usage**: All characters (unless noted). (Written in non-magical languages—usually Common.)
+# Pergaminho de Proteção
+**Uso**: Todos os personagens (a manos que esteja indicado). (Escrito em idiomas não mágicos — geralmente comun.)
 
-**Activation**: Reading the script aloud conjures a circle of protection against a specific type of monster or energy.
+**Ativação**: A leitura das runas em voz alta evoca um círculo de proteção contra um tipo específico de monstro ou energia.
 
-**Area of protection**: When used, conjures a 10’ radius circle of protection around the reader. If the reader moves, the circle of protection follows them.
+**Área de proteção**: Quando usado, conjura um círculo de proteção de 3m de raio em torno do leitor. Se o leitor se mover, o círculo de proteção o seguirá.
 
-**Protection against monsters**: For scrolls of protection against monsters, the circle does not prevent affected monsters from using magic or missile attacks against those within it. If anyone within the circle attacks an affected monster in melee, the circle is broken.
+**Proteção contra monstros**: Para pergaminhos de proteção contra monstros, o círculo de proteção não impede que os monstros afetados usem ataques mágicos ou à distância contra aqueles que estão dentro dele. Se alguém dentro do círculo atacar um monstro afetado pela magia num ataque corpo a corpo, o círculo será quebrado.
 
-# Protection from Elementals
-When used, conjures a 10’ radius circle of protection around the reader.
-* **Effect**: No elemental may enter the circle.
-* **Moving**: If the reader moves, the circle of protection follows them.
-* **Ranged attacks**: The circle does not prevent elementals from using magic or missile attacks against those within it.
-* **Breaking**: If anyone within the circle attacks an affected elemental in melee, the circle is broken.
-* **Duration**: 2 turns, unless broken.
+# Proteção contra Elementais
+Quando usado, conjura um círculo de proteção de 3m de raio em torno do leitor.
+* **Efeito**: Nenhum elemento pode entrar no círculo.
+* **Movendo-se**: Se o leitor se mover, o círculo de proteção o seguirá.
+* **Ataques à distância**: O círculo não impede que elementais usem ataques mágicos ou à distância contra aqueles dentro dele.
+* **Quebrando**: Se alguém dentro do círculo atacar um monstro afetado pela magia num ataque corpo a corpo, o círculo será quebrado.
+* **Duração**: 2 turnos, a menos que seja quebrado.
 
-# Protection from Lycanthropes
-When used, conjures a 10’ radius circle of protection around the reader.
-* **Effect**: A number of lycanthropes are barred from entering the circle. The number depends on their Hit Dice: 1–3 HD: 1d10 lycanthropes affected, 4–5 HD: 1d8 affected, 6+ HD: 1d4 affected.
-* **Moving**: If the reader moves, the circle of protection follows them.
-* **Ranged attacks**: The circle does not prevent lycanthropes from using magic or missile attacks against those within it.
-* **Breaking**: If anyone within the circle attacks an affected lycanthrope in melee, the circle is broken.
-* **Duration**: 6 turns, unless broken.
+# Proteção contra Licantropos
+Quando usado, conjura um círculo de proteção de 3m de raio em torno do leitor.
+* **Efeito**: Um certo número de licantropos torna-se é impedido de entrar no círculo. O número depende dos Dados de Vida dos monstros: 1–3 DV: 1d10 Licantropos afetados, 4–5 DV: 1d8 afetados, 6+ DV: 1d4 afetados.
+* **Movendo-se**: Se o leitor se mover, o círculo de proteção o seguirá.
+* **Ataques à distância**: O círculo não impede que licantropos usem ataques mágicos ou à distância contra aqueles dentro dele.
+* **Quebrando**: Se alguém dentro do círculo atacar um licantropo afetado pela magia num ataque corpo a corpo, o círculo será quebrado.
+* **Duração**: 6 turnos, a menos que seja quebrado.
 
-# Protection from Magic
-Conjures a barrier that spells and spelllike effects (e.g. from magic items) cannot cross.
-* **Effect**: The barrier prevents magic from entering the circle, but also from leaving it.
-* **Duration**: 1d4 turns.
-* **Dispelling**: Only by a wish.
+# Proteção contra Magia
+Conjura uma barreira que magias e efeitos semelhantes a magias (por exemplo, de itens mágicos) não podem atravessar.
+* **Efeito**: A barreira impede a magia de entrar no círculo, mas também de deixá-lo.
+* **Duração**: 1d4 turnos.
+* **Dissipando**: Somente por um desejo.
 
-# Protection from Undead
-When used, conjures a 10’ radius circle of protection around the reader.
-* **Effect**: A number of undead monsters are barred from entering the circle of protection. The number depends on their Hit Dice: 1–3 HD: 2d12 undead affected, 4–5 HD: 2d6 undead affected, 6+ HD: 1d6 undead affected.
-* **Moving**: If the reader moves, the circle of protection follows them.
-* **Ranged attacks**: The circle does not prevent undead from using magic or missile attacks against those within it.
-* **Breaking**: If anyone within the circle attacks an affected undead monster in melee, the circle is broken.
-* **Duration**: 6 turns, unless broken.
+# Proteção contra Mortos-vivos
+Quando usado, conjura um círculo de proteção de 3m de raio em torno do leitor.
+* **Efeito**: Um certo número de monstros mortos-vivos tornam-se é impedidos de entrar no círculo. O número depende dos Dados de Vida dos monstros: 1–3 DV: 2d12 mortos-vivos afetados, 4–5 DV: 2d6 afetados, 6+ DV: 1d6 mortos-vivos afetados.
+* **Movendo-se**: Se o leitor se mover, o círculo de proteção o seguirá.
+* **Ataques à distância**: O círculo não impede que mortos-vivos usem ataques mágicos ou à distância contra aqueles dentro dele.
+* **Quebrando**: Se alguém dentro do círculo atacar um morto-vivo afetado pela magia num ataque corpo a corpo, o círculo será quebrado.
+* **Duração**: 6 turnos, a menos que seja quebrado.
 
-# Spell Scroll
-**Usage**: Spell casters.
+# Pergaminho de Magia
+**Uso**: Usuários de Magia.
 
-**Type of magic**: 1-in-4 scrolls contain divine spells; the rest contain arcane spells.
+**Tipo de magia**: 1-em-4 pergaminhos contém magias divinas; o resto contém magias arcanas.
 
-**Activation**: Reading the script aloud conjures the effect of a specific spell. Only arcane spell casters can use scrolls of arcane spells. Only divine spell casters can use scrolls of divine spells.
+**Ativação**: A leitura das runas em voz alta evoca o efeito de uma magia específica. Somente os conjuradores de magias arcanas podem usar pergaminhos de magias arcanas. Somente os conjuradores de magias divinas podem usar pergaminhos de magias divinas.
 
-**Arcane spell scrolls**: Are written in magical script that can only be read by magic.
+**Pergaminhos de magias arcanas**: São escritos em runas mágicas que só podem ser lidas por magia.
 
-**Divine spell scrolls**: Are written in normal languages (usually Common), but can only be used by divine spell casters.
+**Pergaminhos de magis divinas**: São escritos em idiomas normais (geralmente Comum), mas só podem ser usados ​​por conjuradores de magias divinas.
 
-**Scrolls of multiple spells**: If a scroll contains multiple spells, only the spell cast disappears from the scroll.
+**Pergaminhos de várias magias**: Se um pergaminho contém várias magias, apenas magia conjurada desaparece do pergaminho.
 
-## Spells on a Scroll
-The referee may choose the spells or may roll for them randomly. The table below may be used to select the level of each spell on a scroll. (The table lists separate probabilities for Basic and Expert level characters. See Basic and Expert Magic Items, p232.)
+## Magias em um Pergaminho
+O árbitro pode escolher as magias ou rolá-las aleatoriamente. A tabela abaixo pode ser usada para selecionar o nível de cada magia em um pergaminho. (A tabela lista probabilidades separadas para personagens nos níveis Básico e Especialista. Consulte Itens Mágicos Básicos e Especializados, p232.)
 
 +-----------+-----------+---------------+-----------------+
-| Random Scroll Spell Level                               |
+| Nível de Magia Aleatório para Pergaminho                               |
 +===========+===========+===============+=================+
-| **B: d6** | **X: d%** | **Arcane**    | **Divine**      |
+| **B: d6** | **X: d%** | **Arcana**    | **Divina**      |
 +-----------+-----------+---------------+-----------------+
-| 1-3       | 1–25      | 1st           | 1st             |                           
+| 1-3       | 1–25      | 1°           | 1°             |
 +-----------+-----------+---------------+-----------------+
-| 4-5       | 26–50     | 2nd           | 2nd             |                            
+| 4-5       | 26–50     | 2°           | 2°             |
 +-----------+-----------+---------------+-----------------+
-| 6         | 51–70     | 3rd           | 3rd             |                          
+| 6         | 51–70     | 3°           | 3°             |
 +-----------+-----------+---------------+-----------------+
-|           | 71–85     | 4th           | 4th             |                        
+|           | 71–85     | 4°          | 4°             |
 +-----------+-----------+---------------+-----------------+
-|           | 86–95     | 5th           | 5th             |                        
+|           | 86–95     | 5°           | 5°             |
 +-----------+-----------+---------------+-----------------+
-|           | 96–00     | 6th           | 5th             |                        
+|           | 96–00     | 6°           | 5°             |
 +-----------+-----------+---------------+-----------------+
 
-# Treasure Map
-**Usage**: All characters (unless noted). A map that indicates the route to a valuable treasure, located in a dungeon or wilderness.
+# Mapa de Tesouro
+**Uso**: Todos os personagens (a manos que esteja indicado). Um mapa que indica a rota para um tesouro valioso, localizado em uma masmorra ou região selvagem.
 
-**Interpreting**: Treasure maps may not always be easy to interpret: a map may be incomplete, worded in riddles, or written in an obscure language.
+**Interpretando**: Os mapas do tesouro nem sempre são fáceis de interpretar: um mapa pode estar incompleto, ter sido escrito em enigmas ou escrito em um idioma obscuro.
 
-**Preparing in advance**: The referee should prepare treasure maps in advance.
+**Preparando com antecedência**: O árbitro deve preparar mapas de tesouro com antecedência.
 
-## Treasures
-The following list of treasure map types may be used to determine the nature of   the treasure that a map leads to.
-* **I**: 1 magic item.
-* **II**: 1d6 × 10 gems and 2d10 pieces of jewellery.
-* **III**: 2 magic items.
-* **IV**: 3 magic items (no swords).
-* **V**: 3 magic items and 1 potion.
-* **VI**: 3 magic items, 1 scroll, 1 potion.
-* **VII**: 5d6 gems and 2 magic items.
-* **VIII**: Hoard worth 1d4 × 1,000gp.
-* **IX**: Hoard worth 5d6 × 1,000gp.
-* **X**: Hoard worth 5d6 × 1,000gp and 1 magic item.
-* **XI**: Hoard worth 5d6 × 1,000gp and 5d6 gems.
-* **XII**: Hoard worth 6d6 × 1,000gp.
+## Tesouros
+A segunte lista de tipos de mapas do tesouro pode ser usada para determinar a natureza do tesouro ao qual um mapa leva.
+* **I**: 1 item mágico.
+* **II**: 1d6 × 10 gemas e 2d10 peças de joalheria.
+* **III**: 2 itens mágicos.
+* **IV**: 3 itens mágicos (sem ser espadas).
+* **V**: 3 itens mágicos e 1 poção.
+* **VI**: 3 itens mágicos, 1 pergaminho, 1 poção.
+* **VII**: 5d6 gemas e 2 itens mágicos.
+* **VIII**: Um montante de tesouro no valor de 1d4 × 1,000po.
+* **IX**: Um montante de tesouro no valor de 5d6 × 1,000po.
+* **X**: Um montante de tesouro no valor de 5d6 × 1,000po e 1 item mágico.
+* **XI**: Um montante de tesouro no valor de 5d6 × 1,000po e 5d6 gemas.
+* **XII**: Um montante de tesouro no valor de 6d6 × 1,000po.
 
-## Hoard Value
-For treasure hoards with a listed gold piece value, the referee may choose what type of treasure is in the hoard. (For example, it may be coins, but could also consist of valuable art objects or jewels.)
+## Valor do Montante de Tesouro
+Para montantes de tesouros com um valor listado em peças de ouro, o árbitro pode escolher que tipo de tesouro está no montante de tesouro. (Por exemplo, podem ser moedas, mas também podem consistir em objetos de arte ou jóias valiosas.)
 
-## Guardians
-The treasure is normally guarded by enchantments, traps, or monsters (e.g. a monster from the dungeon encounter tables of levels 5–6, or higher).
+## Guardiões
+O tesouro normalmente fica guardado por encantamentos, armadilhas ou monstros (por exemplo, um monstro da tabela de encontros de masmorra de níveis 5 a 6 ou superior).
