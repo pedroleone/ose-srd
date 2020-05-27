@@ -1,284 +1,285 @@
 ---
-title: "Espadas Sencientes ❌"
+title: "Espadas Sencientes"
 metaTitle: "Espadas Sencientes"
 metaDescription: "Tesouro -> Espadas Sencientes"
 ---
 
-If a magic sword possesses sentience (see Swords for the likelihood), the procedure on this page may be used to determine its powers. (Alternatively, the referee may select its qualities as desired.) 
+Se uma espada mágica possui senciência (consulte Espadas para ver a probabilidade), o procedimento nesta página pode ser usado para determinar seus poderes. (De forma alternativa, o árbitro pode selecionar suas qualidades conforme desejado.)
 
-# Rolling a Sentient Sword
+# Rolando uma Espada Senciente
 
-* **Special purpose**: If the sword has a special purpose, see Special Purpose of Sentient Swords to determine what it is.
-* **Intelligence and personality**: The sword’s INT is 1d6+6. (Swords imbued with a special purpose always have INT 12.) The sword has its own personality and should be played as an NPC.
-* **Communication**: The sword’s INT determines the means by which it can communicate. See the table to the right.
-  * **Empathy**: The sword cannot communicate directly, but empathically informs the wielder of its powers and how to use them.
-  * **Speech**: The sword speaks out loud. The number of languages it knows is indicated by rolling on the languages table, to the right. Languages should be selected by the referee.
-  * **Reading**: The sword can read all languages it can speak, as well as magical inscriptions.
-* **Alignment**: See the table to the right.
-* **Powers**: The sword’s INT determines the number of powers it has. See the table to the right. Powers are described in the following pages.
-* **Ego**: Sentient swords have an Ego rating—a measure of their force of personality. This is rolled on 1d12. Swords imbued with a special purpose always have an Ego of 12.
+* **Propósito especial**: Se a espada tiver um propósito especial, consulte Propósitos Especiais de Espadas Sencientes para determinar qual é.
+* **Inteligência e personalidade**: A INT da espada é 1d6+6. (As espadas imbuídas com um propósito especial sempre têm INT 12.) A espada tem sua própria personalidade e deve ser interpretada como um NPC.
+* **Comunicação**: A INT da espada determina os meios pelos quais ela pode se comunicar. Veja a tabela à direita.
+   * **Empatia**: A espada não pode se comunicar diretamente, mas empaticamente informa o portador sobre quais são seus poderes e como usá-los.
+   * **Discurso**: A espada fala em voz alta. O número de idiomas que ela conhece é indicado rolando na tabela de idiomas, à direita. Os idiomas devem ser selecionados pelo árbitro.
+   * **Leitura**: A espada pode ler todos os idiomas que pode falar, bem como inscrições mágicas.
+* **Alinhamento**: Veja a tabela à direita.
+* **Poderes**: A INT da espada determina o número de poderes que ela possui. Veja a tabela à direita. Os poderes estão descritos nas páginas seguintes.
+* **Ego**: Espadas sencientes têm uma classificação de Ego - uma medida da sua força de personalidade. Essa classificação é decidida na rolagem de 1d12. As espadas imbuídas com um propósito especial sempre têm um Ego de 12.
 
-# Using a Sentient Sword
-Sentient swords grant the wielder special powers beyond those of a normal magic sword, but using one also carries risks.
+# Usando uma Espada Senciente
+Espadas sencientes concedem ao portador poderes especiais além dos de uma espada mágica normal, mas o uso de uma também traz riscos.
 
-## Activating Powers
+## Ativando os Poderes
 
-* **In hand**: To use a power, the sword must be in the wielder’s hand.
-* **Concentration**: The wielder must concentrate to activate a power.
+* **Na mão**: Para usar o poder, a espada deve estar na mão do portador.
+* **Concentração**: O usuário deve se concentrar para ativar um poder.
 
-## Alignment
-The alignment of the sword can only be determined by touching it. Doing so may incur damage if the character is of a different alignment to the sword:
+## Alinhamento
+O alinhamento da espada só pode ser determinado ao tocá-la. Fazer isso pode acarretar em danos se o personagem tiver um alinhamento diferente da espada:
 
-* **Lawful swords**: Inflict 1d6 damage per round to neutral characters and 2d6 per round to chaotic characters.
-* **Neutral swords**: Inflict 1d6 damage per round to non-neutral characters.
-* **Chaotic swords**: Inflict 1d6 damage per round to neutral characters and 2d6 per round to lawful characters.
+* **Espadas Ordeiras**: Inflige 1d6 de dano por rodada a personagens neutros e 2d6 por rodada a personagens caóticos.
+* **Espadas Neutras**: Inflige 1d6 de dano por rodada a personagens não neutros.
+* **Espadas Caóticas**: Inflige 1d6 de dano por rodada a personagens neutros e 2d6 por rodada a personagens neutros.
 
-# Control
-A sentient sword has its own personality and can, at times, attempt to exercise control over the person who wields it. A control check (see below) is triggered in any of the following circumstances:
+# Controle
+Uma espada senciente tem sua própria personalidade e pode, às vezes, tentar exercer controle sobre a pessoa que a empunha. Um teste de controle (veja abaixo) é acionado em qualquer uma das seguintes circunstâncias:
 
-* **First contact**: Upon the character first touching the sword.
-* **Wounded**: When the character is reduced to half hit points or less.
-* **Jealousy**: When another magic weapon comes into the character’s possession.
-* **Alignment difference**: Upon every use, if the sword and the character are of different alignments.
-* **Special purpose**: If the sword has a special purpose: every time the special purpose is applicable. (e.g. when encountering a character or creature of the type the sword is designed to slay.)
+* **Primeiro contato**: Após o personagem tocar a espada pela primeira vez.
+* **Ferido**: Quando o personagem é reduzido para metade dos pontos de vida ou menos.
+* **Ciúmes**: Quando outra arma mágica entra na posse do personagem.
+* **Diferença de alinhamento**: A cada uso, se a espada e o personagem tiverem alinhamentos diferentes.
+* **Finalidade especial**: Se a espada tiver um propósito especial: toda vez que o propósito especial for aplicável. (por exemplo, ao encontrar um personagem ou criatura do tipo que a espada foi projetada para matar.)
 
-## Control Checks
-When one of the aforementioned circumstances occurs, a control check is required:
+## Testes de Controle
+Quando uma das circunstâncias mencionadas acima ocorre, é necessário um teste de controle:
 
-* Determine the sword’s Will score:
-  * The sum of its INT and Ego.
-  * Add one for each extraordinary power the sword has.
-  * Add 1d10 if the sword and the wielder of are different alignments.
-* Determine the wielder’s Will score:
-  * The sum of STR and WIS scores.
-  * If the character has less than full hit points, Will is reduced by 1d4 (or 2d4 if the character has less than half hit points).
-* Compare the Will scores. If the sword’s Will score is higher, it takes control of the character’s actions.
+* Determine a pontuação de Vontade da espada:
+   * A soma da sua INT e Ego.
+   * Adicione um para cada poder extraordinário que a espada tiver.
+   * Adicione 1d10 se a espada e o portador forem de alinhamentos diferentes.
+* Determine a pontuação de Vontade do portador:
+   * A soma das pontuações FOR e SÁB.
+   * Se o personagem não estiver com os pontos de vida completos, a Vontade será reduzida em 1d4 (ou 2d4 se o personagem tiver menos da metade dos pontos de vida).
+* Compare as pontuações de Vontade. Se a pontuação de Vontade da espada for maior, ela assume o controle das ações do personagem.
 
-## When the Sword Takes Control
-The referee determines the behaviour of the character, via the sword, for example:
+## Quando a Espada Assume o Controle
+O árbitro determina o comportamento do personagem, através da espada, por exemplo:
 
-* **Jealousy**: Discarding other weapons, or ignoring newly discovered magic weapons.
-* **Glory**: Charging into battle, in order to gain glory for the sword.
-* **Surrender**: To a foe whom the sword deems either more worthy of possessing it or more susceptible to being controlled.
-* **Indulgence**: Making lavish expenditures for the sword. Purchasing expensive sheaths, having jewels fitted, having enchantments and wards applied, etc. The sword may force the character to spend most of their money on such things!
+* **Ciúmes**: Descartando outras armas ou ignorando as armas mágicas recém-descobertas.
+* **Glória**: Entrando em batalha, a fim de obter glória através da espada.
+* **Rendição**: Para um inimigo que a espada considere mais digno de possuí-la ou mais suscetível de ser controlado.
+* **Indulgência**: Ter altos gatos com a espada e com coisas para ela. Compra de bainhas caras, jóias, encantando com magias e confeccionando guardas, etc. A espada pode forçar o personagem a gastar a maior parte de seu dinheiro em tais coisas!
 
-## Ending Control
-Once in control, the sword will only release the character when the circumstance that triggered the control check is over or when the sword is otherwise satisfied.
+## Encerrando o Controle
+Uma vez no controle, a espada só liberará o personagem quando a circunstância que desencadeou o teste de controle terminar ou quando a espada estiver satisfeita.
 
-# Extraordinary Powers
+# Poderes Extraordinários
 
-## Extraordinary Powers Table
-Each power should be rolled on the table below. Duplicates should be re-rolled, unless noted.
+## Tabela de Poderes Extraordinários
+Cada poder deve ser rolado na tabela abaixo. As duplicatas devem ser re-roladas, a menos que seja indicado.
 
-**Usage frequency**: Unless a power’s description notes otherwise, it may be used at most three times a day. 
+**Frequência de uso**: A menos que a descrição de um poder diga o contrário, ele pode ser usado no máximo três vezes por dia.
 
 +----------+----------------------------------------------------+
-| Sentient Sword Extraordinary Powers                           |
+| Poderes Extraordinários de Espadas Sencientes                 |
 +==========+====================================================+
-| **d100** | **Power**                                          |
-+----------+----------------------------------------------------+                         
-| 01–10    | Clairaudience                                      |                                  
+| **d100** | **Poder**                                          |
 +----------+----------------------------------------------------+
-| 11–20    | Clairvoyance                                       |                                 
+| 01–10    | Clariaudiência                                     |
 +----------+----------------------------------------------------+
-| 21–30    | ESP                                                |                        
+| 11–20    | Clarividência                                      |
 +----------+----------------------------------------------------+
-| 31–35    | Extra damage (dups. allowed)                       |                                                 
+| 21–30    | Percepção Extrassensorial                          |
 +----------+----------------------------------------------------+
-| 36–40    | Flying                                             |                           
+| 31–35    | Dano Extra (duplicatas permitidas)                 |
 +----------+----------------------------------------------------+
-| 41–45    | Healing (duplicates allowed)                       |                                                 
+| 36–40    | Voar                                               |
 +----------+----------------------------------------------------+
-| 46–54    | Illusion                                           |                             
+| 41–45    | Cura (duplicatas permitidas)                       |
 +----------+----------------------------------------------------+
-| 55–59    | Levitation                                         |                               
+| 46–54    | Ilusão                                             |
 +----------+----------------------------------------------------+
-| 60–69    | Telekinesis                                        |                                
+| 55–59    | Levitação                                          |
 +----------+----------------------------------------------------+
-| 70–79    | Telepathy                                          |                              
+| 60–69    | Telecinésia                                        |
 +----------+----------------------------------------------------+
-| 80–88    | Teleportation                                      |                                  
+| 70–79    | Telepatia                                          |
 +----------+----------------------------------------------------+
-| 89–97    | X-ray vision                                       |                                 
+| 80–88    | Teleporte                                          |
 +----------+----------------------------------------------------+
-| 98–99    | Roll twice again on this table                     |                                                   
+| 89–97    | Visão de Raio-X                                    |
 +----------+----------------------------------------------------+
-| 0        | Roll 3 times again on this table                   |                                                 
+| 98–99    | Role novamentes 2 vezes nessa tabela               |
++----------+----------------------------------------------------+
+| 0        | Role novamentes 3 vezes nessa tabela               |
 +----------+----------------------------------------------------+
 
-# Clairaudience
-Enables the wielder to hear through the ears of another creature.
-* **Activation**: The wielder must concentrate for one turn to activate this power.
-* **Range**: The other creature must be within 60’.
-* **Obstruction**: Lead blocks this power.
+# Clariaudiência
+Permite que o portador ouça através dos ouvidos de outra criatura.
+* **Ativação**: O usuário deve se concentrar por um turno para ativar esse poder.
+* **Alcance**: A outra criatura deve estar dentro de 18m.
+* **Obstrução**: O chumbo bloqueia esse poder.
 
-# Clairvoyance
-Enables the wielder to see through the eyes of another creature.
+# Clarividência
+Permite que o personagem veja através dos olhos de outra criatura.
 
-* **Activation**: The wielder must concentrate for one turn to activate this power.
-* **Range**: The other creature must be within 60’.
-* **Obstruction**: Lead blocks this power.
+* **Ativação**: O usuário deve se concentrar por um turno para ativar esse poder.
+* **Alcance**: A outra criatura deve estar dentro de 18m.
+* **Obstrução**: O chumbo bloqueia esse poder.
 
-# ESP
-Enables the wielder to read the thoughts of another living creature.
+# Percepção Extrassensorial
+Permite ao usuário ler os pensamentos de outra criatura viva.
 
-* **Activation**: The wielder must concentrate in a specific direction to activate this power.
-* **Range**: The other creature must be within 60’.
-* **Comprehension**: The wielder gains an empathic understanding of the creature’s thoughts.
-* **Obstruction**: Lead blocks this power.
+* **Ativação**: O usuário deve se concentrar em uma direção específica para ativar esse poder.
+* **Alcance**: A outra criatura deve estar dentro de 18m.
+* **Compreensão**: O usuário ganha uma compreensão empática dos pensamentos da criatura.
+* **Obstrução**: O chumbo bloqueia esse poder.
 
-# Extra Damage
-Increases the wielder’s strength for 1d10 rounds. While the power is active, damage inflicted by the wielder is multiplied by 4.
+# Dano Extra
+Aumenta a força do usuário por 1d10 rodadas. Enquanto o poder estiver ativo, o dano infligido pelo portador é multiplicado por 4.
 
-## Duplicates
-If this power is rolled more than once, the damage multiplier is increased by one for each duplicate roll.
+## Duplicatas
+Se esse poder for rolado mais de uma vez, o multiplicador de dano será aumentado em um para cada rolagem duplicada.
 
-# Flying
-The wielder is able to fly for up to 3 turns.
-* **Movement rate**: A speed of up to 360’ (120’) is possible.
-* **Free movement**: Is possible in any direction, including the ability to levitate and to hover in mid-air.
+# Voar
+O usuário pode voar por até 3 turnos.
+* **Taxa de movimento**: É possível ter um deslocamento de até 109m (36m).
+* **Movimentação Livre**: É possível se mover em qualquer direção, incluindo a capacidade de levitar e pairar no ar.
 
-# Healing
-The sword heals damage.
-* **Effect**: One point of damage is healed per round, for six rounds.
-* **Usage frequency**: This power may only be activated once a day.
-## Duplicates
-If this power is rolled more than once, the duration of the power is increased by 6 rounds for each duplicate.
+# Cura
+A espada cura danos.
+* **Efeito**: Um ponto de dano é curado por rodada, durante seis rodadas.
+* **Frequência de uso**: Esta energia pode ser ativada apenas uma vez por dia.
+## Duplicatas
+Se esse poder for rolado mais de uma vez, o multiplicador de dano será aumentado em 6 rodadas para cada rolagem duplicada.
 
-# Illusion
-An illusion of the wielder’s choosing manifests. This works in the same way as the magic-user spell Phantasmal Force.
+# Ilusão
+Uma ilusão à escolha do usuário se manifesta. Isso funciona da mesma maneira que a magia Força Fantasmagórica do Usuário de Magia:
 
-# Levitation
-Grants the wielder the ability to move up and down through the air for up to 3 turns:
+# Levitação
+Concende a capacidade de se mover para cima e para baixo pelo ar à vontade.
 
-* **Vertical**: The wielder mentally directs vertical movement at up to 20’ per round.
-* **Horizontal**: The character can push against solid objects to move laterally.
-* **Weight**: A normal amount of weight can be carried while levitating.
+* **Vertical**: O usuário direciona mentalmente o movimento vertical em até 6m por rodada. 
+* **Horizontal**: O personagem pode se empurrar apoiando-se em objetos sólidos para se mover lateralmente.
+* **Peso**: Uma quantidade normal de peso pode ser transportada enquanto se está levitando.
 
-# Telekinesis
-By concentrating, the wielder is able to move objects or creatures within 120’ by the power of thought.
+# Telecinésia
+Ao se concentrar, o usuário é capaz de mover objetos ou criaturas dentro de 36m com o poder do pensamento.
 
-* **Weight**: Up to 2,000 coins of weight may be targeted.
-* **Movement**: The target may be moved up to 20’ per round, in whatever direction the wielder wishes (including vertically).
-* **Resisting**: A targeted creature may save versus spells to resist.
-* **Duration**: Up to 6 rounds.
-* **Concentration**: If concentration is broken, the target falls.
+* **Peso**: Até 2,000 moedas de peso podem ser afetadas como alvo.
+* **Movimento**: O alvo pode ser movido em até 6m por rodada, em qualquer direção que o portador desejar (incluindo verticalmente).
+* **Resistindo**: Uma criatura afetada pode fazer um Teste de resistência contra magias para tentar resistir.
+* **Duração**: Até 6 rodadas.
+* **Concentração**: Se a concentração for quebrada, o alvo cai.
 
-# Telepathy
-Enables the wielder to read the thoughts of another living creature.
+# Telepatia
+Permite ao usuário ler os pensamentos de outra criatura viva.
 
-* Concentration: The wielder must concentrate in a specific direction to activate this power.
-* Range: The other creature must be within 60’.
-* Comprehension: The wielder gains an empathic understanding of the creature’s thoughts.
-* Bidirectional communication: The wielder may also initiate a bidirectional telepathic communication with the creature, though it is not compelled to respond.
-* Obstruction: Lead blocks this power.
+* Concentração: O usuário deve se concentrar em uma direção específica para ativar esse poder.
+* Alcance: A outra criatura deve estar dentro de 18m.
+* Compreensão: O usuário ganha uma compreensão empática dos pensamentos da criatura.
+* Comunicação bidirecional: O usuário também pode iniciar uma comunicação telepática bidirecional com a criatura, embora ela não seja obrigada a responder.
+* Obstrução: O chumbo bloqueia esse poder.
 
-# Teleportation
-The wielder is able to teleport, per the magic-user spell (see Teleport).
+# Teleporte
+O portador é capaz de se teleportar, de acordo com a magia do Usuário de Magia (consulte Teleporte).
 
-# X-Ray Vision
-Allows the wielder to see through solid objects.
+# Visão de Raio-X
+Permite que o usuário veja através de objetos sólidos.
 
-* Through stone: Sight up to 30’ through stone is possible.
-* Through softer materials: Sight up to 60’ through less dense materials (cloth, water, wood) is possible.
-* Obstructions: Sight through gold or lead is blocked.
-* Searching: When used for the purpose of searching (see Dungeon Adventuring), the wielder is guaranteed to notice secret doors or traps in the 10’ square area being examined.
-* Concentration: Usage requires concentration (the wielder cannot move).
-* Usage frequency: This power may not be activated more frequently than once per turn.
+* Através de pedra: É possível ver até 9m através de pedra.
+* Através de materiais densos: É possível ver até 18m através de materiais menos densos (pano, água, madeira).
+* Obstruções: Visão através de ouro ou chumbo é bloqueada.
+* Procurando: Quando usado para o propósito de procurar algo (consulte Aventuras em Masmorras, p108), o usuário recebe a capacidade de perceber portas ou armadilhas secretas na área quadrada de 3m que está sendo examinada.
+* Concentração: O uso requer concentração (o usuário não pode se mover).
+* Frequência de uso: Esse poder não pode ser ativado mais do que uma vez por turno.
 
-# Sensory Powers of Sentient Swords
+# Poderes Sensoriais das Espadas Sencientes
 
-Each sensory power should be rolled on the table below, with duplicates re-rolled.
+Cada poder sensorial deve ser rolado na tabela abaixo, com re-rolando as duplicatas.
 
-**Usage frequency**: Unless a power’s description notes otherwise, it may be used without limit. 
+**Frequência de uso**: A menos que a descrição de uma energia diga o contrário, ela pode ser usada sem limites.
 
 +----------+--------------------------------------------------------+
-| Sentient Sword Sensory Powers                                     |
+| Poderes Sensoriais de Espadas Sencientes                          |
 +==========+========================================================+
-| **d100** | **Power**                                              |
+| **d100** | **Poder**                                              |
 +----------+--------------------------------------------------------+
-| 01–10    | Detect evil or good                                    |                            
+| 01–10    | Detectar o Mal e o Bem                                 |
 +----------+--------------------------------------------------------+
-| 11–15    | Detect gems                                            |                    
+| 11–15    | Detectar gemas                                         |
 +----------+--------------------------------------------------------+
-| 16–25    | Detect magic                                           |                     
+| 16–25    | Detectar mágica                                        |
 +----------+--------------------------------------------------------+
-| 26–35    | Detect metals                                          |                      
+| 26–35    | Detectar metais                                        |
 +----------+--------------------------------------------------------+
-| 36–50    | Detect shifting architecture                           |                                     
+| 36–50    | Detectar arquitetura móvel                             |
 +----------+--------------------------------------------------------+
-| 51–65    | Detect slopes                                          |                      
+| 51–65    | Detectar ladeiras                                      |
 +----------+--------------------------------------------------------+
-| 66–75    | Detect traps                                           |                     
+| 66–75    | Detectar armadilhas                                    |
 +----------+--------------------------------------------------------+
-| 76–85    | Locate secret doors                                    |                            
+| 76–85    | Localizar portas secretas                              |
 +----------+--------------------------------------------------------+
-| 86–95    | See invisible objects                                  |                              
+| 86–95    | Ver objetos invisíveis                                 |
 +----------+--------------------------------------------------------+
-| 96–99    | Roll an extraordinary power                            |                                    
+| 96–99    | Role um poder extraordinário                           |
 +----------+--------------------------------------------------------+
-| 0        | Roll twice again on this table                         |                                   
+| 0        | Role novamente duas vezes nessa tabela                 |
 +----------+--------------------------------------------------------+
 
 
-# Detect Evil or Good
-The wielder can sense the intention to do evil or good within 20’. (Note: some potentially harmful things—e.g. animals, traps—are not evil.)
+# Detectar o Mal e o Bem
+O usuário pode sentir a intenção de fazer o mal ou o bem dentro de 6m. (Nota: algumas coisas potencialmente perigosas - por exemplo, animais, armadilhas - não são más.)
 
-# Detect Gems
-The sword will point in the direction of any gems within 60’.
-* **Count**: The wielder is also informed of the number of gems present.
-* **Obstruction**: Lead blocks this power.
+# Detectar Gemas
+A espada apontará na direção de qualquer gema dentro de 18m.
+* **Contagem**: O usuário também é informado do número de gemas presentes.
+* **Obstrução**: O chumbo bloqueia esse poder.
 
-# Detect Magic
-Up to three times a day, the sword can detect magic within 20’. On command, the magic may be caused to glow.
+# Detectar Magia
+Até três vezes por dia, a espada pode detectar mágica dentro de 6m. Sob comando, a magia dentro do alcance pode ser comandada a emitir um brilho.
 
-# Detect Metals
-The sword will point in the direction of metal of a named type within 60’.
-* **Obstruction**: Lead blocks this power.
+# Detectar Metais
+A espada apontará na direção do metal de um tipo nomeado pelo portador dentro de 18m.
+* **Obstrução**: O chumbo bloqueia esse poder.
 
-# Detect Shifting Architecture
-The wielder can locate shifting walls or rooms up to 10’ distant.
+# Detectar Arquitetura Móvel
+O portador pode localizar paredes ou salas móveis até 3m de distância.
 
-# Detect Slopes
-The wielder can sense sloped floors within 10’.
+# Detectar Ladeiras
+O usuário pode detectar ladeiras e pisos inclinados dentro de 3m.
 
-# Detect Traps
-Up to three times a day, the wielder can sense traps within 10’.
+# Detectar Armadilhas
+Até três vezes ao dia, o usuário pode detectar armadilhas dentro de 3m.
 
-# Locate Secret Doors
-Up to three times a day, the wielder can find all secret doors within 10’.
+# Localizar Portas Secretas
+Até três vezes por dia, o usuário pode encontrar todas as portas secretas dentro de 3m.
 
-# See Invisible Objects
-The wielder can see invisible or concealed objects up to 20’ distant. (This power does not reveal secret doors.) 
+# Ver Objetos Invisíveis
+O usuário pode ver objetos invisíveis ou ocultos até 6m de distância. (Este poder não revela portas secretas.)
 
-# Special Purpose of Sentient Swords
+# Propósito Especial de Espadas Sencientes
 
-Some sentient swords are also imbued with a special purpose. The purpose of such swords is typically to slay a certain type of character or creature. The purpose may be rolled on the table below, or the referee may invent others. 
+Algumas espadas sencientes também são imbuídas de um propósito especial. O propósito dessas espadas é geralmente matar um certo tipo de personagem ou criatura. O propósito pode ser rolado na tabela abaixo, ou o árbitro pode inventar outros.
 
 +---------+------------------------------------------------------------------------------------+
-| **Special Purpose Table**                                                                    | 
+| **Tabela de Propósitos Especiais**                                                           |
 +=========+====================================================================================+
-| **d6**  | Type of Target to be Slain                                                         |
-+---------+------------------------------------------------------------------------------------+                                               
-| 1       | Arcane spell casters                                                               |                                 
+| **d6**  | Tipo de Alvo a ser Morto                                                           |
 +---------+------------------------------------------------------------------------------------+
-| 2       | Divine spell casters                                                               |                                 
+| 1       | Conjuradores de Magia Arcana                                                       |
 +---------+------------------------------------------------------------------------------------+
-| 3       | Warriors (e.g. fighters or other primarily combat-oriented,                        |                                                 
-|         | non-spell casting classes, including non-spell casting demihumans)                 |                                                                               
+| 2       | Conjuradores de Magia Divina                                                       |
 +---------+------------------------------------------------------------------------------------+
-| 4       | Specific type of monster (determine randomly)                                      |                                                          
+| 3       | Combatentes (por exemplo, guerreiros ou outras classes orientados                  |
+|         | primariamente ao combate, incluindo semi-humanos não conjuradores)                 |
+|         | e que não sejam conjuradores, incluindo semi-humanos não conjuradores)             |
 +---------+------------------------------------------------------------------------------------+
-| 5       | Lawful creatures (or chaotic creatures if the sword is lawful)                     |                                                                           
+| 4       | Tipos específicos de monstros (determinados aleatoriamente)                        |
 +---------+------------------------------------------------------------------------------------+
-| 6       | Chaotic creatures (or lawful creatures if the sword is chaotic)                    |                                                                            
+| 5       | Criaturas ordeiras (ou criaturas caóticas se a espada for ordeira)                 |
++---------+------------------------------------------------------------------------------------+
+| 6       | Criaturas caóticas (ou criaturas ordeiras se a espada for caótica)                 |
 +---------+------------------------------------------------------------------------------------+
 
-# Alignment Power
-In addition to their sensory and extraordinary powers, swords of special purpose have an extra power when used to achieve their designated purpose (e.g. when attacking the enemy the sword was designed to slay). This power depends on the sword’s alignment:
-* **Lawful**: Chaotic foes hit by the sword must save versus spells or be paralysed.
-* **Neutral**: The wielder gains a +1 bonus to all saving throws.
-* **Chaotic**: Lawful foes hit by the sword must save versus spells or be turned to stone.
+# Poder de Alinhamento
+Além de seus poderes sensoriais e extraordinários, as espadas com propósito especial têm um poder extra quando usadas para atingir o propósito designado (por exemplo, ao atacar o inimigo que a espada foi projetada para matar). Esse poder depende do alinhamento da espada:
+* **Ordeira**: Os inimigos caóticos atingidos pela espada devem fazer um teste de resistência contra magia ou ficam paralisados.
+* **Neutra**: O portador ganha um bônus de +1 a todos os testes de resistência.
+* **Caótico**: Inimigos ordeiros atingidos pela espada devem fazer um teste de resistência contra magias ou serão transformados em pedra.
 
 
 
