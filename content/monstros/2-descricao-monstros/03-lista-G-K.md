@@ -67,6 +67,8 @@ ___
 
 # Ifrite 
 
+# Inumano
+
 # Javali
 
 # Kobold
