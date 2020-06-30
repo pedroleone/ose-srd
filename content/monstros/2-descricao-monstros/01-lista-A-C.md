@@ -956,10 +956,90 @@ _Cavalos de constituição leve adaptados a correr a altas velocidades. Podem so
 
 
 # Centauro
+_Criaturas fantásticas com as pernas e o corpo de um cavalo, e a parte superior e a cabeça de humano. Vivem em pequenas famílias ou grupos tribais em pradarias selvagens e florestas isoladas._
+
+**Classe de Armadura**: 5 [14]
+
+**Dados de Vida**: 4 (18 pv)
+
+**Ataques**: 2 × cascos (1d6), 1 x arma (1d6 ou pela arma) 
+
+**TAC0**: 16 [+3]
+
+**Movimento**: 54 m [18 m] 
+
+**Testes de Resistência**: M10 V11 P12 S13 F14 (4)
+
+**Moral**: 8
+
+**Tendência**: Neutro 
+
+**XP**: 75
+
+**Número Encontrado**: 0 (2d10)
+
+**Tesouro**: A
+
+* **Armas**: arcos, porretes e lanças.
+* **Covil**: escondido em densas florestas ao longo de caminhos bem guardados e sinuosos.
+* **Fêmeas e filhotes**: normalmente permanecem no covil. Fogem se forem atacados. Os filhotes tem 2 DV e fazem dois ataques com os cascos (1d2) e um ataque com arma (1d4 ou pela arma).
 
 # Centopeia Gigante
+_Centopeias com 30 cm de comprimento que habitam locais úmidos e escuros._
+
+**Classe de Armadura**: 9 [10]
+
+**Dados de Vida**: 1/2* (2 pv)
+
+**Ataques**: 1 × mordida (veneno) 
+
+**TAC0**: 19 [0]
+
+**Movimento**: 18 m [6 m] 
+
+**Testes de Resistência**: M14 V15 P16 S17 F18 (NH)
+
+**Moral**: 7
+
+**Tendência**: Neutro 
+
+**XP**: 6
+
+**Número Encontrado**: 2d4 (1d8)
+
+**Tesouro**: Nenhum
+
+* **Veneno**: faz com que a vítima fique terrivelmente doente por dez dias (teste de resistência vs veneno): nenhuma atividade física é possível exceto movimento à metade de sua velocidade.
 
 # Ciclope
+_Humanóides com cerca de 6 m de altura, com um único olho central. Moram em cavernas, sozinhos ou em pequenos grupos. Cultivam uvas e criam ovelhas_
+
+**Classe de Armadura**: 5 [14]
+
+**Dados de Vida**: 13* (58 pv)
+
+**Ataques**: 1 × porrete (3d10) ou 1 x rocha (3d6) 
+
+**TAC0**: 10 [+9]
+
+**Movimento**: 27 m [9 m] 
+
+**Testes de Resistência**: M4 V5 P6 S5 F8 (13)
+
+**Moral**: 9
+
+**Tendência**: Caótico 
+
+**XP**: 2.300
+
+**Número Encontrado**: 1 (1d4)
+
+**Tesouro**: E + 5.000 p.0.
+
+* **Penalidade de ataque**: -2 de penalidade nas jogadas de ataque, devido a percepção de profundidade limitada.
+* **Arremesso de rochas**: a até 60 m.
+* **Raciocínio lento**: pode ser enganado por personagens inteligentes.
+* **Maldição**: 1 em cada 20 ciclopes são capazes de amaldiçoar um personagem uma vez por semana. Teste de resistência vs feitiço ou será afetado por uma maldição a escolha do mestre. (Efeitos máximos possíveis: penalidade de -2 nos testes de resistência, penalidade de -4 para acertar, e um atributo reduzido em 50%.)
 
 # Cobra
 
