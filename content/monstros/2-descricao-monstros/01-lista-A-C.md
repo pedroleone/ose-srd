@@ -309,6 +309,11 @@ ___
 * **Observadores**: pessoas que vejam alguém sob o efeito da dança, devem fazer um teste de resistência vs feitiço ou começarão a dançar da mesma forma, enquanto a vítima estiver sob o efeito.
 * **Dançando**: os afetados recebem penalidade de -4 em seus ataques e na CA. Após 5 turnos de dança, eles ficam exaustos: caem no chão, indefesos. 
 
+# Babuíno Selvagem
+
+# Baleia
+
+
 
 ## **Bandido**
 _PdMs ladrões que vivem para roubar._
@@ -461,3 +466,43 @@ ___
 **Tesouro**: U
 
 ___
+
+# Bolor Amarelo
+
+# Bucaneiro
+
+# Bugurso
+
+# Caçador Invisível
+
+# Camelo
+
+# Cão Infernal
+
+# Cão Teleportador
+
+# Caranguejo Gigante
+
+# Carniçal
+
+# Cavalo
+
+# Centauro
+
+# Centopeia Gigante
+
+# Ciclope
+
+# Cobra
+
+# Cobra Cega
+
+# Cocatrice
+
+# Comerciante
+
+# Crocodilo
+
+# Cubo Geletinoso
+
+# Cupim Aquático
