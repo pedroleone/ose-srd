@@ -38,5 +38,3 @@ metaDescription: "Monstros > Lista Monstros T-Z"
 # Vidente
 
 # Zumbi
-
-# Wight
