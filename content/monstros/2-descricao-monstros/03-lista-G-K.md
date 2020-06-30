@@ -3,6 +3,23 @@ title: "Lista Monstros G-K 🔴"
 metaTitle: "Lista Monstros G-K"
 metaDescription: "Monstros > Lista Monstros G-K"
 ---
+
+# Geléia Ocre
+
+# Gênio (Menor)
+
+# Gigante 
+
+# Gnoll
+
+# Gnomo
+
+# Goblin
+
+# Gólem 
+
+# Górgona
+
 ## **Gorila Branco**
 _Primatas similares a gorilas, albinos e herbívoros, que vivem em cavernas e emergem a noite para forragear._
 ___
@@ -31,3 +48,25 @@ ___
 
 ___
 * **Territorial**: Defendem seus lares com ameaças e, se ignorados, violência.
+
+# Grifo
+
+# Grilo de Caverna
+
+# Harpia
+
+# Hidra
+
+# Hipogrifo
+
+# Hobgoblin
+
+# Homem Lagarto
+
+# Humano Comum
+
+# Ifrite 
+
+# Javali
+
+# Kobold
