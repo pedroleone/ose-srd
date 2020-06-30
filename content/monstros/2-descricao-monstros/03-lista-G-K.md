@@ -20,7 +20,7 @@ metaDescription: "Monstros > Lista Monstros G-K"
 
 # Górgona
 
-## **Gorila Branco**
+# Gorila Branco
 _Primatas similares a gorilas, albinos e herbívoros, que vivem em cavernas e emergem a noite para forragear._
 ___
 
