@@ -1,5 +1,5 @@
 ---
-title: "Lista Monstros A-C 🔴"
+title: "Lista Monstros A-C"
 metaTitle: "Lista Monstros A-C"
 metaDescription: "Monstros > Lista Monstros A-C"
 ---
@@ -1042,15 +1042,422 @@ _Humanóides com cerca de 6 m de altura, com um único olho central. Moram em ca
 * **Maldição**: 1 em cada 20 ciclopes são capazes de amaldiçoar um personagem uma vez por semana. Teste de resistência vs feitiço ou será afetado por uma maldição a escolha do mestre. (Efeitos máximos possíveis: penalidade de -2 nos testes de resistência, penalidade de -4 para acertar, e um atributo reduzido em 50%.)
 
 # Cobra
+_São encontradas em todos os climas, com exceção dos mais exremos. Normalmente só irão atacar se forem encurraladas ou surpreendidas._
+
+
+## Cascavel Gigante
+_cobras de 3 metros com padrões de diamante marrons e brancos em suas escamas, e um chocalho de escamas ásperas em suas caudas._
+
+**Classe de Armadura**: 5 [14]
+
+**Dados de Vida**: 4* (18pv)
+
+**Ataques**: 2 × picada (1d4 + veneno)
+
+**TAC0**: 16 [+3]
+
+**Movimento**: 36m (12m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (2)
+
+**Moral**: 8
+
+**Tendência**: Neutro
+
+**XP**: 125
+
+**Número Encontrado**: 1d4 (1d4)
+
+**Tesouro**: U
+
+* **Chocalho**: Balançado para avisar criaturas que a cobra não quer atacar.
+* **Veneno**: Causa morte em 1d6 turnos (teste de resistência vs veneno).
+* **Velocidade**: Ataca duas vezes por rodada. O segundo ataque é feito no final de cada rodada.
+
+## Víbora
+_cobras de 1,5m com escamas verdes/cinzas._
+
+**Classe de Armadura**: 6 [13]
+
+**Dados de Vida**: 2* (9pv)
+
+**Ataques**: 1 × picada (1d4 + veneno)
+
+**TAC0**: 18 [+1]
+
+**Movimento**: 27m (9m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1) 
+
+**Moral**: 7
+
+**Tendência**: Neutro
+
+**XP**: 25
+
+**Número Encontrado**: 1d8 (1d8)
+
+**Tesouro**: Nenhum
+
+* **Infravisão**: 18m. (Covas em sua cabeça permitem sentir calor.)
+* **Iniciativa**: Sempre ganha a iniciativa (não precisa rolar), devido aos seus sentidos especiais.
+* **Veneno**: Causa morte (teste de resistência vs veneno).
+
+## Píton
+_cobras de 6m com padrões espiralados de marrom e amarelo em suas escamas._
+
+**Classe de Armadura**: 6 [13]
+
+**Dados de Vida**: 5* (22pv)
+
+**Ataques**: 1 × picada (1d4 + constrição)
+
+**TAC0**: 15 [+4]
+
+**Movimento**: 18m (9m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (3)
+
+**Moral**: 8
+
+**Tendência**: Neutro
+
+**XP**: 300
+
+**Número Encontrado**: 1d3 (1d3)
+
+**Tesouro**: U
+
+* **Constrição**: Quando uma mordida é bem sucedida, a píton se enrola ao redor da vítima e começa a apertar, inflingindo 2d4 de dano automático imediatamente e em cada rodada subsequente.
+
+## Serpente Marinha
+_serpentes de 1,8m que vivem em baixo da água, saindo para respirar apenas uma vez por hora. Caçam humanos._ 
+
+**Classe de Armadura**: 6 [13]
+
+**Dados de Vida**: 3* (13pv)
+
+**Ataques**: 1 × picada (1pv + veneno)
+
+**TAC0**: 17 [+2]
+
+**Movimento**: 18m (9m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (2)
+
+**Moral**: 7
+
+**Tendência**: Neutro
+
+**XP**: 50
+
+**Número Encontrado**: 1d8 (1d8)
+
+**Tesouro**: Nenhum
+
+* **Picada sutil**: 50% de passar desapercebido.
+* **Veneno**: Ação lenta: os efeitos são sentidos 1d4+2 turnos depois. Teste de resistência contra veneno ou morre 1 rodada depois. Neste ponto, a magia neutralizar veneno tem 25% de chance de não funcionar.
+* **Indivíduos maiores**: Serpentes marinhas com mais de 3 DV podem ser encontradas. Elas tem 1,8m de comprimento para cada 3 DV.
+
+## Cobra-naja
+_cobras de 90m de comprimento com escalas cinzas/brancas. Preferem atacar à distância com seu cuspe venenoso._
+
+**Classe de Armadura**: 7 [12]
+
+**Dados de Vida**: 1* (4pv)
+
+**Ataques**: 1 × cuspe (cegueira) or 1 × picada (1d3 + veneno)
+
+**TAC0**: 19 [0]
+
+**Movimento**: 18m (9m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
+
+**Moral**: 7
+
+**Tendência**: Neutro
+
+**XP**: 13
+
+**Número Encontrado**: 1d6 (1d6)
+
+**Tesouro**: Nenhum
+
+* **Cuspida cegante**: Alcance: 90cm. Um acerto causa cegueira permanente (teste de resistência vs veneno).
+* **Veneno**: Causa morte em 1d10 turnos (teste de resistência vs veneno).
+
 
 # Cobra Cega
+_anfíbios semelhantes a vermes, gigantescos (9m de comprimento), cinzas, com mandíbulas dentadas gigantescas._
+
+**Classe de Armadura**: 6 [13]
+
+**Dados de Vida**:  6* (27pv)
+
+**Ataques**: 1 × bite (1d8)
+
+**TAC0**: 14 [+5]
+
+**Movimento**: 18m (6m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (3) 
+
+**Moral**: 9
+
+**Tendência**:  Neutro
+
+**XP**: 500
+
+**Número Encontrado**: 1d3 (1d3)
+
+**Tesouro**: B
+
+* **Engolir inteiro**: Em um ataque com resultado de 19 ou mais. Dentro da barriga do monstro: sofre 1d8 de dano por rodada (até a morte da cobra-cega); pode atacar com uma adaga com -4 para acertar; o corpo é digerido 6 rodadas após a morte.
 
 # Cocatrice
+_híbridos de ave/réptil pequeno, com uma longa cauda de serpente, e a cabeça, pernas e asas de um galo. Vive em todos os ambientes._
+
+**Classe de Armadura**: 6 [13]
+
+**Dados de Vida**: 5** (22pv)
+
+**Ataques**: 1 × bicada (1d6 + petrificação)
+
+**TAC0**: 15 [+4]
+
+**Movimento**: 27m (9m) / 54m (18m) vôo
+
+**Testes de Resistência**: M10 V11 P12 S13 F14 (5)
+
+**Moral**: 7
+
+**Tendência**: Neutro
+
+**XP**: 425
+
+**Número Encontrado**: 1d4 (1d8)
+
+**Tesouro**: D
+
+* **Petrificação**: Qualquer um tocado é transformado em pedra (teste de resistência contra paralisia / petrificar).
+
 
 # Comerciante
+_guerreiros de 1º nível que vivem do comércio em áreas fronteiriças._
+
+**Classe de Armadura**: 6 [13]
+
+**Dados de Vida**: 1 (4hp)
+
+**Ataques**: 1 × arma (1d6 ou por arma)
+
+**TAC0**: 19 [0]
+
+**Movimento**: 36m (12m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
+
+**Moral**: 7
+
+**Tendência**: Qualquer
+
+**XP**: 10
+
+**Número Encontrado**: 1d8 (3d6)
+
+**Tesouro**: U + V
+
+* **Armas**: Normalmente carregam: machadinha, espada, escudo, casaco de pele (equivalente a armadura de couro).
+* **Mulas**: Em regiões selvagens, tem 1d4 mulas carregadas com bens de comércio (ex. itens de madeira entalhada, peles, especiarias).
 
 # Crocodilo
+_Grandes répteis que são desajeitados na terra e vivem primariamente na água, espreitando sob a superfície de pântanos subtropicais e rios calmos. Se estiverem com fome, atacam qualquer criatura que se aventure pelas águas._
+
+* **Frenesi de alimentação**: Atraído pelo odor de sangue ou por movimento violento na água.
+
+## Crocodilo Gigante
+_Mais de 15m de comprimento. Normalmente encontrado em regiões do Mundo Perdido. Atacam pequenas embarcações._
+
+**Classe de Armadura**: 1 [18]
+
+**Dados de Vida**: 15 (67pv)
+
+**Ataques**: 1 × mordida (3d8)
+
+**TAC0**: 9 [+10]
+
+**Movimento**: 27m (9m) / 27m (9m) nadando
+
+**Testes de Resistência**: M8 V9 P10 S10 F12 (8)
+
+**Moral**: 9
+
+**Tendência**: Neutro
+
+**XP**: 1.350
+
+**Número Encontrado**: 0 (1d3)
+
+**Tesouro**: Nenhum
+
+## Crocodilo grande
+_6m ou mais. Podem atacar embarcações de pequeno porte (canoas, jangadas)._
+
+**Classe de Armadura**: 3 [16]
+
+**Dados de Vida**: 6 (27hp)
+
+**Ataques**: 1 × mordida (2d8)
+
+**TAC0**: 14 [+5]
+
+**Movimento**: 27m (9m) / 27m (9m) nadando
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (3)
+
+**Moral**: 7
+
+**Tendência**: Neutro
+
+**XP**: 275
+
+**Número Encontrado**: 0 (1d4)
+
+**Tesouro**: Nenhum
+
+
+## Normal Crocodile
+**Classe de Armadura**: 5 [14]
+
+**Dados de Vida**: 2 (9pv)
+
+**Ataques**: 1 × mordida (1d8)
+
+**TAC0**: 18 [+1]
+
+**Movimento**: 27m (9m) / 27m (9m) nadando
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
+
+**Moral**: 7
+
+**Tendência**: Neutro
+
+**XP**: 20
+
+**Número Encontrado**: 0 (1d8)
+
+**Tesouro**: Nenhum
+
 
 # Cubo Gelatinoso
+_cubos transparentes de 3m. Se movem através das masmorras, absorvendo detritos e criaturas vivas que eles encontram._
+
+**Classe de Armadura**: 8 [11]
+
+**Dados de Vida**: 4* (18pv)
+
+**Ataques**: 1 × toque (2d4 + paralisia)
+
+**TAC0**: 16 [+3]
+
+**Movimento**: 18m (6m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (2)
+
+**Moral**: 12
+
+**Tendência**: Neutra
+
+**XP**: 125
+
+**Número Encontrado**: 1 (0)
+
+**Tesouro**: V
+
+* **Surprise**: Em uma rolagem de 1-4, devido a ser quase invisível.
+* **Paralisia**: Por 2d4 turnos (teste de resistência vs paralisia)
+* **Imunidade a energia**: Imune a frio ou raio.
+* **Itens embutidos**: Itens indigeríveis (gemas, moedas) são carregados dentro do cubo.
+
 
 # Cupim Aquático
+_Insetos aquáticos gigantes (30cm - 1,5m) que se alimentam de madeira, com uma bolsa em que eles conseguem inserir e expelir água. Propenso a se alimentar de navios em trânsito. Só atacam criaturas se forem encurralados._
+
+* **Spray irritante**: Acima da água; máximo uma vez por turno. Podem atingir um alvo: teste de resistência contra veneno ou atordoado por uma rodada.
+* **Nuvem de tinta**: Abaixo d'água; máximo uma vez por turno. Quando estiverem em fuga, podem emitir uma nuvem de tinta preta para confundir atacantes.
+* **Se alimentar de navios**: Se prendem abaixo de embarcações. Cada indívudo causa 1d3 de dano no casco, então se solta. 
+* **Perceber navio avariado**: 50% de chance por rodada de perceberem vazamentos.
+
+## Cupim de Água Doce
+
+**Classe de Armadura**: 6 [13]
+
+**Dados de Vida**: 2+1 (10pv)
+
+**Ataques**: 1 × mordida (1d4) or 1 × spray (atordoamento)
+
+**TAC0**: 17 [+2]
+
+**Movimento**: 36m (12m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (2)
+
+**Moral**: 8
+
+**Tendência**: Neutro
+
+**XP**: 25
+
+**Número Encontrado**: 0 (1d3)
+
+**Tesouro**: Nenhum
+
+## Cupim de Água Salgada
+
+**Classe de Armadura**: 5 [14]
+
+**Dados de Vida**: 4 (18pv)
+
+**Ataques**: 1 × mordida (1d6) or 1 × spray (atordoamento)
+
+**TAC0**: 16 [+3]
+
+**Movimento**: 54m (18m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (3)
+
+**Moral**: 11
+
+**Tendência**: Neutro
+
+**XP**: 75
+
+**Número Encontrado**: 0 (1d6+1)
+
+**Tesouro**: Nenhum
+
+## Cupim do Pântano
+
+**Classe de Armadura**: 4 [15]
+
+**Dados de Vida**: 1+1 (5pv)
+
+**Ataques**: 1 × mordida (1d3) or 1 × spray (atordoamento)
+
+**TAC0**: 18 [+1]
+
+**Movimento**: 27mm (9m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
+
+**Moral**: 10
+
+**Tendência**: Neutro
+
+**XP**: 15
+
+**Número Encontrado**: 0 (1d4)
+
+**Tesouro**: Nenhum
