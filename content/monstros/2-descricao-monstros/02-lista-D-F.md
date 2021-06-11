@@ -5,145 +5,227 @@ metaDescription: "Monstros > Lista Monstros D-F"
 ---
 
 # Dervixe
-Fanatically religious, nomadic people who wander steppes and desert regions, living in tents.
+_Fanatically religious, nomadic people who wander steppes and desert regions, living in tents._
 
-Armour Class 	6 [13] or 4 [15]
-Hit Dice 	1 (4hp)
-Attacks 	1 × weapon (1d6 or by weapon)
-THAC0 	19 [0]
-Movement 	120’ (40’)
-Saving Throws 	D12 W13 P14 B15 S16 (1)
-Morale 	10
-Alignment 	Lawful
-XP 	10
-Number Appearing 	0 (1d6+1 × 10)
-Treasure Type 	A
+**Classe de Armadura**: 6 [13] or 4 [15]
 
-    Mounted: On warhorses.
-    Arms: 50% of group have: leather armour, shield, lance; 25% have: leather armour, shield, shortbow, sword; 25% have: chainmail, shield, lance.
-    Camps: Groups commonly combine and live in a camp or tribe of up to 300 dervishes, plus women, children, and animals. 25% chance of a wood or brick enclosure.
-    Camp leaders: Led by 10th level cleric.
-    Intolerant: Of other religious views.
-    Holy war: Occasionally wage war against other religious factions. Will slay people of different faith, or take them prisoner. Prisoners must convert; otherwise killed or used as slaves. Characters of Lawful alignment may be asked to join the holy war. Dervishes are highly suspicious of those who refuse (without good reason).
+**Dados de Vida**: 1 (4hp)
+
+**Ataques**: 1 × weapon (1d6 or by weapon)
+
+**TAC0**: 19 [0]
+
+**Movimento**: 120’ (40’)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
+
+**Moral**: 10
+
+**Tendência**: Leal
+
+**XP**: 10
+
+**Número Encontrado**: 0 (1d6+1 × 10)
+
+**Tesouro**: A
+
+* **Mounted**: On warhorses.
+* **Arms**: 50% of group have: leather armour, shield, lance; 25% have: leather armour, shield, shortbow, sword; 25% have: chainmail, shield, lance.
+* **Camps**: Groups commonly combine and live in a camp or tribe of up to 300 dervishes, plus women, children, and animals. 25% chance of a wood or brick enclosure.
+* **Camp leaders**: Led by 10th level cleric.
+* **Intolerant**: Of other religious views.
+* **Holy war**: Occasionally wage war against other religious factions. Will slay people of different faith, or take them prisoner. Prisoners must convert; otherwise killed or used as slaves. Characters of Lawful alignment may be asked to join the holy war. Dervishes are highly suspicious of those who refuse (without good reason).
 
 # Doninha Gigante
-8’ to 9’ long, vicious, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups.
+_8’ to 9’ long, vicious, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups._
 
-Armour Class 	7 [12]
-Hit Dice 	4+4 (22hp)
-Attacks 	1 × bite (2d4 + blood sucking)
-THAC0 	15 [+4]
-Movement 	150’ (50’)
-Saving Throws 	D12 W13 P14 B15 S16 (3)
-Morale 	8
-Alignment 	Neutral
-XP 	125
-Number Appearing 	1d4 (1d6)
-Treasure Type 	V
+**Classe de Armadura**: 7 [12]
 
-    Infravision: 30’.
-    Blood sucking: Upon a successful attack, locks onto the victim and drains its blood: 2d4 automatic damage per round.
-    Detaching: If weasel or victim dies.
-    Tracking: By scent, favouring wounded prey.
-    Treasure: Found in lair on bodies of victims.
+**Dados de Vida**: 4+4 (22hp)
+
+**Ataques**: 1 × bite (2d4 + blood sucking)
+
+**TAC0**: 15 [+4]
+
+**Movimento**: 150’ (50’)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (3)
+
+**Moral**: 8
+
+**Tendência**: Neutro
+
+**XP**: 125
+
+**Número Encontrado**: 1d4 (1d6)
+
+**Tesouro**: V
+
+* **Infravision**: 30’.
+* **Blood sucking**: Upon a successful attack, locks onto the victim and drains its blood: 2d4 automatic damage per round.
+* **Detaching**: If weasel or victim dies.
+* **Tracking**: By scent, favouring wounded prey.
+* **Treasure**: Found in lair on bodies of victims.
 
 # Doppleganger
-Intelligent, human-sized shape-shifters of wicked character and highly magical nature.
+_Intelligent, human-sized shape-shifters of wicked character and highly magical nature._
 
-Armour Class 	5 [14]
-Hit Dice 	4* (18hp)
-Attacks 	1 × bite (1d12)
-THAC0 	16 [+3]
-Movement 	90’ (30’)
-Saving Throws 	D6 W7 P8 B8 S10 (10)
-Morale 	10
-Alignment 	Chaotic
-XP 	125
-Number Appearing 	1d6 (1d6)
-Treasure Type 	E
+**Classe de Armadura**: 5 [14]
 
-    Shape stealing: Can adopt the form of any human-like creature (7’ tall or less) observed. Then proceed to attack the person mimicked.
-    Trickery: Will attempt to kill a PC, take on their role, then attack the party by surprise (e.g. during a battle).
-    Reversion: If killed, reverts to its original form.
-    Spell immunity: Unaffected by sleep and charm spells.    
+**Dados de Vida**: 4* (18hp)
+
+**Ataques**: 1 × bite (1d12)
+
+**TAC0**: 16 [+3]
+
+**Movimento**: 90’ (30’)
+
+**Testes de Resistência**: M6 V7 P8 S8 F10 (10) 
+
+**Moral**: 10
+
+**Tendência**: Caótico
+
+**XP**: 125
+
+**Número Encontrado**: 1d6 (1d6)
+
+**Tesouro**: E
+
+* **Shape stealing**: Can adopt the form of any human-like creature (7’ tall or less) observed. Then proceed to attack the person mimicked.
+* **Trickery**: Will attempt to kill a PC, take on their role, then attack the party by surprise (e.g. during a battle).
+* **Reversion**: If killed, reverts to its original form.
+* **Spell immunity**: Unaffected by sleep and charm spells.    
 
 # Dragão
-A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragon, many of which are distinguished by the colour of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilisation.
+_A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragon, many of which are distinguished by the colour of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilisation._
 
-    Behaviour: Chaotic dragons usually try to eat humans, but may sometimes capture them. Neutral dragons may attack or ignore humans. Lawful dragons may aid parties worthy of the honour.
-    Pride: Dragons are immensely proud creatures and will always listen to flattery.
-    Attack pattern: A dragon always attacks first with its breath weapon, then either breathes again or makes melee attacks (equal chance of either).
-    Breath weapon: Can be used up to three times per day. All caught in the area suffer damage equal to the dragon’s current hit points (save versus breath for half). Shapes of breath weapon:
-        Cloud: 50’ long, 40’ wide, 20’ high.
-        Cone: 2’ wide at the mouth, 30’ wide at far end.
-        Line: 5’ wide along whole length.
-    Energy immunity: Unharmed by their own breath weapon or lesser versions thereof. Automatically save versus similar attack forms. (For example, a red dragon is immune to flaming oil and suffers half damage from fire ball spells.)
-    Language and spells: Some dragons are able to speak (their own tongue plus Common). The chance is listed by subspecies. Those that can speak can also cast randomly selected magic-user spells (the listed number and level of spells).
-    Sleeping: The chance of a dragon being asleep when encountered on the ground is listed by subspecies. A sleeping dragon may be attacked for one round with a +2 bonus to hit. Dragons may sometimes pretend to be asleep!
-    Subduing: Will surrender if reduced to 0hp by non-lethal attacks (see Subduing, under Other Combat Issues), admitting that it has been defeated. (Subdual damage does not reduce the damage done by the breath weapon.) A subdued dragon will attempt to escape or attack its captors, if the opportunity presents itself or if given a suicidal command. A subdued dragon may be sold for up to 1,000gp per hp.
-    Age: The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and ¼ or ½ as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
-    Lairs: A dragon’s treasure is always kept in its well-hidden lair and is seldom unguarded.
+* **Behaviour**: Chaotic dragons usually try to eat humans, but may sometimes capture them. Neutral dragons may attack or ignore humans. Lawful dragons may aid parties worthy of the honour.
+* **Pride**: Dragons are immensely proud creatures and will always listen to flattery.
+* **Attack pattern**: A dragon always attacks first with its breath weapon, then either breathes again or makes melee attacks (equal chance of either).
+* **Breath weapon**: Can be used up to three times per day. All caught in the area suffer damage equal to the dragon’s current hit points (save versus breath for half). Shapes of breath weapon:
+  * **Cloud**: 50’ long, 40’ wide, 20’ high.
+  * **Cone**: 2’ wide at the mouth, 30’ wide at far end.
+  * **Line**: 5’ wide along whole length.
+* **Energy immunity**: Unharmed by their own breath weapon or lesser versions thereof. Automatically save versus similar attack forms. (For example, a red dragon is immune to flaming oil and suffers half damage from fire ball spells.)
+* **Language and spells**: Some dragons are able to speak (their own tongue plus Common). The chance is listed by subspecies. Those that can speak can also cast randomly selected magic-user spells (the listed number and level of spells).
+* **Sleeping**: The chance of a dragon being asleep when encountered on the ground is listed by subspecies. A sleeping dragon may be attacked for one round with a +2 bonus to hit. Dragons may sometimes pretend to be asleep!
+* **Subduing**: Will surrender if reduced to 0hp by non-lethal attacks (see Subduing, under Other Combat Issues), admitting that it has been defeated. (Subdual damage does not reduce the damage done by the breath weapon.) A subdued dragon will attempt to escape or attack its captors, if the opportunity presents itself or if given a suicidal command. A subdued dragon may be sold for up to 1,000gp per hp.
+* **Age**: The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and ¼ or ½ as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
+* **Lairs**: A dragon’s treasure is always kept in its well-hidden lair and is seldom unguarded.
 
 ## Black Dragon
-Dwell in swamps and marshes.
+_Dwell in swamps and marshes._
 
-Armour Class 	2 [17]
-Hit Dice 	7** (31hp)
-Attacks 	[2 × claw (1d4 + 1), 1 × bite (2d10)] or breath
-THAC0 	13 [+6]
-Movement 	90’ (30’) / 240’ (80’) flying
-Saving Throws 	D8 W9 P10 B10 S12 (7)
-Morale 	8
-Alignment 	Chaotic
-XP 	1,250
-Number Appearing 	1d4 (1d4)
-Treasure Type 	H
+**Classe de Armadura**: 2 [17]
 
-    Breath weapon: 60’ long line of acid.
-    Language and spells: 20%; 4 × 1st level.
-    Sleeping: 40%.
+**Dados de Vida**: 7** (31hp)
+
+**Ataques**: [2 × claw (1d4 + 1), 1 × bite (2d10)] or breath
+
+**TAC0**: 13 [+6]
+
+**Movimento**: 90’ (30’) / 240’ (80’) flying
+
+**Testes de Resistência**: M8 V9 P10 S10 F12 (7)
+
+**Moral**: 8
+
+**Tendência**: Chaotic
+
+**XP**: 1,250
+
+**Número Encontrado**: 1d4 (1d4)
+
+**Tesouro**: H
+
+* **Breath weapon**: 60’ long line of acid.
+* **Language and spells**: 20%; 4 × 1st level.
+* **Sleeping**: 40%.
 
 ## Blue Dragon
-Favour open plains and deserts.
+_Favour open plains and deserts._
 
-Armour Class 	0 [19]
-Hit Dice 	9** (40hp)
-Attacks 	[2 × claw (1d6 + 1), 1 × bite (3d10)] or breath
-THAC0 	12 [+7]
-Movement 	90’ (30’) / 240’ (80’) flying
-Saving Throws 	D8 W9 P10 B10 S12 (9)
-Morale 	9
-Alignment 	Neutral
-XP 	2,300
-Number Appearing 	1d4 (1d4)
-Treasure Type 	H
+**Classe de Armadura**: 0 [19]
 
-    Breath weapon: 100’ long line of lightning.
-    Language and spells: 40%; 4 × 1st level, 4 × 2nd level.
-    Sleeping: 20%.
+**Dados de Vida**: 9** (40hp)
+
+**Ataques**: [2 × claw (1d6 + 1), 1 × bite (3d10)] or breath
+
+**TAC0**: 12 [+7]
+
+**Movimento**: 90’ (30’) / 240’ (80’) flying
+
+**Testes de Resistência**: M8 V9 P10 S10 F12 (9)
+
+**Moral**: 9
+
+**Tendência**: Neutral
+
+**XP**: 2,300
+
+**Número Encontrado**: 1d4 (1d4)
+
+**Tesouro**: H
+
+* **Breath weapon**: 100’ long line of lightning.
+* **Language and spells**: 40%; 4 × 1st level, 4 × 2nd level.
+* **Sleeping**: 20%.
 
 ## Gold Dragon
-May be encountered in any terrain, often in the guise of a person or animal.
+_May be encountered in any terrain, often in the guise of a person or animal._
 
-Armour Class 	–2 [21]
-Hit Dice 	11** (49hp)
-Attacks 	[2 × claw (2d4), 1 × bite (6d6)] or breath
-THAC0 	11 [+8]
-Movement 	90’ (30’) / 240’ (80’) flying
-Saving Throws 	D6 W7 P8 B8 S10 (11)
-Morale 	10
-Alignment 	Lawful
-XP 	2,700
-Number Appearing 	1d4 (1d4)
-Treasure Type 	H
+**Classe de Armadura**: –2 [21]
 
-    Breath weapon: 90’ long cone of fire or cloud of chlorine gas.
-    Language and spells: 100%; 4 × 1st level, 4 × 2nd level, 4 × 3rd level.
-    Sleeping: 5%.
-    Shape changing: May take on the form of a person or animal.
+**Dados de Vida**: 11** (49hp)
+
+**Ataques**: [2 × claw (2d4), 1 × bite (6d6)] or breath
+
+**TAC0**: 11 [+8]
+
+**Movimento**: 90’ (30’) / 240’ (80’) flying
+
+**Testes de Resistência**: M6 V7 P8 S8 F10 (11)
+
+**Moral**: 10
+
+**Tendência**: Lawful
+
+**XP**: 2,700
+
+**Número Encontrado**: 1d4 (1d4)
+
+**Tesouro**: H
+
+* **Breath weapon**: 90’ long cone of fire or cloud of chlorine gas.
+* **Language and spells**: 100%; 4 × 1st level, 4 × 2nd level, 4 × 3rd level.
+* **Sleeping**: 5%.
+* **Shape changing**: May take on the form of a person or animal.
 
 ## Green Dragon
-Lair in jungles and forests.
+_Lair in jungles and forests._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	1 [18]
 Hit Dice 	8** (36hp)
@@ -162,7 +244,29 @@ Treasure Type 	H
     Sleeping: 30%.
 
 ## Red Dragon
-Dwell in hills and mountains.
+_Dwell in hills and mountains._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	–1 [20]
 Hit Dice 	10** (45hp)
@@ -181,7 +285,29 @@ Treasure Type 	H
     Sleeping: 10%.
 
 ## Sea Dragon
-Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish crest. Dwell in the depths of the ocean, inhabiting caverns or shipwrecks. Sometimes attack vessels to steal their treasure and eat the crew.
+_Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish crest. Dwell in the depths of the ocean, inhabiting caverns or shipwrecks. Sometimes attack vessels to steal their treasure and eat the crew._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	1 [18]
 Hit Dice 	8** (36hp)
@@ -201,7 +327,29 @@ Treasure Type 	H
     Gliding: Leap out of the water and glide for up to 6 rounds.
 
 ## White Dragon
-Found in cold regions.
+_Found in cold regions._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	3 [16]
 Hit Dice 	6** (27hp)
@@ -221,7 +369,29 @@ Treasure Type 	H
 
 
 # Dríade
-Shy, peaceful, yet wary tree spirits that can manifest as beautiful female humanoids. Live in deep forests.
+_Shy, peaceful, yet wary tree spirits that can manifest as beautiful female humanoids. Live in deep forests._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	5 [14]
 Hit Dice 	2* (9hp)
@@ -242,7 +412,29 @@ Treasure Type 	D
     Treasure: Hidden in roots of the tree.
 
 # Efreeti (Menor)
-Highly magical, free-willed, intelligent beings from the elemental plane of fire. Manifest as giant men with demonic faces and an aura of heat and smoke. Solidify out of billowing smoke clouds.
+_Highly magical, free-willed, intelligent beings from the elemental plane of fire. Manifest as giant men with demonic faces and an aura of heat and smoke. Solidify out of billowing smoke clouds._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	3 [16]
 Hit Dice 	10* (45hp)
@@ -270,7 +462,29 @@ Treasure Type 	None
     Bound servitor: Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet are treacherous and will follow commands to the letter while subverting the intent.
 
 # Elefante 
-Massive, tusked animals that dwell near subtropical forests. Wandering individuals or whole herds may be encountered.
+_Massive, tusked animals that dwell near subtropical forests. Wandering individuals or whole herds may be encountered._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	5 [14]
 Hit Dice 	9 (40hp)
@@ -289,14 +503,36 @@ Treasure Type 	Tusks
     Ivory: Each tusk is worth 1d6 × 100gp
 
 # Elemental
-Beings formed of pure, elemental matter (air, earth, fire, or water) that can be summoned from their plane of origin to serve a magic-user.
+_Beings formed of pure, elemental matter (air, earth, fire, or water) that can be summoned from their plane of origin to serve a magic-user._
 
     Lesser: AC 2 [17], HD 8*, Att 1 × blow (1d8), SV D8 W9 P10 B10 S12 (8). (Summoned by magic staff.)
     Intermediate: AC 0 [19], HD 12*, Att 1 × blow (2d8), SV D6 W7 P8 B8 S10 (12). (Summoned by magic device.)
     Greater: AC –2 [21], HD 16*, Att 1 × blow (3d8), SV D2 W3 P4 B3 S6 (16). (Summoned by spell.)
 
 ## Air Elemental
-Huge vortexes of whirling air.
+_Huge vortexes of whirling air._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	2 [17] / 0 [19] / –2 [21]
 Hit Dice 	8/12/16* (36/54/72hp)
@@ -316,7 +552,29 @@ Treasure Type 	None
     Harm flying creatures: Inflict extra 1d8 damage.
 
 ## Earth Elemental
-Huge, humanoid figures of earth or stone.
+_Huge, humanoid figures of earth or stone._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	2 [17] / 0 [19] / –2 [21]
 Hit Dice 	8/12/16* (36/54/72hp)
@@ -336,7 +594,29 @@ Treasure Type 	None
     Harm creatures on the ground: Inflict extra 1d8 damage.
 
 ## Fire Elemental
-Whirling columns of fire
+_Whirling columns of fire_
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	2 [17] / 0 [19] / –2 [21]
 Hit Dice 	8/12/16* (36/54/72hp)
@@ -356,7 +636,29 @@ Treasure Type 	None
     Harm cold-based creatures: Inflict extra 1d8 damage.
 
 ## Water Elemental
-Huge waves of water.
+_Huge waves of water._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	2 [17] / 0 [19] / –2 [21]
 Hit Dice 	8/12/16* (36/54/72hp)
@@ -376,7 +678,29 @@ Treasure Type 	None
     Harm creatures in water: Inflict extra 1d8 damage.
 
 # Elfo
-Slender, fey demihumans with pointed ears. Live in harmony with nature, in beautiful natural settings.
+_Slender, fey demihumans with pointed ears. Live in harmony with nature, in beautiful natural settings._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	5 [14]
 Hit Dice 	1+1* (5hp)
@@ -394,7 +718,29 @@ Treasure Type 	E
     Leader: Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see Magic Items).
 
 # Ente
-Giant (18’ tall) humanoids that look like trees. Dwell in forests. Are concerned only with protecting the plants of their home. Speak their own long-winded and circuitous language.
+_Giant (18’ tall) humanoids that look like trees. Dwell in forests. Are concerned only with protecting the plants of their home. Speak their own long-winded and circuitous language._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	2 [17]
 Hit Dice 	8 (36hp)
@@ -413,7 +759,29 @@ Treasure Type 	C
     Animate trees: Each individual can animate 2 trees (within 60’; may switch trees at will). These fight as treants with movement rate 30’ (10’).
 
 # Enxame de Insetos
-Swarms of many tiny insects that may be encountered protecting their nest. May also be drawn to light or unusual smells.
+_Swarms of many tiny insects that may be encountered protecting their nest. May also be drawn to light or unusual smells._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	7 [12]
 Hit Dice 	2 to 4 (9/13/18hp)
@@ -437,7 +805,29 @@ Treasure Type 	None
     Pursuit: An angry (i.e. damaged) swarm will pursue characters until they are out of sight or inaccessible.
 
 # Escorpião Gigante
-Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwell in caverns, ruins, and deserts.
+_Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwell in caverns, ruins, and deserts._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	2 [17]
 Hit Dice 	4* (18hp)
@@ -456,7 +846,29 @@ Treasure Type 	V
     Grab and sting: +2 bonus to sting attack, if a claw hits.
 
 # Espectro
-Incorporeal phantoms; one of the most powerful undead monsters.
+_Incorporeal phantoms; one of the most powerful undead monsters._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	2 [17]
 Hit Dice 	6** (27hp)
@@ -475,7 +887,29 @@ Treasure Type 	E
     Energy drain: A successfully hit target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g. spells, saving throws, etc.). A character’s XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a spectre next night, under the control of the spectre that killed them.
 
 # Esqueleto
-Skeletal remains of humanoids, reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places.
+_Skeletal remains of humanoids, reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	7 [12]
 Hit Dice 	1 (4hp)
@@ -492,13 +926,35 @@ Treasure Type 	None
     Undead: Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. charm, hold, sleep).
 
 # Estátua Viva
-Animated statues of any size and material (three types described below; others may be invented by the referee).
+_Animated statues of any size and material (three types described below; others may be invented by the referee)._
 
     Immunity: Unaffected by sleep spells.
     Magical origins: Created by powerful wizards.
 
 ## Crystal Living Statue
-Formed of crystals. Often human in form.
+_Formed of crystals. Often human in form._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	4 [15]
 Hit Dice 	3 (13hp)
@@ -517,6 +973,28 @@ Treasure Type 	None
 
 ## Iron Living Statue
 
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
+
 Armour Class 	2 [17]
 Hit Dice 	4 (18hp)
 Attacks 	2 × blow (1d8)
@@ -534,7 +1012,29 @@ Treasure Type 	None
     Attacks: Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
 ## Rock Living Statue
-Stony crust filled with magma which they shoot from their fingertips.
+_Stony crust filled with magma which they shoot from their fingertips._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	4 [15]
 Hit Dice 	5** (22hp)
@@ -551,7 +1051,29 @@ Treasure Type 	None
     Immunity: See main entry.
 
 # Estegossauro
-Stocky, herbivorous dinosaurs with a ridge of plates along their backs, and a tail studded with spikes (used to deter attackers). Dwell in sub-tropical Lost World environments.
+_Stocky, herbivorous dinosaurs with a ridge of plates along their backs, and a tail studded with spikes (used to deter attackers). Dwell in sub-tropical Lost World environments._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	3 [16]
 Hit Dice 	11 (49hp)
@@ -568,7 +1090,29 @@ Treasure Type 	None
     Trample: 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
 # Estirge
-Feathered, bird-like creatures with long, sharp beaks.
+_Feathered, bird-like creatures with long, sharp beaks._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	7 [12]
 Hit Dice 	1* (4hp)
@@ -587,13 +1131,35 @@ Treasure Type 	L
     Detach: If stirge or victim dies.
 
 # Falcão
-Birds of prey that drift on high currents of air and hunt prey on the ground.
+_Birds of prey that drift on high currents of air and hunt prey on the ground._
 
     Trainable: Can be trained as guards or hunting animals.
 
 ## Giant Hawk
+_As big as a great dog. If hungry, may attack humans or similar-sized creatures._
 
-As big as a great dog. If hungry, may attack humans or similar-sized creatures.
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
+
 Armour Class 	6 [13]
 Hit Dice 	3+3 (16hp)
 Attacks 	1 × talons or beak (1d6)
@@ -610,8 +1176,30 @@ Treasure Type 	None
     Carry prey: Up to halfling-sized.
 
 ## Normal Hawk
+_Small birds of prey. Will only attack humans if they appear defenceless._
 
-Small birds of prey. Will only attack humans if they appear defenceless.
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
+
 Armour Class 	8 [11]
 Hit Dice 	½ (2hp)
 Attacks 	1 × talons or beak (1d2)
@@ -627,8 +1215,30 @@ Treasure Type 	None
     Swoop: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
 
 # Formiga Gigante
+_Giant (6’ long), omnivorous, black ants._
 
-Giant (6’ long), omnivorous, black ants.
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
+
 Armour Class 	3 [16]
 Hit Dice 	4* (18hp)
 Attacks 	1 × bite (2d6)
@@ -646,7 +1256,29 @@ Treasure Type 	U (see below)
     Lair treasure: 30% chance of 1d10 × 1,000gp worth of gold nuggets, mined by the ants.
 
 # Fungo Guardião
-Giant, subterranean mushrooms that can creep around slowly.
+_Giant, subterranean mushrooms that can creep around slowly._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	7 [12]
 Hit Dice 	3 (13hp)
@@ -663,8 +1295,30 @@ Treasure Type 	None
     Shriek: Triggered by light (up to 60’ away) or movement (up to 30’ away). Shriek lasts for 1d3 rounds. Each round of the shriek, there is a 50% chance of a wandering monster being attracted (will arrive in 2d6 rounds).
 
 # Furão Gigante
+_3’ long ferrets that hunt giant rats in their burrows. Sometimes kept by humans for this aptitude._
 
-3’ long ferrets that hunt giant rats in their burrows. Sometimes kept by humans for this aptitude.
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
+
 Armour Class 	5 [14]
 Hit Dice 	1+1 (5hp)
 Attacks 	1 × bite (1d8)
@@ -680,7 +1334,29 @@ Treasure Type 	None
     Volatile: Unpredictable temper; may turn on trainers or other people.
 
 # Furioso
-Fighters who enter a rage in battle. They never take prisoners.
+_Fighters who enter a rage in battle. They never take prisoners._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**: M V P S F 
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
 
 Armour Class 	7 [12]
 Hit Dice 	1+1* (5hp)
