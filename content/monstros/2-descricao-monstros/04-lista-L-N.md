@@ -1,5 +1,5 @@
 ---
-title: "Lista Monstros L-N 🔴"
+title: "Lista Monstros L-N ❌"
 metaTitle: "Lista Monstros L-N"
 metaDescription: "Monstros > Lista Monstros L-N"
 ---
