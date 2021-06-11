@@ -730,441 +730,308 @@ _Animated statues of any size and material (three types described below; others 
 ## Crystal Living Statue
 _Formed of crystals. Often human in form._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 4 [15]
 
-**Dados de Vida**: 
+**Dados de Vida**: 3 (13hp)
 
-**Ataques**: 
+**Ataques**: 2 × blow (1d6)
 
-**TAC0**: 
+**TAC0**: 17 [+2]
 
-**Movimento**: 
+**Movimento**: 90’ (30’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P14 S15 F16 (3)
 
-**Moral**: 
+**Moral**: 11
 
-**Tendência**: 
+**Tendência**: Lawful
 
-**XP**: 
+**XP**: 35
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d6 (1d6)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	4 [15]
-Hit Dice 	3 (13hp)
-Attacks 	2 × blow (1d6)
-THAC0 	17 [+2]
-Movement 	90’ (30’)
-Saving Throws 	D12 W13 P14 B15 S16 (3)
-Morale 	11
-Alignment 	Lawful
-XP 	35
-Number Appearing 	1d6 (1d6)
-Treasure Type 	None
-
-    Immunity: See main entry.
-    Attacks: Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
+* **Immunity**: See main entry.
+* **Attacks**: Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
 ## Iron Living Statue
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 2 [17]
 
-**Dados de Vida**: 
+**Dados de Vida**: 4 (18hp)
 
-**Ataques**: 
+**Ataques**: 2 × blow (1d8)
 
-**TAC0**: 
+**TAC0**: 16 [+3]
 
-**Movimento**: 
+**Movimento**: 30’ (10’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M10 V11 P12 S13 F14 (4)
 
-**Moral**: 
+**Moral**: 11
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 75
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d4 (1d4)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	2 [17]
-Hit Dice 	4 (18hp)
-Attacks 	2 × blow (1d8)
-THAC0 	16 [+3]
-Movement 	30’ (10’)
-Saving Throws 	D10 W11 P12 B13 S14 (4)
-Morale 	11
-Alignment 	Neutral
-XP 	75
-Number Appearing 	1d4 (1d4)
-Treasure Type 	None
-
-    Immunity: See main entry.
-    Absorb metals: Hits with non-magical, metal weapons cause damage, but the weapon may become stuck in the statue (save versus spells). Stuck weapons can be removed if the statue is killed.
-    Attacks: Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
+* **Immunity**: See main entry.
+* **Absorb metals**: Hits with non-magical, metal weapons cause damage, but the weapon may become stuck in the statue (save versus spells). Stuck weapons can be removed if the statue is killed.
+* **Attacks**: Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
 ## Rock Living Statue
 _Stony crust filled with magma which they shoot from their fingertips._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 4 [15]
 
-**Dados de Vida**: 
+**Dados de Vida**: 5** (22hp)
 
-**Ataques**: 
+**Ataques**: 2 × magma jet (2d6)
 
-**TAC0**: 
+**TAC0**: 15 [+4]
 
-**Movimento**: 
+**Movimento**: 60’ (20’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M10 V11 P12 S13 F14 (5)
 
-**Moral**: 
+**Moral**: 11
 
-**Tendência**: 
+**Tendência**: Chaotic
 
-**XP**: 
+**XP**: 425
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d3 (1d3)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	4 [15]
-Hit Dice 	5** (22hp)
-Attacks 	2 × magma jet (2d6)
-THAC0 	15 [+4]
-Movement 	60’ (20’)
-Saving Throws 	D10 W11 P12 B13 S14 (5)
-Morale 	11
-Alignment 	Chaotic
-XP 	425
-Number Appearing 	1d3 (1d3)
-Treasure Type 	None
-
-    Immunity: See main entry.
+* **Immunity**: See main entry.
 
 # Estegossauro
 _Stocky, herbivorous dinosaurs with a ridge of plates along their backs, and a tail studded with spikes (used to deter attackers). Dwell in sub-tropical Lost World environments._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 3 [16]
 
-**Dados de Vida**: 
+**Dados de Vida**: 11 (49hp)
 
-**Ataques**: 
+**Ataques**: 1 × tail (2d8) or 1 × trample (2d8)
 
-**TAC0**: 
+**TAC0**: 11 [+8]
 
-**Movimento**: 
+**Movimento**: 60’ (20’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M10 V11 P12 S13 F14 (6)
 
-**Moral**: 
+**Moral**: 7
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 1,100
 
-**Número Encontrado**: 
+**Número Encontrado**: 0 (1d4)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	3 [16]
-Hit Dice 	11 (49hp)
-Attacks 	1 × tail (2d8) or 1 × trample (2d8)
-THAC0 	11 [+8]
-Movement 	60’ (20’)
-Saving Throws 	D10 W11 P12 B13 S14 (6)
-Morale 	7
-Alignment 	Neutral
-XP 	1,100
-Number Appearing 	0 (1d4)
-Treasure Type 	None
-
-    Trample: 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
+* **Trample**: 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
 # Estirge
 _Feathered, bird-like creatures with long, sharp beaks._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 7 [12]
 
-**Dados de Vida**: 
+**Dados de Vida**: 1* (4hp)
 
-**Ataques**: 
+**Ataques**: 1 × beak (1d3 + blood sucking)
 
-**TAC0**: 
+**TAC0**: 19 [0]
 
-**Movimento**: 
+**Movimento**: 30’ (10’) / 180’ (60’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P14 S15 F16 (2)
 
-**Moral**: 
+**Moral**: 9
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 13
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d10 (3d12)
 
-**Tesouro**: 
+**Tesouro**: L
 
-Armour Class 	7 [12]
-Hit Dice 	1* (4hp)
-Attacks 	1 × beak (1d3 + blood sucking)
-THAC0 	19 [0]
-Movement 	30’ (10’) / 180’ (60’) flying
-Saving Throws 	D12 W13 P14 B15 S16 (2)
-Morale 	9
-Alignment 	Neutral
-XP 	13
-Number Appearing 	1d10 (3d12)
-Treasure Type 	L
-
-    Dive attack: First attack is at +2 to hit.
-    Blood sucking: Upon a successful attack, attaches and drains victim’s blood: 1d3 automatic damage per round.
-    Detach: If stirge or victim dies.
+* **Dive attack**: First attack is at +2 to hit.
+* **Blood sucking**: Upon a successful attack, attaches and drains victim’s blood: 1d3 automatic damage per round.
+* **Detach**: If stirge or victim dies.
 
 # Falcão
 _Birds of prey that drift on high currents of air and hunt prey on the ground._
 
-    Trainable: Can be trained as guards or hunting animals.
+* **Trainable**: Can be trained as guards or hunting animals.
 
-## Giant Hawk
+## Falcão Gigante
 _As big as a great dog. If hungry, may attack humans or similar-sized creatures._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 6 [13]
 
-**Dados de Vida**: 
+**Dados de Vida**: 3+3 (16hp)
 
-**Ataques**: 
+**Ataques**: 1 × talons or beak (1d6)
 
-**TAC0**: 
+**TAC0**: 16 [+3]
 
-**Movimento**: 
+**Movimento**: 450’ (150’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P14 S15 F16 (2) 
 
-**Moral**: 
+**Moral**: 8
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 50
 
-**Número Encontrado**: 
+**Número Encontrado**: 0 (1d3)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	6 [13]
-Hit Dice 	3+3 (16hp)
-Attacks 	1 × talons or beak (1d6)
-THAC0 	16 [+3]
-Movement 	450’ (150’) flying
-Saving Throws 	D12 W13 P14 B15 S16 (2)
-Morale 	8
-Alignment 	Neutral
-XP 	50
-Number Appearing 	0 (1d3)
-Treasure Type 	None
-
-    Swoop: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
-    Carry prey: Up to halfling-sized.
+* **Swoop**: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
+* **Carry prey**: Up to halfling-sized.
 
 ## Normal Hawk
 _Small birds of prey. Will only attack humans if they appear defenceless._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 8 [11]
 
-**Dados de Vida**: 
+**Dados de Vida**: ½ (2hp)
 
-**Ataques**: 
+**Ataques**: 1 × talons or beak (1d2)
 
-**TAC0**: 
+**TAC0**: 19 [0]
 
-**Movimento**: 
+**Movimento**: 480’ (160’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M14 V15 P16 S17 F18 (NH)
 
-**Moral**: 
+**Moral**: 7
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 5
 
-**Número Encontrado**: 
+**Número Encontrado**: 0 (1d6)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	8 [11]
-Hit Dice 	½ (2hp)
-Attacks 	1 × talons or beak (1d2)
-THAC0 	19 [0]
-Movement 	480’ (160’) flying
-Saving Throws 	D14 W15 P16 B17 S18 (NH)
-Morale 	7
-Alignment 	Neutral
-XP 	5
-Number Appearing 	0 (1d6)
-Treasure Type 	None
-
-    Swoop: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
+* **Swoop**: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
 
 # Formiga Gigante
 _Giant (6’ long), omnivorous, black ants._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 3 [16]
 
-**Dados de Vida**: 
+**Dados de Vida**: 4* (18hp)
 
-**Ataques**: 
+**Ataques**: 1 × bite (2d6)
 
-**TAC0**: 
+**TAC0**: 16 [+3]
 
-**Movimento**: 
+**Movimento**: 180’ (60’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P14 S15 F16 (2)
 
-**Moral**: 
+**Moral**: 7 (12 in melee)
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 125
 
-**Número Encontrado**: 
+**Número Encontrado**: 2d4 (4d6)
 
-**Tesouro**: 
+**Tesouro**: U (see below)
 
-Armour Class 	3 [16]
-Hit Dice 	4* (18hp)
-Attacks 	1 × bite (2d6)
-THAC0 	16 [+3]
-Movement 	180’ (60’)
-Saving Throws 	D12 W13 P14 B15 S16 (2)
-Morale 	7 (12 in melee)
-Alignment 	Neutral
-XP 	125
-Number Appearing 	2d4 (4d6)
-Treasure Type 	U (see below)
-
-    Rapacious: Consume everything in their path, when hungry.
-    Morale: Attack relentlessly, once they are engaged in melee (morale 12). Will even pursue through flames.
-    Lair treasure: 30% chance of 1d10 × 1,000gp worth of gold nuggets, mined by the ants.
+* **Rapacious**: Consume everything in their path, when hungry.
+* **Morale**: Attack relentlessly, once they are engaged in melee (morale 12). Will even pursue through flames.
+* **Lair treasure**: 30% chance of 1d10 × 1,000gp worth of gold nuggets, mined by the ants.
 
 # Fungo Guardião
 _Giant, subterranean mushrooms that can creep around slowly._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 7 [12]
 
-**Dados de Vida**: 
+**Dados de Vida**: 3 (13hp)
 
-**Ataques**: 
+**Ataques**: None
 
-**TAC0**: 
+**TAC0**: 17 [+2]
 
-**Movimento**: 
+**Movimento**: 9’ (3’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P14 S15 F16 
 
-**Moral**: 
+**Moral**: 12
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 35
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d8 (0)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	7 [12]
-Hit Dice 	3 (13hp)
-Attacks 	None
-THAC0 	17 [+2]
-Movement 	9’ (3’)
-Saving Throws 	D12 W13 P14 B15 S16 (1)
-Morale 	12
-Alignment 	Neutral
-XP 	35
-Number Appearing 	1d8 (0)
-Treasure Type 	None
-
-    Shriek: Triggered by light (up to 60’ away) or movement (up to 30’ away). Shriek lasts for 1d3 rounds. Each round of the shriek, there is a 50% chance of a wandering monster being attracted (will arrive in 2d6 rounds).
+* **Shriek**: Triggered by light (up to 60’ away) or movement (up to 30’ away). Shriek lasts for 1d3 rounds. Each round of the shriek, there is a 50% chance of a wandering monster being attracted (will arrive in 2d6 rounds).
 
 # Furão Gigante
 _3’ long ferrets that hunt giant rats in their burrows. Sometimes kept by humans for this aptitude._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 
+**Dados de Vida**: 1+1 (5hp)
 
-**Ataques**: 
+**Ataques**: 1 × bite (1d8)
 
-**TAC0**: 
+**TAC0**: 18 [+1]
 
-**Movimento**: 
+**Movimento**: 150’ (50’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
 
-**Moral**: 
+**Moral**: 8
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 15
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d8 (1d12)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	5 [14]
-Hit Dice 	1+1 (5hp)
-Attacks 	1 × bite (1d8)
-THAC0 	18 [+1]
-Movement 	150’ (50’)
-Saving Throws 	D12 W13 P14 B15 S16 (1)
-Morale 	8
-Alignment 	Neutral
-XP 	15
-Number Appearing 	1d8 (1d12)
-Treasure Type 	None
-
-    Volatile: Unpredictable temper; may turn on trainers or other people.
+* **Volatile**: Unpredictable temper; may turn on trainers or other people.
 
 # Furioso
 _Fighters who enter a rage in battle. They never take prisoners._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 7 [12]
 
-**Dados de Vida**: 
+**Dados de Vida**: 1+1* (5hp)
 
-**Ataques**: 
+**Ataques**: 1 × weapon (1d8 or by weapon)
 
-**TAC0**: 
+**TAC0**: 18 [+1]
 
-**Movimento**: 
+**Movimento**: 120’ (40’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
 
-**Moral**: 
+**Moral**: 12
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 19
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d6 (3d10)
 
-**Tesouro**: 
-
-Armour Class 	7 [12]
-Hit Dice 	1+1* (5hp)
-Attacks 	1 × weapon (1d8 or by weapon)
-THAC0 	18 [+1]
-Movement 	120’ (40’)
-Saving Throws 	D12 W13 P14 B15 S16 (1)
-Morale 	12
-Alignment 	Neutral
-XP 	19
-Number Appearing 	1d6 (3d10)
-Treasure Type 	P (B)
-
-    Battle rage: +2 to hit humans and similarhumanoids (e.g. orcs, goblins). Rage sometimes makes them attack their allies.
-    Hoard: Only have treasure type B when encountered in the wilderness.
+**Tesouro**: P (B)
+* **Battle rage**: +2 to hit humans and similarhumanoids (e.g. orcs, goblins). Rage sometimes makes them attack their allies.
+* **Hoard**: Only have treasure type B when encountered in the wilderness.
