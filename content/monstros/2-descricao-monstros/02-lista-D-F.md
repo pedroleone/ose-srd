@@ -205,731 +205,527 @@ _May be encountered in any terrain, often in the guise of a person or animal._
 ## Green Dragon
 _Lair in jungles and forests._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 1 [18]
 
-**Dados de Vida**: 
+**Dados de Vida**: 8** (36hp)
 
-**Ataques**: 
+**Ataques**: [2 × claw (1d6), 1 × bite (3d8)] or breath
 
-**TAC0**: 
+**TAC0**: 12 [+7]
 
-**Movimento**: 
+**Movimento**: 90’ (30’) / 240’ (80’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M8 V9 P10 S10 F12 (8)
 
-**Moral**: 
+**Moral**: 9
 
-**Tendência**: 
+**Tendência**: Chaotic
 
-**XP**: 
+**XP**: 1,750
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d4 (1d4)
 
-**Tesouro**: 
+**Tesouro**: H
 
-Armour Class 	1 [18]
-Hit Dice 	8** (36hp)
-Attacks 	[2 × claw (1d6), 1 × bite (3d8)] or breath
-THAC0 	12 [+7]
-Movement 	90’ (30’) / 240’ (80’) flying
-Saving Throws 	D8 W9 P10 B10 S12 (8)
-Morale 	9
-Alignment 	Chaotic
-XP 	1,750
-Number Appearing 	1d4 (1d4)
-Treasure Type 	H
-
-    Breath weapon: Cloud of chlorine gas.
-    Language and spells: 30%; 3 × 1st level, 3 × 2nd level.
-    Sleeping: 30%.
+* *Breath weapon*: Cloud of chlorine gas.
+* *Language and spells*: 30%; 3 × 1st level, 3 × 2nd level.
+* *Sleeping*: 30%.
 
 ## Red Dragon
 _Dwell in hills and mountains._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: –1 [20]
 
-**Dados de Vida**: 
+**Dados de Vida**: 10** (45hp)
 
-**Ataques**: 
+**Ataques**: [2 × claw (1d8), 1 × bite (4d8)] or breath
 
-**TAC0**: 
+**TAC0**: 11 [+8]
 
-**Movimento**: 
+**Movimento**: 90’ (30’) / 240’ (80’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M6 V7 P8 S8 F10 (10)
 
-**Moral**: 
+**Moral**: 10
 
-**Tendência**: 
+**Tendência**: Chaotic
 
-**XP**: 
+**XP**: 2,300
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d4 (1d4)
 
-**Tesouro**: 
+**Tesouro**: H
 
-Armour Class 	–1 [20]
-Hit Dice 	10** (45hp)
-Attacks 	[2 × claw (1d8), 1 × bite (4d8)] or breath
-THAC0 	11 [+8]
-Movement 	90’ (30’) / 240’ (80’) flying
-Saving Throws 	D6 W7 P8 B8 S10 (10)
-Morale 	10
-Alignment 	Chaotic
-XP 	2,300
-Number Appearing 	1d4 (1d4)
-Treasure Type 	H
-
-    Breath weapon: 90’ long cone of fire.
-    Language and spells: 50%; 3 × 1st level, 3 × 2nd level, 3 × 3rd level.
-    Sleeping: 10%.
+* **Breath weapon**: 90’ long cone of fire.
+* **Language and spells**: 50%; 3 × 1st level, 3 × 2nd level, 3 × 3rd level.
+* **Sleeping**: 10%.
 
 ## Sea Dragon
 _Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish crest. Dwell in the depths of the ocean, inhabiting caverns or shipwrecks. Sometimes attack vessels to steal their treasure and eat the crew._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 1 [18]
 
-**Dados de Vida**: 
+**Dados de Vida**: 8** (36hp)
 
-**Ataques**: 
+**Ataques**: 1 × bite (3d8) or breath
 
-**TAC0**: 
+**TAC0**: 12 [+7]
 
-**Movimento**: 
+**Movimento**: 180’ (60’) swimming / 180’ (60’) gliding
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M8 V9 P10 S10 F12 (8)
 
-**Moral**: 
+**Moral**: 9
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 1,750
 
-**Número Encontrado**: 
+**Número Encontrado**: 0 (1d4)
 
-**Tesouro**: 
+**Tesouro**: H
 
-Armour Class 	1 [18]
-Hit Dice 	8** (36hp)
-Attacks 	1 × bite (3d8) or breath
-THAC0 	12 [+7]
-Movement 	180’ (60’) swimming / 180’ (60’) gliding
-Saving Throws 	D8 W9 P10 B10 S12 (8)
-Morale 	9
-Alignment 	Neutral
-XP 	1,750
-Number Appearing 	0 (1d4)
-Treasure Type 	H
-
-    Breath weapon: Poison spittle, 100’ range, 20’ diameter. Save versus breath or die. (Poison is harmless after 1 round.)
-    Language and spells: 20%; 3 × 1st level, 3 × 2nd level.
-    Sleeping: 30%.
-    Gliding: Leap out of the water and glide for up to 6 rounds.
+* **Breath weapon**: Poison spittle, 100’ range, 20’ diameter. Save versus breath or die. (Poison is harmless after 1 round.)
+* **Language and spells**: 20%; 3 × 1st level, 3 × 2nd level.
+* **Sleeping**: 30%.
+* **Gliding**: Leap out of the water and glide for up to 6 rounds.
 
 ## White Dragon
 _Found in cold regions._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 3 [16]
 
-**Dados de Vida**: 
+**Dados de Vida**: 6** (27hp)
 
-**Ataques**: 
+**Ataques**: [2 × claw (1d4), 1 × bite (2d8)] or breath
 
-**TAC0**: 
+**TAC0**: 14 [+5]
 
-**Movimento**: 
+**Movimento**: 90’ (30’) / 240’ (80’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M10 V11 P12 S13 F14 (6)
 
-**Moral**: 
+**Moral**: 8
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 725
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d4 (1d4)
 
-**Tesouro**: 
+**Tesouro**: H
 
-Armour Class 	3 [16]
-Hit Dice 	6** (27hp)
-Attacks 	[2 × claw (1d4), 1 × bite (2d8)] or breath
-THAC0 	14 [+5]
-Movement 	90’ (30’) / 240’ (80’) flying
-Saving Throws 	D10 W11 P12 B13 S14 (6)
-Morale 	8
-Alignment 	Neutral
-XP 	725
-Number Appearing 	1d4 (1d4)
-Treasure Type 	H
-
-    Breath weapon: 80’ long cone of cold.
-    Language and spells: 10%; 3 × 1st level.
-    Sleeping: 50%.
+* **Breath weapon**: 80’ long cone of cold.
+* **Language and spells**: 10%; 3 × 1st level.
+* **Sleeping**: 50%.
 
 
 # Dríade
 _Shy, peaceful, yet wary tree spirits that can manifest as beautiful female humanoids. Live in deep forests._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 
+**Dados de Vida**: 2* (9hp)
 
-**Ataques**: 
+**Ataques**: 1 × magic (charm)
 
-**TAC0**: 
+**TAC0**: 18 [+1]
 
-**Movimento**: 
+**Movimento**: 120’ (40’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M10 V11 P12 S13 F14 (4)
 
-**Moral**: 
+**Moral**: 6
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 25
 
-**Número Encontrado**: 
+**Número Encontrado**: 0 (1d6)
 
-**Tesouro**: 
+**Tesouro**: D
 
-Armour Class 	5 [14]
-Hit Dice 	2* (9hp)
-Attacks 	1 × magic (charm)
-THAC0 	18 [+1]
-Movement 	120’ (40’)
-Saving Throws 	D10 W11 P12 B13 S14 (4)
-Morale 	6
-Alignment 	Neutral
-XP 	25
-Number Appearing 	0 (1d6)
-Treasure Type 	D
-
-    Bound with tree: Spiritually connected with a single tree. Dryad dies if the tree dies, or if separated by more than 240’.
-    Meld with tree: Can disappear by joining with her tree.
-    Defensive: Distrustful of strangers. Attempt to charm anyone who approaches or follows.
-    Charm: Victim compelled to approach the tree, vanishes inside it (save versus spells with a –2 penalty). If not immediately rescued, the victim is lost forever.
-    Treasure: Hidden in roots of the tree.
+* **Bound with tree**: Spiritually connected with a single tree. Dryad dies if the tree dies, or if separated by more than 240’.
+* **Meld with tree**: Can disappear by joining with her tree.
+* **Defensive**: Distrustful of strangers. Attempt to charm anyone who approaches or follows.
+* **Charm**: Victim compelled to approach the tree, vanishes inside it (save versus spells with a –2 penalty). If not immediately rescued, the victim is lost forever.
+* **Treasure**: Hidden in roots of the tree.
 
 # Efreeti (Menor)
 _Highly magical, free-willed, intelligent beings from the elemental plane of fire. Manifest as giant men with demonic faces and an aura of heat and smoke. Solidify out of billowing smoke clouds._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 3 [16]
 
-**Dados de Vida**: 
+**Dados de Vida**: 10* (45hp)
 
-**Ataques**: 
+**Ataques**: 1 × fists (2d8), magic
 
-**TAC0**: 
+**TAC0**: 11 [+8]
 
-**Movimento**: 
+**Movimento**: 90’ (30’) / 240’ (80’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M4 V5 P6 S5 F8 (15)
 
-**Moral**: 
+**Moral**: 12
 
-**Tendência**: 
+**Tendência**: Chaotic
 
-**XP**: 
+**XP**: 1,600
 
-**Número Encontrado**: 
+**Número Encontrado**: 1 (1)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	3 [16]
-Hit Dice 	10* (45hp)
-Attacks 	1 × fists (2d8), magic
-THAC0 	11 [+8]
-Movement 	90’ (30’) / 240’ (80’) flying
-Saving Throws 	D4 W5 P6 B5 S8 (15)
-Morale 	12
-Alignment 	Chaotic
-XP 	1,600
-Number Appearing 	1 (1)
-Treasure Type 	None
-
-    Mundane damage immunity: Can only be harmed by magical attacks.
-    Magic powers: Each can be used three times per day:
-        Pillar of flame: Transform into a column of fire for up to 3 rounds. Flammable items within 5’ are ignited. Attacks do additional 1d8 damage (3d8 total).
-        Invisibility
-        Illusion: Visual and audial. No concentration required. Remains until touched or dispelled.
-        Create wall of fire
-        Create food and drink: For 12 humans and mounts for one day.
-        Conjure metallic objects: Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
-        Conjure soft goods / wooden objects: Up to 1,000 coins weight. Permanent.
-    Carrying capacity: Up to 10,000 coins (flying).
-    Hate djinn: Attack on sight.
-    Bound servitor: Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet are treacherous and will follow commands to the letter while subverting the intent.
+* **Mundane damage immunity**: Can only be harmed by magical attacks.
+* **Magic powers**: Each can be used three times per day:
+  * **Pillar of flame**: Transform into a column of fire for up to 3 rounds. Flammable items within 5’ are ignited. Attacks do additional 1d8 damage (3d8 total).
+  * **Invisibility**
+  * **Illusion**: Visual and audial. No concentration required. Remains until touched or dispelled.
+  * **Create wall of fire**
+  * **Create food and drink**: For 12 humans and mounts for one day.
+  * **Conjure metallic objects**: Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
+* **Conjure soft goods / wooden objects**: Up to 1,000 coins weight. Permanent.
+* **Carrying capacity**: Up to 10,000 coins (flying).
+* **Hate djinn**: Attack on sight.
+* **Bound servitor**: Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet are treacherous and will follow commands to the letter while subverting the intent.
 
 # Elefante 
 _Massive, tusked animals that dwell near subtropical forests. Wandering individuals or whole herds may be encountered._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 
+**Dados de Vida**: 9 (40hp)
 
-**Ataques**: 
+**Ataques**: 2 × tusk (2d4) or 1 × trample (4d8)
 
-**TAC0**: 
+**TAC0**: 12 [+7]
 
-**Movimento**: 
+**Movimento**: 120’ (40’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M10 V11 P12 S13 F14 (5)
 
-**Moral**: 
+**Moral**: 8
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 900
 
-**Número Encontrado**: 
+**Número Encontrado**: 0 (1d20)
 
-**Tesouro**: 
+**Tesouro**: Tusks
 
-Armour Class 	5 [14]
-Hit Dice 	9 (40hp)
-Attacks 	2 × tusk (2d4) or 1 × trample (4d8)
-THAC0 	12 [+7]
-Movement 	120’ (40’)
-Saving Throws 	D10 W11 P12 B13 S14 (5)
-Morale 	8
-Alignment 	Neutral
-XP 	900
-Number Appearing 	0 (1d20)
-Treasure Type 	Tusks
-
-    Charge: In first round of combat, when not in melee. Requires clear run of at least 20 yards. Tusks inflict double damage.
-    Trample: 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
-    Ivory: Each tusk is worth 1d6 × 100gp
+* **Charge**: In first round of combat, when not in melee. Requires clear run of at least 20 yards. Tusks inflict double damage.
+* **Trample**: 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
+* **Ivory**: Each tusk is worth 1d6 × 100gp
 
 # Elemental
 _Beings formed of pure, elemental matter (air, earth, fire, or water) that can be summoned from their plane of origin to serve a magic-user._
 
-    Lesser: AC 2 [17], HD 8*, Att 1 × blow (1d8), SV D8 W9 P10 B10 S12 (8). (Summoned by magic staff.)
-    Intermediate: AC 0 [19], HD 12*, Att 1 × blow (2d8), SV D6 W7 P8 B8 S10 (12). (Summoned by magic device.)
-    Greater: AC –2 [21], HD 16*, Att 1 × blow (3d8), SV D2 W3 P4 B3 S6 (16). (Summoned by spell.)
+* **Lesser**: AC 2 [17], HD 8*, Att 1 × blow (1d8), SV D8 W9 P10 B10 S12 (8). (Summoned by magic staff.)
+* **Intermediate**: AC 0 [19], HD 12*, Att 1 × blow (2d8), SV D6 W7 P8 B8 S10 (12). (Summoned by magic device.)
+* **Greater**: AC –2 [21], HD 16*, Att 1 × blow (3d8), SV D2 W3 P4 B3 S6 (16). (Summoned by spell.)
 
 ## Air Elemental
 _Huge vortexes of whirling air._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 2 [17] / 0 [19] / –2 [21]
 
-**Dados de Vida**: 
+**Dados de Vida**: 8/12/16* (36/54/72hp)
 
-**Ataques**: 
+**Ataques**: 1 × blow (1d8/2d8/3d8)
 
-**TAC0**: 
+**TAC0**: 12 [+7] / 10 [+9] / 8 [+11]
 
-**Movimento**: 
+**Movimento**: 360’ (120’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: See main entry (8/12/16)
 
-**Moral**: 
+**Moral**: 10
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 1,200/1,900/2,300
 
-**Número Encontrado**: 
+**Número Encontrado**: 1 (1)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	2 [17] / 0 [19] / –2 [21]
-Hit Dice 	8/12/16* (36/54/72hp)
-Attacks 	1 × blow (1d8/2d8/3d8)
-THAC0 	12 [+7] / 10 [+9] / 8 [+11]
-Movement 	360’ (120’) flying
-Saving Throws 	See main entry (8/12/16)
-Morale 	10
-Alignment 	Neutral
-XP 	1,200/1,900/2,300
-Number Appearing 	1 (1)
-Treasure Type 	None
-
-    Size: 16’ tall, 4’ across / 24’ tall, 6’ across / 32’ tall, 8’ across.
-    Whirlwind: Creatures with less than 2HD swept aside (save versus death).
-    Mundane damage immunity: Can only be harmed by magical attacks.
-    Harm flying creatures: Inflict extra 1d8 damage.
+* **Size**: 16’ tall, 4’ across / 24’ tall, 6’ across / 32’ tall, 8’ across.
+* **Whirlwind**: Creatures with less than 2HD swept aside (save versus death).
+* **Mundane damage immunity**: Can only be harmed by magical attacks.
+* **Harm flying creatures**: Inflict extra 1d8 damage.
 
 ## Earth Elemental
 _Huge, humanoid figures of earth or stone._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 2 [17] / 0 [19] / –2 [21]
 
-**Dados de Vida**: 
+**Dados de Vida**: 8/12/16* (36/54/72hp)
 
-**Ataques**: 
+**Ataques**: 1 × blow (1d8/2d8/3d8)
 
-**TAC0**: 
+**TAC0**: 12 [+7] / 10 [+9] / 8 [+11]
 
-**Movimento**: 
+**Movimento**: 60’ (20’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: See main entry (8/12/16)
 
-**Moral**: 
+**Moral**: 10
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 1,200/1,900/2,300
 
-**Número Encontrado**: 
+**Número Encontrado**: 1 (1)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	2 [17] / 0 [19] / –2 [21]
-Hit Dice 	8/12/16* (36/54/72hp)
-Attacks 	1 × blow (1d8/2d8/3d8)
-THAC0 	12 [+7] / 10 [+9] / 8 [+11]
-Movement 	60’ (20’)
-Saving Throws 	See main entry (8/12/16)
-Morale 	10
-Alignment 	Neutral
-XP 	1,200/1,900/2,300
-Number Appearing 	1 (1)
-Treasure Type 	None
-
-    Size: 8’ tall / 12’ tall / 16’ tall.
-    Blocked by water: Cannot cross a channel wider than own height.
-    Mundane damage immunity: Can only be harmed by magical attacks.
-    Harm creatures on the ground: Inflict extra 1d8 damage.
+* **Size**: 8’ tall / 12’ tall / 16’ tall.
+* **Blocked by water**: Cannot cross a channel wider than own height.
+* **Mundane damage immunity**: Can only be harmed by magical attacks.
+* **Harm creatures on the ground**: Inflict extra 1d8 damage.
 
 ## Fire Elemental
 _Whirling columns of fire_
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 2 [17] / 0 [19] / –2 [21]
 
-**Dados de Vida**: 
+**Dados de Vida**: 8/12/16* (36/54/72hp)
 
-**Ataques**: 
+**Ataques**: 1 × blow (1d8/2d8/3d8)
 
-**TAC0**: 
+**TAC0**: 12 [+7] / 10 [+9] / 8 [+11]
 
-**Movimento**: 
+**Movimento**: 120’ (40’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: See main entry (8/12/16)
 
-**Moral**: 
+**Moral**: 10
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 1,200/1,900/2,300
 
-**Número Encontrado**: 
+**Número Encontrado**: 1 (1)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	2 [17] / 0 [19] / –2 [21]
-Hit Dice 	8/12/16* (36/54/72hp)
-Attacks 	1 × blow (1d8/2d8/3d8)
-THAC0 	12 [+7] / 10 [+9] / 8 [+11]
-Movement 	120’ (40’)
-Saving Throws 	See main entry (8/12/16)
-Morale 	10
-Alignment 	Neutral
-XP 	1,200/1,900/2,300
-Number Appearing 	1 (1)
-Treasure Type 	None
-
-    Size: 8’ tall, 8’ across / 12’ tall, 12’ across / 16’ tall, 16’ across.
-    Blocked by water: Cannot cross a channel wider than own diameter.
-    Mundane damage immunity: Can only be harmed by magical attacks.
-    Harm cold-based creatures: Inflict extra 1d8 damage.
+* **Size**: 8’ tall, 8’ across / 12’ tall, 12’ across / 16’ tall, 16’ across.
+* **Blocked by water**: Cannot cross a channel wider than own diameter.
+* **Mundane damage immunity**: Can only be harmed by magical attacks.
+* **Harm cold-based creatures**: Inflict extra 1d8 damage.
 
 ## Water Elemental
 _Huge waves of water._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 2 [17] / 0 [19] / –2 [21]
 
-**Dados de Vida**: 
+**Dados de Vida**: 8/12/16* (36/54/72hp)
 
-**Ataques**: 
+**Ataques**: 1 × blow (1d8/2d8/3d8)
 
-**TAC0**: 
+**TAC0**: 12 [+7] / 10 [+9] / 8 [+11]
 
-**Movimento**: 
+**Movimento**: 60’ (20’) / 180’ (60’) swimming
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: See main entry (8/12/16)
 
-**Moral**: 
+**Moral**: 10
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 1,200/1,900/2,300
 
-**Número Encontrado**: 
+**Número Encontrado**: 1 (1)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	2 [17] / 0 [19] / –2 [21]
-Hit Dice 	8/12/16* (36/54/72hp)
-Attacks 	1 × blow (1d8/2d8/3d8)
-THAC0 	12 [+7] / 10 [+9] / 8 [+11]
-Movement 	60’ (20’) / 180’ (60’) swimming
-Saving Throws 	See main entry (8/12/16)
-Morale 	10
-Alignment 	Neutral
-XP 	1,200/1,900/2,300
-Number Appearing 	1 (1)
-Treasure Type 	None
-
-    Size: 4’ tall, 16’ across / 6’ tall, 24’ across / 8’ tall, 32’ across.
-    Water-bound: Must remain within 60’ of water.
-    Mundane damage immunity: Can only be harmed by magical attacks.
-    Harm creatures in water: Inflict extra 1d8 damage.
+* **Size**: 4’ tall, 16’ across / 6’ tall, 24’ across / 8’ tall, 32’ across.
+* **Water-bound**: Must remain within 60’ of water.
+* **Mundane damage immunity**: Can only be harmed by magical attacks.
+* **Harm creatures in water**: Inflict extra 1d8 damage.
 
 # Elfo
 _Slender, fey demihumans with pointed ears. Live in harmony with nature, in beautiful natural settings._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 
+**Dados de Vida**: 1+1* (5hp)
 
-**Ataques**: 
+**Ataques**: 1 × weapon (1d8 or by weapon)
 
-**TAC0**: 
+**TAC0**: 18 [+1]
 
-**Movimento**: 
+**Movimento**: 120’ (40’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P13 S15 F15 (E1)
 
-**Moral**: 
+**Moral**: 8 (10 with leader)
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 19
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d4 (2d12)
 
-**Tesouro**: 
+**Tesouro**: E
 
-Armour Class 	5 [14]
-Hit Dice 	1+1* (5hp)
-Attacks 	1 × weapon (1d8 or by weapon)
-THAC0 	18 [+1]
-Movement 	120’ (40’)
-Saving Throws 	D12 W13 P13 B15 S15 (E1)
-Morale 	8 (10 with leader)
-Alignment 	Neutral
-XP 	19
-Number Appearing 	1d4 (2d12)
-Treasure Type 	E
-
-    Spells: Each individual has one random 1st level arcane spell.
-    Leader: Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see Magic Items).
+* **Spells**: Each individual has one random 1st level arcane spell.
+* **Leader**: Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see Magic Items).
 
 # Ente
 _Giant (18’ tall) humanoids that look like trees. Dwell in forests. Are concerned only with protecting the plants of their home. Speak their own long-winded and circuitous language._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 2 [17]
 
-**Dados de Vida**: 
+**Dados de Vida**: 8 (36hp)
 
-**Ataques**: 
+**Ataques**: 2 × fist (2d6)
 
-**TAC0**: 
+**TAC0**: 12 [+7]
 
-**Movimento**: 
+**Movimento**: 60’ (20’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M8 V9 P10 S10 F12 (8) 
 
-**Moral**: 
+**Moral**: 9
 
-**Tendência**: 
+**Tendência**: Lawful
 
-**XP**: 
+**XP**: 650
 
-**Número Encontrado**: 
+**Número Encontrado**: 0 (1d8)
 
-**Tesouro**: 
+**Tesouro**: C
 
-Armour Class 	2 [17]
-Hit Dice 	8 (36hp)
-Attacks 	2 × fist (2d6)
-THAC0 	12 [+7]
-Movement 	60’ (20’)
-Saving Throws 	D8 W9 P10 B10 S12 (8)
-Morale 	9
-Alignment 	Lawful
-XP 	650
-Number Appearing 	0 (1d8)
-Treasure Type 	C
-
-    Distrust fire: And those who wield it.
-    Surprise: On a 1–3, in a forest, due to being mistaken for a tree. Encounter occurs at 30 yards or less.
-    Animate trees: Each individual can animate 2 trees (within 60’; may switch trees at will). These fight as treants with movement rate 30’ (10’).
+* **Distrust fire**: And those who wield it.
+* **Surprise**: On a 1–3, in a forest, due to being mistaken for a tree. Encounter occurs at 30 yards or less.
+* **Animate trees**: Each individual can animate 2 trees (within 60’; may switch trees at will). These fight as treants with movement rate 30’ (10’).
 
 # Enxame de Insetos
 _Swarms of many tiny insects that may be encountered protecting their nest. May also be drawn to light or unusual smells._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 7 [12]
 
-**Dados de Vida**: 
+**Dados de Vida**: 2 to 4 (9/13/18hp)
 
-**Ataques**: 
+**Ataques**: 1 × swarm (2 or 4hp)
 
-**TAC0**: 
+**TAC0**: 18 [+1]/17 [+2]/16 [+3]
 
-**Movimento**: 
+**Movimento**: 30’ (10’) / 60’ (20’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M14 V15 P16 S17 F18 (NH)
 
-**Moral**: 
+**Moral**: 11
 
-**Tendência**: 
+**Tendência**: Neutral
 
-**XP**: 
+**XP**: 20/35/75
 
-**Número Encontrado**: 
+**Número Encontrado**: 1 (1d3)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	7 [12]
-Hit Dice 	2 to 4 (9/13/18hp)
-Attacks 	1 × swarm (2 or 4hp)
-THAC0 	18 [+1]/17 [+2]/16 [+3]
-Movement 	30’ (10’) / 60’ (20’) flying
-Saving Throws 	D14 W15 P16 B17 S18 (NH)
-Morale 	11
-Alignment 	Neutral
-XP 	20/35/75
-Number Appearing 	1 (1d3)
-Treasure Type 	None
-
-    Type and locomotion: A swarm may be composed of creepers (e.g. spiders, ants, centipedes) or flyers (e.g. bees, hornets). Some swarms are capable of both types of movement (e.g. beetles, locusts).
-    Size: 10’ × 30’ area, typically.
-    Immunity: Only harmed by fire, extreme cold, sleep spells (affect the whole swarm), smoke (drives off), or other attacks as the referee wishes.
-    Swarm attack: Automatically damages characters within swarm area: 2hp if wearing armour, 4hp without.
-    Warding off: Characters inside the swarm who defend themselves by brandishing a weapon (or similar) suffer half damage from the swarm. A brandished torch damages the swarm.
-    Escaping: On exiting the swarm, characters continue to suffer half damage until 3 rounds are spent swatting the attached insects.
-    Diving into water: Suffer damage for one round, then attached insects drown.
-    Pursuit: An angry (i.e. damaged) swarm will pursue characters until they are out of sight or inaccessible.
+* **Type and locomotion**: A swarm may be composed of creepers (e.g. spiders, ants, centipedes) or flyers (e.g. bees, hornets). Some swarms are capable of both types of movement (e.g. beetles, locusts).
+* **Size**: 10’ × 30’ area, typically.
+* **Immunity**: Only harmed by fire, extreme cold, sleep spells (affect the whole swarm), smoke (drives off), or other attacks as the referee wishes.
+* **Swarm attack**: Automatically damages characters within swarm area: 2hp if wearing armour, 4hp without.
+* **Warding off**: Characters inside the swarm who defend themselves by brandishing a weapon (or similar) suffer half damage from the swarm. A brandished torch damages the swarm.
+* **Escaping**: On exiting the swarm, characters continue to suffer half damage until 3 rounds are spent swatting the attached insects.
+* **Diving into water**: Suffer damage for one round, then attached insects drown.
+* **Pursuit**: An angry (i.e. damaged) swarm will pursue characters until they are out of sight or inaccessible.
 
 # Escorpião Gigante
 _Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwell in caverns, ruins, and deserts._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 2 [17]
 
-**Dados de Vida**: 
+**Dados de Vida**: 4* (18hp)
 
-**Ataques**: 
+**Ataques**: 2 × claw (1d10), 1 × sting (1d4 + poison)
 
-**TAC0**: 
+**TAC0**: 16 [+3]
 
-**Movimento**: 
+**Movimento**: 150’ (50’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P14 S15 F16 (2)
 
-**Moral**: 
+**Moral**: 11
 
-**Tendência**: 
+**Tendência**: Chaotic
 
-**XP**: 
+**XP**: 125
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d6 (1d6)
 
-**Tesouro**: 
+**Tesouro**: V
 
-Armour Class 	2 [17]
-Hit Dice 	4* (18hp)
-Attacks 	2 × claw (1d10), 1 × sting (1d4 + poison)
-THAC0 	16 [+3]
-Movement 	150’ (50’)
-Saving Throws 	D12 W13 P14 B15 S16 (2)
-Morale 	11
-Alignment 	Chaotic
-XP 	125
-Number Appearing 	1d6 (1d6)
-Treasure Type 	V
-
-    Aggressive: Normally attack on sight.
-    Poison: Causes death (save vs poison).
-    Grab and sting: +2 bonus to sting attack, if a claw hits.
+* **Aggressive**: Normally attack on sight.
+* **Poison**: Causes death (save vs poison).
+* **Grab and sting**: +2 bonus to sting attack, if a claw hits.
 
 # Espectro
 _Incorporeal phantoms; one of the most powerful undead monsters._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 2 [17]
 
-**Dados de Vida**: 
+**Dados de Vida**: 6** (27hp)
 
-**Ataques**: 
+**Ataques**: 1 × touch (1d8 + energy drain)
 
-**TAC0**: 
+**TAC0**: 14 [+5]
 
-**Movimento**: 
+**Movimento**: 150’ (50’) / 300’ (100’) flying
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M10 V11 P12 S13 F14 (6) 
 
-**Moral**: 
+**Moral**: 11
 
-**Tendência**: 
+**Tendência**: Chaotic
 
-**XP**: 
+**XP**: 725
 
-**Número Encontrado**: 
+**Número Encontrado**: 1d4 (1d8)
 
-**Tesouro**: 
+**Tesouro**: E
 
-Armour Class 	2 [17]
-Hit Dice 	6** (27hp)
-Attacks 	1 × touch (1d8 + energy drain)
-THAC0 	14 [+5]
-Movement 	150’ (50’) / 300’ (100’) flying
-Saving Throws 	D10 W11 P12 B13 S14 (6)
-Morale 	11
-Alignment 	Chaotic
-XP 	725
-Number Appearing 	1d4 (1d8)
-Treasure Type 	E
-
-    Undead: Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. charm, hold, sleep).
-    Mundane damage immunity: Can only be harmed by magical attacks.
-    Energy drain: A successfully hit target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g. spells, saving throws, etc.). A character’s XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a spectre next night, under the control of the spectre that killed them.
+* **Undead**: Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. charm, hold, sleep).
+* **Mundane damage immunity**: Can only be harmed by magical attacks.
+* **Energy drain**: A successfully hit target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g. spells, saving throws, etc.). A character’s XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a spectre next night, under the control of the spectre that killed them.
 
 # Esqueleto
 _Skeletal remains of humanoids, reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places._
 
-**Classe de Armadura**: 
+**Classe de Armadura**: 7 [12]
 
-**Dados de Vida**: 
+**Dados de Vida**: 1 (4hp)
 
-**Ataques**: 
+**Ataques**: 1 × weapon (1d6 or by weapon)
 
-**TAC0**: 
+**TAC0**: 19 [0]
 
-**Movimento**: 
+**Movimento**: 60’ (20’)
 
-**Testes de Resistência**: M V P S F 
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
 
-**Moral**: 
+**Moral**: 12
 
-**Tendência**: 
+**Tendência**: Chaotic
 
-**XP**: 
+**XP**: 10
 
-**Número Encontrado**: 
+**Número Encontrado**: 3d4 (3d10)
 
-**Tesouro**: 
+**Tesouro**: None
 
-Armour Class 	7 [12]
-Hit Dice 	1 (4hp)
-Attacks 	1 × weapon (1d6 or by weapon)
-THAC0 	19 [0]
-Movement 	60’ (20’)
-Saving Throws 	D12 W13 P14 B15 S16 (1)
-Morale 	12
-Alignment 	Chaotic
-XP 	10
-Number Appearing 	3d4 (3d10)
-Treasure Type 	None
-
-    Undead: Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. charm, hold, sleep).
+* **Undead**: Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. charm, hold, sleep).
 
 # Estátua Viva
 _Animated statues of any size and material (three types described below; others may be invented by the referee)._
 
-    Immunity: Unaffected by sleep spells.
-    Magical origins: Created by powerful wizards.
+* **Immunity**: Unaffected by sleep spells.
+* **Magical origins**: Created by powerful wizards.
 
 ## Crystal Living Statue
 _Formed of crystals. Often human in form._

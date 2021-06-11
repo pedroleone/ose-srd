@@ -3,7 +3,7 @@ const searchEnabled = process.env.ALGOLIA_ADMIN_KEY ? true : false;
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://ose-srd.netlify.app',
     gaTrackingId: null,
     trailingSlash: false,
   },
