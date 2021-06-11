@@ -5,10 +5,8 @@ metaDescription: "Monstros > Lista Monstros D-F"
 ---
 
 # Dervixe
-Dervish
-
-
 Fanatically religious, nomadic people who wander steppes and desert regions, living in tents.
+
 Armour Class 	6 [13] or 4 [15]
 Hit Dice 	1 (4hp)
 Attacks 	1 × weapon (1d6 or by weapon)
@@ -29,9 +27,8 @@ Treasure Type 	A
     Holy war: Occasionally wage war against other religious factions. Will slay people of different faith, or take them prisoner. Prisoners must convert; otherwise killed or used as slaves. Characters of Lawful alignment may be asked to join the holy war. Dervishes are highly suspicious of those who refuse (without good reason).
 
 # Doninha Gigante
-Giant Weasel
-
 8’ to 9’ long, vicious, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups.
+
 Armour Class 	7 [12]
 Hit Dice 	4+4 (22hp)
 Attacks 	1 × bite (2d4 + blood sucking)
@@ -50,6 +47,26 @@ Treasure Type 	V
     Tracking: By scent, favouring wounded prey.
     Treasure: Found in lair on bodies of victims.
 
+# Doppleganger
+Intelligent, human-sized shape-shifters of wicked character and highly magical nature.
+
+Armour Class 	5 [14]
+Hit Dice 	4* (18hp)
+Attacks 	1 × bite (1d12)
+THAC0 	16 [+3]
+Movement 	90’ (30’)
+Saving Throws 	D6 W7 P8 B8 S10 (10)
+Morale 	10
+Alignment 	Chaotic
+XP 	125
+Number Appearing 	1d6 (1d6)
+Treasure Type 	E
+
+    Shape stealing: Can adopt the form of any human-like creature (7’ tall or less) observed. Then proceed to attack the person mimicked.
+    Trickery: Will attempt to kill a PC, take on their role, then attack the party by surprise (e.g. during a battle).
+    Reversion: If killed, reverts to its original form.
+    Spell immunity: Unaffected by sleep and charm spells.    
+
 # Dragão
 A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragon, many of which are distinguished by the colour of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilisation.
 
@@ -67,9 +84,9 @@ A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many 
     Age: The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and ¼ or ½ as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
     Lairs: A dragon’s treasure is always kept in its well-hidden lair and is seldom unguarded.
 
-Black Dragon
-
+## Black Dragon
 Dwell in swamps and marshes.
+
 Armour Class 	2 [17]
 Hit Dice 	7** (31hp)
 Attacks 	[2 × claw (1d4 + 1), 1 × bite (2d10)] or breath
@@ -86,9 +103,9 @@ Treasure Type 	H
     Language and spells: 20%; 4 × 1st level.
     Sleeping: 40%.
 
-Blue Dragon
-
+## Blue Dragon
 Favour open plains and deserts.
+
 Armour Class 	0 [19]
 Hit Dice 	9** (40hp)
 Attacks 	[2 × claw (1d6 + 1), 1 × bite (3d10)] or breath
@@ -105,9 +122,9 @@ Treasure Type 	H
     Language and spells: 40%; 4 × 1st level, 4 × 2nd level.
     Sleeping: 20%.
 
-Gold Dragon
-
+## Gold Dragon
 May be encountered in any terrain, often in the guise of a person or animal.
+
 Armour Class 	–2 [21]
 Hit Dice 	11** (49hp)
 Attacks 	[2 × claw (2d4), 1 × bite (6d6)] or breath
@@ -125,9 +142,9 @@ Treasure Type 	H
     Sleeping: 5%.
     Shape changing: May take on the form of a person or animal.
 
-Green Dragon
-
+## Green Dragon
 Lair in jungles and forests.
+
 Armour Class 	1 [18]
 Hit Dice 	8** (36hp)
 Attacks 	[2 × claw (1d6), 1 × bite (3d8)] or breath
@@ -144,9 +161,9 @@ Treasure Type 	H
     Language and spells: 30%; 3 × 1st level, 3 × 2nd level.
     Sleeping: 30%.
 
-Red Dragon
-
+## Red Dragon
 Dwell in hills and mountains.
+
 Armour Class 	–1 [20]
 Hit Dice 	10** (45hp)
 Attacks 	[2 × claw (1d8), 1 × bite (4d8)] or breath
@@ -163,9 +180,9 @@ Treasure Type 	H
     Language and spells: 50%; 3 × 1st level, 3 × 2nd level, 3 × 3rd level.
     Sleeping: 10%.
 
-Sea Dragon
-
+## Sea Dragon
 Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish crest. Dwell in the depths of the ocean, inhabiting caverns or shipwrecks. Sometimes attack vessels to steal their treasure and eat the crew.
+
 Armour Class 	1 [18]
 Hit Dice 	8** (36hp)
 Attacks 	1 × bite (3d8) or breath
@@ -183,9 +200,9 @@ Treasure Type 	H
     Sleeping: 30%.
     Gliding: Leap out of the water and glide for up to 6 rounds.
 
-White Dragon
-
+## White Dragon
 Found in cold regions.
+
 Armour Class 	3 [16]
 Hit Dice 	6** (27hp)
 Attacks 	[2 × claw (1d4), 1 × bite (2d8)] or breath
@@ -204,10 +221,8 @@ Treasure Type 	H
 
 
 # Dríade
-Dryad
-
-
 Shy, peaceful, yet wary tree spirits that can manifest as beautiful female humanoids. Live in deep forests.
+
 Armour Class 	5 [14]
 Hit Dice 	2* (9hp)
 Attacks 	1 × magic (charm)
@@ -226,33 +241,37 @@ Treasure Type 	D
     Charm: Victim compelled to approach the tree, vanishes inside it (save versus spells with a –2 penalty). If not immediately rescued, the victim is lost forever.
     Treasure: Hidden in roots of the tree.
 
-# Dúplice
-Doppelgänger
+# Efreeti (Menor)
+Highly magical, free-willed, intelligent beings from the elemental plane of fire. Manifest as giant men with demonic faces and an aura of heat and smoke. Solidify out of billowing smoke clouds.
 
-
-Intelligent, human-sized shape-shifters of wicked character and highly magical nature.
-Armour Class 	5 [14]
-Hit Dice 	4* (18hp)
-Attacks 	1 × bite (1d12)
-THAC0 	16 [+3]
-Movement 	90’ (30’)
-Saving Throws 	D6 W7 P8 B8 S10 (10)
-Morale 	10
+Armour Class 	3 [16]
+Hit Dice 	10* (45hp)
+Attacks 	1 × fists (2d8), magic
+THAC0 	11 [+8]
+Movement 	90’ (30’) / 240’ (80’) flying
+Saving Throws 	D4 W5 P6 B5 S8 (15)
+Morale 	12
 Alignment 	Chaotic
-XP 	125
-Number Appearing 	1d6 (1d6)
-Treasure Type 	E
+XP 	1,600
+Number Appearing 	1 (1)
+Treasure Type 	None
 
-    Shape stealing: Can adopt the form of any human-like creature (7’ tall or less) observed. Then proceed to attack the person mimicked.
-    Trickery: Will attempt to kill a PC, take on their role, then attack the party by surprise (e.g. during a battle).
-    Reversion: If killed, reverts to its original form.
-    Spell immunity: Unaffected by sleep and charm spells.
+    Mundane damage immunity: Can only be harmed by magical attacks.
+    Magic powers: Each can be used three times per day:
+        Pillar of flame: Transform into a column of fire for up to 3 rounds. Flammable items within 5’ are ignited. Attacks do additional 1d8 damage (3d8 total).
+        Invisibility
+        Illusion: Visual and audial. No concentration required. Remains until touched or dispelled.
+        Create wall of fire
+        Create food and drink: For 12 humans and mounts for one day.
+        Conjure metallic objects: Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
+        Conjure soft goods / wooden objects: Up to 1,000 coins weight. Permanent.
+    Carrying capacity: Up to 10,000 coins (flying).
+    Hate djinn: Attack on sight.
+    Bound servitor: Efreet summoning spells can be researched by high-level magic-users. Can be bound to servitude for 101 days. Efreet are treacherous and will follow commands to the letter while subverting the intent.
 
 # Elefante 
-Elephant
-
-
 Massive, tusked animals that dwell near subtropical forests. Wandering individuals or whole herds may be encountered.
+
 Armour Class 	5 [14]
 Hit Dice 	9 (40hp)
 Attacks 	2 × tusk (2d4) or 1 × trample (4d8)
@@ -270,18 +289,15 @@ Treasure Type 	Tusks
     Ivory: Each tusk is worth 1d6 × 100gp
 
 # Elemental
-Elemental
-
-
 Beings formed of pure, elemental matter (air, earth, fire, or water) that can be summoned from their plane of origin to serve a magic-user.
 
     Lesser: AC 2 [17], HD 8*, Att 1 × blow (1d8), SV D8 W9 P10 B10 S12 (8). (Summoned by magic staff.)
     Intermediate: AC 0 [19], HD 12*, Att 1 × blow (2d8), SV D6 W7 P8 B8 S10 (12). (Summoned by magic device.)
     Greater: AC –2 [21], HD 16*, Att 1 × blow (3d8), SV D2 W3 P4 B3 S6 (16). (Summoned by spell.)
 
-Air Elemental
-
+## Air Elemental
 Huge vortexes of whirling air.
+
 Armour Class 	2 [17] / 0 [19] / –2 [21]
 Hit Dice 	8/12/16* (36/54/72hp)
 Attacks 	1 × blow (1d8/2d8/3d8)
@@ -299,9 +315,9 @@ Treasure Type 	None
     Mundane damage immunity: Can only be harmed by magical attacks.
     Harm flying creatures: Inflict extra 1d8 damage.
 
-Earth Elemental
-
+## Earth Elemental
 Huge, humanoid figures of earth or stone.
+
 Armour Class 	2 [17] / 0 [19] / –2 [21]
 Hit Dice 	8/12/16* (36/54/72hp)
 Attacks 	1 × blow (1d8/2d8/3d8)
@@ -319,9 +335,9 @@ Treasure Type 	None
     Mundane damage immunity: Can only be harmed by magical attacks.
     Harm creatures on the ground: Inflict extra 1d8 damage.
 
-Fire Elemental
-
+## Fire Elemental
 Whirling columns of fire
+
 Armour Class 	2 [17] / 0 [19] / –2 [21]
 Hit Dice 	8/12/16* (36/54/72hp)
 Attacks 	1 × blow (1d8/2d8/3d8)
@@ -339,9 +355,9 @@ Treasure Type 	None
     Mundane damage immunity: Can only be harmed by magical attacks.
     Harm cold-based creatures: Inflict extra 1d8 damage.
 
-Water Elemental
-
+## Water Elemental
 Huge waves of water.
+
 Armour Class 	2 [17] / 0 [19] / –2 [21]
 Hit Dice 	8/12/16* (36/54/72hp)
 Attacks 	1 × blow (1d8/2d8/3d8)
@@ -360,10 +376,8 @@ Treasure Type 	None
     Harm creatures in water: Inflict extra 1d8 damage.
 
 # Elfo
-Elf (Monster)
-
-
 Slender, fey demihumans with pointed ears. Live in harmony with nature, in beautiful natural settings.
+
 Armour Class 	5 [14]
 Hit Dice 	1+1* (5hp)
 Attacks 	1 × weapon (1d8 or by weapon)
@@ -380,10 +394,8 @@ Treasure Type 	E
     Leader: Groups of 15+ are led by an elf of level 1d6 + 1. The leader may have magical items: 5% chance per level for each magic item table (see Magic Items).
 
 # Ente
-Treant
-
-
 Giant (18’ tall) humanoids that look like trees. Dwell in forests. Are concerned only with protecting the plants of their home. Speak their own long-winded and circuitous language.
+
 Armour Class 	2 [17]
 Hit Dice 	8 (36hp)
 Attacks 	2 × fist (2d6)
@@ -401,10 +413,8 @@ Treasure Type 	C
     Animate trees: Each individual can animate 2 trees (within 60’; may switch trees at will). These fight as treants with movement rate 30’ (10’).
 
 # Enxame de Insetos
-Insect Swarm
-
-
 Swarms of many tiny insects that may be encountered protecting their nest. May also be drawn to light or unusual smells.
+
 Armour Class 	7 [12]
 Hit Dice 	2 to 4 (9/13/18hp)
 Attacks 	1 × swarm (2 or 4hp)
@@ -427,11 +437,8 @@ Treasure Type 	None
     Pursuit: An angry (i.e. damaged) swarm will pursue characters until they are out of sight or inaccessible.
 
 # Escorpião Gigante
-Giant Scorpion
-(Redirected from Scorpion, Giant)
-
-
 Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwell in caverns, ruins, and deserts.
+
 Armour Class 	2 [17]
 Hit Dice 	4* (18hp)
 Attacks 	2 × claw (1d10), 1 × sting (1d4 + poison)
@@ -449,10 +456,8 @@ Treasure Type 	V
     Grab and sting: +2 bonus to sting attack, if a claw hits.
 
 # Espectro
-Spectre
-
-
 Incorporeal phantoms; one of the most powerful undead monsters.
+
 Armour Class 	2 [17]
 Hit Dice 	6** (27hp)
 Attacks 	1 × touch (1d8 + energy drain)
@@ -470,10 +475,8 @@ Treasure Type 	E
     Energy drain: A successfully hit target permanently loses two experience levels (or Hit Dice). This incurs a loss of two Hit Dice of hit points, as well as all other benefits due to the drained levels (e.g. spells, saving throws, etc.). A character’s XP is reduced to the lowest amount for the new level. A person drained of all levels becomes a spectre next night, under the control of the spectre that killed them.
 
 # Esqueleto
-Skeleton
-
-
 Skeletal remains of humanoids, reanimated as guardians by powerful magic-users or clerics. Often encountered in cemeteries, crypts, or other forlorn places.
+
 Armour Class 	7 [12]
 Hit Dice 	1 (4hp)
 Attacks 	1 × weapon (1d6 or by weapon)
@@ -489,17 +492,14 @@ Treasure Type 	None
     Undead: Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. charm, hold, sleep).
 
 # Estátua Viva
-Living Statue
-
-
 Animated statues of any size and material (three types described below; others may be invented by the referee).
 
     Immunity: Unaffected by sleep spells.
     Magical origins: Created by powerful wizards.
 
-Crystal Living Statue
-
+## Crystal Living Statue
 Formed of crystals. Often human in form.
+
 Armour Class 	4 [15]
 Hit Dice 	3 (13hp)
 Attacks 	2 × blow (1d6)
@@ -515,7 +515,8 @@ Treasure Type 	None
     Immunity: See main entry.
     Attacks: Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
-Iron Living Statue
+## Iron Living Statue
+
 Armour Class 	2 [17]
 Hit Dice 	4 (18hp)
 Attacks 	2 × blow (1d8)
@@ -532,9 +533,9 @@ Treasure Type 	None
     Absorb metals: Hits with non-magical, metal weapons cause damage, but the weapon may become stuck in the statue (save versus spells). Stuck weapons can be removed if the statue is killed.
     Attacks: Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
 
-Rock Living Statue
-
+## Rock Living Statue
 Stony crust filled with magma which they shoot from their fingertips.
+
 Armour Class 	4 [15]
 Hit Dice 	5** (22hp)
 Attacks 	2 × magma jet (2d6)
@@ -550,10 +551,8 @@ Treasure Type 	None
     Immunity: See main entry.
 
 # Estegossauro
-Stegosaurus
-
-
 Stocky, herbivorous dinosaurs with a ridge of plates along their backs, and a tail studded with spikes (used to deter attackers). Dwell in sub-tropical Lost World environments.
+
 Armour Class 	3 [16]
 Hit Dice 	11 (49hp)
 Attacks 	1 × tail (2d8) or 1 × trample (2d8)
@@ -569,10 +568,8 @@ Treasure Type 	None
     Trample: 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
 # Estirge
-Stirge
-
-
 Feathered, bird-like creatures with long, sharp beaks.
+
 Armour Class 	7 [12]
 Hit Dice 	1* (4hp)
 Attacks 	1 × beak (1d3 + blood sucking)
@@ -590,14 +587,11 @@ Treasure Type 	L
     Detach: If stirge or victim dies.
 
 # Falcão
-Hawk
-
-
 Birds of prey that drift on high currents of air and hunt prey on the ground.
 
     Trainable: Can be trained as guards or hunting animals.
 
-Giant Hawk
+## Giant Hawk
 
 As big as a great dog. If hungry, may attack humans or similar-sized creatures.
 Armour Class 	6 [13]
@@ -615,7 +609,7 @@ Treasure Type 	None
     Swoop: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
     Carry prey: Up to halfling-sized.
 
-Normal Hawk
+## Normal Hawk
 
 Small birds of prey. Will only attack humans if they appear defenceless.
 Armour Class 	8 [11]
@@ -632,127 +626,7 @@ Treasure Type 	None
 
     Swoop: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
 
-# Felino Grande
-Great Cat
-(Redirected from Cat, Great)
-
-
-Cautious hunters that usually avoid combat with humans unless starving or cornered. Great cats may be playful, but are quick to anger. They remain outdoors, rarely venturing deep underground.
-
-    Pursuit: Always pursue prey that flees.
-    Favoured prey: Often develop a taste for a certain type of meat (this may include humans!), hunting that creature with preference.
-    Inquisitive: May follow PCs out of curiosity.
-
-Lion
-
-Hunt in groups called “prides”. Live in hot regions, typically in savannah or scrublands close to deserts.
-Armour Class 	6 [13]
-Hit Dice 	5 (22hp)
-Attacks 	2 × claw (1d4+1), 1 × bite (1d10)
-THAC0 	15 [+4]
-Movement 	150’ (50’)
-Saving Throws 	D12 W13 P14 B15 S16(3)
-Morale 	9
-Alignment 	Neutral
-XP 	175
-Number Appearing 	1d4(1d8)
-Treasure Type 	U
-
-    Pursuit: Always pursue prey that flees
-
-Mountain Lion
-
-Have yellow-brown fur and favour mountains, deserts, and forests. Will occasionally venture into dungeons.
-Armour Class 	6 [13]
-Hit Dice 	3+2 (15hp)
-Attacks 	2 × claw (1d3), 1 × bite (1d6)
-THAC0 	16 [+3]
-Movement 	150’ (50’)
-Saving Throws 	D12 W13 P14 B15 S16 (2)
-Morale 	8
-Alignment 	Neutral
-XP 	50
-Number Appearing 	1d4 (1d4)
-Treasure Type 	U
-
-    Pursuit: Always pursue prey that flees
-
-Panther
-
-High-speed hunters that live in plains and forests.
-Armour Class 	4 [15]
-Hit Dice 	4 (18hp)
-Attacks 	2 × claw (1d4), 1 × bite (1d8)
-THAC0 	16 [+3]
-Movement 	210’ (70’)
-Saving Throws 	D12 W13 P14 B15 S16 (2)
-Morale 	8
-Alignment 	Neutral
-XP 	75
-Number Appearing 	1d2 (1d6)
-Treasure Type 	U
-
-    Pursuit: Always pursue prey that flees
-
-Sabre-Toothed Tiger
-
-Huge, aggressive cats with foot-long fangs. Normally only found in Lost World regions.
-Armour Class 	6 [13]
-Hit Dice 	8 (36hp)
-Attacks 	2 × claw (1d8), 1 × bite (2d8)
-THAC0 	12 [+7]
-Movement 	150’ (50’)
-Saving Throws 	D10 W11 P12 B13 S14 (4)
-Morale 	10
-Alignment 	Neutral
-XP 	650
-Number Appearing 	1d4 (1d4)
-Treasure Type 	V
-
-    Pursuit: Always pursue prey that flees
-
-Tiger
-
-Large, solitary hunters with striped camouflage markings. Favour woodlands and cooler regions.
-Armour Class 	6 [13]
-Hit Dice 	6 (27hp)
-Attacks 	2 × claw (1d6), 1 × bite (2d6)
-THAC0 	14 [+5]
-Movement 	150’ (50’)
-Saving Throws 	D12 W13 P14 B15 S16 (3)
-Morale 	9
-Alignment 	Neutral
-XP 	275
-Number Appearing 	1 (1d3)
-Treasure Type 	U
-
-    Pursuit: Always pursue prey that flees
-    Surprise: On a 1–4, in woodland, due to camouflage.
-
-# Fera Deslocadora (????)
-Blink Dog
-
-
-Highly intelligent, dingo-like dogs that live in packs. Have the innate ability to blink in and out of existence.
-Armour Class 	5 [14]
-Hit Dice 	4* (18hp)
-Attacks 	1 × bite (1d6)
-THAC0 	16 [+3]
-Movement 	120’ (40’)
-Saving Throws 	D10 W11 P12 B13 S14 (4)
-Morale 	6
-Alignment 	Lawful
-XP 	125
-Number Appearing 	1d6 (1d6)
-Treasure Type 	C
-
-    Blink: In combat, teleport close to an enemy, attack, then reappear 1d4 × 10’ away. If they have initiative, can blink away without the opponent being able to counter-attack.
-    Disappear: If in serious danger, the pack can flee by entirely disappearing.
-    Hate warp beasts: Always attack.
-
-# Formiga Safari
-Driver Ant
-
+# Formiga Gigante
 
 Giant (6’ long), omnivorous, black ants.
 Armour Class 	3 [16]
@@ -772,9 +646,8 @@ Treasure Type 	U (see below)
     Lair treasure: 30% chance of 1d10 × 1,000gp worth of gold nuggets, mined by the ants.
 
 # Fungo Guardião
-Shrieker
-
 Giant, subterranean mushrooms that can creep around slowly.
+
 Armour Class 	7 [12]
 Hit Dice 	3 (13hp)
 Attacks 	None
@@ -790,8 +663,6 @@ Treasure Type 	None
     Shriek: Triggered by light (up to 60’ away) or movement (up to 30’ away). Shriek lasts for 1d3 rounds. Each round of the shriek, there is a 50% chance of a wandering monster being attracted (will arrive in 2d6 rounds).
 
 # Furão Gigante
-Giant Ferret
-
 
 3’ long ferrets that hunt giant rats in their burrows. Sometimes kept by humans for this aptitude.
 Armour Class 	5 [14]
@@ -809,10 +680,8 @@ Treasure Type 	None
     Volatile: Unpredictable temper; may turn on trainers or other people.
 
 # Furioso
-Berserker
+Fighters who enter a rage in battle. They never take prisoners.
 
-
-Fighters who enter a rage in battle. Theynever take prisoners.
 Armour Class 	7 [12]
 Hit Dice 	1+1* (5hp)
 Attacks 	1 × weapon (1d8 or by weapon)

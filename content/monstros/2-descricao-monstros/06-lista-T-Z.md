@@ -3,15 +3,13 @@ title: "Lista Monstros T-Z 🔴"
 metaTitle: "Lista Monstros T-Z"
 metaDescription: "Monstros > Lista Monstros T-Z"
 ---
-# Tartarura Dragão
+# Tartaruga-Dragão
 
 # Thoul
 
 # Tiranossauro Rex
 
-# Titanoceratops
-
-# Tricerátopes
+# Tricerátops
 
 # Tritão
 
@@ -25,16 +23,18 @@ metaDescription: "Monstros > Lista Monstros T-Z"
 
 # Urso
 
-# Urso Coruja
+# Urso-Coruja
 
 # Vampiro
 
-# Verme de Carniça
-
-# Verme Púrpura
+# Verme da Carniça
 
 # Veterano
 
-# Vidente
+# Vorme Púrpura
+
+# Vulto
+
+# Wyvern
 
 # Zumbi

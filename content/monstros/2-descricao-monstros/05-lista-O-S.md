@@ -4,21 +4,23 @@ metaTitle: "Lista Monstros O-S"
 metaDescription: "Monstros > Lista Monstros O-S"
 ---
 
-# Octópus Gigante
-
 # Ogro
 
-# Orque
+# Orc
 
-# Págasus
+# Pantera Deslocadora
 
-# Peixe Gigante
+# Pássaro Roca
 
-# Pequenino
+# Pégaso
+
+# Pégaso
 
 # Pirata
 
 # Pixie
+
+# Polvo Gigante
 
 # Pterossauro
 
@@ -26,25 +28,21 @@ metaDescription: "Monstros > Lista Monstros O-S"
 
 # Quimera
 
-# Ragodessa
-
 # Rato
+
+# Rhagodessa
 
 # Rinoceronte
 
-# Roca
+# Saguessuga Gigante
 
 # Salamandra
 
 # Salteador
 
-# Sanguesuga Gigante
-
 # Sapo Gigante
 
-# Serpe
-
-# Serpente Marinha (Menor)
+# Serpente Marinha
 
 # Sombra
 

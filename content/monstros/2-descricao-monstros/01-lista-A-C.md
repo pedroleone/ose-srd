@@ -602,9 +602,37 @@ _Fungus mortais que cobrem paredes, tetos e outras superfícies._
 * **Asfixia**: teste de resistência vs morte ou morre em 6 rodadas.
 * **Corrosão**: madeira ou couro em contato com o bolor serão comidos.
 
+# Brontotério
+_Parente antigo gigante (3,5m nos ombros) dos rinocerontes, com chifres gigantescos porém sem ponta. Come grama e folhas de árvores. Vive em pequenos rebanhos nas pastagens do Mundo Perdido._
+
+**Classe de Armadura**: 5 [14]
+
+**Dados de Vida**: 12 (54pv)
+
+**Ataques**: 1 × traseiro (2d6) or 1 × atropelamento (3d8)
+
+**TAC0**: 10 [+9]
+
+**Movimento**: 36m (12m)
+
+**Testes de Resistência**: M10 V11 P12 S13 F14 (6) 
+
+**Moral**: 7
+
+**Tendência**: Neutro
+
+**XP**: 1.100
+
+**Número Encontrado**: 0 (1d6)
+
+**Tesouro**: Nenhum
+
+* **Pastador pacífico**: Não ataca se for deixado em paz.
+* **Atropelar**: Chance de 3-em-4 de atropelar a cada rodada. +4 para acertar criaturas de tamanho humano ou menores.
+
+
 # Bucaneiro
 _Marinheiros que ganham a vida pilhando assentamentos costeiros e outras embarcações. São encontrados em rios, lagos, águas costeiras; ocasionalmente no oceano._
-
 
 **Classe de Armadura**: 7 [12] ou 5 [14]
 
@@ -662,7 +690,7 @@ _Goblins grandes e peludos com um andar desajeitado. Favorecem ataques surpresa.
 
 * **Surpresa**: 1 em 3, devido a furtividade.
 
-# Caçador Invisível (Monstro)
+# Caçador Invisível
 _Criaturas mágicas altamente inteligentes invocadas de outro plano de existência para realizar tarefas para poderosos usuários de magia._
 
 **Classe de Armadura**: 3 [16]
@@ -1215,7 +1243,7 @@ _anfíbios semelhantes a vermes, gigantescos (9m de comprimento), cinzas, com ma
 
 * **Engolir inteiro**: Em um ataque com resultado de 19 ou mais. Dentro da barriga do monstro: sofre 1d8 de dano por rodada (até a morte da cobra-cega); pode atacar com uma adaga com -4 para acertar; o corpo é digerido 6 rodadas após a morte.
 
-# Cocatrice
+# Cocatriz
 _híbridos de ave/réptil pequeno, com uma longa cauda de serpente, e a cabeça, pernas e asas de um galo. Vive em todos os ambientes._
 
 **Classe de Armadura**: 6 [13]
@@ -1327,7 +1355,7 @@ _6m ou mais. Podem atacar embarcações de pequeno porte (canoas, jangadas)._
 **Tesouro**: Nenhum
 
 
-## Normal Crocodile
+## Crocodilo comum
 **Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 2 (9pv)
