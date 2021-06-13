@@ -4,14 +4,14 @@ metaTitle: "Lista Monstros D-F"
 metaDescription: "Monstros > Lista Monstros D-F"
 ---
 
-# Dervixe
-_Fanatically religious, nomadic people who wander steppes and desert regions, living in tents._
+# Dervixe [Fanático]
+_Fanáticos religiosos e povo nômade que vagam pelas estepes e regiões desérticas, vivendo em tendas._
 
 **Classe de Armadura**: 6 [13] or 4 [15]
 
 **Dados de Vida**: 1 (4hp)
 
-**Ataques**: 1 × weapon (1d6 or by weapon)
+**Ataques**: 1 × arma (1d6 or by weapon)
 
 **TAC0**: 19 [0]
 
@@ -29,15 +29,15 @@ _Fanatically religious, nomadic people who wander steppes and desert regions, li
 
 **Tesouro**: A
 
-* **Mounted**: On warhorses.
-* **Arms**: 50% of group have: leather armour, shield, lance; 25% have: leather armour, shield, shortbow, sword; 25% have: chainmail, shield, lance.
-* **Camps**: Groups commonly combine and live in a camp or tribe of up to 300 dervishes, plus women, children, and animals. 25% chance of a wood or brick enclosure.
-* **Camp leaders**: Led by 10th level cleric.
-* **Intolerant**: Of other religious views.
-* **Holy war**: Occasionally wage war against other religious factions. Will slay people of different faith, or take them prisoner. Prisoners must convert; otherwise killed or used as slaves. Characters of Lawful alignment may be asked to join the holy war. Dervishes are highly suspicious of those who refuse (without good reason).
+* **Montado**: Em cavalos de guerra.
+* **Equipamentos**: 50% do grupo tem: armadura de couro, escudo, lança; 25% tem: armadura de couro, escudo, arco curto, espada; 25% tem: cota de malha, escudo, lança.
+* **Acampamentos**: Os grupos normalmente se reúnem e vivem em acampamentos ou tribos de até 300 dervixes, mais mulheres, crianças e animais. 25% de chance de ser cercado por um muro de madeira ou tijolos.
+* **Líderes do acampamento**: Liderados por um Clérigo de 10° nível.
+* **Intolerância**: a outras crenças religiosas.
+* **Guerra sagrada**: Ocasionalmente travam guerras contra outras facções religiosas. Matarão pessoas de fés diferentes ou os levarão prisioneiros. Prisioneiros devem ser convertidos; de outra forma, serão mortos ou usados como escravos. Personagens de tendência Leal podem ser convidados a participar da guerra santa. Dervixes passam a desconfiar muito de todos aqueles que se recusam (sem uma boa razão).
 
 # Doninha Gigante
-_8’ to 9’ long, vicious, predatory mammals with rich fur of brown, gold, or white. Dwell in subterranean tunnels, hunting alone or in small groups._
+_Mamíferos predadores e astuciosos, com 2,4 m a 2,7 m de comprimento e pele marrom, dourada ou branca. Habitem túneis subterrâneos e caçam em pequenos grupos._
 
 **Classe de Armadura**: 7 [12]
 
@@ -61,14 +61,14 @@ _8’ to 9’ long, vicious, predatory mammals with rich fur of brown, gold, or 
 
 **Tesouro**: V
 
-* **Infravision**: 30’.
-* **Blood sucking**: Upon a successful attack, locks onto the victim and drains its blood: 2d4 automatic damage per round.
-* **Detaching**: If weasel or victim dies.
-* **Tracking**: By scent, favouring wounded prey.
-* **Treasure**: Found in lair on bodies of victims.
+* **Infravisão**: 9 m.
+* **Sugador de sangue**: depois de um ataque bem sucedido, se prende a vítima e drena seu sangue: 2d4 de dano automático por rodada.
+* **Desprender**: Se a doninha ou a vítima morrerem.
+* **Rastrear**: Por faro, favorecendo presas feridas.
+* **Tesouro**: Encontrado no covil nos corpos das vítimas.
 
-# Doppleganger
-_Intelligent, human-sized shape-shifters of wicked character and highly magical nature._
+# Duplo
+_Transmorfo de tamanho humano e inteligente, de caráter fraco e natureza altamente mágica._
 
 **Classe de Armadura**: 5 [14]
 
@@ -92,25 +92,26 @@ _Intelligent, human-sized shape-shifters of wicked character and highly magical 
 
 **Tesouro**: E
 
-* **Shape stealing**: Can adopt the form of any human-like creature (7’ tall or less) observed. Then proceed to attack the person mimicked.
-* **Trickery**: Will attempt to kill a PC, take on their role, then attack the party by surprise (e.g. during a battle).
-* **Reversion**: If killed, reverts to its original form.
-* **Spell immunity**: Unaffected by sleep and charm spells.    
+* **Ladrão de formas**: Pode adotar a forma de uma criatura humanoide (2,1 m ou menos) observada. Então ataca a pessoa copiada.
+* **Traiçoeiro**: Tentará matar o PJ, tomar sua posição, e atacar o grupo surpreendendo (exemplo, durante uma batalha).
+* **Reversão**: Se morto, reverterá a sua forma original.
+* **Imunidade a magia**: Não afetado por magias de sono e de encantamento.    
 
 # Dragão
-_A proud, ancient race of gigantic, carnivorous, winged reptiles. There are many subspecies of dragon, many of which are distinguished by the colour of their scales. All dragons are egg-layers and hoard treasure in their lairs, far from areas of human civilisation._
+_Uma raça antiga de répteis alados gigantes e carnívoros. Existem muitas subespécies de dragões, muitas das quais são distinguidas pela cor de suas escamas. Todos os dragões são ovíparos e acumulam tesouros em seus covis, longe das áreas de civilização humana._
 
-* **Behaviour**: Chaotic dragons usually try to eat humans, but may sometimes capture them. Neutral dragons may attack or ignore humans. Lawful dragons may aid parties worthy of the honour.
-* **Pride**: Dragons are immensely proud creatures and will always listen to flattery.
-* **Attack pattern**: A dragon always attacks first with its breath weapon, then either breathes again or makes melee attacks (equal chance of either).
-* **Breath weapon**: Can be used up to three times per day. All caught in the area suffer damage equal to the dragon’s current hit points (save versus breath for half). Shapes of breath weapon:
-  * **Cloud**: 50’ long, 40’ wide, 20’ high.
-  * **Cone**: 2’ wide at the mouth, 30’ wide at far end.
-  * **Line**: 5’ wide along whole length.
-* **Energy immunity**: Unharmed by their own breath weapon or lesser versions thereof. Automatically save versus similar attack forms. (For example, a red dragon is immune to flaming oil and suffers half damage from fire ball spells.)
-* **Language and spells**: Some dragons are able to speak (their own tongue plus Common). The chance is listed by subspecies. Those that can speak can also cast randomly selected magic-user spells (the listed number and level of spells).
-* **Sleeping**: The chance of a dragon being asleep when encountered on the ground is listed by subspecies. A sleeping dragon may be attacked for one round with a +2 bonus to hit. Dragons may sometimes pretend to be asleep!
-* **Subduing**: Will surrender if reduced to 0hp by non-lethal attacks (see Subduing, under Other Combat Issues), admitting that it has been defeated. (Subdual damage does not reduce the damage done by the breath weapon.) A subdued dragon will attempt to escape or attack its captors, if the opportunity presents itself or if given a suicidal command. A subdued dragon may be sold for up to 1,000gp per hp.
+* **Comportamento**: Dragões caóticos normalmente tentar comer humanos, mas algumas vezes podem capturá-los. Dragões neutros podem atacá-los ou ignorá-los. Dragões leais podem ajudar grupos dignos de honra.
+* **Orgulho**: Dragões são criaturas imensamente orgulhosas e sempre ouvirão lisonjas.
+* **Padrão de ataque**: Um dragão sempre ataca primeiro com a sua baforada, então soprará novamente ou fará ataques corpo a corpo (chances iguais para cada). 
+* **Baforada**: Pode ser usada até três vezes por dia. Todos pegos na área sofrem dano igual aos pontos de vida atuais do dragão (resistência contra ataque se sopro para metade do dano). 
+Formatos do ataque de sopro:
+  * **Nuvem**: 15 m comprimento, 12 m de largura, 6 m de altura.
+  * **Cone**: 60 cm de largura na boca, 9 m de comprimento no final.
+  * **Linha**: 1,5 m de largura por todo o comprimento.
+* **Imunidade a energia**: Não são afetados por sua própria baforada ou versões menos potentes dela. Passam automaticamente em resistências contra formas de ataques similares. (Por exemplo, um dragão vermelho é imune ao fogo por óleo e sofrem metade do dano de magias de bola de fogo.)
+* **Idiomas e magias**: Alguns dragões são capazes de falar (seu próprio idioma e Comum). A chance é listada por subespécie. Aqueles que podem falar também podem conjurar magias de usuários de magia selecionadas aleatoriamente (o número listado e o nível das magias)
+* **Adormecido**: A chance de que um dragão esteja adormecido quando encontrado no solo é listado pela subespécie. Um dragão adormecido por ser atacado por uma rodada com um bônus de +2 para acertar. Dragões podem fingir que estão adormecidos!
+* **Subjugado**: Se renderão se reduzidos a 0 pontos de vida por ataques não letais (veja Subjugando, em Outros Problemas de Combate), admitindo que foram derrotados. (dano não letal não reduz o dano provocado pela baforada). Um dragão subjugado tentará escapar ou atacar seus captores, se a oportunidade surgir ou se lhes for dado um comando suicida. Um dragão subjugado pode ser vendido por até 1.000 po por ponto de vida.
 * **Age**: The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and ¼ or ½ as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
 * **Lairs**: A dragon’s treasure is always kept in its well-hidden lair and is seldom unguarded.
 
