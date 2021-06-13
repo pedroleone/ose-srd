@@ -7,11 +7,11 @@ metaDescription: "Monstros > Lista Monstros D-F"
 # Dervixe [Fanático]
 _Fanáticos religiosos e povo nômade que vagam pelas estepes e regiões desérticas, vivendo em tendas._
 
-**Classe de Armadura**: 6 [13] or 4 [15]
+**Classe de Armadura**: 6 [13] ou 4 [15]
 
 **Dados de Vida**: 1 (4hp)
 
-**Ataques**: 1 × arma (1d6 or by weapon)
+**Ataques**: 1 × arma (1d6 ou por arma)
 
 **TAC0**: 19 [0]
 
@@ -37,13 +37,13 @@ _Fanáticos religiosos e povo nômade que vagam pelas estepes e regiões desért
 * **Guerra sagrada**: Ocasionalmente travam guerras contra outras facções religiosas. Matarão pessoas de fés diferentes ou os levarão prisioneiros. Prisioneiros devem ser convertidos; de outra forma, serão mortos ou usados como escravos. Personagens de tendência Leal podem ser convidados a participar da guerra santa. Dervixes passam a desconfiar muito de todos aqueles que se recusam (sem uma boa razão).
 
 # Doninha Gigante
-_Mamíferos predadores e astuciosos, com 2,4 m a 2,7 m de comprimento e pele marrom, dourada ou branca. Habitem túneis subterrâneos e caçam em pequenos grupos._
+_Mamíferos predadores e astuciosos, com 2,4 m a 2,7 m de comprimento e pele marrom, dourada ou branca. Habitam túneis subterrâneos e caçam em pequenos grupos._
 
 **Classe de Armadura**: 7 [12]
 
 **Dados de Vida**: 4+4 (22hp)
 
-**Ataques**: 1 × bite (2d4 + blood sucking)
+**Ataques**: 1 × mordida (2d4 + sugar sangue)
 
 **TAC0**: 15 [+4]
 
@@ -74,7 +74,7 @@ _Transmorfo de tamanho humano e inteligente, de caráter fraco e natureza altame
 
 **Dados de Vida**: 4* (18hp)
 
-**Ataques**: 1 × bite (1d12)
+**Ataques**: 1 × mordida (1d12)
 
 **TAC0**: 16 [+3]
 
@@ -112,21 +112,21 @@ Formatos do ataque de sopro:
 * **Idiomas e magias**: Alguns dragões são capazes de falar (seu próprio idioma e Comum). A chance é listada por subespécie. Aqueles que podem falar também podem conjurar magias de usuários de magia selecionadas aleatoriamente (o número listado e o nível das magias)
 * **Adormecido**: A chance de que um dragão esteja adormecido quando encontrado no solo é listado pela subespécie. Um dragão adormecido por ser atacado por uma rodada com um bônus de +2 para acertar. Dragões podem fingir que estão adormecidos!
 * **Subjugado**: Se renderão se reduzidos a 0 pontos de vida por ataques não letais (veja Subjugando, em Outros Problemas de Combate), admitindo que foram derrotados. (dano não letal não reduz o dano provocado pela baforada). Um dragão subjugado tentará escapar ou atacar seus captores, se a oportunidade surgir ou se lhes for dado um comando suicida. Um dragão subjugado pode ser vendido por até 1.000 po por ponto de vida.
-* **Age**: The following stats describe dragons of average size. Younger dragons may have up to 3 HD less and ¼ or ½ as much treasure. Older dragons may have up to 3 HD more and twice as much treasure.
-* **Lairs**: A dragon’s treasure is always kept in its well-hidden lair and is seldom unguarded.
+* **Idade**: As estatísticas seguintes descrevem dragões de tamanho normal. Dragões mais jovens podem ter até 3 DV a menos e 1/4 ou 1/2 do tesouro. Dragões mais velhos podem ter até 3 DV a mais e duas vezes mais tesouros.
+* **Covis**: O tesouro de um dragão é sempre mantido em um covil escondido e raramente desprotegido.
 
-## Black Dragon
-_Dwell in swamps and marshes._
+## Dragão Negro
+_Habitam pântanos e charcos._
 
 **Classe de Armadura**: 2 [17]
 
 **Dados de Vida**: 7** (31hp)
 
-**Ataques**: [2 × claw (1d4 + 1), 1 × bite (2d10)] or breath
+**Ataques**: [2 × garra (1d4 + 1), 1 × mordida (2d10)] ou baforada
 
 **TAC0**: 13 [+6]
 
-**Movimento**: 90’ (30’) / 240’ (80’) flying
+**Movimento**: 90’ (30’) / 240’ (80’) voando
 
 **Testes de Resistência**: M8 V9 P10 S10 F12 (7)
 
@@ -140,22 +140,22 @@ _Dwell in swamps and marshes._
 
 **Tesouro**: H
 
-* **Breath weapon**: 60’ long line of acid.
-* **Language and spells**: 20%; 4 × 1st level.
-* **Sleeping**: 40%.
+* **Baforada**: Linha de ácido de 18 m de comprimento.
+* **Idiomas e magias**: 20%; 4 × 1° nível.
+* **Adormecido**: 40%.
 
-## Blue Dragon
-_Favour open plains and deserts._
+## Dragão Azul
+_Preferem planícies abertas e desertos._
 
 **Classe de Armadura**: 0 [19]
 
 **Dados de Vida**: 9** (40hp)
 
-**Ataques**: [2 × claw (1d6 + 1), 1 × bite (3d10)] or breath
+**Ataques**: [2 × garra (1d6 + 1), 1 × mordida (3d10)] ou baforada
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 90’ (30’) / 240’ (80’) flying
+**Movimento**: 90’ (30’) / 240’ (80’) voando
 
 **Testes de Resistência**: M8 V9 P10 S10 F12 (9)
 
@@ -169,28 +169,28 @@ _Favour open plains and deserts._
 
 **Tesouro**: H
 
-* **Breath weapon**: 100’ long line of lightning.
-* **Language and spells**: 40%; 4 × 1st level, 4 × 2nd level.
-* **Sleeping**: 20%.
+* **Baforada**: Linha de relâmpago com 30 m de comprimento.
+* **Idiomas e Magias**: 40%; 4 × 1° nível, 4 × 2° nível.
+* **Adormecido**: 20%.
 
-## Gold Dragon
-_May be encountered in any terrain, often in the guise of a person or animal._
+## Dragão Dourado
+_Pode ser encontrado em qualquer terreno, frequentemente disfarçado como uma pessoa ou animal._
 
 **Classe de Armadura**: –2 [21]
 
 **Dados de Vida**: 11** (49hp)
 
-**Ataques**: [2 × claw (2d4), 1 × bite (6d6)] or breath
+**Ataques**: [2 × garra (2d4), 1 × mordida (6d6)] ou baforada
 
 **TAC0**: 11 [+8]
 
-**Movimento**: 90’ (30’) / 240’ (80’) flying
+**Movimento**: 90’ (30’) / 240’ (80’) voando
 
 **Testes de Resistência**: M6 V7 P8 S8 F10 (11)
 
 **Moral**: 10
 
-**Tendência**: Lawful
+**Tendência**: Leal
 
 **XP**: 2,700
 
@@ -198,29 +198,29 @@ _May be encountered in any terrain, often in the guise of a person or animal._
 
 **Tesouro**: H
 
-* **Breath weapon**: 90’ long cone of fire or cloud of chlorine gas.
-* **Language and spells**: 100%; 4 × 1st level, 4 × 2nd level, 4 × 3rd level.
-* **Sleeping**: 5%.
-* **Shape changing**: May take on the form of a person or animal.
+* **Baforada**: Cone de fogo de 27 m de comprimento ou nuvem de gás cloro.
+* **Idiomas e Magias**: 100%; 4 × 1° nível, 4 × 2° nível, 4 × 3° nível.
+* **Adormecido**: 5%.
+* **Mudança de forma**: Pode tomar a forma de uma pessoa ou animal.
 
-## Green Dragon
-_Lair in jungles and forests._
+## Dragão Verde
+_Faz seus covis em selvas e florestas._
 
 **Classe de Armadura**: 1 [18]
 
 **Dados de Vida**: 8** (36hp)
 
-**Ataques**: [2 × claw (1d6), 1 × bite (3d8)] or breath
+**Ataques**: [2 × garra (1d6), 1 × mordida (3d8)] ou baforada
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 90’ (30’) / 240’ (80’) flying
+**Movimento**: 90’ (30’) / 240’ (80’) voando
 
 **Testes de Resistência**: M8 V9 P10 S10 F12 (8)
 
 **Moral**: 9
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 1,750
 
@@ -228,28 +228,28 @@ _Lair in jungles and forests._
 
 **Tesouro**: H
 
-* *Breath weapon*: Cloud of chlorine gas.
-* *Language and spells*: 30%; 3 × 1st level, 3 × 2nd level.
-* *Sleeping*: 30%.
+* *Baforada*: Nuvem de gás cloro.
+* *Idiomas e Magias*: 30%; 3 × 1° nível, 3 × 2° nível.
+* *Adormecido*: 30%.
 
-## Red Dragon
-_Dwell in hills and mountains._
+## Dragão Vermelho
+_Habitam colinas e montanhas._
 
 **Classe de Armadura**: –1 [20]
 
 **Dados de Vida**: 10** (45hp)
 
-**Ataques**: [2 × claw (1d8), 1 × bite (4d8)] or breath
+**Ataques**: [2 × garra (1d8), 1 × mordida (4d8)] ou baforada
 
 **TAC0**: 11 [+8]
 
-**Movimento**: 90’ (30’) / 240’ (80’) flying
+**Movimento**: 90’ (30’) / 240’ (80’) voando
 
 **Testes de Resistência**: M6 V7 P8 S8 F10 (10)
 
 **Moral**: 10
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 2,300
 
@@ -257,8 +257,8 @@ _Dwell in hills and mountains._
 
 **Tesouro**: H
 
-* **Breath weapon**: 90’ long cone of fire.
-* **Language and spells**: 50%; 3 × 1st level, 3 × 2nd level, 3 × 3rd level.
+* **Baforada**: Cone de fogo de 27 m de comprimento.
+* **Idiomas e Magias**: 50%; 3 × 1° nível, 3 × 2° nível, 3 × 3° nível.
 * **Sleeping**: 10%.
 
 ## Sea Dragon
@@ -268,7 +268,7 @@ _Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish
 
 **Dados de Vida**: 8** (36hp)
 
-**Ataques**: 1 × bite (3d8) or breath
+**Ataques**: 1 × mordida (3d8) or baforada
 
 **TAC0**: 12 [+7]
 
@@ -286,7 +286,7 @@ _Intelligent, aquatic dragons with green scales, fin-like wings, and a yellowish
 
 **Tesouro**: H
 
-* **Breath weapon**: Poison spittle, 100’ range, 20’ diameter. Save versus breath or die. (Poison is harmless after 1 round.)
+* **baforada weapon**: Poison spittle, 100’ range, 20’ diameter. Save versus baforada or die. (Poison is harmless after 1 round.)
 * **Language and spells**: 20%; 3 × 1st level, 3 × 2nd level.
 * **Sleeping**: 30%.
 * **Gliding**: Leap out of the water and glide for up to 6 rounds.
@@ -298,7 +298,7 @@ _Found in cold regions._
 
 **Dados de Vida**: 6** (27hp)
 
-**Ataques**: [2 × claw (1d4), 1 × bite (2d8)] or breath
+**Ataques**: [2 × garra (1d4), 1 × mordida (2d8)] or baforada
 
 **TAC0**: 14 [+5]
 
@@ -316,7 +316,7 @@ _Found in cold regions._
 
 **Tesouro**: H
 
-* **Breath weapon**: 80’ long cone of cold.
+* **baforada weapon**: 80’ long cone of cold.
 * **Language and spells**: 10%; 3 × 1st level.
 * **Sleeping**: 50%.
 
@@ -644,7 +644,7 @@ _Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwel
 
 **Dados de Vida**: 4* (18hp)
 
-**Ataques**: 2 × claw (1d10), 1 × sting (1d4 + poison)
+**Ataques**: 2 × garra (1d10), 1 × sting (1d4 + poison)
 
 **TAC0**: 16 [+3]
 
@@ -664,7 +664,7 @@ _Huge arachnids, as big as a small horse, with pincers and deadly stingers. Dwel
 
 * **Aggressive**: Normally attack on sight.
 * **Poison**: Causes death (save vs poison).
-* **Grab and sting**: +2 bonus to sting attack, if a claw hits.
+* **Grab and sting**: +2 bonus to sting attack, if a garra hits.
 
 # Espectro
 _Incorporeal phantoms; one of the most powerful undead monsters._
@@ -754,7 +754,7 @@ _Formed of crystals. Often human in form._
 **Tesouro**: None
 
 * **Immunity**: See main entry.
-* **Attacks**: Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
+* **Attacks**: Depend on form of statue (humanoid statues may use weapons, animal statues use garras, etc.).
 
 ## Iron Living Statue
 
@@ -782,7 +782,7 @@ _Formed of crystals. Often human in form._
 
 * **Immunity**: See main entry.
 * **Absorb metals**: Hits with non-magical, metal weapons cause damage, but the weapon may become stuck in the statue (save versus spells). Stuck weapons can be removed if the statue is killed.
-* **Attacks**: Depend on form of statue (humanoid statues may use weapons, animal statues use claws, etc.).
+* **Attacks**: Depend on form of statue (humanoid statues may use weapons, animal statues use garras, etc.).
 
 ## Rock Living Statue
 _Stony crust filled with magma which they shoot from their fingertips._
@@ -934,7 +934,7 @@ _Giant (6’ long), omnivorous, black ants._
 
 **Dados de Vida**: 4* (18hp)
 
-**Ataques**: 1 × bite (2d6)
+**Ataques**: 1 × mordida (2d6)
 
 **TAC0**: 16 [+3]
 
@@ -990,7 +990,7 @@ _3’ long ferrets that hunt giant rats in their burrows. Sometimes kept by huma
 
 **Dados de Vida**: 1+1 (5hp)
 
-**Ataques**: 1 × bite (1d8)
+**Ataques**: 1 × mordida (1d8)
 
 **TAC0**: 18 [+1]
 
