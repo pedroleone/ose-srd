@@ -6,8 +6,30 @@ metaDescription: "Monstros > Lista Monstros L-N"
 # Lagarto Gigante
 
 ## Draco
+_6’ long, carnivorous lizards with skin flaps between legs that enable gliding. Usually dwell above ground, but sometimes shelter in caves. Sometimes attack humans._
 
-6’ long, carnivorous lizards with skin flaps between legs that enable gliding. Usually dwell above ground, but sometimes shelter in caves. Sometimes attack humans.
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**:  M V P S F ()
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
+
 Armour Class 	5 [14]
 Hit Dice 	4+2 (20hp)
 Attacks 	1 × bite (1d10)
