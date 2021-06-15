@@ -1,5 +1,5 @@
 ---
-title: "Lista Monstros D-F ❌"
+title: "Lista Monstros D-F"
 metaTitle: "Lista Monstros D-F"
 metaDescription: "Monstros > Lista Monstros D-F"
 ---
