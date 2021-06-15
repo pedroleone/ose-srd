@@ -5,6 +5,7 @@ metaDescription: "Monstros > Lista Monstros L-N"
 ---
 # Lagarto Gigante
 
+
 ## Draco
 _6’ long, carnivorous lizards with skin flaps between legs that enable gliding. Usually dwell above ground, but sometimes shelter in caves. Sometimes attack humans._
 

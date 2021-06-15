@@ -984,3 +984,4 @@ _Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell
 * **Hate gnomes**: Attack on sight.
 * **Chieftain and bodyguards**: A 2HD (9hp) chieftain and 1d6 1+1HD (6hp) bodyguards live in the kobold lair.
 * **Hoard**: Only have treasure type J when encountered in the wilderness or in their lair.
+
