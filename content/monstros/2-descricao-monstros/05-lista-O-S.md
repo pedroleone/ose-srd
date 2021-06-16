@@ -6,6 +6,29 @@ metaDescription: "Monstros > Lista Monstros O-S"
 
 # Ogro
 Frightful humanoids, 8–10’ tall, dressed in animal hides. Often dwell in caves.
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**:  M V P S F ()
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
+
 Armour Class 	5 [14]
 Hit Dice 	4+1 (19hp)
 Attacks 	1 × club (1d10)

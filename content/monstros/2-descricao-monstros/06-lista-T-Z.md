@@ -4,7 +4,30 @@ metaTitle: "Lista Monstros T-Z"
 metaDescription: "Monstros > Lista Monstros T-Z"
 ---
 # Tartaruga-Dragão
-Gargantuan sea monsters with the body and hard shell of a turtle and the head, tail, and legs of a dragon. Lurk in huge caves in the depths of the ocean, only rarely coming to the surface.
+_Gargantuan sea monsters with the body and hard shell of a turtle and the head, tail, and legs of a dragon. Lurk in huge caves in the depths of the ocean, only rarely coming to the surface._
+
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**:  M V P S F ()
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
+
 Armour Class 	–2 [21]
 Hit Dice 	30* (135hp)
 Attacks 	2 × claw (1d8), 1 × bite (1d6 × 10) or breath

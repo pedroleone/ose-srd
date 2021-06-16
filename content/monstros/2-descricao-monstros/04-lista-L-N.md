@@ -46,8 +46,30 @@ Treasure Type 	U B15 S16 (2)
     Cling: Climb walls, trees, etc. and drop on victims.
 
 ## Gecko
+_5’ long, carnivorous, nocturnal lizards. Light blue scales with orange spots._
 
-5’ long, carnivorous, nocturnal lizards. Light blue scales with orange spots.
+**Classe de Armadura**: 
+
+**Dados de Vida**: 
+
+**Ataques**: 
+
+**TAC0**: 
+
+**Movimento**: 
+
+**Testes de Resistência**:  M V P S F ()
+
+**Moral**: 
+
+**Tendência**: 
+
+**XP**: 
+
+**Número Encontrado**: 
+
+**Tesouro**: 
+
 Armour Class 	5 [14]
 Hit Dice 	3+1 (14hp)
 Attacks 	1 × bite (1d8)
