@@ -5,55 +5,55 @@ metaDescription: "Monstros > Lista Monstros G-K"
 ---
 
 # Gafanhoto das Profundezas
-_2–3’ long, herbivorous, giant crickets that dwell in caverns._
+_gafanhotos gigantes herbívoros, de 60 a 90cm de comprimento, que vivem em cavernas_
 
 **Classe de Armadura**: 4 [15]
 
-**Dados de Vida**: 2 (9hp)
+**Dados de Vida**: 2 (9pv)
 
-**Ataques**: 1 × bite (1d2) or 1 × jump (1d4) or 1 × spit (stench)
+**Ataques**: 1 × mordida (1d2) or 1 × salto (1d4) or 1 × cuspida (cheiro fétido)
 
 **TAC0**: 18 [+1]
 
-**Movimento**: 60’ (20’) / 180’ (60’) flying
+**Movimento**: 18m (6m) / 54m (18m) vôo
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
 **Moral**: 5
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 20
 
 **Número Encontrado**: 2d10 (1d10)
 
-**Tesouro**: None
+**Tesouro**: Nenhum
 
 
-* **Blend in with stone**: May be overlooked or mistaken for statues, due to their stony colouration.
-* **Shriek**: If attacked or frightened, shriek to warn others. This may attract wandering monsters (20% chance per round).
-* **Jump**: Very skittish. If attacked, usually flee by jumping up to 60’ then flying away. 50% chance of jumping at a random opponent, in which case treat the jump as an attack.
-* **Spit**: Used defensively. 10’ range. Target treated as AC 9 [10]. The affected character is covered in stinking spittle: unable to act for 1 turn (save versus poison). Until the goo is washed off, others who come within 5’ must also save versus poison or be violently sick.
-* **Poison immunity**: Immune to yellow mould and most poisons, due to their habit of eating fungi.
+* **Misturar-se com as pedras**: Pode passar desapercebido ou ser confundido com estátuas, devido à sua coloração semelhante a pedra.
+* **Gincho**: Se forem atacados ou assustados, guincham para avisar outros. Isso pode atrair monstros errantes (20% de chance por rodada). 
+* **Saltar**: Muito assustadiço. Se atacado, normalmente fogem pulando para até 18m de distância e em seguida voam para longe. 50% de chance de saltar em um oponente aleatório, neste caso tratar o salto como um ataque.
+* **Cuspida**: Usado defensivamente. Alcance de 3 metros. Alvo é tratado como se tivesse CA 9 [10]. O personagem afetado é coberto em uma cuspida fétida: impossibilitado de agir por 1 turno (teste de resistência contra veneno). Até que a gosma seja limpa, outros que cheguem a 1,5m também devem passar em um teste de resistência contra veneno ou ficar violentamente enjoados.
+* **Imunidade a veneno**: Imune ao bolor amarelo e a maioria dos venenos, devido ao seu hábito de comer fungos.
 
 # Gárgula
-_Magical monsters that look like hideous, horned, winged statues. Semi-intelligent and possessed of a great cunning._
+_Monstros mágicos que se parecem com horrendas estátuas aladas e com chifres. Semi-inteligentes e possuidores de grande astúcia._
 
 **Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 4 (18hp)
+**Dados de Vida**: 4 (18pv)
 
-**Ataques**: 2 × claw (1d3), 1 × bite (1d6), 1 × horn (1d4)
+**Ataques**: 2 × garra (1d3), 1 × mordida (1d6), 1 × chifre (1d4)
 
 **TAC0**: 16 [+3]
 
-**Movimento**: 90’ (30’) / 150’ (50’) flying
+**Movimento**: 27m (9m) / 45m (15m) vôo
 
 **Testes de Resistência**:  M8 V9 P10 S10 F12 (8)
 
 **Moral**: 11
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 75
 
@@ -61,77 +61,77 @@ _Magical monsters that look like hideous, horned, winged statues. Semi-intellige
 
 **Tesouro**: C
 
-* **Blend in with stone**: May be overlooked or mistaken for inanimate statues.
-* **Guardians**: Almost always attack when approached.
-* **Mundane damage immunity**: Can only be harmed by magical attacks.
-* **Spell immunity**: Unaffected by sleep or charm spells.
+* **Misturar-se com as pedras**: Pode passar desapercebido ou ser confundido com estátuas inanimadas. 
+* **Guardiões**: Quase sempre atacam ao serem abordados.
+* **Imunidade a dano mundano**: Só podem ser feridos por ataques mágicos.
+* **Imunidade à magia**: Não são afetados por magias de sono ou de encantamento.
+
 
 # Geléia Ocre
-_Giant, ochre amoeboids._
+_Ameboides gigantes ocres._
 
 **Classe de Armadura**: 8 [11]
 
-**Dados de Vida**: 5* (22hp)
+**Dados de Vida**: 5* (22pv)
 
-**Ataques**: 1 × touch (2d6)
+**Ataques**: 1 × toque (2d6)
 
 **TAC0**: 15 [+4]
 
-**Movimento**: 30’ (10’)
+**Movimento**: 9m (3m)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (3)
 
 **Moral**: 12
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 300
 
 **Número Encontrado**: 1 (0)
 
-**Tesouro**: None
-
-* **Immunity**: Unharmed by all attacks except cold or fire.
-* **Division**: Lightning or attacks with weapons cause the jelly to divide into 1d4+1 2HD jellies that do half damage.
-* **Acid**: After a successful attack, sticks to the victim and exudes acid. The acid inflicts 2d6 damage per round to flesh and destroys cloth, leather, or wood in one round. (Stone and metal are unaffected.)
-* **Seep**: Can squeeze through small holes and cracks.
+**Tesouro**: Nenhum
+* **Imunidade**: Imunie a todos os ataques exceto fogo ou gelo.
+* **Divisão**: Ataques de relâmpago ou com armas causam a divisão da geléia em 1d4+1 gelérias de 2 DVs que causam metade do dano.
+* **Ácido**: Após um ataque bem sucedido, se gruda à vítima e exsuda ácido. O ácido inflinge 2d6 de dano por rodada à carne e destrói tecido, couro ou madeira em uma rodada. (Pedra e metal não são afetados.)
+* **Infiltrar-se**: Pode se espremer através de pequenos buracos e rachaduras.
 
 # Gênio (Menor)
-_Highly magical, free-willed, intelligent beings from the elemental plane of air. Tall humanoids wreathed in clouds._
+_Seres extremamente mágicos, de livre arbítrio e inteligentes do plano elementar do ar. Humanóides altos envolto em nuvens._
 
 **Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 7+1* (32hp)
+**Dados de Vida**: 7+1* (32pv)
 
-**Ataques**: 1 × fists (2d8), magic
+**Ataques**: 1 × socos (2d8), magia
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 90’ (30’) / 240’ (80’) flying
+**Movimento**: 27m (9m) / 72m (24m) vôo
 
 **Testes de Resistência**:  M4 V5 P6 S5 F8 (14)
 
 **Moral**: 12
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 850
 
 **Número Encontrado**: 1 (1)
 
-**Tesouro**: None
+**Tesouro**: Nenhum
 
-* **Mundane damage immunity**: Can only be harmed by magical attacks.
-* **Magic powers**: Each can be used three times per day:
-  * **Whirlwind form**: 5 rounds to transform (or change back). 70’ tall, 20’ wide at top, 10’ wide at base. Moves at 120’ (40’). 2d6 damage to all in path. Creatures with less than 2HD swept aside (save vs death).
-  * **Gaseous form**
-  * **Invisibility**
-  * **Illusion**: Visual and audial. No concentration required. Remains until touched or dispelled.
-  * **Create food and drink**: For 12 humans and mounts for one day.
-  * **Conjure metallic objects**: Up to 1,000 coins weight. Temporary: hardness determines duration (gold: 1 day; iron: 1 round).
-  * **Conjure soft goods / wooden objects**: Up to 1,000 coins weight. Permanent.
-* **Carrying capacity**: 6,000 coins without fatigue. Up to 12,000 coins for 3 turns walking / 1 turn flying. Must rest 1 turn afterwards.
-* **If killed**: Returns to the plane of air.
+* **Imunidade a dano mundano**: Só podem ser feridos por ataques mágicos.
+* **Podres mágicos**: Cada um pode ser usado tres vezes por dia:
+  * **Forma de redemoinho**: 5 rodadas para se transformar (ou para voltar à forma). 21m de altura, 6m de largura no topo, 3m de largura na base. Se move a 36m (12m). 2d6 de dano em tudo que estiver em seu caminho. Criaturas com menos de 2DV são varridos para o lado (teste de resistência contra morte).
+  * **Forma gasosa**
+  * **Invisibilidade**
+  * **Ilusão**: Visual e auditiva. Nenhuma concentração necessária. Permanece até ser tocado ou dissipada. 
+  * **Criar comida e bebida**: Para 12 humanos e montarias para um dia.
+  * **Conjurar objetos metálicos**: Até o peso de 1.000 moedas. Temporário: dureza determina a duração (ouro: 1 dia; ferro: 1 rodada). 
+  * **Conjurar objetos leves / objetos de madeira**: Até o peso de 1.000 moedas. Permanente.
+* **Capacidade de carga**: 6.000 moedas sem se cansar. Até 12.000 moedas por três turnos andando / 1 turno voando. Deve descansar por 1 turno depois. 
+* **Se for morto**: Retorna ao plano elemental do ar.
 
 
 # Gigante 
@@ -141,7 +141,7 @@ _Aggressive, 20’ tall humanoids with skin and hair ranging from grey to white.
 
 **Classe de Armadura**: 4 [15]
 
-**Dados de Vida**: 12+3 (57hp)
+**Dados de Vida**: 12+3 (57pv)
 
 **Ataques**: 1 × weapon (6d6) or 1 × boulder (3d6)
 
@@ -153,7 +153,7 @@ _Aggressive, 20’ tall humanoids with skin and hair ranging from grey to white.
 
 **Moral**: 10
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 1,100
 
@@ -173,7 +173,7 @@ _16’ tall humanoids with black hair and red skin. Dress in armour fashioned fr
 
 **Classe de Armadura**: 4 [15]
 
-**Dados de Vida**: 11+2 (51hp)
+**Dados de Vida**: 11+2 (51pv)
 
 **Ataques**: 1 × weapon (5d6) or 1 × boulder (3d6)
 
@@ -185,7 +185,7 @@ _16’ tall humanoids with black hair and red skin. Dress in armour fashioned fr
 
 **Moral**: 9
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 1,100
 
@@ -203,7 +203,7 @@ _18’ tall humanoids with pale skin and pale hair (yellow or blue hued). Dress 
 
 **Classe de Armadura**: 4 [15]
 
-**Dados de Vida**: 10+1 (46hp)
+**Dados de Vida**: 10+1 (46pv)
 
 **Ataques**: 1 × weapon (4d6) or 1 × boulder (3d6)
 
@@ -215,7 +215,7 @@ _18’ tall humanoids with pale skin and pale hair (yellow or blue hued). Dress 
 
 **Moral**: 9
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 900
 
@@ -233,7 +233,7 @@ _Hairy, brutish, 12’ tall humanoids of low intelligence. Dwell in foothills. K
 
 **Classe de Armadura**: 4 [15]
 
-**Dados de Vida**: 8 (36hp)
+**Dados de Vida**: 8 (36pv)
 
 **Ataques**: 1 × weapon (2d8)
 
@@ -245,7 +245,7 @@ _Hairy, brutish, 12’ tall humanoids of low intelligence. Dwell in foothills. K
 
 **Moral**: 8
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 650
 
@@ -260,7 +260,7 @@ _14’ tall humanoids with stone-like, grey skin. Dwell in natural caverns or pr
 
 **Classe de Armadura**: 4 [15]
 
-**Dados de Vida**: 9 (40hp)
+**Dados de Vida**: 9 (40pv)
 
 **Ataques**: 1 × weapon (3d6) or 1 × boulder (3d6)
 
@@ -272,7 +272,7 @@ _14’ tall humanoids with stone-like, grey skin. Dwell in natural caverns or pr
 
 **Moral**: 9
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 900
 
@@ -289,13 +289,13 @@ _22’ tall humanoids with bronze-hued skin and garish hair (red or yellow)._
 
 **Classe de Armadura**: 2 [17]
 
-**Dados de Vida**: 15 (67hp)
+**Dados de Vida**: 15 (67pv)
 
 **Ataques**: 1 × weapon (8d6), 1 × lightning bolt
 
 **TAC0**: 9 [+10]
 
-**Movimento**: 150’ (50’)
+**Movimento**: 45m (50’)
 
 **Testes de Resistência**:  M4 V5 P6 S5 F8 (15)
 
@@ -310,7 +310,7 @@ _22’ tall humanoids with bronze-hued skin and garish hair (red or yellow)._
 **Tesouro**: E + 5,000gp
 
 * **Summon storm**: Takes 1 turn.
-* **Lightning bolts**: In a storm, may throw lightning once per 5 rounds: 60’ long, 5’ wide; inflicts damage equal to the giant’s current hit point total (save versus spells for half damage); will bounce off of hard surfaces in its path.
+* **Lightning bolts**: In a storm, may throw lightning once per 5 rounds: 18m long, 5’ wide; inflicts damage equal to the giant’s current hit point total (save versus spells for half damage); will bounce off of hard surfaces in its path.
 * **Lightning immunity**: Unharmed by lightning. Enjoy basking in storms.
 * **Castle**: High among mountain peaks, atop banks of clouds, or in deep waters.
 * **Guardians**: 2d4 griffons. Underwater: 3d6 giant crabs.
@@ -320,19 +320,19 @@ _Lazy, humanoid hyenas of low intelligence that live by intimidation and theft. 
 
 **Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 2 (9hp)
+**Dados de Vida**: 2 (9pv)
 
 **Ataques**: 1 × weapon (2d4 or by weapon + 1)
 
 **TAC0**: 18 [+1]
 
-**Movimento**: 90’ (30’)
+**Movimento**: 27m (9m)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
 **Moral**: 8
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 20 (leader: 35)
 
@@ -340,7 +340,7 @@ _Lazy, humanoid hyenas of low intelligence that live by intimidation and theft. 
 
 **Tesouro**: D
 
-* **Leader**: Groups of 20+ are led by a gnoll with 3HD (16hp).
+* **Leader**: Groups of 20+ are led by a gnoll with 3HD (16pv).
 
 
 # Gnomo
@@ -348,19 +348,19 @@ _Short demihumans with long noses and beards. Smaller cousins of dwarves, whom t
 
 **Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 1 (4hp)
+**Dados de Vida**: 1 (4pv)
 
 **Ataques**: 1 × weapon (1d6 or by weapon)
 
 **TAC0**: 19 [0]
 
-**Movimento**: 60’ (20’)
+**Movimento**: 18m (6m)
 
 **Testes de Resistência**:  M8 V9 P10 S13 F12 (D1)
 
 **Moral**: 8 (10 in sight of leader or chieftain)
 
-**Tendência**: Lawful or Neutral
+**Tendência**: Lawful or Neutro
 
 **XP**: 10
 
@@ -370,8 +370,8 @@ _Short demihumans with long noses and beards. Smaller cousins of dwarves, whom t
 
 * **Weapons**: Typically use warhammers and crossbows.
 * **Infravision**: 90’.
-* **Leader**: A 2HD (11hp) leader is present for every 20 gnomes.
-* **Clan chieftain and bodyguards**: A 4HD (18hp) chieftain and 1d6 3HD (1d4 + 9hp) bodyguards live in the gnome lair. The chieftain gains a +1 bonus to damage.
+* **Leader**: A 2HD (11pv) leader is present for every 20 gnomes.
+* **Clan chieftain and bodyguards**: A 4HD (18pv) chieftain and 1d6 3HD (1d4 + 9pv) bodyguards live in the gnome lair. The chieftain gains a +1 bonus to damage.
 * **Hate kobolds**: Normally attack on sight.
 * **Mines and machines**: Love machinery, mining, gold, and gems. May make foolish decisions to obtain precious items. War with goblins and kobolds over precious metals.
 
@@ -380,19 +380,19 @@ _Small, grotesque humanoids with pallid, earth-coloured skin and glowing, red ey
 
 **Classe de Armadura**: 6 [13]
 
-**Dados de Vida**: 1–1 (3hp)
+**Dados de Vida**: 1–1 (3pv)
 
 **Ataques**: 1 × weapon (1d6 or by weapon)
 
 **TAC0**: 19 [0]
 
-**Movimento**: 60’ (20’)
+**Movimento**: 18m (6m)
 
 **Testes de Resistência**:  M14 V15 P16 S17 F18 (NH)
 
 **Moral**: 7 (9 with king)
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 5 (bodyguard: 20, king: 35)
 
@@ -404,7 +404,7 @@ _Small, grotesque humanoids with pallid, earth-coloured skin and glowing, red ey
 * **Hate the sun**: –1 to-hit in full daylight.
 * **Wolf riders**: 20% of goblin groups encountered have wolf riders: ¼ of the group mounted on dire wolves.
 * **Hate dwarves**: Attack on sight.
-* **Goblin king and bodyguards**: A 3HD (15hp) king and 2d6 2HD (2d6hp) bodyguards live in the goblin lair. They do not suffer attack penalties in daylight. The king gains a +1 bonus to damage.
+* **Goblin king and bodyguards**: A 3HD (15pv) king and 2d6 2HD (2d6pv) bodyguards live in the goblin lair. They do not suffer attack penalties in daylight. The king gains a +1 bonus to damage.
 * **Hoard**: Only have treasure type C when encountered in the wilderness or in their lair.
 
 # Gólem 
@@ -419,25 +419,25 @@ _Constructed in the form of giant cats (e.g. lions or tigers)._
 
 **Classe de Armadura**: 6 [13]
 
-**Dados de Vida**: 10** (45hp)
+**Dados de Vida**: 10** (45pv)
 
 **Ataques**: 2 × claw (2d6), 1 × bite (2d10)
 
 **TAC0**: 11 [+8]
 
-**Movimento**: 180’ (60’)
+**Movimento**: 54m (18m)
 
 **Testes de Resistência**:  M10 V11 P12 S13 F14 (5)
 
 **Moral**: 12
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 2,300
 
 **Número Encontrado**: 1 (1)
 
-**Tesouro**: None
+**Tesouro**: Nenhum
 
 * **Mundane damage immunity**: Can only be harmed by magical attacks.
 * **Tracking**: Without error.
@@ -448,7 +448,7 @@ _6’ tall constructs of human bone, crafted into a humanoid shape. Have four ar
 
 **Classe de Armadura**: 2 [17]
 
-**Dados de Vida**: 8 (36hp)
+**Dados de Vida**: 8 (36pv)
 
 **Ataques**: 2 or 4 × weapon (1d6 or by weapon)
 
@@ -460,13 +460,13 @@ _6’ tall constructs of human bone, crafted into a humanoid shape. Have four ar
 
 **Moral**: 12
 
-**Tendência**:  Neutral
+**Tendência**:  Neutro
 
 **XP**: 650
 
 **Número Encontrado**: 1 (1)
 
-**Tesouro**: None
+**Tesouro**: Nenhum
 
 * **Mundane damage immunity**: Can only be harmed by magical attacks.
 * **Weapons**: 4×1-handed or 2×2-handed.
@@ -478,25 +478,25 @@ _Bronze constructs that resemble fire giants, possessing a great internal heat._
 
 **Classe de Armadura**: 0 [19]
 
-**Dados de Vida**: 20** (90hp)
+**Dados de Vida**: 20** (90pv)
 
 **Ataques**: 1 × fist (3d10 + 1d10 heat)
 
 **TAC0**: 6 [+13]
 
-**Movimento**: 240’ (80’)
+**Movimento**: 72m (24m)
 
 **Testes de Resistência**:  M6 V7 P8 S8 F10 (10)
 
 **Moral**: 12
 
-**Tendência**:  Neutral
+**Tendência**:  Neutro
 
 **XP**: 4,300
 
 **Número Encontrado**: 1 (1)
 
-**Tesouro**: None
+**Tesouro**: Nenhum
 
 * **Mundane damage immunity**: Can only be harmed by magical attacks.
 * **Flaming blood**: If damaged by an edged weapon, emits a spurt of liquid fire: attacker suffers 2d6 damage (save versus death to avoid).
@@ -507,7 +507,7 @@ _3’ tall, roughly constructed, humanoid figures of wood._
 
 **Classe de Armadura**: 7 [12]
 
-**Dados de Vida**: 2+2 (11hp)
+**Dados de Vida**: 2+2 (11pv)
 
 **Ataques**: 1 × fist (1d8)
 
@@ -519,13 +519,13 @@ _3’ tall, roughly constructed, humanoid figures of wood._
 
 **Moral**: 12
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 25
 
 **Número Encontrado**: 1 (1)
 
-**Tesouro**: None
+**Tesouro**: Nenhum
 
 * **Mundane damage immunity**: Can only be harmed by magical attacks.
 * **Initiative**: –1 penalty due to stiff movement.
@@ -536,7 +536,7 @@ _Magical monsters that resemble iron-scaled bulls. Dwell in plains or foothills.
 
 **Classe de Armadura**: 2 [17]
 
-**Dados de Vida**: 8* (36hp)
+**Dados de Vida**: 8* (36pv)
 
 **Ataques**: 1 × gore (2d6) or 1 × breath (petrify)
 
@@ -548,7 +548,7 @@ _Magical monsters that resemble iron-scaled bulls. Dwell in plains or foothills.
 
 **Moral**: 8
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 1,200
 
@@ -557,7 +557,7 @@ _Magical monsters that resemble iron-scaled bulls. Dwell in plains or foothills.
 **Tesouro**: E
 
 * **Charge**: When not in melee. Requires a clear run of at least 20 yards. Gore inflicts double damage.
-* **Petrifying breath**: Cloud 60’ long, 10’ wide. All in the cloud are turned to stone (save versus petrify to avoid). Unharmed by own breath.
+* **Petrifying breath**: Cloud 18m long, 10’ wide. All in the cloud are turned to stone (save versus petrify to avoid). Unharmed by own breath.
 
 
 # Gorila Branco
@@ -599,19 +599,19 @@ _Hunt in groups called “prides”. Live in hot regions, typically in savannah 
 
 **Classe de Armadura**: 6 [13]
 
-**Dados de Vida**: 5 (22hp)
+**Dados de Vida**: 5 (22pv)
 
 **Ataques**: 2 × claw (1d4+1), 1 × bite (1d10)
 
 **TAC0**: 15 [+4]
 
-**Movimento**: 150’ (50’)
+**Movimento**: 45m (50’)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (3)
 
 **Moral**: 9
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 175
 
@@ -626,19 +626,19 @@ _Have yellow-brown fur and favour mountains, deserts, and forests. Will occasion
 
 **Classe de Armadura**: 6 [13]
 
-**Dados de Vida**: 3+2 (15hp)
+**Dados de Vida**: 3+2 (15pv)
 
 **Ataques**: 2 × claw (1d3), 1 × bite (1d6)
 
 **TAC0**: 16 [+3]
 
-**Movimento**: 150’ (50’)
+**Movimento**: 45m (50’)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
 **Moral**: 8
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 50
 
@@ -653,7 +653,7 @@ _High-speed hunters that live in plains and forests._
 
 **Classe de Armadura**: 4 [15]
 
-**Dados de Vida**: 4 (18hp)
+**Dados de Vida**: 4 (18pv)
 
 **Ataques**: 2 × claw (1d4), 1 × bite (1d8)
 
@@ -665,7 +665,7 @@ _High-speed hunters that live in plains and forests._
 
 **Moral**: 8
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 75
 
@@ -680,19 +680,19 @@ _Huge, aggressive cats with foot-long fangs. Normally only found in Lost World r
 
 **Classe de Armadura**: 6 [13]
 
-**Dados de Vida**: 8 (36hp)
+**Dados de Vida**: 8 (36pv)
 
 **Ataques**: 2 × claw (1d8), 1 × bite (2d8)
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 150’ (50’)
+**Movimento**: 45m (50’)
 
 **Testes de Resistência**:  M10 V11 P12 S13 F14 (4)
 
 **Moral**: 10
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 650
 
@@ -707,19 +707,19 @@ _Large, solitary hunters with striped camouflage markings. Favour woodlands and 
 
 **Classe de Armadura**: 6 [13]
 
-**Dados de Vida**: 6 (27hp)
+**Dados de Vida**: 6 (27pv)
 
 **Ataques**: 2 × claw (1d6), 1 × bite (2d6)
 
 **TAC0**: 14 [+5]
 
-**Movimento**: 150’ (50’)
+**Movimento**: 45m (50’)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (3)
 
 **Moral**: 9
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 275
 
@@ -735,19 +735,19 @@ _Large, rapacious predators combining the features of an eagle (head, wings, fro
 
 **Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 7 (31hp)
+**Dados de Vida**: 7 (31pv)
 
 **Ataques**: 2 × claw (1d4), 1 × bite (2d8)
 
 **TAC0**: 13 [+6]
 
-**Movimento**: 120’ (40’) / 360’ (120’) flying
+**Movimento**: 120’ (40’) / 318m (120’) flying
 
 **Testes de Resistência**:  M10 V11 P12 S13 F14 (4)
 
 **Moral**: 8
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 450
 
@@ -764,19 +764,19 @@ _Hideous hags with the wings and lower bodies of giant eagles. Use their song to
 
 **Classe de Armadura**: 7 [12]
 
-**Dados de Vida**: 3* (13hp)
+**Dados de Vida**: 3* (13pv)
 
 **Ataques**: 2 × claw (1d4), 1 × weapon (1d6 or by weapon), 1 × song (charm)
 
 **TAC0**: 17 [+2]
 
-**Movimento**: 60’ (20’) / 150’ (50’) flying
+**Movimento**: 18m (6m) / 45m (50’) flying
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (3)
 
 **Moral**: 7
 
-**Tendência**: Chaotic 
+**Tendência**: Caótico 
 
 **XP**: 50
 
@@ -804,7 +804,7 @@ _Large, dragon-like creatures with multiple, serpentine heads. Sea hydras (adapt
 
 **Moral**: 9
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 175/275/450/50/900/900/1,100/1,100
 
@@ -821,25 +821,25 @@ _Fantastic creatures combining the features of a giant eagle (head and forequart
 
 **Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 3+1 (14hp)
+**Dados de Vida**: 3+1 (14pv)
 
 **Ataques**: 2 × claw (1d6), 1 × bite (1d10)
 
 **TAC0**: 16 [+3]
 
-**Movimento**: 180’ (60’) / 360’ (120’) flying
+**Movimento**: 54m (18m) / 318m (120’) flying
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
 **Moral**: 8
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 50
 
 **Número Encontrado**: 0 (2d8)
 
-**Tesouro**: None
+**Tesouro**: Nenhum
 
 * **Hate pegasi**: Will usually attack.
 * **Mount**: Can carry a human-sized rider.
@@ -850,19 +850,19 @@ _Larger and nastier relatives of goblins. Dwell underground, but commonly seek p
 
 **Classe de Armadura**: 6 [13]
 
-**Dados de Vida**: 1+1 (5hp)
+**Dados de Vida**: 1+1 (5pv)
 
 **Ataques**: 1 × weapon (1d8 or by weapon)
 
 **TAC0**: 18 [+1]
 
-**Movimento**: 90’ (30’)
+**Movimento**: 27m (9m)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (1)
 
 **Moral**: 8 (10 with king)
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 15 (bodyguard: 75)
 
@@ -870,26 +870,26 @@ _Larger and nastier relatives of goblins. Dwell underground, but commonly seek p
 
 **Tesouro**: D
 
-* **Hobgoblin king and bodyguards**: A 5HD (22hp) king and 1d4 4HD (3d6hp) bodyguards live in the hobgoblin lair. The king gains a +2 bonus to damage rolls. A thoul may sometimes be found among the king’s bodyguards.
+* **Hobgoblin king and bodyguards**: A 5HD (22pv) king and 1d4 4HD (3d6pv) bodyguards live in the hobgoblin lair. The king gains a +2 bonus to damage rolls. A thoul may sometimes be found among the king’s bodyguards.
 
 # Homem Lagarto
 _Semi-intelligent, tribal, aquatic humanoids with reptilian heads and tails. Often encountered in swamps and dungeons, or along rivers and coastlines._
 
 **Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 2+1 (10hp)
+**Dados de Vida**: 2+1 (10pv)
 
 **Ataques**: 1 × weapon (1d6+1 or by weapon + 1)
 
 **TAC0**: 17 [+2]
 
-**Movimento**: 60’ (20’) / 120’ (40’) in water
+**Movimento**: 18m (6m) / 120’ (40’) in water
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
 **Moral**: 12
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 25
 
@@ -906,7 +906,7 @@ _Non-adventuring humans without a character class. Artists, beggars, children, c
 
 **Classe de Armadura**: 9 [10]
 
-**Dados de Vida**: ½ (2hp)
+**Dados de Vida**: ½ (2pv)
 
 **Ataques**: 1 × weapon (1d6 or by weapon)
 
@@ -933,25 +933,25 @@ _Omnivorous wild boars that dwell primarily in forests. Can be irascible and dan
 
 **Classe de Armadura**: 7 [12]
 
-**Dados de Vida**: 3 (13hp)
+**Dados de Vida**: 3 (13pv)
 
 **Ataques**: 1 × tusk(2d4)
 
 **TAC0**: 17 [+2]
 
-**Movimento**: 150’ (50’)
+**Movimento**: 45m (50’)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
 **Moral**: 9
 
-**Tendência**: Neutral
+**Tendência**: Neutro
 
 **XP**: 35
 
 **Número Encontrado**: 1d6 (1d6)
 
-**Tesouro**: None
+**Tesouro**: Nenhum
 
 
 # Kobold
@@ -959,19 +959,19 @@ _Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell
 
 **Classe de Armadura**: 7 [12]
 
-**Dados de Vida**: ½ (2hp)
+**Dados de Vida**: ½ (2pv)
 
 **Ataques**: 1 × weapon (1d4 or by weapon – 1) 
 
 **TAC0**: 19 [0]
 
-**Movimento**: 60’ (20’)
+**Movimento**: 18m (6m)
 
 **Testes de Resistência**:  M14 V15 P16 S17 F18 (NH)
 
 **Moral**: 6 (8 with chieftain)
 
-**Tendência**: Chaotic
+**Tendência**: Caótico
 
 **XP**: 5 (bodyguard: 15, chieftain: 20)
 
@@ -982,6 +982,6 @@ _Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell
 * **Ambush**: Set up surprise attacks.
 * **Infravision**: 90’.
 * **Hate gnomes**: Attack on sight.
-* **Chieftain and bodyguards**: A 2HD (9hp) chieftain and 1d6 1+1HD (6hp) bodyguards live in the kobold lair.
+* **Chieftain and bodyguards**: A 2HD (9pv) chieftain and 1d6 1+1HD (6pv) bodyguards live in the kobold lair.
 * **Hoard**: Only have treasure type J when encountered in the wilderness or in their lair.
 
