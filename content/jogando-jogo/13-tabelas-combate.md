@@ -10,7 +10,7 @@ Estas tabelas listam as probabilidades de ataque para todos os monstros e person
 PdJs e PnJs com classe usam as tabelas de testes de resistências de suas classes, listadas nas respectivas classes.
 
 # Humanos Normais
-Todos os humanos que não sejam membros de uma classe de aventureiro são classificados como humanos normais. Eles são tratados como tendo menos de 1 Dado de Vida e e tem seus próprios valores para testes de resistência probabilidades de ataque.
+Todos os humanos que não sejam membros de uma classe de aventureiro são classificados como humanos normais. Eles são tratados como tendo menos de 1 Dado de Vida e tem seus próprios valores para testes de resistência e probabilidades de ataque.
 
 # Matriz de Ataque por TAC0
 
@@ -116,7 +116,7 @@ Todos os humanos que não sejam membros de uma classe de aventureiro são classi
 +----------------+--------------+
 
 # Jogadas de Ataque usando TAC0 (Regra Opcional)
-Ao invés de se referir a matriz de combate, os ataques podem ser resolvidos usando o TAC0 diretamente. Um valor de TAC0 representa a jogada de ataque necessária para atingir CA 0. A jogada de ataque necessária para atingir oponentes com outros valores de CA podem ser calculados subtraindo-se a CA do alvo fo TAC0. Por exemplo, um personagem com TAC0 19 pode atingir um alvo com CA 5 com uma jogada de 14 (19 - 5 = 14).
+Ao invés de se referir a matriz de combate, os ataques podem ser resolvidos usando o TAC0 diretamente. Um valor de TAC0 representa a jogada de ataque necessária para atingir CA 0. A jogada de ataque necessária para atingir oponentes com outros valores de CA podem ser calculados subtraindo-se a CA do alvo do TAC0. Por exemplo, um personagem com TAC0 19 pode atingir um alvo com CA 5 com uma jogada de 14 (19 - 5 = 14).
 
 **Nota**: usando TAC0 para resolver jogadas de ataque resulta em uma pequena diferença nas probabilidades de ataque, se comparado com abordagem referente à matriz de combate.
 

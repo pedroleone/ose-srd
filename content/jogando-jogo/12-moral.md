@@ -25,7 +25,7 @@ O árbitro joga 2d6 e compara o resultado com o valor de moral do monstro:
 
 # Quando testar a moral.
 
-O árbitro normalmente faz um testes de moral para monstros sob duas condições:
+O árbitro normalmente faz um teste de moral para monstros sob duas condições:
 
 **Primeira morte no lado**: a primeira vez que um dos seus aliados for morto em combate.
 
