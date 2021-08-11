@@ -136,18 +136,18 @@ _Seres extremamente mágicos, de livre arbítrio e inteligentes do plano element
 
 # Gigante 
 
-## Cloud Giant
-_Aggressive, 20’ tall humanoids with skin and hair ranging from grey to white. Dress in pale robes._
+## Gigante das Nuvens
+_Humanóides agressivos de 6m de altura, com cabelo e pele que vão do cinza ao branco. Se veste em túnicas pálidas._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 12+3 (57pv)
 
-**Ataques**: 1 × weapon (6d6) or 1 × boulder (3d6)
+**Ataques**: 1 × arma (6d6) or 1 × arremesso de rocha (3d6)
 
 **TAC0**: 10 [+9]
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (12m)
 
 **Testes de Resistência**:  M6 V7 P8 S8 F10 (12)
 
@@ -162,24 +162,24 @@ _Aggressive, 20’ tall humanoids with skin and hair ranging from grey to white.
 **Tesouro**: E + 5,000gp
 
 
-* **Keen sight and smell**: Only surprised on a 1.
-* **Boulder throwing**: Up to 200’.
-* **Castle**: Built into mountain-sides or floating on cloud banks.
-* **Guardians**: 3d6 giant hawks or (only in mountains) 6d6 dire wolves.
-* **Hate intruders**: May block mountain passes to ensure isolation.
+* **Olfato e visão apurados**: Só são supreendidos com resultado 1.
+* **Arremesso de rocha**: Até 60m.
+* **Castelo**: Construídos em encostas montanhosas ou flutuando em ilhas de nuvens.
+* **Guardiões**: 3d6 falcões gigantes ou (apenas em montanhas) 6d6 lobos atrozes.
+* **Odeiam intruosos**: Podem bloquear passagens nas montanhas para assegurar seu isolamento.
 
-## Fire Giant
-_16’ tall humanoids with black hair and red skin. Dress in armour fashioned from golden metals (brass, bronze, copper). Dwell in places of extreme heat (e.g. near volcanoes)._
+## Gigante do Fogo
+_Humanóides de 4,8m de altura com cabelos escuros e pele vermelha. Se vestem com armaduras feitas de metais dourados (bronze, cobre, latão). Ficam em lugares de calor extremo (por exemplo perto de vulcões)._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 11+2 (51pv)
 
-**Ataques**: 1 × weapon (5d6) or 1 × boulder (3d6)
+**Ataques**: 1 × arma (5d6) or 1 × arremesso de rocha (3d6)
 
 **TAC0**: 10 [+9]
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (12m)
 
 **Testes de Resistência**:  M6 V7 P8 S8 F10 (11)
 
@@ -193,23 +193,23 @@ _16’ tall humanoids with black hair and red skin. Dress in armour fashioned fr
 
 **Tesouro**: E + 5,000gp
 
-* **Boulder throwing**: Up to 200’.
-* **Fire immunity**: Unharmed by fire.
-* **Castle**: Black, low-walled. Made of baked mud and raw iron.
-* **Guardians**: 20% chance of 1d3 hydras, 3d6 hellhounds otherwise.
+* **Arremesso de rocha**: Até 60m.
+* **Imunidade a fogo**: Não é ferido por fogo.
+* **Castelo**: Preto, de muros baixos. Feito de lama seca e ferro cru.
+* **Guardiões**: 20% chance de 1d3 hidras, caso contrário 3d6 cães infernais .
 
-## Frost Giant
-_18’ tall humanoids with pale skin and pale hair (yellow or blue hued). Dress in furs or iron armour. Males have long beards._
+## Gigante do Gelo
+_Humanóides de 5,4m de altura com pele e cabelos pálidos (com tons amarelos ou azuis). Se vestem com gibões ou armadura de ferro. Os homens tem barba grande._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 10+1 (46pv)
 
-**Ataques**: 1 × weapon (4d6) or 1 × boulder (3d6)
+**Ataques**: 1 × arma (4d6) or 1 × arremsso de rocha (3d6)
 
 **TAC0**: 11 [+8]
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (12m)
 
 **Testes de Resistência**:  M6 V7 P8 S8 F10 (10)
 
@@ -223,23 +223,23 @@ _18’ tall humanoids with pale skin and pale hair (yellow or blue hued). Dress 
 
 **Tesouro**: E + 5,000gp
 
-* **Boulder throwing**: Up to 200’.
-* **Cold immunity**: Unharmed by cold-based attacks.
-* **Castle**: High upon snowy mountains.
-* **Guardians**: 20% chance of 3d6 polar bears, 6d6 wolves otherwise.
+* **Arremesso de rocha**: Até 60m.
+* **Imunidade a frio**: Não é afetado por ataques baseados em gelo/frio.
+* **Castelo**: No alto de montanhas nevadas. 
+* **Guardiões**: 20% chance de 3d6 ursos polares, caso contrário 6d6 lobos.
 
-## Hill Giant
-_Hairy, brutish, 12’ tall humanoids of low intelligence. Dwell in foothills. Known to attack human settlements to steal food._
+## Gigante das colinas
+_Humanóides de 3,6m peludos e bestiais com baixa inteligência. Habitam sopés. Famosos por atacarem assentamentos humanos para roubar comida._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 8 (36pv)
 
-**Ataques**: 1 × weapon (2d8)
+**Ataques**: 1 × arma (2d8)
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (12m)
 
 **Testes de Resistência**:  M8 V9 P10 S10 F12 (8)
 
@@ -253,20 +253,20 @@ _Hairy, brutish, 12’ tall humanoids of low intelligence. Dwell in foothills. K
 
 **Tesouro**: E + 5,000gp 
 
-* **Weapons**: Wield giant clubs and spears.
+* **Armas**: Portam clavas gigantes e lanças.
 
-## Stone Giant
-_14’ tall humanoids with stone-like, grey skin. Dwell in natural caverns or primitive huts built of stone._
+## Gigante das rochas
+_Humanóides de 4,2m com pele cinza rochosa. Habitam cavernas naturais ou cabanas primitivas construídas de pedra._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 9 (40pv)
 
-**Ataques**: 1 × weapon (3d6) or 1 × boulder (3d6)
+**Ataques**: 1 × arma (3d6) or 1 × arremesso de rocha (3d6)
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (12m)
 
 **Testes de Resistência**:  M8 V9 P10 S10 F12 (9)
 
@@ -280,28 +280,28 @@ _14’ tall humanoids with stone-like, grey skin. Dwell in natural caverns or pr
 
 **Tesouro**: E + 5,000gp
 
-* **Weapons**: Stone clubs made from huge stalactites.
-* **Boulder throwing**: Up to 300’.
-* **Guardians**: 50% chance of 1d4 cave bears.
+* **Armas**: Clavas de pedra feitas de estalactites gigantes.
+* **Arremesso de rocha**: Até 60m.
+* **Guardiões**: 50% chance of 1d4 ursos da caverna.
 
-## Storm Giant
-_22’ tall humanoids with bronze-hued skin and garish hair (red or yellow)._
+## Gigante das tempestades
+_Humanóides de 6,6m de altura com peles de tonalidade de bronze e cabelos vistosos (vermelhos ou amarelos)._
 
 **Classe de Armadura**: 2 [17]
 
 **Dados de Vida**: 15 (67pv)
 
-**Ataques**: 1 × weapon (8d6), 1 × lightning bolt
+**Ataques**: 1 × arma (8d6), 1 × relâmpago
 
 **TAC0**: 9 [+10]
 
-**Movimento**: 45m (50’)
+**Movimento**: 45m (15m)
 
 **Testes de Resistência**:  M4 V5 P6 S5 F8 (15)
 
 **Moral**: 10
 
-**Tendência**: Lawful 
+**Tendência**: Leal 
 
 **XP**: 1,350
 
@@ -309,20 +309,20 @@ _22’ tall humanoids with bronze-hued skin and garish hair (red or yellow)._
 
 **Tesouro**: E + 5,000gp
 
-* **Summon storm**: Takes 1 turn.
-* **Lightning bolts**: In a storm, may throw lightning once per 5 rounds: 18m long, 5’ wide; inflicts damage equal to the giant’s current hit point total (save versus spells for half damage); will bounce off of hard surfaces in its path.
-* **Lightning immunity**: Unharmed by lightning. Enjoy basking in storms.
-* **Castle**: High among mountain peaks, atop banks of clouds, or in deep waters.
-* **Guardians**: 2d4 griffons. Underwater: 3d6 giant crabs.
+* **Invocar tempestade**: Leva 1 turno.
+* **Relâmpago**: Em uma tempestade, podem arremessar relâmpagos uma vez a cada 5 rodadas: 18m de comprimento, 1,5m de largura; infligem dano igual aos pontos de vida totais do gigante (teste de resistência contra magias para metade do dano); podem ser refletidos nas superfícies que estiverem no caminho.
+* **Imunidade a raio**: Não são feridos por raios. Apreciam se expor a tempestades.
+* **Castelo**: No alto de picos montanhosos, em cima de ilhas de nuvens, ou em águas profundas. 
+* **Guardians**: 2d4 grifos. Debaixo d'água: 3d6 carangueijos gigantes.
 
 # Gnoll
-_Lazy, humanoid hyenas of low intelligence that live by intimidation and theft. Legends say that gnolls were magically created by a wizard who crossbred gnomes and trolls._
+_Humanóides preguiçosos com fomra de hiena e baixa inteligência que vivem de roubo e intimidação. Lendas dizem que os gnolls foram criados magicamente por um mago que cruzou gnomos e trolls._
 
 **Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 2 (9pv)
 
-**Ataques**: 1 × weapon (2d4 or by weapon + 1)
+**Ataques**: 1 × arma (2d4 ou por arma + 1)
 
 **TAC0**: 18 [+1]
 
@@ -334,23 +334,23 @@ _Lazy, humanoid hyenas of low intelligence that live by intimidation and theft. 
 
 **Tendência**: Caótico
 
-**XP**: 20 (leader: 35)
+**XP**: 20 (líder: 35)
 
 **Número Encontrado**: 1d6 (3d6)
 
 **Tesouro**: D
 
-* **Leader**: Groups of 20+ are led by a gnoll with 3HD (16pv).
+* **Líder**: Grupos de 20+ são liderados por um gnoll com 3 DVs (16pv).
 
 
 # Gnomo
-_Short demihumans with long noses and beards. Smaller cousins of dwarves, whom they get along with. Prefer to live in burrows in non-mountainous country._
+_Semihumanos baixo com nariz e barbas grandes. Primos menores dos anões, os quais se dão bem. Preferem viver em tocas em terrenos não montanhosos._
 
 **Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 1 (4pv)
 
-**Ataques**: 1 × weapon (1d6 or by weapon)
+**Ataques**: 1 × arma (1d6 ou por arma)
 
 **TAC0**: 19 [0]
 
@@ -358,9 +358,9 @@ _Short demihumans with long noses and beards. Smaller cousins of dwarves, whom t
 
 **Testes de Resistência**:  M8 V9 P10 S13 F12 (D1)
 
-**Moral**: 8 (10 in sight of leader or chieftain)
+**Moral**: 8 (10 se estiver a vista de um líder ou capitão)
 
-**Tendência**: Lawful or Neutro
+**Tendência**: Leal or Neutro
 
 **XP**: 10
 
@@ -368,21 +368,21 @@ _Short demihumans with long noses and beards. Smaller cousins of dwarves, whom t
 
 **Tesouro**: C
 
-* **Weapons**: Typically use warhammers and crossbows.
-* **Infravision**: 90’.
-* **Leader**: A 2HD (11pv) leader is present for every 20 gnomes.
-* **Clan chieftain and bodyguards**: A 4HD (18pv) chieftain and 1d6 3HD (1d4 + 9pv) bodyguards live in the gnome lair. The chieftain gains a +1 bonus to damage.
-* **Hate kobolds**: Normally attack on sight.
-* **Mines and machines**: Love machinery, mining, gold, and gems. May make foolish decisions to obtain precious items. War with goblins and kobolds over precious metals.
+* **Armas**: Tipicamente usam martelos de guerra e bestas. 
+* **Infravisão**: 27m.
+* **Líder**: Um líder de 2 DV (11pv) está presente para cada 20 gnomos. 
+* **Chefes do clã e guarda costas**: Um chefe de 4 DV (18pv) e 1d6 3DV (1d4+9pv) guarda-costas vivem no lar dos gnomos. O chefe tem +1 de bônus no dano.
+* **Odeiam kobolds**: Normalmente atacam assim que são avistados.
+* **Minas e maquinário**: Amam maquinário, mineração, ouro e gemas. Podem tomar más decisões para obter itens preciosos. Guerreiam com goblins e kobolds para obter metais preciosos.
 
 # Goblin
-_Small, grotesque humanoids with pallid, earth-coloured skin and glowing, red eyes. Dwell underground._
+_Pequenos e grotescos humanóis com pele cor de terra pálida e olhos vermelhos brilhantes. Vivem no subterrâneo._
 
 **Classe de Armadura**: 6 [13]
 
 **Dados de Vida**: 1–1 (3pv)
 
-**Ataques**: 1 × weapon (1d6 or by weapon)
+**Ataques**: 1 × arma (1d6 ou por arma)
 
 **TAC0**: 19 [0]
 
@@ -390,22 +390,22 @@ _Small, grotesque humanoids with pallid, earth-coloured skin and glowing, red ey
 
 **Testes de Resistência**:  M14 V15 P16 S17 F18 (NH)
 
-**Moral**: 7 (9 with king)
+**Moral**: 7 (9 com o rei)
 
 **Tendência**: Caótico
 
-**XP**: 5 (bodyguard: 20, king: 35)
+**XP**: 5 (guardacostas: 20, rei: 35)
 
 **Número Encontrado**: 2d4 (6d10)
 
 **Tesouro**: R (C)
 
-**Infravision**: 90’.
-* **Hate the sun**: –1 to-hit in full daylight.
-* **Wolf riders**: 20% of goblin groups encountered have wolf riders: ¼ of the group mounted on dire wolves.
-* **Hate dwarves**: Attack on sight.
-* **Goblin king and bodyguards**: A 3HD (15pv) king and 2d6 2HD (2d6pv) bodyguards live in the goblin lair. They do not suffer attack penalties in daylight. The king gains a +1 bonus to damage.
-* **Hoard**: Only have treasure type C when encountered in the wilderness or in their lair.
+* **Infravisão**: 27m.
+* **Odeiam o sol**: -1 para acertar se estiver sob a luz do sol.
+* **Cavalgam lobos**: 20% dos grupos de goblin encontrados tem cavaleiros de lobos: ¼ do grupo estão montados em lobos atrozes.
+* **Odeiam anões**: Atacam assim que são avistados.
+* **Rei goblin e guarda-costas**: Um rei de 3DV (15pv) e 2d6 guarda-costas com 2DV (2d6pv) vivem no lar dos goblins. Eles não sofrem penalidade sob a luz do sol. O rei tem um bônus de +1 no dano. 
+* **Tesouro**: Só tem o tipo de tesouro C quando for encontrado em regiões selvagens ou no seu lar.
 
 # Gólem 
 _Artificial beings constructed from different materials by mighty clerics or wizards._
