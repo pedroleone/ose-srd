@@ -1,5 +1,5 @@
 ---
-title: "Lista Monstros G-K ❌"
+title: "Lista Monstros G-K"
 metaTitle: "Lista Monstros G-K"
 metaDescription: "Monstros > Lista Monstros G-K"
 ---
@@ -408,20 +408,21 @@ _Pequenos e grotescos humanóis com pele cor de terra pálida e olhos vermelhos 
 * **Tesouro**: Só tem o tipo de tesouro C quando for encontrado em regiões selvagens ou no seu lar.
 
 # Gólem 
-_Artificial beings constructed from different materials by mighty clerics or wizards._
+_Seres artificiais construídos de diferentes materiais por clérigos ou magos poderosos._
 
-* **Immunity**: Unharmed by gas; unaffected by charm, hold, and sleep spells.
-* **Other materials**: Golems formed of other materials are also possible.
-* **Constructing**: A very complex, expensive, and time-consuming process.
+* **Imunidade**: Não é afetado por gases; não é afetado por magias de encantar, sono e imobilizar pessoas.
+* **Outros materiais**: Golens formados de outros materiais também são possíveis.
+* **Construção**: Um processo extremamente complexo, caro e moroso.
 
-## Amber Golem
-_Constructed in the form of giant cats (e.g. lions or tigers)._
+
+## Gólem de Âmbar
+_Construído no formato de felinos gigantes (e.g. leões ou tigres)._
 
 **Classe de Armadura**: 6 [13]
 
 **Dados de Vida**: 10** (45pv)
 
-**Ataques**: 2 × claw (2d6), 1 × bite (2d10)
+**Ataques**: 2 × garra (2d6), 1 × mordida (2d10)
 
 **TAC0**: 11 [+8]
 
@@ -439,22 +440,23 @@ _Constructed in the form of giant cats (e.g. lions or tigers)._
 
 **Tesouro**: Nenhum
 
-* **Mundane damage immunity**: Can only be harmed by magical attacks.
-* **Tracking**: Without error.
-* **Detect invisible creatures**: Within 60’.
+* **Imunidade a dano mundano**: Só pode ser ferido por ataques mágicos.
+* **Rastreamento**: Sem chance erro.
+* **Detectar criaturas invisíveis**: Em um raio de 18m.
 
-## Bone Golem
-_6’ tall constructs of human bone, crafted into a humanoid shape. Have four arms, attached at different places on the torso._
+## Gólem de Osso
+_Autômato de 1,8m de altura feito de ossos humanos, moldado em uma forma humanóide. Tem quatro braços, ligados ao torso em diferentes lugares._
+
 
 **Classe de Armadura**: 2 [17]
 
 **Dados de Vida**: 8 (36pv)
 
-**Ataques**: 2 or 4 × weapon (1d6 or by weapon)
+**Ataques**: 2 ou 4 × arma (1d6 ou por arma)
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (12m)
 
 **Testes de Resistência**:  M10 V11 P12 S13 F14 (4)
 
@@ -468,19 +470,20 @@ _6’ tall constructs of human bone, crafted into a humanoid shape. Have four ar
 
 **Tesouro**: Nenhum
 
-* **Mundane damage immunity**: Can only be harmed by magical attacks.
-* **Weapons**: 4×1-handed or 2×2-handed.
-* **Attack multiple opponents**: Up to 2 per round.
-* **Energy immunity**: Unharmed by fire, cold, and electricity.
+* **Imunidade a dano mundano**: Só pode ser ferido por ataques mágicos.
+* **Armas**: 4 armas de uma mão, ou 2 armas de duas mãos.
+* **Atacar múltiplos oponentes**: Até dois por rodada.
+* **Imunidade a energia**: Não é afetado por fogo, gelo e eletricidade.
 
-## Bronze Golem
-_Bronze constructs that resemble fire giants, possessing a great internal heat._
+## Golem de Bronze
+_Autômato de bronze que lembram gigantes do fogo, que possuem um grande calor interno._
+
 
 **Classe de Armadura**: 0 [19]
 
 **Dados de Vida**: 20** (90pv)
 
-**Ataques**: 1 × fist (3d10 + 1d10 heat)
+**Ataques**: 1 × punhos (3d10 + 1d10 calor)
 
 **TAC0**: 6 [+13]
 
@@ -498,22 +501,22 @@ _Bronze constructs that resemble fire giants, possessing a great internal heat._
 
 **Tesouro**: Nenhum
 
-* **Mundane damage immunity**: Can only be harmed by magical attacks.
-* **Flaming blood**: If damaged by an edged weapon, emits a spurt of liquid fire: attacker suffers 2d6 damage (save versus death to avoid).
-    Fire immunity: Unharmed by fire.
+* **Imunidade a dano mundano**: Só pode ser ferido por ataques mágicos.
+* **Sangue flamejante**: Se for ferido por uma arma de corte, emite um jato de líquido flamejante: o atacante recebe 2d6 de dano (teste de reistência contra morte para evitar).
+* **Imunidade a fogo**: Não é ferido por fogo.
 
-## Wood Golem
-_3’ tall, roughly constructed, humanoid figures of wood._
+## Golem de Madeira
+_90cm de altura, rusticamente contruídos de madeira em formatos humanóides._
 
 **Classe de Armadura**: 7 [12]
 
 **Dados de Vida**: 2+2 (11pv)
 
-**Ataques**: 1 × fist (1d8)
+**Ataques**: 1 × punhos (1d8)
 
 **TAC0**: 17 [+2]
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (12m)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (1)
 
@@ -527,22 +530,22 @@ _3’ tall, roughly constructed, humanoid figures of wood._
 
 **Tesouro**: Nenhum
 
-* **Mundane damage immunity**: Can only be harmed by magical attacks.
-* **Initiative**: –1 penalty due to stiff movement.
-* **Flammable**: –2 to saves against fire attacks; suffers one extra point of damage per die.
+* **Imunidade a dano mundano**: Só pode ser ferido por ataques mágicos.
+* **Iniciativa**: -1 de iniciativa devido a dificuldade em se movimentar.
+* **Inflamável**: -2 em testes de resistência contra ataques de fogo; sofrem um ponto de dano extra por dado.
 
 # Gorgon
-_Magical monsters that resemble iron-scaled bulls. Dwell in plains or foothills._
+_Monstros mágicos que se parecem com touros com escamas de ferro. Vivem em planícies ou sopés de morros._
 
 **Classe de Armadura**: 2 [17]
 
 **Dados de Vida**: 8* (36pv)
 
-**Ataques**: 1 × gore (2d6) or 1 × breath (petrify)
+**Ataques**: 1 × chifre (2d6) or 1 × sopro (petrificação)
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (12m)
 
 **Testes de Resistência**:  M8 V9 P10 S10 F12 (8)
 
@@ -556,8 +559,8 @@ _Magical monsters that resemble iron-scaled bulls. Dwell in plains or foothills.
 
 **Tesouro**: E
 
-* **Charge**: When not in melee. Requires a clear run of at least 20 yards. Gore inflicts double damage.
-* **Petrifying breath**: Cloud 18m long, 10’ wide. All in the cloud are turned to stone (save versus petrify to avoid). Unharmed by own breath.
+* **Carga**: Quando não estiver em corpo-a-corpo. Requer um espaço livre de pelo menos 20 metros. Chifres causam o dobro do dano.
+* **Sopro de petrificação**: Uma núvem de 18m de comprimento, 3m de largura. Todos na névoa são transformados em pedra (teste de resistência contra petrificação para evitar). Não é afetado pelo próprio sopro.
 
 
 # Gorila Branco
@@ -588,24 +591,25 @@ _Primatas similares a gorilas, albinos e herbívoros, que vivem em cavernas e em
 * **Territorial**: Defendem seus lares com ameaças e, se ignorados, violência.
 
 # Grandes Felinos
-_Cautious hunters that usually avoid combat with humans unless starving or cornered. Great cats may be playful, but are quick to anger. They remain outdoors, rarely venturing deep underground._
+_Caçadores cauteosos que normalmente evitam combate a menos que estejam famintos ou encurralados. Grandes felinos podem ser brincalhões, mas rapidamente se irritam. Eles ficam em áreas abertas, raramente entrando em lugares subterrâneos._
 
-* **Pursuit**: Always pursue prey that flees.
-* **Favoured prey**: Often develop a taste for a certain type of meat (this may include humans!), hunting that creature with preference.
-* **Inquisitive**: May follow PCs out of curiosity.
+* **Perseguição**: Sempre perseguem presas que fogem.
+* **Presa favorita**: Frequentemente desenvolvem um gosto por certo tipo de carne (podendo inclusive ser carne humana!), e preferencialmente caçam esta criatura.
+* **Curioso**: Pode seguir os PJs por curiosidade.
 
-## Lion
-_Hunt in groups called “prides”. Live in hot regions, typically in savannah or scrublands close to deserts._
+## Leão
+_Caça em grupos chamados de alcatéias. Vivem em regiões quentes, tipicamente em savanas ou cerrados próximos a desertos._
+
 
 **Classe de Armadura**: 6 [13]
 
 **Dados de Vida**: 5 (22pv)
 
-**Ataques**: 2 × claw (1d4+1), 1 × bite (1d10)
+**Ataques**: 2 × garras (1d4+1), 1 × mordida (1d10)
 
 **TAC0**: 15 [+4]
 
-**Movimento**: 45m (50’)
+**Movimento**: 45m (15m)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (3)
 
@@ -619,20 +623,21 @@ _Hunt in groups called “prides”. Live in hot regions, typically in savannah 
 
 **Tesouro**: U
 
-* **Pursuit**: Always pursue prey that flees
+* **Perseguição**: Sempre perseguem presas que fogem.
 
-## Mountain Lion
-_Have yellow-brown fur and favour mountains, deserts, and forests. Will occasionally venture into dungeons._
+## Onça-parda
+_Tem pelagem amarelo-amarronzado e preferem montanhas, desertos e florestas. Ocasionalmente podem aventurar-se em masmorras._
+
 
 **Classe de Armadura**: 6 [13]
 
 **Dados de Vida**: 3+2 (15pv)
 
-**Ataques**: 2 × claw (1d3), 1 × bite (1d6)
+**Ataques**: 2 × garras (1d3), 1 × mordida (1d6)
 
 **TAC0**: 16 [+3]
 
-**Movimento**: 45m (50’)
+**Movimento**: 45m (15m)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
@@ -646,20 +651,20 @@ _Have yellow-brown fur and favour mountains, deserts, and forests. Will occasion
 
 **Tesouro**: U
 
-* **Pursuit**: Always pursue prey that flees
+* **Perseguição**: Sempre perseguem presas que fogem.
 
-## Panther
-_High-speed hunters that live in plains and forests._
+## Leopardo
+_Caçadores rápidos que vivem em planícies e florestas._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 4 (18pv)
 
-**Ataques**: 2 × claw (1d4), 1 × bite (1d8)
+**Ataques**: 2 × garra (1d4), 1 × mordida (1d8)
 
 **TAC0**: 16 [+3]
 
-**Movimento**: 210’ (70’)
+**Movimento**: 63m (21m)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
@@ -673,10 +678,11 @@ _High-speed hunters that live in plains and forests._
 
 **Tesouro**: U 
 
-* **Pursuit**: Always pursue prey that flees
+* **Perseguição**: Sempre perseguem presas que fogem.
 
-## Sabre-Toothed Tiger
-_Huge, aggressive cats with foot-long fangs. Normally only found in Lost World regions._
+## Tigres dente-de-sabre
+_Felinos enormes e agressivos com presas de 30cm. Normalmente só encontradas em regiões do Mundo Perdido._
+
 
 **Classe de Armadura**: 6 [13]
 
@@ -686,7 +692,7 @@ _Huge, aggressive cats with foot-long fangs. Normally only found in Lost World r
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 45m (50’)
+**Movimento**: 45m (15m)
 
 **Testes de Resistência**:  M10 V11 P12 S13 F14 (4)
 
@@ -700,16 +706,17 @@ _Huge, aggressive cats with foot-long fangs. Normally only found in Lost World r
 
 **Tesouro**: V
 
-* **Pursuit**: Always pursue prey that flees
+* **Perseguição**: Sempre perseguem presas que fogem.
 
-## Tiger
-_Large, solitary hunters with striped camouflage markings. Favour woodlands and cooler regions._
+## Tigre
+_Grandes caçadores solitários com padrões de camuflagem na pelagem. Preferem bosques e regiões mais frias._
+
 
 **Classe de Armadura**: 6 [13]
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 2 × claw (1d6), 1 × bite (2d6)
+**Ataques**: 2 × garra (1d6), 1 × mordida (2d6)
 
 **TAC0**: 14 [+5]
 
@@ -727,21 +734,21 @@ _Large, solitary hunters with striped camouflage markings. Favour woodlands and 
 
 **Tesouro**: U
 
-* **Pursuit**: Always pursue prey that flees
-* **Surprise**: On a 1–4, in woodland, due to camouflage.    
+* **Perseguição**: Sempre perseguem presas que fogem.
+* **Supres**: Em um resultado 1-4 em bosques e florestas, devido a sua camuflagem.
 
 # Grifo
-_Large, rapacious predators combining the features of an eagle (head, wings, front claws) and a lion. Prey on horses._
+_Grandes e vorazes predadores que combinam características de uma águia (cabeça, asas, garras frontais) e um leão. Caçam cavalos._
 
 **Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 7 (31pv)
 
-**Ataques**: 2 × claw (1d4), 1 × bite (2d8)
+**Ataques**: 2 × garras (1d4), 1 × mordida (2d8)
 
 **TAC0**: 13 [+6]
 
-**Movimento**: 120’ (40’) / 318m (120’) flying
+**Movimento**: 36m (12m) / 108m (36m) Vôo
 
 **Testes de Resistência**:  M10 V11 P12 S13 F14 (4)
 
@@ -755,22 +762,24 @@ _Large, rapacious predators combining the features of an eagle (head, wings, fro
 
 **Tesouro**: E
 
-* **Attack horses**: Within 120’, unless a morale check is passed.
-* **Defend nest**: Attack if it is approached.
-* **Taming**: Captured young can be trained as loyal mounts. Their fierce nature cannot be trained out: they still instinctively attack horses.
+* **Atacam cavalos**: Dentro de 36m, a menos que sejam bem-sucedidos em um teste de moral.
+* **Defendem ninho**: Atacam qualquer um que se aproximem.
+* **Domesticação**: Indivíduos jovens podem ser treinados em montarias leais. A sua natureza feroz não pode ser domada: eles ainda instintivamente atacam cavalos.
+
 
 # Harpia
-_Hideous hags with the wings and lower bodies of giant eagles. Use their song to lure victims to their doom._
+_Criaturas horrendas com asas e metade inferior do corpo de águias gigantes. Utilizam suas canções para atrair vítimas para o seu fim._
+
 
 **Classe de Armadura**: 7 [12]
 
 **Dados de Vida**: 3* (13pv)
 
-**Ataques**: 2 × claw (1d4), 1 × weapon (1d6 or by weapon), 1 × song (charm)
+**Ataques**: 2 × garras (1d4), 1 × arma (1d6 ou por arma), 1 × canto (encantamento)
 
 **TAC0**: 17 [+2]
 
-**Movimento**: 18m (6m) / 45m (50’) flying
+**Movimento**: 18m (6m) / 45m (15m) vôo
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (3)
 
@@ -784,23 +793,24 @@ _Hideous hags with the wings and lower bodies of giant eagles. Use their song to
 
 **Tesouro**: C
 
-* **Charm**: Anyone who hears the song of a group of harpies must save versus spells or be charmed: move towards the harpies (resisting those who try to prevent it); defend the harpies; obey the harpies’ commands (if understood); unable to cast spells or use magic items; unable to harm the harpies. A character who saves is unaffected for the rest of the encounter. Killing the harpies breaks the charm.
-* **Magic resistance**: +2 to all saving throws.
+* **Encantamento**: Qualquer um que escute a canção de harpias devem passar em um teste de resistência contra magias ou serão encantados: se movem em direção das harpias (resistindo àqueles que tentarem preveni-lo); defendem as harpias, obedecem os comandos das harpias (se compreendê-las); incapaz de ferir as harpias. Um personagem que passar no teste de resistência não é afetado pelo canto pelo resto do encontro. Matar as harpias quebra o encantamento.
+* **Resistência a magia**: +2 em todos os testes de resistência.
+
 
 # Hidra
-_Large, dragon-like creatures with multiple, serpentine heads. Sea hydras (adapted to water, with fins) also exist._
+_Criaturas enormes parecidas com dragões e cabeças de serpentes. Hidras aquáticas (adaptadas a água, com guelras) também existem._
 
 **Classe de Armadura**: 5 [14]
 
-**Dados de Vida**: 5 to 12 (8hp per HD)
+**Dados de Vida**: 5 a 12 (8hp por DV)
 
-**Ataques**: 5 to 12 × bite (1d10)
+**Ataques**: 5 a 12 × mordida (1d10)
 
-**TAC0**: 	By HD (15 [+4] to 10 [+9])
+**TAC0**: 	Por DV (15 [+4] a 10 [+9])
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (12m)
 
-**Testes de Resistência**:  By HD
+**Testes de Resistência**:  Por DV
 
 **Moral**: 9
 
@@ -812,22 +822,23 @@ _Large, dragon-like creatures with multiple, serpentine heads. Sea hydras (adapt
 
 **Tesouro**: B
 
-* **Heads**: 1d8+4 heads; 1HD per head.
-* **Disabling heads**: For every 8hp damage taken, one head is disabled (cannot attack).
-* **Variants**: Special hydras sometimes found with venom, fiery breath, etc.
+* **Cabeças**: 1d8+4 cabeças. 1DV por cabeça.
+* **Incapacitando cabeças**: Para cada 8pv de dano recebido, uma cabeça é incapacidade (não é capaz de atacar).
+* **Variantes**: Hidras especiais às vezes são encontradas com veneno, sopro de fogo, etc.
 
 # Hipogrifo
-_Fantastic creatures combining the features of a giant eagle (head and forequarters) and a horse. Nest among craggy rocks._
+_Criaturas fantásticas que combinam características de uma águia gigante (cabeça e parte superior do tronco) e um cavalo. Aninham-se entre rochas escarpadas._
+
 
 **Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 3+1 (14pv)
 
-**Ataques**: 2 × claw (1d6), 1 × bite (1d10)
+**Ataques**: 2 × garras (1d6), 1 × mordida (1d10)
 
 **TAC0**: 16 [+3]
 
-**Movimento**: 54m (18m) / 318m (120’) flying
+**Movimento**: 54m (18m) / 108m (36m) flying
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
@@ -841,18 +852,18 @@ _Fantastic creatures combining the features of a giant eagle (head and forequart
 
 **Tesouro**: Nenhum
 
-* **Hate pegasi**: Will usually attack.
-* **Mount**: Can carry a human-sized rider.
-* **Taming**: Can be trained as mounts.
+* **Odeiam pegasus**: Normamente irão atacá-los.
+* **Montaria**: Podem carregar um cavaleiro de tamanho humano.
+* **Domesticação**: Podem ser treinados como montaria.
 
 # Hobgoblin
-_Larger and nastier relatives of goblins. Dwell underground, but commonly seek prey above ground._
+_Variedade maior e mais perigosa de goblins. Vivem no subterrâneo, mas comumente procuram presa na superfície._
 
 **Classe de Armadura**: 6 [13]
 
 **Dados de Vida**: 1+1 (5pv)
 
-**Ataques**: 1 × weapon (1d8 or by weapon)
+**Ataques**: 1 × arma (1d8 ou por arma)
 
 **TAC0**: 18 [+1]
 
@@ -860,30 +871,30 @@ _Larger and nastier relatives of goblins. Dwell underground, but commonly seek p
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (1)
 
-**Moral**: 8 (10 with king)
+**Moral**: 8 (10 com rei)
 
 **Tendência**: Caótico
 
-**XP**: 15 (bodyguard: 75)
+**XP**: 15 (guardacostas: 75)
 
 **Número Encontrado**: 1d6 (4d6)
 
 **Tesouro**: D
 
-* **Hobgoblin king and bodyguards**: A 5HD (22pv) king and 1d4 4HD (3d6pv) bodyguards live in the hobgoblin lair. The king gains a +2 bonus to damage rolls. A thoul may sometimes be found among the king’s bodyguards.
+* **Rei hobgoblin e guarda-costas**: Um rei de 5 DVs (22pvs) e 1d4 guarda-costas de 4 DV (3d6pvs) vivem no lar dos hobgoblins. Um rei tem +2 de bônus em rolagens de dano. Um thoul pode ser encontrado ocasionalmente entre os guarda-costas do rei.
 
 # Homem Lagarto
-_Semi-intelligent, tribal, aquatic humanoids with reptilian heads and tails. Often encountered in swamps and dungeons, or along rivers and coastlines._
+_Humanóides aquáticos, tribais, semi-inteligentes com cabeças reptilianas e caudas. Normalmente encontrados em pântanos e masmorras, ou ao longo de rios e regiões costeiras._
 
 **Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 2+1 (10pv)
 
-**Ataques**: 1 × weapon (1d6+1 or by weapon + 1)
+**Ataques**: 1 × arma (1d6+1 ou por arma + 1)
 
 **TAC0**: 17 [+2]
 
-**Movimento**: 18m (6m) / 120’ (40’) in water
+**Movimento**: 18m (6m) / 36m (12m) in water
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
@@ -897,28 +908,27 @@ _Semi-intelligent, tribal, aquatic humanoids with reptilian heads and tails. Oft
 
 **Tesouro**: D
 
-
-* **Weapons**: Favour spears or large clubs.
-* **Man-eaters**: Kidnap humans and demihumans, whose flesh they regard as a delicacy.
+* **Armas**: Preferem lanças ou grandes clavas.
+* **Comedores de homens**: Sequestram humanos e semihumanos, cuja carne eles consideram uma iguaria.
 
 # Humano Comum
-_Non-adventuring humans without a character class. Artists, beggars, children, craftspeople, farmers, fishermen, housewives, scholars, slaves._
+_Humanos não aventureiros que não possuem classe de personagem. Artistas, mendigos, crianças, artesões, fazendeiros, pescadores, donas de casa, estudiosos, escravos._
 
 **Classe de Armadura**: 9 [10]
 
 **Dados de Vida**: ½ (2pv)
 
-**Ataques**: 1 × weapon (1d6 or by weapon)
+**Ataques**: 1 × arma (1d6 ou por arma)
 
 **TAC0**: 20 [–1]
 
-**Movimento**: 120’ (40’)
+**Movimento**: 36m (18m)
 
 **Testes de Resistência**:  M14 V15 P16 S17 F18 (NH)
 
 **Moral**: 6
 
-**Tendência**: Any
+**Tendência**: Qualquer
 
 **XP**: 5
 
@@ -926,20 +936,20 @@ _Non-adventuring humans without a character class. Artists, beggars, children, c
 
 **Tesouro**: U
 
-* **Gaining XP**: Must select a character class after gaining XP on an adventure.
+* **Ganhando XP**: Devem escolher uma classe de personagem depois de ganhar XP em uma aventura.
 
 # Javali
-_Omnivorous wild boars that dwell primarily in forests. Can be irascible and dangerous, if disturbed._
+_Javalis selvagens onívoros que vivem primariamente em florestas. Podem ser irritáveis e perigosos, se forem perturbados._
 
 **Classe de Armadura**: 7 [12]
 
 **Dados de Vida**: 3 (13pv)
 
-**Ataques**: 1 × tusk(2d4)
+**Ataques**: 1 × presa (2d4)
 
 **TAC0**: 17 [+2]
 
-**Movimento**: 45m (50’)
+**Movimento**: 45m (15m)
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
@@ -955,13 +965,13 @@ _Omnivorous wild boars that dwell primarily in forests. Can be irascible and dan
 
 
 # Kobold
-_Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell underground._
+_Pequenos e malévolos humanóides caninos, com pele escamosa cor de ferrugem. Vivem no subterrâneo._
 
 **Classe de Armadura**: 7 [12]
 
 **Dados de Vida**: ½ (2pv)
 
-**Ataques**: 1 × weapon (1d4 or by weapon – 1) 
+**Ataques**: 1 × arma (1d4 ou por arma – 1) 
 
 **TAC0**: 19 [0]
 
@@ -969,19 +979,18 @@ _Small, wicked, hairless, canine humanoids with scaly, rust-coloured skin. Dwell
 
 **Testes de Resistência**:  M14 V15 P16 S17 F18 (NH)
 
-**Moral**: 6 (8 with chieftain)
+**Moral**: 6 (8 com chefe)
 
 **Tendência**: Caótico
 
-**XP**: 5 (bodyguard: 15, chieftain: 20)
+**XP**: 5 (guarda-costas: 15, chefe: 20)
 
 **Número Encontrado**: 4d4 (6d10)
 
 **Tesouro**: P (J)
 
-* **Ambush**: Set up surprise attacks.
-* **Infravision**: 90’.
-* **Hate gnomes**: Attack on sight.
-* **Chieftain and bodyguards**: A 2HD (9pv) chieftain and 1d6 1+1HD (6pv) bodyguards live in the kobold lair.
-* **Hoard**: Only have treasure type J when encountered in the wilderness or in their lair.
+* **Emboscada**: Preparam ataques surpresas.
+* **Infravisão**: 27m.
+* **Odeiam gnomos**: Atacam assim que avistarem.
+* **Chefe e guarda-costas**: Um chefe de 2 DV (9 pv) e 1d6 guarda-costas com 1+1 DV (6 pvs) vivem em um lar de kobolds.
 
