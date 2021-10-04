@@ -4,12 +4,11 @@ Repositório dos dados do OSE SRD
 ## Rodando localmente no Linux
 
 ### 1. Instalar ferramentas
-#### No `Debian 11` e nas distribuições nele baseadas:
+No `Debian 11` e nas distribuições nele baseadas:
 ```sh
 sudo aptitude install npm nodejs
 ```
-#### No `Debian 10` e anteriores, e nas distribuições nele baseadas:
-Primeiro instale o `npm`:
+No `Debian 10` e anteriores, e nas distribuições nele baseadas, primeiro instale o `npm`:
 ```sh
 sudo aptitude install npm
 ```
@@ -23,8 +22,7 @@ sudo apt-get install -y nodejs
 curl -fsSL https://deb.nodesource.com/setup_16.x | bash -
 apt-get install -y nodejs
 ```
-#### Para outras distribuições
-Consulte o site do desenvolvedor, as instruções são bem simples: [nodesource distributions](https://github.com/nodesource/distributions/blob/master/README.md).
+Para outras distribuições consulte o site do desenvolvedor, as instruções são bem simples: [nodesource distributions](https://github.com/nodesource/distributions/blob/master/README.md).
 ### 2. Clonar o repositório
 ```sh
 git clone https://github.com/pedroleone/osr-srd.git
