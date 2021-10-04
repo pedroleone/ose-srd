@@ -89,7 +89,7 @@ Pode dissipar uma magia Missão. Se o personagem que conjurou a magia Missão qu
 
 Esta magia tem dois usos:
 
-1. **Restaurar vida**: a um humano ou semi humano morto recentemente. Veja abaixo.
+1. **Restaurar vida**: a um humano ou semi-humano morto recentemente. Veja abaixo.
 2. **Destruir morto-vivo**: um único monstro morto-vivo é destruído, se falhar em um teste de resistência contra magia.
 
 **Restaurar vida**: quando utilizada para restaurar vida, as seguintes condições se aplicam:

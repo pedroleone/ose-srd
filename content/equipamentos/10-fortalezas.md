@@ -20,7 +20,7 @@ Quando os PdJs desejam construir fortalezas ou qualquer outro tipo de construç�
 
 **Permissão**: embora regentes locais possam permitir que os PdJ construam em uma vila, é improvável que eles concedam permissão para a construção de castelos ou fortificações.
 
-Custos: quando construir em uma vila ou cidade,  a proximidade dos materiais e da mão-de-obra reduzem bastante os custos.
+Custos: quando construir em uma vila ou cidade, a proximidade dos materiais e da mão-de-obra reduzem bastante os custos.
 
 **Construções de pedra**: reduzidas em 60%.
 
@@ -38,7 +38,7 @@ O PdJ pode desejar atrair colonos para uma área liberada. Além disso, para gar
 
 ## Taxação
 
-Se colonos se mudarem para o domínio do PdJ, o personagem pode esperar receber uma taxa de 10 po por ano de caso colono.
+Se colonos se mudarem para o domínio do PdJ, o personagem pode esperar receber uma taxa de 10 po por ano de cada colono.
 
 # Estruturas
 
@@ -46,30 +46,30 @@ Se colonos se mudarem para o domínio do PdJ, o personagem pode esperar receber 
 | Preços das Estruturas                                            |
 +==========================================+=======================+
 | **Estrutura**                            | **Custo**             |
-+------------------------------------------+-----------------------+                
-| Antemuro                                 | 37.000 po             |                    
 +------------------------------------------+-----------------------+
-| Bastião                                  | 9.000 po              |                   
+| Antemuro                                 | 37.000 po             |
 +------------------------------------------+-----------------------+
-| Edifício civil, pedra                    | 3.000 po              |                   
+| Bastião                                  | 9.000 po              |
 +------------------------------------------+-----------------------+
-| Edifício civil, madeira                  | 1.500 po              |                   
+| Edifício civil, pedra                    | 3.000 po              |
 +------------------------------------------+-----------------------+
-| Ponte levadiça                           | 500 po                |                 
+| Edifício civil, madeira                  | 1.500 po              |
 +------------------------------------------+-----------------------+
-| Portaria                                 | 6.500 po              |                   
+| Ponte levadiça                           | 500 po                |
 +------------------------------------------+-----------------------+
-| Torre de Menagem                         | 75.000 po             |                    
+| Portaria                                 | 6.500 po              |
 +------------------------------------------+-----------------------+
-| Fosso                                    | 400 po                |                 
+| Torre de Menagem                         | 75.000 po             |
 +------------------------------------------+-----------------------+
-| Passaegm subterrânea                     | 500 po                |                 
+| Fosso                                    | 400 po                |
 +------------------------------------------+-----------------------+
-| Torre, grande                            | 30.000 po             |                    
+| Passaegm subterrânea                     | 500 po                |
 +------------------------------------------+-----------------------+
-| Torre, pequena                           | 15.000 po             |                    
+| Torre, grande                            | 30.000 po             |
 +------------------------------------------+-----------------------+
-| Muro, castelo                            | 5.000 po              |                   
+| Torre, pequena                           | 15.000 po             |
++------------------------------------------+-----------------------+
+| Muro, castelo                            | 5.000 po              |
 +------------------------------------------+-----------------------+
 
 ## Descrições
@@ -90,7 +90,7 @@ Se colonos se mudarem para o domínio do PdJ, o personagem pode esperar receber 
 
 **Fosso**: vala defensiva, frequentemente cheia de água. 30 m de comprimento, 6 m de largura, 3 m de profundidade.
 
-**Passaem subterrânea**: uma passagem para as masmorras com normalmente 3 m x 3 m x 3 m. 
+**Passaem subterrânea**: uma passagem para as masmorras com normalmente 3 m x 3 m x 3 m.
 
 **Torre, grande**: torre circular, independente ou embutida na parede do castelo. Base de 9 m, 12 m de altura, paredes com 1,5 m.
 
@@ -134,51 +134,48 @@ Por simplicidade, o custo de uma fortaleza pode ser elevada em 25% para levar em
 
 Se o grupo desejar realizar cálculos mais detalhados ou se características adicionais forem requeridas, a tabela abaixo pode ser consultada.
 
-
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
 | Características de estruturas internas                                                                                             |
 +==================================================+=====================================================+===========================+
-| **Detalhe*                                       | **Dimensões **                                      | **Custo (po)**            |                        
+| **Detalhe**                                      | **Dimensões**                                       | **Custo (po)**            |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Seteiras                                         | &ndash;                                             | 10                        |             
+| Alçapão, ferro                                   | 1,2 m x 90 cm                                       | 120                       |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta, ferro                                     | 90 cm largura, 2,1 m de altura                      | 50                        |             
+| Alçapão, madeira                                 | 1,2 m x 90 cm                                       | 20                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta, madeira reforçada                         | 90 cm largura, 2,1 m de altura                      | 20                        |             
+| Alçapão, madeira reforçada                       | 1,2 m x 90 cm                                       | 40                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta, pedra                                     | 90 cm largura, 2,1 m de altura                      | 50                        |             
+| Alçapão, pedra                                   | 1,2 m x 90 cm                                       | 120                       |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta, madeira                                   | 90 cm largura, 2,1 m de altur                       | 10                        |             
+| Cobertura, madeira                               | Seção de 3 m x 3 m                                  | 40                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Piso, lage ou ladrilho                           | Seção de 3 m x 3 m                                  | 100                       |              
+| Cobertura, telhas                                | Seção de 3 m x 3 m                                  | 100                       |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Piso, madeira                                    | Seção de 3 m x 3 m                                  | 40                        |             
+| Escadas, madeira                                 | Seção de 90 cm de largura, 3 m comprimento          | 20                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Cobertura, telhas                                | Seção de 3 m x 3 m                                  | 100                       |              
+| Escadas, pedra                                   | Seção de 90 cm de largura, 3 m comprimento          | 60                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Cobertura, madeira                               | Seção de 3 m x 3 m                                  | 40                        |             
+| Janela                                           | &ndash;                                             | 10                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta secreta ou alçapão                         | Normal                                              | 5 × normal                |                     
+| Janela, barras                                   | &ndash;                                             | 10                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Parede móvel                                     | Seção de 3 m x 3 m                                  | 1.000                     |                
+| Janela, persianas                                | &ndash;                                             | 5                         |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Escadsa, pedra                                   | Seção de 90 cm de largura, 3 m comprimento          | 60                        |             
+| Parede móvel                                     | Seção de 3 m x 3 m                                  | 1.000                     |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Stairs, wooden                                   | Seção de 90 cm de largura, 3 m comprimento          | 20                        |             
+| Piso, laje ou ladrilho                           | Seção de 3 m x 3 m                                  | 100                       |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Alçapão, ferro                                   | 1,2 m x 90 cm                                       | 120                       |              
+| Piso, madeira                                    | Seção de 3 m x 3 m                                  | 40                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Alçapão, madeira reforçada                       | 1,2 m x 90 cm                                       | 40                        |             
+| Porta, ferro                                     | 90 cm largura, 2,1 m de altura                      | 50                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Alçapão, pedra                                   | 1,2 m x 90 cm                                       | 120                       |              
+| Porta, madeira                                   | 90 cm largura, 2,1 m de altur                       | 10                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Alçapão, madeira                                 | 1,2 m x 90 cm                                       | 20                        |             
+| Porta, madeira reforçada                         | 90 cm largura, 2,1 m de altura                      | 20                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Janela                                           | &ndash;                                             | 10                        |             
+| Porta, pedra                                     | 90 cm largura, 2,1 m de altura                      | 50                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Barras para janelas                              | &ndash;                                             | 10                        |             
+| Porta secreta ou alçapão                         | Normal                                              | 5 × normal                |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Persianas para janelas                           | &ndash;                                             | 5                         |   
+| Seteiras                                         | &ndash;                                             | 10                        |
 +--------------------------------------------------+-----------------------------------------------------+---------------------------+
-
-

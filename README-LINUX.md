@@ -37,7 +37,7 @@ Já está tudo instalado, agora pode rodar o site. Ainda na pasta do projeto (os
 ```sh
 gatsby develop
 ```
-Pode demorar um pouquinho, mas quando aparecer uma mensagem parecida com essa:
+Pode demorar um pouquinho (cerca de 1 minuto), mas quando aparecer uma mensagem parecida com essa:
 ```sh
 success Building development bundle - 9.146s
 ```

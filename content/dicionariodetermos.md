@@ -1,67 +1,73 @@
 ---
-title: "Dicionário de Termos"
+title: "Dicionário de Termos ❌"
 metaTitle: "Dicionário de Termos"
 metaDescription: "Dicionário de Termos"
 ---
 
-**Characters**: Personagens
-
 **Ability Scores**: Atributos
-
-**Class**: Classe
-
-**Race**: Raça
-
-**Level**: Nível
-
-**Class**: Classe
-
-**Prime Requisite**:
 
 **Alignment**: Alinhamento
 
-**Hit Dice**: Dado de Vida
-
 **Armour Class**: Classe de Armadura
 
-**Saving Throw**: 
+**Ascending AC**: CA Ascendente
 
-**Movement Rate**:
+**Characters**: Personagens
 
-**Class Abilities**:
+**Checks, Damage and Saves**: Testes, Dano e Resistência
 
-**Ascending AC**:
+**City**: Cidade
 
-**Cleric**:
+**Class Abilities**: Habilidades de Classe
 
-**Dwarf**:
+**Class(es)**: Classe(s)
 
-**Elf**:
+- **Cleric**: Clérigo
 
-**Figther**:
+- **Dwarf**: Anão
 
-**Halfling**:
+- **Elf**: Elfo
 
-**Magic-User**:
+- **Figther**: Guerreiro
 
-**Thief**:
+- **Halfling**: Halfling
 
-**Retainer**:
+- **Magic-User**: Mago
 
-**Hirelings**:
+- **Thief**: Ladrão
 
-**Wilderness Adventuring**:
+**Demihuman**: Semi-humano (em alguns lugares consta "semi humano", separado)
 
-**Dungeon Adventuring**:
+**Dungeon Adventuring**: Aventuras em Masmorras (cf. Jogando o Jogo > Aventuras em Masmorras)
 
-**Checks, Damage and Saves**:
+**Hamlet**: Aldeia
+
+**Hirelings**: Empregados (cf. Personagens > Empregados)
+
+**Hit Dice**: Dado de Vida
+
+**Level**: Nível
+
+**Movement Rate**: Taxa de Movimentação
+
+**PC / NPC**: PJ/PdM ou PdJ/PnJ ou PJ/PNJ ? Não está unificado. A unificação também vai depender da tradução adotada para "Mestre": se ficar "árbitro" não pdoe usar PdM para NPC, teria que ser PNJ (eu prefiro em maiúscula).
+- Jogando o Jogo > Tabelas de Combate - consta PdJ / PnJ
+- Mestrando Aventuras -> Papel do Mestre - PNJ
+
+**Prime Requisite**: Requisito Primário (cf. Personagens > Atributos)
+
+**Race**: Raça
+
+**Referee**: Árbitro ou Mestre? Nos títulos consta "mestre", mas no corpo do texto consta "árbitro".
+
+**Retainer**: Seguidor (cf. Personagens > Atributos)
+
+**Saving Throw**: Teste de Resistência
 
 **Spells / Rods / Staves**: Magias / Bastões / Cajados
 
-**Hamlet** = Aldeia
+**Town**: Vila
 
-**Village** = Vilarejo
+**Village**: Vilarejo
 
-**Town** = Vila
-
-**City** = Cidade
+**Wilderness Adventuring**: Aventuras nos Ermos (cf. Jogando o Jogo > Aventuras nos Ermos)
