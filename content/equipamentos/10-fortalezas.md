@@ -90,7 +90,7 @@ Se colonos se mudarem para o domínio do PdJ, o personagem pode esperar receber 
 
 **Fosso**: vala defensiva, frequentemente cheia de água. 30 m de comprimento, 6 m de largura, 3 m de profundidade.
 
-**Passaem subterrânea**: uma passagem para as masmorras com normalmente 3 m x 3 m x 3 m.
+**Passagem subterrânea**: uma passagem para as masmorras com normalmente 3 m x 3 m x 3 m.
 
 **Torre, grande**: torre circular, independente ou embutida na parede do castelo. Base de 9 m, 12 m de altura, paredes com 1,5 m.
 
