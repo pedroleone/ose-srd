@@ -1,7 +1,7 @@
 ---
-title: "Mestrando o Jogo"
-metaTitle: "Mestrando o Jogo"
-metaDescription: "Mestrando Aventuras -> Mestrando o Jogo"
+title: "Conduzindo o Jogo"
+metaTitle: "Conduzindo o Jogo"
+metaDescription: "Mestrando Aventuras -> Conduzindo o Jogo"
 ---
 
 # Descrevendo o Desconhecido
@@ -14,7 +14,7 @@ Quando estiver descrevendo o que os personagens dos jogadores experimentam duran
 
 **Estatísticas de monstros e PnJ**: as estatísticas de jogo (exemplo pontos de vida, nível) de monstros e PnJ nunca devem ser reveladas aos jogadores. Em combate, o árbitro deve descrever os efeitos do dano em um monstro, ao invés de dizer aos jogadores quantos pontos de vida ele ainda tem.
 
-**Itens mágicos**: devem ser descritos, ao invés de referidos pelo nome. Apenas pela experimentação os personagens podem descobrir quais poderes um item mágico possui (e se ele é realmente um item mágico!) 
+**Itens mágicos**: devem ser descritos, ao invés de referidos pelo nome. Apenas pela experimentação os personagens podem descobrir quais poderes um item mágico possui (e se ele é realmente um item mágico!).
 
 # Descrevendo Áreas Exploradas
 O procedimento normal é os jogadores desenharem mapas das áreas sendo exploradas, baseado na descrição do árbitro.

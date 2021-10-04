@@ -1,13 +1,13 @@
 ---
-title: "Papel do Mestre"
-metaTitle: "Papel do Mestre"
-metaDescription: "Mestrando Aventuras -> Papel do Mestre"
+title: "Papel do Árbitro"
+metaTitle: "Papel do Árbitro"
+metaDescription: "Mestrando Aventuras -> Papel do Árbitro"
 ---
 
 # Facilitador de Diversão e Aventura
-O árbitro deve trazer à vida aventuras empolgantes para o divertimento do grupo.oup.
+O árbitro deve trazer à vida aventuras empolgantes para o divertimento do grupo.
 
-**Preparação**: Antes do início do jogo, a aventura deve ser planejada e os mapas necessários, desenhados. Conselhos sobre _design_ de aventuras estão mais à frente nesta seção. 
+**Preparação**: Antes do início do jogo, a aventura deve ser planejada e os mapas necessários, desenhados. Conselhos sobre _design_ de aventuras estão mais à frente nesta seção.
 
 **Improvisação**: Apesar da preparação do árbitro, é impossível prever todas as possíveis ações dos jogadores. Eles irão trazer ideias que o árbitro sequer imaginou. Por isso é importante que o árbitro se mantenha flexível e se adapte a qualquer rumo inesperado que a aventura possa tomar!
 
@@ -15,7 +15,7 @@ O árbitro deve trazer à vida aventuras empolgantes para o divertimento do grup
 
 **Equilíbrio**: O árbitro deve manter um equilíbrio divertido de risco e recompensa.
 
-# Juíz Neutro
+# Juiz Neutro
 O árbitro deve manter-se neutro em todos aspectos - nem do lado dos jogadores, nem contra eles.
 
 **Não-competitivo**: O jogo não é uma competição, com os jogadores tentando derrotar o árbitro ou vice-versa.
@@ -23,7 +23,7 @@ O árbitro deve manter-se neutro em todos aspectos - nem do lado dos jogadores, 
 **Justiça**: As regras do jogo devem ser aplicadas igualmente para personagens dos jogadores, monstros e PNJs.
 
 # Árbitro das Regras
-O árbitro deve decidir quandom e como aplicar as regras do jogo.
+O árbitro deve decidir quando e como aplicar as regras do jogo.
 
 **Resoluções**: As regras do jogo - incluindo descrições de itens mágicos, magias ou habilidades especiais de monstros - não cobrem todas os cenários possíveis, então o árbitro deve estar pronto para decidir como resolver qualquer situação inesperada que surja.
 
