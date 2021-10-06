@@ -1,5 +1,5 @@
 ---
-title: "Grupos de Aventureiros ❌"
+title: "Grupos de Aventureiros"
 metaTitle: "Grupos de Aventureiros"
 metaDescription: "Monstros > Grupos de Aventureiros"
 ---
@@ -13,38 +13,38 @@ Este procedimento gera grupos de PNJs aventureiros a serem usados em encontros a
 
 Se as classes apresentadas neste documento não estiverem em uso, o árbitro deve substituir as classes listadas pelas equivalentes em uso na campanha.
 
-# Adventureiros Iniciantes
+# Aventureiros Iniciantes
 
 * **Composição**: 1d4+4 personagens de classe e nível aleatórios (veja abaixo).
 * **Alinhamento**: role o alinhamento de cada PNJ ou role uma vez para o grupo.
 
-# Adventureiros Experientes
+# Aventureiros Experientes
 
 * **Composição**: 1d6+3 personagens de classe e nível aleatórios (veja abaixo).
 * **Alinhamento**: role o alinhamento de cada PNJ ou role uma vez para o grupo.
-* **Montaria**: 75% chance of being mounted, in the wilderness.
-* **Itens mágicos**: Per individual: there is a chance of the NPC having a magic item from each suitable magic item sub-table (see Magic Items). The chance per sub-table is 5% per level of the NPC. Rolled items that cannot be used by the NPC should be ignored (no re-roll).
+* **Montaria**: 75% chance de ter montaria, no ermo.
+* **Itens mágicos**: por indivíduo - há uma chance do PNJ ter um item mágico de cada subtabela de item mágico apropriada (veja Itens Mágicos). A chance por subtabela é de 5% por nível do PNJ. Itens rolados que não podem ser usados pelo PNJ devem ser ignorados (sem rerolar).
 
 # Clérigo de Nível Alto
 
-A high-level cleric and party. (Mounts and magic items as per Expert Adventurers.)
+Um clérigo de alto nível e um grupo (montarias e itens mágicos de acordo com Aventureiros Experientes).
 
-* **Composição**: Leader (cleric of level 1d6+6), 1d4 clerics (level 1d4+1), 1d3 fighters (level 1d6).
+* **Composição**: líder (clérigo de nível 1d6+6), 1d4 clérigos (nível 1d4+1), 1d3 guerreiros (nível 1d6).
 * **Alinhamento**: role para todo o grupo.
 
 # Guerreiro de Nível Alto
 
-A high-level fighter and a group of retainers, often on their way to or from war. (Mounts and magic items as per Expert Adventurers.)
+Um guerreiro de alto nível e um grupo de seguidores, geralmente a caminho ou retornando de uma guerra (montarias e itens mágicos de acordo com Aventureiros Experientes).
 
-* **Composição**: Leader (fighter of level 1d4+6), 2d4 retainers (level 1d4+2, any class).
+* **Composição**: líder (guerreiro de nível 1d4+6), 2d4 seguidores (nível 1d4+2, qualquer classe).
 * **Alinhamento**: role para todo o grupo.
 
 # Mago de Nível Alto
 
-A high-level magic-user, accompanied by their apprentices and a group of hired guards, often on a quest for arcane lore. (Mounts and magic items as per Expert Adventurers.)
+Um mago de alto nível, acompanhado por seus aprendizes e um grupo de guardas contratados, frequentemente em busca de conhecimento arcano (montarias e itens mágicos de acordo com Aventureiros Experientes).
 
-* **Composição**: Leader (magic-user of level 1d4+6), 1d4 apprentices (magic-users of level 1d3), 1d4 mercenaries (fighters of level 1d4+1).
-* **Alinhamento**: Roll the leader’s alignment. The apprentices have the same alignment as the leader, but the mercenaries may be of different alignment.
+* **Composição**: líder (mago de nível 1d4+6), 1d4 aprendizes (magos de nível 1d3), 1d4 mercenários (guerreiros de nível 1d4+1).
+* **Alinhamento**: role o alinhamento do líder. Os aprendizes têm o mesmo alinhamento do líder, mas os mercenários podem ser de alinhamento diferente.
 
 # Classe e Nível do PNJ Aventureiro
 

@@ -1,5 +1,5 @@
 ---
-title: "Encontros em Masmorras "
+title: "Encontros em Masmorras"
 metaTitle: "Encontros em Masmorras"
 metaDescription: "Monstros > Encontros em Masmorras"
 ---
@@ -10,7 +10,8 @@ Esta seção contém tabelas de encontro por nível da masmorra, usando os monst
 Role 1d20 e compare o resultado na coluna da tabela abaixo, que corresponda ao nível da masmorra sendo explorada. O resultado indicará o monstro encontrado e a quantidade deles em parênteses.
 
 # OBSERVAÇÕES
-**Aventureiros PnJ**: encontros com grupos de aventureiros de PnJs são listadas nas tabelas “Aventureiros Comuns” ou “Aventureiros Experientes”. Orientações para a criação de aventureiros PnJs podem ser encontradas na seção Grupos de Aventureiros. 
+**Aventureiros PNJs**: encontros com grupos de aventureiros de PNJs são listadas nas tabelas “Aventureiros Comuns” ou “Aventureiros Experientes”. Orientações para a criação de aventureiros PNJs podem ser encontradas na seção Grupos de Aventureiros.
+
 **Número encontrado**: o valor listado na tabela para alguns monstros não coincidem com os valores listados na descrição dos monstros. Se desejar, o árbitro pode usar o número de aparição listado na descrição do monstro, para ter mais consistência.
 
 # ENCONTRO POR NÍVEL DA MASMORRA (NÍVEIS 1 A 3)
