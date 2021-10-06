@@ -15,7 +15,7 @@ Se você rolar um personagem com atributos muito ruins - por exemplo 8 ou menos 
 # 2. Escolha uma Classe
 Escolha uma das classes disponíveis (veja Classes de Personagem), tendo em mente o valor mínimo de atributos que algumas classes possuem como requisito.
 
-# 3. Ajuste Valores de Atributos
+# 3. Ajuste os Valores de Atributos
 Se você desejar, você pode aumentar o atributo (ou atributos) que são o requisito primário da classe escolhida diminuindo o valor de outros atributos que não são requisitos primários. Para cada dois pontos que você reduzir, um ponto pode ser adicionado a um requisito primário. As restrições abaixo se aplicam:
 * Apenas Inteligência, Força e Sabedoria podem ser diminuídos desta forma.
 * Nenhum atributo pode ser diminuído abaixo de 9.
@@ -37,8 +37,6 @@ Para uma referência ágil, é recomendado que você consulte os valores da matr
 | CA Acertada      | 9   | 8   |  7  |  6  |  5  |  4  |  3  |  2  |   1 | 0   |
 +------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 
-
-
 # 6. Anote as Jogadas de Resistência e as Habilidades de Classe
 Anote quaisquer habilidades que seu personagem possua devido a sua escolha de classe, assim como as jogadas de resistência do seu personagem. Se o seu personagem tem um grimório, pergunte ao árbitro quais magias estão escritas nele. O árbitro pode permitir que você as escolha.
 
@@ -48,7 +46,7 @@ Determine os pontos de vida do seu personagem rolando o tipo de dado determinado
 ## Re-Rolando 1 ou 2 (Regra Opcional)
 Se a rolagem de seus pontos de vida cair em 1 ou 2 no dado (antes de aplicar qualquer modificador de CON), o árbitro pode permitir que você re-role. Isto é feito para aumentar a capacidade de sobrevivência de personagens de 1º nível.
 
-# 8. Escolha Alinhamento
+# 8. Escolha o Alinhamento
 Decida se o seu personagem é Leal, Neutro ou Caótico (veja Alinhamento) e anote na sua ficha de personagem.
 
 # 9. Anote as Línguas Conhecidas
@@ -67,7 +65,7 @@ A Classe de Armadura do seu personagem é determinada por dois fatores:
 ## CA Sem Armadura
 Se o seu personagem não tem armadura, sua CA base é 9 [0].
 
-# 12. Anote o nível e XP
+# 12. Anote o Nível e a XP
 Seu personagem começa o jogo no 1º nível com 0 pontos de experiência (XP).
 
 # 13. Nomeie seu Personagem

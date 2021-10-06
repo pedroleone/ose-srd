@@ -12,6 +12,8 @@ metaDescription: "Dicionário de Termos"
 
 **Ascending AC**: CA Ascendente
 
+**Caster**: Conjurador
+
 **Characters**: Personagens
 
 **Checks, Damage and Saves**: Testes, Dano e Resistência
@@ -63,6 +65,8 @@ metaDescription: "Dicionário de Termos"
 **Retainer**: Seguidor (cf. Personagens > Atributos)
 
 **Saving Throw**: Teste de Resistência
+
+**Spell Caster**: Conjurador
 
 **Spells / Rods / Staves**: Magias / Bastões / Cajados
 

@@ -33,11 +33,11 @@ Faça alguns anotações sobre a presença dos seguintes serviços que os aventu
 
 # 3. Detalhe o regente
 
-Decida como a vila é regida: se por um xerife local ou prefeito apontado por um Lorde, um conselho eleito, uma confedereção de comerciantes etc. Também é possível que um PnJ aventureiro de alto nível (com guardas e magia) possa governar a cidade.
+Decida como a vila é regida: se por um xerife local ou prefeito apontado por um Lorde, um conselho eleito, uma confedereção de comerciantes etc. Também é possível que um PNJ aventureiro de alto nível (com guardas e magia) possa governar a cidade.
 
-# 4. Detalhe outros PnJs
+# 4. Detalhe outros PNJs
 
-Outros PnJs importantes na vila devem ser registrados, especialmente aqueles associados com um dos serviços mencionados acima, ou aqueles que possam querer contratar os PdJs para realizar missões.
+Outros PNJs importantes na vila devem ser registrados, especialmente aqueles associados com um dos serviços mencionados acima, ou aqueles que possam querer contratar os PJs para realizar missões.
 
 # 5. Crie rumores
 

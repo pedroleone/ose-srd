@@ -46,10 +46,10 @@ Faça anotações descrevendo cada área no mapa que recebeu um número. Monstro
 **Detalhes secundários**: detalhes descritivos adicionais para cada área também devem ser registrados: móveis, itens do dia a dia, cheiros, sons, luzes etc.
 
 ## Níveis da masmorra
-As masmorras normalmente consistem de uma série de andares mais e mais profundos - conhecidos como níveis - acessíveis por meio de escadas, alçapões, calhas, poços etc. Os PdJs entram no 1º nível da masmorra inicialmente e podem descobrir entradas para para níveis mais profundos.
+As masmorras normalmente consistem de uma série de andares mais e mais profundos - conhecidos como níveis - acessíveis por meio de escadas, alçapões, calhas, poços etc. Os PJs entram no 1º nível da masmorra inicialmente e podem descobrir entradas para para níveis mais profundos.
 
 ## Perigo e recompensa
-Geralmente, o nível de perigo e a quantidade de tesouro em uma masmorra deve ser apropriada para o nível dos PdJs.
+Geralmente, o nível de perigo e a quantidade de tesouro em uma masmorra deve ser apropriada para o nível dos PJs.
 
 É comum para os níveis mais inferiores da masmorra que existam grandes riscos e recompensas. Normalmente, monstros de 1 DV vivem no primeiro nível da masmorra, mostros com 2 DV no segundo nível da masmorra e assim por diante.
 
