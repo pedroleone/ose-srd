@@ -12,7 +12,7 @@ Quando estiver descrevendo o que os personagens dos jogadores experimentam duran
 
 **Ataques surpresa**: quando os personagens forem atacados de surpresa, o árbitro deve simplesmente descrever o ataque, ao invés de dar aos jogdores uma descrição completa do monstro atacando. Por exemplo, um personagem pode ver apenas uma mão com garras acertando-o a partir das sombras. Apenas nas rodadas de combate seguintes uma descrição mais detalhada do monstro deve ser fornecida.
 
-**Estatísticas de monstros e PnJ**: as estatísticas de jogo (exemplo pontos de vida, nível) de monstros e PnJ nunca devem ser reveladas aos jogadores. Em combate, o árbitro deve descrever os efeitos do dano em um monstro, ao invés de dizer aos jogadores quantos pontos de vida ele ainda tem.
+**Estatísticas de monstros e PNJs**: as estatísticas de jogo (exemplo pontos de vida, nível) de monstros e PNJs nunca devem ser reveladas aos jogadores. Em combate, o árbitro deve descrever os efeitos do dano em um monstro, ao invés de dizer aos jogadores quantos pontos de vida ele ainda tem.
 
 **Itens mágicos**: devem ser descritos, ao invés de referidos pelo nome. Apenas pela experimentação os personagens podem descobrir quais poderes um item mágico possui (e se ele é realmente um item mágico!).
 
@@ -32,4 +32,4 @@ Alguns grupos gostam de usar miniaturas junto com uma superfície quadriculada p
 
 **Escala**: a escala mais utilizada é de 2,5 cm na superfície equivalando a 1,5 m no mundo de jogo (ou 5 metros para encontros externos)
 
-**Miniaturas**: miniaturas estão disponíveis para venda em muitas companhias diferentes. Alternativamente, simples marcadores como dados ou missangas podem ser usadas.
+**Miniaturas**: miniaturas estão disponíveis para venda em muitas companhias diferentes. Alternativamente, simples marcadores como dados ou missangas podem ser usados.

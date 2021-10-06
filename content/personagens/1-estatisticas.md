@@ -4,7 +4,7 @@ metaTitle: "Estatísticas de jogo"
 metaDescription: "Personagens -> Estatísticas"
 ---
 
-Os personagens dos jogadores (PdJs) são descritos, em termos de jogo, por um grupo de valores que definem as suas habilidades, pontos fortes e fraquezas no mundo de jogo.
+Os personagens dos jogadores (PJs) são descritos, em termos de jogo, por um grupo de valores que definem as suas habilidades, pontos fortes e fraquezas no mundo de jogo.
 
 # Valores de Atributos
 Os Atributos definem os pontos fortes e fracos dos personagens. Existem 6 atributos: Força (abreviado FOR), Inteligência (INT), Sabedoria (SAB), Destreza (DES), Constituição (CON) e Carisma (CAR). O personagem é classificado em cada atributo por um número entre 3 e 18 (3 sendo o pior número possível e 18 o melhor).
@@ -29,7 +29,7 @@ O valor de atributo (ou atributos) que são os mais importantes para a classe do
 # Alinhamento
 O personagem (e todas as outras criaturas no mundo de jogo) está alinhado com um dos três princípios cósmicos: Ordem, Neutralidade, ou Caos (ver Alinhamento). Este alinhamento determina como certas magias influenciam o personagem, e podem ser usados pelo jogador como um guia de como interpretar seu personagem.
 
-# Pontos de Vida (pv)
+# Pontos de Vida (PV)
 A capacidade do personagem de evitar a morte. O personagem tem um total máximo de pontos de vida, e um valor atual de pontos de vida, que são controlados separadamente. Quando um personagem é ferido, o seu total de pontos de vida atual é reduzido. Se este número chegar a zero, o personagem morre! Descanso ou cura pode recuperar pontos de vida perdidos, mas nunca acima do total de pontos de vida do personagem (que só aumenta quando o personagem sobe de nível).
 
 # Dados de Vida (DV)
@@ -55,7 +55,7 @@ Alguns grupos estão mais familiarizados com um sistema em que Classes de Armadu
 
 * **Classe de Armadura**: quando utilizar CAA, valores mais altos são melhores. Bônus em Classes de Armadura aumentam o valor de CAA, e penalidades diminuem.
 * **Jogadas de ataque**: ao invés de consultar uma matriz de ataque (veja Matriz de Ataque por TAC0), as jogadas de ataque utilizam um bônus que é adicionado à jogada do d20 no ataque (veja Combate).
-* **Valores de CAA**: valores de CA para monstros e equipamentos são seguidos pelo seu valor equivalente em CAA em colchetes.
-* **Bônus de ataque**: valores de TAC0 para monstros e classes são seguidos por seu valor equivalente de bônus de ataque em colchetes.
+* **Valores de CAA**: valores de CA para monstros e equipamentos são seguidos pelo seu valor equivalente em CAA entre colchetes.
+* **Bônus de ataque**: valores de TAC0 para monstros e classes são seguidos por seu valor equivalente de bônus de ataque entre colchetes.
 
 **Nota**: Utilizar Classe de Armadura Ascendente resulta em uma probabilidade de ataque ligeiramente diferente do que se fosse utilizado a maneira tradicional de CA descendente com uma matriz de ataque.

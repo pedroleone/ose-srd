@@ -8,7 +8,7 @@ Todos os personagens que retornam de uma aventura vivos recebem pontos de experi
 
 # Tesouro recuperado
 
-Tesouros que os PdJ trazem de suas aventuras são a principal forma de ganhar XP - representando cerca de 3/4 ou mais da XP total recebida.
+Tesouros que os PJ trazem de suas aventuras são a principal forma de ganhar XP - representando cerca de 3/4 ou mais da XP total recebida.
 
 **Tesouros não mágicos**: os personagens ganham 1 XP por peça de ouro (po) em valor do tesouro.
 

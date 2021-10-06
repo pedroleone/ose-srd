@@ -33,7 +33,7 @@ Patrulhas como as descritas são apenas uma pequena parte da guarnição do gove
 A reação do governante aos viajantes transitando em seu domínio depende da classe do governante e pode ser determinada rolando 1d6 e consultando esta tabela:
 
 +--------+-------------+---------------+-----------+
-| Reação do Governante conforme a Classe           |
+| Reação conforme a Classe do Governante           |
 +========+=============+===============+===========+
 | **d6** | **Clérigo** | **Guerreiro** | **Mago**  |
 +--------+-------------+---------------+-----------+
