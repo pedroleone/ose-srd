@@ -4,8 +4,6 @@ metaTitle: "Básico"
 metaDescription: "Monstros > Básico"
 ---
 
-
-
 # Estatísticas do Jogo
 
 Os monstros estão descritos com as seguintes estatísticas.
@@ -65,7 +63,7 @@ A probabilidade do monstro persistir na batalha. Consulte Moral (Regra Opcional)
 
 ## Alinhamento (AL)
 
-A afiliação do monstro à Ordem, Neutralidade ou Caos. Se "qualquer" estiver listado, o Mestre pode rolar aleatoriamente ou escolher o alinhamento da criatura.
+A afiliação do monstro à Ordem, Neutralidade ou Caos. Se "qualquer" estiver listado, o árbitro pode rolar aleatoriamente ou escolher o alinhamento da criatura.
 
 ## Recompensa em XP (XP)
 
@@ -75,11 +73,11 @@ Recompensa de XP pré-calculado por derrotar o monstro.
 
 Listado como dois valores, o segundo entre parênteses.
 
-**Zeros**: Se o primerio valor é zero, monstros desse tipo geralmente não serão encontrados em masmorras. Se o segundo valor é um zero, monstros desse tipo não serão geralmente encontrados em regiões selvagens e geralemnte não têm covis.
+**Zeros**: Se o primeiro valor é zero, monstros desse tipo geralmente não serão encontrados em masmorras. Se o segundo valor é um zero, monstros desse tipo não serão geralmente encontrados em regiões selvagens e geralmente não têm covis.
 
 **Uso**: O uso desses valores depende da situação em que os monstros são encontrados:
 
-* **Monstros vagantes em uma masmorra**: O primeiro valor determina o númerod e monstros encontrados vagando em uma masmorra em um nível igual ao seu DV. Se o monstro encontrado é de um nível maior que seu DV, o número de aparecimento pode ser aumentado; se encontrado em um nível menor que seu DV, o número de aparecimento pode ser reduzido.
+* **Monstros vagantes em uma masmorra**: O primeiro valor determina o número de monstros encontrados vagando em uma masmorra em um nível igual ao seu DV. Se o monstro encontrado é de um nível maior que seu DV, o número de aparecimento pode ser aumentado; se encontrado em um nível menor que seu DV, o número de aparecimento pode ser reduzido.
 * **Covil de monstros em uma masmorra**: O segundo valor lista o número de monstros encontrados em um covil numa masmorra.
 Monstros vagantes em regiões selvagens: O segundo valor indica o número de monstros encontrados vagando em regiões selvagens.
 * **Covil de monstros em regiões selvagens**: O segundo valor multiplicado por 5 indica o número de monstros encontrados num covil em regiões selvagens.
@@ -88,7 +86,7 @@ Monstros vagantes em regiões selvagens: O segundo valor indica o número de mon
 
 O código de letras usado para determinar a quantidade e tipo de tesouro possuído por monstro(s) (veja Tipos de Tesouro, p230) As letras listadas são usadas da seguinte forma:
 
-* **A até O**: Indica uma acumulação: a soma de riquezas de um monstro grande ou uma ocmunidade pequena de monstros, geralmente escondidos no covil. Para monstros com um tamanho de encontro de covil (veja Números de Aparecimento) maiores que 1d4, a quantidade de tesouro acumulado pode ser reduzida, se o número de monstros for menor que a média.
+* **A até O**: Indica uma acumulação: a soma de riquezas de um monstro grande ou uma comunidade pequena de monstros, geralmente escondidos no covil. Para monstros com um tamanho de encontro de covil (veja Números de Aparecimento) maiores que 1d4, a quantidade de tesouro acumulado pode ser reduzida, se o número de monstros for menor que a média.
 * **P até V**: Se listado para um monstro inteligente, indica o tesouro carregado por indivíduos (P até T) ou por um grupo (U, V). Se listados para um monstro não-inteligente, indica o tesouro dos corpos de suas vítimas.
 
 # Notas Gerais
@@ -99,8 +97,8 @@ Todos os monstros não humanos tem infravisão (veja Escuridão, p106). A menos 
 
 ## Idiomas
 
-20% dos monstros intelgentes conseguem falar Comum (veja Idiomas, p19), a não ser que a descrição do monstro diga o contrário. Muitas espécies de monstros inteligentes também tem seu próprio idioma.
+20% dos monstros inteligentes conseguem falar Comum (veja Idiomas, p19), a não ser que a descrição do monstro diga o contrário. Muitas espécies de monstros inteligentes também tem seu próprio idioma.
 
 ## Pessoas
 
-Os seguintes monstros deste livro são classificados como "pessoas", por motivos de efeitos mágicos: acólito, bandido, berserker, bandido, bucaneiro, bugurso, dervixe, anão, elfo, gnoll, gnomo, goblin, halfling, hobgoblin, kobold, homem lagarto, médium, mercador, tritão, neandertal, nixie, nobre, humano normal, ogro, orc, pirata, pixie, sprite, comerciante, troglodita, veterano.
+Os seguintes monstros deste livro são classificados como "pessoas", por motivos de efeitos mágicos: acólito, bandido, furioso, bandido, bucaneiro, bugbear, dervixe, anão, elfo, gnoll, gnomo, goblin, halfling, hobgoblin, kobold, homem-lagarto, médium, mercador, tritão, neandertal, nixie, nobre, humano normal, ogro, orc, pirata, pixie, sprite, comerciante, troglodita, veterano.

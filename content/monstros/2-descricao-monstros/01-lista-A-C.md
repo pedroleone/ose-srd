@@ -663,7 +663,7 @@ _Marinheiros que ganham a vida pilhando assentamentos costeiros e outras embarca
 * **Tesouros**: dividido entre as embarcações. Ao invés de carregado a bordo, pode haver um mapa indicando onde está enterrado.
 * **Portos**: cidades costeiras sem lei e fortificadas, que podem funcionar como refúgios para bucaneiros e piratas.
 
-# Bugurso
+# Bugbear
 _Goblins grandes e peludos com um andar desajeitado. Favorecem ataques surpresa._
 
 **Classe de Armadura**: 5 14]

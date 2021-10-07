@@ -24,19 +24,15 @@ CA 3 [16], DV 8* (36 pv), Att 1 × soco (4d4), THAC0 12 [+7], MV 36 m (12 m), SV
 * **Surpresa**: 5 em 6, a menos que o alvo possa detectar invisibilidade.
 * **Se morto**: retorna ao plano de origem.
 
-
-
 # Concha Antimagia
 **Duração**: 12 turnos
 
 **Alcance**: O conjurador
 
-Uma barreira anti-magia criada ao redor do conjurador.
+Uma barreira antimagia criada ao redor do conjurador.
 
 * **Bloqueia magia**: nenhuma magia ou efeito mágico pode passar através da barreira, tanto de dentro para fora quanto de fora para dentro.
 * **Dissipar**: o conjurador pode finalizar a magia a qualquer momento antes da duração da magia expirar.
-
-
 
 # Controlar o clima
 **Duração**: Concentração
@@ -48,7 +44,7 @@ Concentrando-se (não é permitido movimentar-se), o conjurador manifesta uma da
 * **Calmaria**: limpa o mal tempo (embora permaneçam os efeitos do mal tempo, por exemplo, a lama da chuva)
 * **Calor extremo**: derrete a neve ou seca a lama (incluindo transmutar pedra para lama). Criaturas na área se movem metade de suas taxas de movimento normais.
 * **Nevoeiro**: a visibilidade é reduzida para 6 m. Criaturas no nevoeiro se movem a metade de suas taxas de movimento normais. Se o árbitro desejar, também existirá a chance de se perder.
-* **Ventos fortes**: o movimento é reduzido a metade. Usar armas de projéteis e vôo se torna impossível. Ventos fortes pode ser usado para aumentar a velocidade de navios em até 50%, se eles usarem velas. Em áreas arenosas, pode causar tempestade de areia, reduzindo a visibilidade para 6 m.
+* **Ventos fortes**: o movimento é reduzido a metade. Usar armas de projéteis e voo se torna impossível. Ventos fortes pode ser usado para aumentar a velocidade de navios em até 50%, se eles usarem velas. Em áreas arenosas, pode causar tempestade de areia, reduzindo a visibilidade para 6 m.
 * **Chuva**: –2 de penalidade para ataques de projéteis. Lama se forma em 3 turnos, reduzindo pela metade as taxas de movimento.
 * **Neve**: a visibilidade diminui para 6 m; A taxa de movimento é reduzida a metade. Corpos de água podem congelar. Após a neve degelar, a lama permanece e ainda dificulta o movimento.
 * **Tornado**: o conjurador pode direcional o tornado, que se move 36 m por rodada. O tornado pode ser direcionado para atacar diretamente (veja estatísticas abaixo). Navios pegos por um tornado tem 75% de chance de sofrer 12 pontos de dano no casco.
@@ -61,8 +57,6 @@ AC 0 [19], DV 12* (54 pv), Att 1 × sopro (2d8), THAC0 10 [+9], MV 108 m (36 m) 
 * **Imunidade a dano mundano**: só podem ser feridos por ataques mágicos.
 * **Ferir criaturas voadoras**: Infligem 1d8 pontos de dano extra.
 
-
-
 # Desintegrar
 **Duração**: Instantâneo
 
@@ -73,8 +67,6 @@ O material que forma uma única criatura não mágica ou objeto é permanentemen
 * **Se uma criatura é alvo**: Ela pode fazer um teste de resistência contra morte para resistir a desintegração.
 * **Exemplos de objetos**: os seguintes objetos podem ser alvo da magia: uma árvore, um navio, uma seção de parede de até 3 m.
 
-
-
 # Magia da Morte
 **Duração**: Instantâneo
 
@@ -83,8 +75,6 @@ O material que forma uma única criatura não mágica ou objeto é permanentemen
 Até 4d8 Dados de Vida de criaturas são afetadas, dentro de um cubo de 18 m devem fazer um teste de resistência contra morte, ou morrer instantaneamente.
 
 **Restrições**: Mortos-vivos e criaturas com mais de 7 Dados de Vida não são afetadas.
-
-
 
 # Mover Terra
 **Duração**: 6 turnos
@@ -96,16 +86,12 @@ Terra (mas não rochas) dentro do alcance, é rearranjada da forma que o conjura
 * **Taxa de movimento**: O conjurador pode mover terra na área a até 18 m por turno.
 * **Escavações**: O alcance da magia também se estende para baixo, permitindo que escavações sejam feitas.
 
-
-
-# Partir agua
+# Partir água
 **Duração**: 6 turnos
 
 **Alcance**: 36 m
 
 O conjurador cria um caminho com 3 m de lado e no máximo 36 m de comprimento através da água, como uma represa, lago ou outro corpo aquático. O conjurador pode finalizar os efeitos da magia antes do fim da duração.
-
-
 
 # Pedra em Carne
 **Duração**: Permanente
@@ -116,8 +102,6 @@ Esta magia transforma pedra em carne viva. Ela é especialmente útil para resta
 
 ## Reverso: Carne para Pedra
 Transforma uma criatura em uma estátua, incluindo todo o equipamento que ela estiver carregando. Um teste de resistência contra paralisia é permitido para resistir a transformação.
-
-
 
 # Projetar Imagem
 **Duração**: 6 turnos
@@ -130,8 +114,6 @@ Uma duplicata ilusória do conjurador aparece dentro do alcance.
 * **Magias conjuradas subsequentemente**: Parecem se originar da imagem. (No entanto, os alvos ainda precisam ser vistos pelo conjurador.)
 * **Magias e projéteis**: A imagem parece não ser afetada por magias ou armas de projéteis.
 * **Ataque corpo a corpo ou toque**: Se a imagem for tocada ou atingida por um ataque corpo a corpo, ela desaparece.
-
-
 
 # Reencarnação
 **Duração**: Permanente
@@ -167,7 +149,6 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 |9 - 10    |Mesma Classe                          |
 +----------+--------------------------------------+
 
-
 **Reencarnação: Monstros Ordeiros**
 
 +-------+-----------------------+--------+
@@ -177,7 +158,7 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 +-------+-----------------------+--------+
 |2      |Neanderthal            |2       |
 +-------+-----------------------+--------+
-|3      |Pegasus                |2       |
+|3      |Pégasos                |2       |
 +-------+-----------------------+--------+
 |4      |Cão teleportador       |4       |
 +-------+-----------------------+--------+
@@ -186,7 +167,6 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 |6      |Pássaro roca, pequeno  |6       |
 +-------+-----------------------+--------+
 
-
 **Reencarnação: Monstros Neutros** 
 
 +-------+-----------------------+--------+
@@ -194,7 +174,7 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 +=======+=======================+========+
 |1      |Pixie ou Sprite        |1       |
 +-------+-----------------------+--------+
-|2      |Homem Lagarto          |2       |
+|2      |Homem-lagarto          |2       |
 +-------+-----------------------+--------+
 |3      |Babuíno                |2       |
 +-------+-----------------------+--------+
@@ -204,7 +184,6 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 +-------+-----------------------+--------+
 |6      |Homem Urso             |6       |
 +-------+-----------------------+--------+
-
 
 **Reencarnação: Monstros Caóticos**  
 
@@ -223,7 +202,7 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 +-------+-----------------------+--------+
 |6      |Bugbear                |3       |
 +-------+-----------------------+--------+
-|7      |Homem Rato             |3       |
+|7      |Homem-rato             |3       |
 +-------+-----------------------+--------+
 |8      |Ogro                   |4       |
 +-------+-----------------------+--------+
@@ -231,8 +210,6 @@ Um personagem morto retorna a vida em uma nova forma física que se manifesta na
 +-------+-----------------------+--------+
 |10     |Minotauro              |6       |
 +-------+-----------------------+--------+
-
-
 
 # Tarefa
 **Duração**: Permanente / Instantâneo (Remover Tarefa)
@@ -248,8 +225,6 @@ O conjurador ordena um alvo a realizar um ação específica.
 
 ## Reverso: Remover Tarefa
 Pode dissipar uma tarefa ativa e qualquer penalidades. Se o conjurador da tarefa a ser anulada possui mais níveis do que o personagem tentando anulá-la, existe uma chance de que a magia não tenha efeito. A probabilidade da magia falhar é de 5% por nível de diferença entre os conjuradores.
-
-
 
 # Tornar Raso
 **Duração**: 10 turnos

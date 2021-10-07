@@ -45,7 +45,7 @@ metaDescription: "Magia > Lista Mago"
 09. Relâmpago
 10. Respirar na Água
 11. Velocidade
-12. Vôo
+12. Voo
 
 
 # 4º Nível
@@ -74,7 +74,7 @@ metaDescription: "Magia > Lista Mago"
 08. Pedra em lama (Lama para pedra)
 09. Portal Ilusório
 10. Recipiente Arcano
-11. Telecinésia
+11. Telecinesia
 12. Teleportação
 
 

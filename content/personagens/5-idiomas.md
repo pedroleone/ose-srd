@@ -30,7 +30,7 @@ Muitos semi-humanos e espécies de monstros inteligentes possuem seu próprio id
 11. Harpia
 12. Hobgoblin
 13. Kobold
-14. Homem Lagarto
+14. Homem-lagarto
 15. Medusa
 16. Minotauro
 17. Ogre
