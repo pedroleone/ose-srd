@@ -31,7 +31,7 @@ _gafanhotos gigantes herbívoros, de 60 a 90cm de comprimento, que vivem em cave
 
 
 * **Misturar-se com as pedras**: Pode passar desapercebido ou ser confundido com estátuas, devido à sua coloração semelhante a pedra.
-* **Gincho**: Se forem atacados ou assustados, guincham para avisar outros. Isso pode atrair monstros errantes (20% de chance por rodada). 
+* **Guincho**: Se forem atacados ou assustados, guincham para avisar outros. Isso pode atrair monstros errantes (20% de chance por rodada). 
 * **Saltar**: Muito assustadiço. Se atacado, normalmente fogem pulando para até 18m de distância e em seguida voam para longe. 50% de chance de saltar em um oponente aleatório, neste caso tratar o salto como um ataque.
 * **Cuspida**: Usado defensivamente. Alcance de 3 metros. Alvo é tratado como se tivesse CA 9 [10]. O personagem afetado é coberto em uma cuspida fétida: impossibilitado de agir por 1 turno (teste de resistência contra veneno). Até que a gosma seja limpa, outros que cheguem a 1,5m também devem passar em um teste de resistência contra veneno ou ficar violentamente enjoados.
 * **Imunidade a veneno**: Imune ao bolor amarelo e a maioria dos venenos, devido ao seu hábito de comer fungos.
@@ -67,7 +67,7 @@ _Monstros mágicos que se parecem com horrendas estátuas aladas e com chifres. 
 * **Imunidade à magia**: Não são afetados por magias de sono ou de encantamento.
 
 
-# Geléia Ocre
+# Geleia Ocre
 _Ameboides gigantes ocres._
 
 **Classe de Armadura**: 8 [11]
@@ -91,13 +91,13 @@ _Ameboides gigantes ocres._
 **Número Encontrado**: 1 (0)
 
 **Tesouro**: Nenhum
-* **Imunidade**: Imunie a todos os ataques exceto fogo ou gelo.
-* **Divisão**: Ataques de relâmpago ou com armas causam a divisão da geléia em 1d4+1 gelérias de 2 DVs que causam metade do dano.
-* **Ácido**: Após um ataque bem sucedido, se gruda à vítima e exsuda ácido. O ácido inflinge 2d6 de dano por rodada à carne e destrói tecido, couro ou madeira em uma rodada. (Pedra e metal não são afetados.)
+* **Imunidade**: Imune a todos os ataques exceto fogo ou gelo.
+* **Divisão**: Ataques de relâmpago ou com armas causam a divisão da geleia em 1d4+1 geleias de 2 DVs que causam metade do dano.
+* **Ácido**: Após um ataque bem sucedido, se gruda à vítima e exsuda ácido. O ácido inflige 2d6 de dano por rodada à carne e destrói tecido, couro ou madeira em uma rodada. (Pedra e metal não são afetados.)
 * **Infiltrar-se**: Pode se espremer através de pequenos buracos e rachaduras.
 
 # Gênio (Menor)
-_Seres extremamente mágicos, de livre arbítrio e inteligentes do plano elementar do ar. Humanóides altos envolto em nuvens._
+_Seres extremamente mágicos, de livre arbítrio e inteligentes do plano elementar do ar. Humanoides altos envolto em nuvens._
 
 **Classe de Armadura**: 5 [14]
 
@@ -137,7 +137,7 @@ _Seres extremamente mágicos, de livre arbítrio e inteligentes do plano element
 # Gigante 
 
 ## Gigante das Nuvens
-_Humanóides agressivos de 6m de altura, com cabelo e pele que vão do cinza ao branco. Se veste em túnicas pálidas._
+_Humanoides agressivos de 6m de altura, com cabelo e pele que vão do cinza ao branco. Se veste em túnicas pálidas._
 
 **Classe de Armadura**: 4 [15]
 
@@ -228,7 +228,7 @@ _Humanóides de 5,4m de altura com pele e cabelos pálidos (com tons amarelos ou
 * **Castelo**: No alto de montanhas nevadas. 
 * **Guardiões**: 20% chance de 3d6 ursos polares, caso contrário 6d6 lobos.
 
-## Gigante das colinas
+## Gigante das Colinas
 _Humanóides de 3,6m peludos e bestiais com baixa inteligência. Habitam sopés. Famosos por atacarem assentamentos humanos para roubar comida._
 
 **Classe de Armadura**: 4 [15]
@@ -255,7 +255,7 @@ _Humanóides de 3,6m peludos e bestiais com baixa inteligência. Habitam sopés.
 
 * **Armas**: Portam clavas gigantes e lanças.
 
-## Gigante das rochas
+## Gigante das Rochas
 _Humanóides de 4,2m com pele cinza rochosa. Habitam cavernas naturais ou cabanas primitivas construídas de pedra._
 
 **Classe de Armadura**: 4 [15]
@@ -284,7 +284,7 @@ _Humanóides de 4,2m com pele cinza rochosa. Habitam cavernas naturais ou cabana
 * **Arremesso de rocha**: Até 60m.
 * **Guardiões**: 50% chance of 1d4 ursos da caverna.
 
-## Gigante das tempestades
+## Gigante das Tempestades
 _Humanóides de 6,6m de altura com peles de tonalidade de bronze e cabelos vistosos (vermelhos ou amarelos)._
 
 **Classe de Armadura**: 2 [17]
@@ -883,8 +883,8 @@ _Variedade maior e mais perigosa de goblins. Vivem no subterrâneo, mas comument
 
 * **Rei hobgoblin e guarda-costas**: Um rei de 5 DVs (22pvs) e 1d4 guarda-costas de 4 DV (3d6pvs) vivem no lar dos hobgoblins. Um rei tem +2 de bônus em rolagens de dano. Um thoul pode ser encontrado ocasionalmente entre os guarda-costas do rei.
 
-# Homem Lagarto
-_Humanóides aquáticos, tribais, semi-inteligentes com cabeças reptilianas e caudas. Normalmente encontrados em pântanos e masmorras, ou ao longo de rios e regiões costeiras._
+# Homem-lagarto
+_Humanoides aquáticos, tribais, semi-inteligentes com cabeças reptilianas e caudas. Normalmente encontrados em pântanos e masmorras, ou ao longo de rios e regiões costeiras._
 
 **Classe de Armadura**: 5 [14]
 
@@ -909,7 +909,7 @@ _Humanóides aquáticos, tribais, semi-inteligentes com cabeças reptilianas e c
 **Tesouro**: D
 
 * **Armas**: Preferem lanças ou grandes clavas.
-* **Comedores de homens**: Sequestram humanos e semihumanos, cuja carne eles consideram uma iguaria.
+* **Comedores de homens**: Sequestram humanos e semi-humanos, cuja carne eles consideram uma iguaria.
 
 # Humano Comum
 _Humanos não aventureiros que não possuem classe de personagem. Artistas, mendigos, crianças, artesões, fazendeiros, pescadores, donas de casa, estudiosos, escravos._
@@ -965,7 +965,7 @@ _Javalis selvagens onívoros que vivem primariamente em florestas. Podem ser irr
 
 
 # Kobold
-_Pequenos e malévolos humanóides caninos, com pele escamosa cor de ferrugem. Vivem no subterrâneo._
+_Pequenos e malévolos humanoides caninos, com pele escamosa cor de ferrugem. Vivem no subterrâneo._
 
 **Classe de Armadura**: 7 [12]
 

@@ -211,19 +211,19 @@ Roll 1d8 and 1d12:
 |11|Pirate|Termite, Water|
 |12|Pirate|Whale|
 
-# Sub-Table S: Swamp
+# Subtabela S: Pântano
 
-|d12|Human|Humanoid|Swimmer|
-|--- |--- |--- |--- |
-|1|Basic Adventurers|Gnoll|Crab, Giant|
-|2|Bandit|Goblin|Crocodile|
-|3|Bandit|Hobgoblin|Crocodile, Large|
-|4|Berserker|Lizard Man|Crocodile, Giant|
-|5|Brigand|Lizard Man|Fish, Catfish|
-|6|Expert Adventurers|Lizard Man|Insect Swarm|
-|7|Expert Adventurers|Nixie|Insect Swarm|
-|8|High-Level Cleric|Ogre|Leech, Giant|
-|9|High-Level Fighter|Orc|Leech, Giant|
-|10|High-Level Magic-User|Troglodyte|Lizard Man|
-|11|Merchant|Troll|Lizard Man|
-|12|Trader|Troll|Termite, Water|
+| d12 | Humano | Humanoide | Nadador |
+| --- | --- | --- | --- |
+| 1 | Aventureiros Iniciantes | Gnoll | Caranguejo Gigante |
+| 2 | Bandido | Goblin | Crocodilo |
+| 3 | Bandido | Hobgoblin | Crocodilo Grande |
+| 4 | Furioso | Homem-lagarto | Crocodilo Gigante |
+| 5 | Salteador | Homem-lagarto | Peixe, Peixe-gato |
+| 6 | Aventureiros Experientes | Homem-lagarto | Enxame de Insetos |
+| 7 | Aventureiros Experientes | Nixie | Enxame de Insetos |
+| 8 | Clérigo de Alto Nível | Ogro | Sanguessuga Gigante |
+| 9 | Guerreiro de Alto Nível | Orc | Sanguessuga Gigante |
+| 10 | Mago de Alto Nível | Troglodita | Homem-lagarto |
+| 11 | Comerciante | Troll | Homem-lagarto |
+| 12 | Comerciante | Troll | Cupim Aquático |

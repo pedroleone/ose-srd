@@ -214,7 +214,7 @@ _Semi-intelligent winged horses that are wilful and timid._
 
 # Peixe Gigante
 
-## Giant Bass
+## Perca Gigante
 _Shy; only attack when seeing a bite-size (halfling-size or smaller) morsel close by._
 
 **Classe de Armadura**: 7 [12]
@@ -239,7 +239,7 @@ _Shy; only attack when seeing a bite-size (halfling-size or smaller) morsel clos
 
 **Tesouro**: Nenhum(1)
 
-## Giant Catfish
+## Peixe-gato Gigante
 _15’ long, pale white. Four feelers beside the mouth. Lurk in the mud at the bottom of rivers and lakes. Will attack creatures on the bottom or swimming above._
 
 **Classe de Armadura**: 4 [15]
@@ -264,7 +264,7 @@ _15’ long, pale white. Four feelers beside the mouth. Lurk in the mud at the b
 
 **Tesouro**: Nenhum
 
-## Giant Piranha
+## Piranha Gigante
 _5’ long piranhas with black and green scales. Live in rivers (occasionally lakes) and attack anything in the water._
 
 **Classe de Armadura**: 6 [13]
@@ -292,7 +292,7 @@ _5’ long piranhas with black and green scales. Live in rivers (occasionally la
 * **Surround opponents**: A target can be attacked by up to 8 giant piranhas.
 * **Morale**: When blood is in the water, do not check morale.
 
-## Giant Rockfish
+## Peixe-pedra Gigante
 _Spiny fish with lumpy, rock-like skin. Live in saltwater shallows. Normally passive, but highly aggressive if disturbed._
 
 **Classe de Armadura**: 7 [12]
@@ -321,7 +321,7 @@ _Spiny fish with lumpy, rock-like skin. Live in saltwater shallows. Normally pas
 * **Grasping**: If mistaken for a rock and grasped, all 4 spines automatically hit.
 * **Poison**: Causes death (save vs poison).
 
-## Giant Sturgeon
+## Esturjão Gigante
 _Huge (nearly 9m long), aggressive fish with armour plating._
 
 **Classe de Armadura**: 0 [19]

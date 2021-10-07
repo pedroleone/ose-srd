@@ -6,6 +6,10 @@ metaDescription: "Dicionário de Termos"
 
 **Ability Scores**: Atributos
 
+**Adventurers, Basic**: Aventureiros Iniciantes
+
+**Adventurers, Experts**: Aventureiros Experientes
+
 **Alignment**: Alinhamento
 
 **Armour Class**: Classe de Armadura
@@ -75,3 +79,11 @@ metaDescription: "Dicionário de Termos"
 **Village**: Vilarejo
 
 **Wilderness Adventuring**: Aventuras nos Ermos (cf. Jogando o Jogo > Aventuras nos Ermos)
+
+## Monstros
+* **Giant Bass**: Perca Gigante
+* **Giant Catfish**: Peixe-gato Gigante
+* **Giant Piranha**: Piranha Gigante
+* **Giant Rockfish**: Peixe-pedra Gigante
+* **Giant Sturgeon**: Esturjão Gigante
+* **Termite, Water**: Cupim Aquático

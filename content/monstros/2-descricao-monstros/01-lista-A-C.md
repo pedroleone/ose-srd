@@ -5,7 +5,7 @@ metaDescription: "Monstros > Lista Monstros A-C"
 ---
 
 # Abelha Assassina
-_Abelhas gigantes (30 cm de comprimento) de temperamento agressivo. Constroem suas colmeias no substerrâneo._ 
+_Abelhas gigantes (30 cm de comprimento) de temperamento agressivo. Constroem suas colmeias no subterrâneo._ 
 
 **Classe de Armadura**: 7 [12]
 
@@ -27,7 +27,7 @@ _Abelhas gigantes (30 cm de comprimento) de temperamento agressivo. Constroem su
 
 **Número Encontrado**: 1d6 (5d6) 
 
-**Tesouro**: Honey 
+**Tesouro**: Mel 
 
 * **Agressiva**: Normalmente atacam à primeira vista. Sempre atacam intrusos a 9 m da colmeia.
 * **Morrem após atacar**: Em um ataque bem sucedido com o ferrão, a abelha assassina morre.
@@ -67,11 +67,11 @@ _Clérigo de 1º nível em uma missão para a sua divindade._
 - **Líder**: Grupos de 4+ são liderados por um clérigo de mais alto nível (1d10: 1-4: 2º nível; 5-7: 3º nível; 8-9: 4º nível; 10: 5º nível). Escolha ou role as magias do líder.
 
 # Anão
-_Semihumanos pequenos, robustos, e barbados que moram nas monstanhas e reinos subterrâneos._
+_Semi-humanos pequenos, robustos, e barbados que moram nas montanhas e reinos subterrâneos._
 
 **Classe de Armadura**: 4 [15]
 
-**Dados de VIda**: 1 (4 pv)
+**Dados de Vida**: 1 (4 pv)
 
 **Ataques**: 1 × arma (1d8 ou pela arma)
 
@@ -110,7 +110,7 @@ _Animais selvagens que vivem em grandes pastagens. O tipo exato depende do terre
 
 **Classe de Armadura**: 7 [12]
 
-**Dados de VIda**: 4 (18 pv)
+**Dados de Vida**: 4 (18 pv)
 
 **Ataques**: 1 × chifrada (1d8)
 
@@ -138,7 +138,7 @@ _Animais selvagens que vivem em grandes pastagens. O tipo exato depende do terre
 
 **Classe de Armadura**: 7 [12]
 
-**Dados de VIda**: 3 (13 pv)
+**Dados de Vida**: 3 (13 pv)
 
 **Ataques**: 1 × chifrada (1d6)
 
@@ -166,7 +166,7 @@ _Animais selvagens que vivem em grandes pastagens. O tipo exato depende do terre
 
 **Classe de Armadura**: 7 [12]
 
-**Dados de VIda**: 1 a 2 (4 a 9 pv)
+**Dados de Vida**: 1 a 2 (4 a 9 pv)
 
 **Ataques**: 1 × chifrada (1d4)
 
@@ -865,7 +865,8 @@ _Mortos-vivos humanóides grotescos e animalescos que anseiam pela carne dos viv
 * **Morto-vivo**: não faz barulho, até atacar. Imune aos efeitos que afetam criaturas vivas (exemplo, veneno). Imune a magias que afetam a mente ou de leitura de mente (exemplo, encantar, prender e sono).
 
 # Cavalo
-_Animais de rebanho normalmente usados para transporte. Existem muitas espécies domésticas._ 
+_Animais de rebanho normalmente usados para transporte. Existem muitas espécies domésticas._
+
 ## Cavalo de Carga
 _Criado para ter grande força e resistência. Usados para puxar veículos e arados, ou como animais de carga._
 
@@ -1040,7 +1041,7 @@ _Centopeias com 30 cm de comprimento que habitam locais úmidos e escuros._
 * **Veneno**: faz com que a vítima fique terrivelmente doente por dez dias (teste de resistência vs veneno): nenhuma atividade física é possível exceto movimento à metade de sua velocidade.
 
 # Ciclope
-_Humanóides com cerca de 6 m de altura, com um único olho central. Moram em cavernas, sozinhos ou em pequenos grupos. Cultivam uvas e criam ovelhas_
+_Humanoides com cerca de 6 m de altura, com um único olho central. Moram em cavernas, sozinhos ou em pequenos grupos. Cultivam uvas e criam ovelhas_
 
 **Classe de Armadura**: 5 [14]
 
@@ -1074,7 +1075,7 @@ _São encontradas em todos os climas, com exceção dos mais exremos. Normalment
 
 
 ## Cascavel Gigante
-_cobras de 3 metros com padrões de diamante marrons e brancos em suas escamas, e um chocalho de escamas ásperas em suas caudas._
+_Cobras de 3 metros com padrões de diamante marrons e brancos em suas escamas, e um chocalho de escamas ásperas em suas caudas._
 
 **Classe de Armadura**: 5 [14]
 
@@ -1103,7 +1104,7 @@ _cobras de 3 metros com padrões de diamante marrons e brancos em suas escamas, 
 * **Velocidade**: Ataca duas vezes por rodada. O segundo ataque é feito no final de cada rodada.
 
 ## Víbora
-_cobras de 1,5m com escamas verdes/cinzas._
+_Cobras de 1,5m com escamas verdes/cinzas._
 
 **Classe de Armadura**: 6 [13]
 
@@ -1132,7 +1133,7 @@ _cobras de 1,5m com escamas verdes/cinzas._
 * **Veneno**: Causa morte (teste de resistência vs veneno).
 
 ## Píton
-_cobras de 6m com padrões espiralados de marrom e amarelo em suas escamas._
+_Cobras de 6m com padrões espiralados de marrom e amarelo em suas escamas._
 
 **Classe de Armadura**: 6 [13]
 
@@ -1159,7 +1160,7 @@ _cobras de 6m com padrões espiralados de marrom e amarelo em suas escamas._
 * **Constrição**: Quando uma mordida é bem sucedida, a píton se enrola ao redor da vítima e começa a apertar, inflingindo 2d4 de dano automático imediatamente e em cada rodada subsequente.
 
 ## Serpente Marinha
-_serpentes de 1,8m que vivem em baixo da água, saindo para respirar apenas uma vez por hora. Caçam humanos._ 
+_Serpentes de 1,8m que vivem em baixo da água, saindo para respirar apenas uma vez por hora. Caçam humanos._ 
 
 **Classe de Armadura**: 6 [13]
 
@@ -1188,7 +1189,7 @@ _serpentes de 1,8m que vivem em baixo da água, saindo para respirar apenas uma 
 * **Indivíduos maiores**: Serpentes marinhas com mais de 3 DV podem ser encontradas. Elas tem 1,8m de comprimento para cada 3 DV.
 
 ## Cobra-naja
-_cobras de 90m de comprimento com escalas cinzas/brancas. Preferem atacar à distância com seu cuspe venenoso._
+_Cobras de 90m de comprimento com escalas cinzas/brancas. Preferem atacar à distância com seu cuspe venenoso._
 
 **Classe de Armadura**: 7 [12]
 
@@ -1217,7 +1218,7 @@ _cobras de 90m de comprimento com escalas cinzas/brancas. Preferem atacar à dis
 
 
 # Cobra Cega
-_anfíbios semelhantes a vermes, gigantescos (9m de comprimento), cinzas, com mandíbulas dentadas gigantescas._
+_Anfíbios semelhantes a vermes, gigantescos (9m de comprimento), cinzas, com mandíbulas dentadas gigantescas._
 
 **Classe de Armadura**: 6 [13]
 
@@ -1244,7 +1245,7 @@ _anfíbios semelhantes a vermes, gigantescos (9m de comprimento), cinzas, com ma
 * **Engolir inteiro**: Em um ataque com resultado de 19 ou mais. Dentro da barriga do monstro: sofre 1d8 de dano por rodada (até a morte da cobra-cega); pode atacar com uma adaga com -4 para acertar; o corpo é digerido 6 rodadas após a morte.
 
 # Cocatriz
-_híbridos de ave/réptil pequeno, com uma longa cauda de serpente, e a cabeça, pernas e asas de um galo. Vive em todos os ambientes._
+_Híbridos de ave/réptil pequeno, com uma longa cauda de serpente, e a cabeça, pernas e asas de um galo. Vive em todos os ambientes._
 
 **Classe de Armadura**: 6 [13]
 
@@ -1272,7 +1273,7 @@ _híbridos de ave/réptil pequeno, com uma longa cauda de serpente, e a cabeça,
 
 
 # Comerciante
-_guerreiros de 1º nível que vivem do comércio em áreas fronteiriças._
+_Guerreiros de 1º nível que vivem do comércio em áreas fronteiriças._
 
 **Classe de Armadura**: 6 [13]
 
@@ -1329,7 +1330,7 @@ _Mais de 15m de comprimento. Normalmente encontrado em regiões do Mundo Perdido
 
 **Tesouro**: Nenhum
 
-## Crocodilo grande
+## Crocodilo Grande
 _6m ou mais. Podem atacar embarcações de pequeno porte (canoas, jangadas)._
 
 **Classe de Armadura**: 3 [16]
@@ -1355,7 +1356,7 @@ _6m ou mais. Podem atacar embarcações de pequeno porte (canoas, jangadas)._
 **Tesouro**: Nenhum
 
 
-## Crocodilo comum
+## Crocodilo Comum
 **Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 2 (9pv)
@@ -1380,7 +1381,7 @@ _6m ou mais. Podem atacar embarcações de pequeno porte (canoas, jangadas)._
 
 
 # Cubo Gelatinoso
-_cubos transparentes de 3m. Se movem através das masmorras, absorvendo detritos e criaturas vivas que eles encontram._
+_Cubos transparentes de 3m. Se movem através das masmorras, absorvendo detritos e criaturas vivas que eles encontram._
 
 **Classe de Armadura**: 8 [11]
 
@@ -1404,18 +1405,17 @@ _cubos transparentes de 3m. Se movem através das masmorras, absorvendo detritos
 
 **Tesouro**: V
 
-* **Surprise**: Em uma rolagem de 1-4, devido a ser quase invisível.
+* **Surpresa**: Em uma rolagem de 1-4, devido a ser quase invisível.
 * **Paralisia**: Por 2d4 turnos (teste de resistência vs paralisia)
 * **Imunidade a energia**: Imune a frio ou raio.
 * **Itens embutidos**: Itens indigeríveis (gemas, moedas) são carregados dentro do cubo.
-
 
 # Cupim Aquático
 _Insetos aquáticos gigantes (30cm - 1,5m) que se alimentam de madeira, com uma bolsa em que eles conseguem inserir e expelir água. Propenso a se alimentar de navios em trânsito. Só atacam criaturas se forem encurralados._
 
 * **Spray irritante**: Acima da água; máximo uma vez por turno. Podem atingir um alvo: teste de resistência contra veneno ou atordoado por uma rodada.
 * **Nuvem de tinta**: Abaixo d'água; máximo uma vez por turno. Quando estiverem em fuga, podem emitir uma nuvem de tinta preta para confundir atacantes.
-* **Se alimentar de navios**: Se prendem abaixo de embarcações. Cada indívudo causa 1d3 de dano no casco, então se solta. 
+* **Se alimentar de navios**: Se prendem abaixo de embarcações. Cada indivíduo causa 1d3 de dano no casco, então se solta. 
 * **Perceber navio avariado**: 50% de chance por rodada de perceberem vazamentos.
 
 ## Cupim de Água Doce
