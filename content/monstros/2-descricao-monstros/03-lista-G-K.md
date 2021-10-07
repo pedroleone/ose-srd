@@ -852,7 +852,7 @@ _Criaturas fantásticas que combinam características de uma águia gigante (cab
 
 **Tesouro**: Nenhum
 
-* **Odeiam pegasus**: Normamente irão atacá-los.
+* **Odeiam pégasos**: Normamente irão atacá-los.
 * **Montaria**: Podem carregar um cavaleiro de tamanho humano.
 * **Domesticação**: Podem ser treinados como montaria.
 

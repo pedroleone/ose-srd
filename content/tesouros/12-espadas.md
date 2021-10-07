@@ -78,7 +78,7 @@ Explode em chamas, sob comando. Quando estiver em chamas:
 * **Infringe dano de fogo**: Que pode ter efeitos especiais em certas criaturas.
 * **Concede um bônus de ataque**: Contra certos de criaturas:
    * +2 contra trolls (ou outras criaturas que não podem se regenerar de dano de fogo).
-   * +2 contra pegasus, hipogrifos, e rocas (ou outras criaturas parecidas com pássaros).
+   * +2 contra pégasos, hipogrifos, e rocas (ou outras criaturas parecidas com pássaros).
    * +3 contra Treants (ou outras criaturas baseadas em plantas).
    * +3 contra mortos-vivos.
 * **Duração**: A espada arde em chamas até que seja comandada para parar.
