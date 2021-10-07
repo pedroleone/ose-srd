@@ -14,7 +14,7 @@ Conjuradores arcanos começam o jogo com tantas magias em seus livros de magia q
 # Adicionando Magias
 Quando os conjuradores arcanos ganham um nível, eles podem aumentar a seleção de magias em seu livro de magias, fazendo com que esse número se iguale ao número de magias que ele pode memorizar. Isso é possível de duas formas:
 
-* **Mentoria**: O personagem pode consultar uma guilda ou mentor para aprender novas magias. Este processo leva uma semana de tempo de jogo. A magia que o personagem aprende dessa maneira é determinada pelo mestre, que pode permitir que o jogador escolha.
+* **Mentoria**: O personagem pode consultar uma guilda ou mentor para aprender novas magias. Este processo leva uma semana de tempo de jogo. A magia que o personagem aprende dessa maneira é determinada pelo árbitro, que pode permitir que o jogador escolha.
 
 * **Pesquisa**: Também é possível adicionar magias ao livro de magias por meio de pesquisa mágica.
 

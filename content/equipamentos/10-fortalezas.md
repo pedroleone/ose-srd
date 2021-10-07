@@ -6,19 +6,19 @@ metaDescription: "Equipamentos > Fortalezas"
 
 # Construção
 
-Quando os PdJs desejam construir fortalezas ou qualquer outro tipo de construção, os seguintes procedimentos devem ser adotados:
+Quando os PJs desejam construir fortalezas ou qualquer outro tipo de construção, os seguintes procedimentos devem ser adotados:
 
 1. **Permissão**: pode ser necessário conseguir uma permissão de uma autoridade local para construção. Isso não será necessário se as terras estiverem em áreas não exploradas.
 2. **Área liberada**: se o local da construção for nos ermos, todos os monstros em uma área de 9 km (um hexágono em um mapa típico de exploração dos ermos) devem ter sido mortos ou expulsos.
 3. **Projeto**: o jogador cria um projeto da fortaleza e calcula os custos (veja preços de construção abaixo).
-4. **Revisão**: o mestre deve revisar e aprovar o projeto da fortaleza.
-5. **Contratar Engenheiros**: para cada 100.000 po de custo de projeto, o PdJ deve contratar um engenheiro (ver Especialistas)
+4. **Revisão**: o árbitro deve revisar e aprovar o projeto da fortaleza.
+5. **Contratar Engenheiros**: para cada 100.000 po de custo de projeto, o PJ deve contratar um engenheiro (ver Especialistas)
 6. **Construção**: uma vez que o terreno tenha sido liberado e os materiais de construção entregues, a construção se inicia. O tempo necessário depende inteiramente do preço total da construção: um dia de jogo para cada 500 po.
-7. **Preparar-se para os colonos**: se os PdJ desejarem fundar um domínio e atrair colonos, uma área ainda maior ao redor da fortaleza deve ser liberada de perigos.
+7. **Preparar-se para os colonos**: se os PJ desejarem fundar um domínio e atrair colonos, uma área ainda maior ao redor da fortaleza deve ser liberada de perigos.
 
 # Construindo em Cidades
 
-**Permissão**: embora regentes locais possam permitir que os PdJ construam em uma vila, é improvável que eles concedam permissão para a construção de castelos ou fortificações.
+**Permissão**: embora regentes locais possam permitir que os PJ construam em uma vila, é improvável que eles concedam permissão para a construção de castelos ou fortificações.
 
 Custos: quando construir em uma vila ou cidade, a proximidade dos materiais e da mão-de-obra reduzem bastante os custos.
 
@@ -34,11 +34,11 @@ Para prevenir que monstros retornem às áreas liberadas, mercenários podem ser
 
 ## Colonos
 
-O PdJ pode desejar atrair colonos para uma área liberada. Além disso, para garantir a segurança das terras ao redor, o personagem deve financiar a construção de outras instalações (exemplo, acomodações, instalações comerciais, infraestrutura de transporte etc.) para atrair colonos. Propaganda também pode ser necessária. O mestre determinarps os custos envolvidos e quantos colonos são atraídos.
+O PJ pode desejar atrair colonos para uma área liberada. Além disso, para garantir a segurança das terras ao redor, o personagem deve financiar a construção de outras instalações (exemplo, acomodações, instalações comerciais, infraestrutura de transporte etc.) para atrair colonos. Propaganda também pode ser necessária. O árbitro determina os custos envolvidos e quantos colonos são atraídos.
 
 ## Taxação
 
-Se colonos se mudarem para o domínio do PdJ, o personagem pode esperar receber uma taxa de 10 po por ano de cada colono.
+Se colonos se mudarem para o domínio do PJ, o personagem pode esperar receber uma taxa de 10 po por ano de cada colono.
 
 # Estruturas
 

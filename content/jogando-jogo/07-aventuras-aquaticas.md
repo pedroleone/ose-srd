@@ -6,11 +6,11 @@ metaDescription: "Jogando o Jogo > Aventuras Aquáticas"
 
 # Sequência de jogo por dia
 1. **Decida o curso**: os jogadores decidem o curso que vão seguir durante o dia.
-2. **Perdendo-se**: o mestre determina se o grupo se perde.
-3. **Clima**: o mestre determina as condições do clima.
-4. **Monstros errantes**: o mestre faz os testes para determinar monstros errantes.
-5. **Descrição**: o mestre descreve o terreno pelos quais os personagens passam e qualquer local de interesse que os personagens atravessem, perguntando aos jogadores pelas ações, quando necessário. Se monstros forem encontrados, siga os procedimentos descritos em Encontros.
-5. **Fim do dia**: o mestre atualiza o registro do tempo, com atenção especial para as rações, duração de magias, e necessidade de descanso da tripulação.
+2. **Perdendo-se**: o árbitro determina se o grupo se perde.
+3. **Clima**: o árbitro determina as condições do clima.
+4. **Monstros errantes**: o árbitro faz os testes para determinar monstros errantes.
+5. **Descrição**: o árbitro descreve o terreno pelos quais os personagens passam e qualquer local de interesse que os personagens atravessem, perguntando aos jogadores pelas ações, quando necessário. Se monstros forem encontrados, siga os procedimentos descritos em Encontros.
+5. **Fim do dia**: o árbitro atualiza o registro do tempo, com atenção especial para as rações, duração de magias, e necessidade de descanso da tripulação.
 
 # Distância e Medidas
 Os espaços abertos das regiões selvagens significam que os personagens e monstros podem mover-se mais livremente do que em uma masmorra.
@@ -38,7 +38,7 @@ A distância percorrida em um dia pode ser afetada pelas condições prevalecent
 **Embarcações**: podem ser avistadas e identificadas a 300 m em um dia claro, ou tão perto quanto 40 m durante um nevoeiro denso.
 
 # Monstros errantes
-**Frequência**: uma jogada para determinar a presença de monstros errantes é normalmente feita uma vez por dia, mas o mestre pode escolher fazer mais jogadas: até três ou quatro por dia.
+**Frequência**: uma jogada para determinar a presença de monstros errantes é normalmente feita uma vez por dia, mas o árbitro pode escolher fazer mais jogadas: até três ou quatro por dia.
 **Chance**: A chance de encontrar um monstro errante é de 2 em 1d6 em oceanos e rios, 3 em 1d6 em pântanos.
 **Distância**: Monstros errantes são encontrados a 4d6 x 3 metros. Se ambos os lados forem surpreendidos (ver Encontros), a distância é reduzida para 1d4 x 3 metros.
 

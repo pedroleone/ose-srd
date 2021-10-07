@@ -142,7 +142,7 @@ Coloca um efeito prejudicial em uma criatura, se ela falhar em um teste de resis
 * **Efeitos**: a forma exata e os efeitos da maldição são determinadas pelo conjurador.
 * **Número máximo de efeitos incluídos**: penalidade de -2 nos testes de resistência, -4 para acertar, reduzir uma habilidade em 50%.
 * **Múltiplas maldições**: podem afligir uma criatura, enquanto cada uma tiver um efeito diferente.
-* **Julgamento do mestre**: o mestre deve julgar os efeitos dessa magia, podendo até voltar efeitos muito poderosos contra o conjurador.
+* **Julgamento do árbitro**: o árbitro deve julgar os efeitos dessa magia, podendo até voltar efeitos muito poderosos contra o conjurador.
 
 
 # Muralha de Fogo

@@ -19,7 +19,7 @@ A menos que uma classe de semi-humano seja escolhida, o personagem é humano.
 A experiência como aventureiro de um personagem é simbolizada pelo seu nível de experiência. Os personagens começam o jogo normalmente no 1º nível (o nível mais baixo de um aventureiro), e podem aumentar de nível ao serem bem sucedidos em suas aventuras. Quando um personagem sobe de nível, ele ganha habilidades mais poderosas, conforme definido em sua classe.
 
 # Pontos de Experiência (XP)
-O avanço do personagem dentro do jogo é medido pelo acúmulo de pontos de experiência. Os pontos de experiência são concedidos pelo mestre após uma aventura bem-sucedida. Quando o personagem acumula um certo número de pontos de experiência, o nível de personagem aumenta. 
+O avanço do personagem dentro do jogo é medido pelo acúmulo de pontos de experiência. Os pontos de experiência são concedidos pelo árbitro após uma aventura bem-sucedida. Quando o personagem acumula um certo número de pontos de experiência, o nível de personagem aumenta. 
 
 Cada classe especifica o número de pontos necessário para alcançar cada nível de experiência.
 

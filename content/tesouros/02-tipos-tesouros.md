@@ -8,7 +8,7 @@ metaDescription: "Tesouro -> Tipos de Tesouros"
 O valor médio de cada tipo de tesouro é listado ao lado do código de letras. Esses valores somam os resultados médios de gemas, joias e todos os tipos de moedas. Os itens mágicos que o tipo de tesouro pode indicar não são contados para o valor médio, pois os itens mágicos não têm valores fixos de venda.
 
 # Tesouros Alternativos.
-Para gêneros ou cenários onde a cunhagem de metais preciosos não é comum, o Árbitro pode substituir peças de ouro etc. por moedas de valor equivalente. O mesmo vale para gemas e joias, que podem ser substituídas por outros tipos de substâncias valiosas ou objetos de decoração.
+Para gêneros ou cenários onde a cunhagem de metais preciosos não é comum, o árbitro pode substituir peças de ouro etc. por moedas de valor equivalente. O mesmo vale para gemas e joias, que podem ser substituídas por outros tipos de substâncias valiosas ou objetos de decoração.
 
 # Montantes de Tesouros: A–O
 Esses tipos de tesouros indicam a soma da riqueza de um monstro grande ou de uma comunidade de monstros menores. Tais montantes de tesouros geralmente estão escondidos no covil dos monstros.

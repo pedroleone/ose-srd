@@ -5,11 +5,11 @@ metaDescription: "Jogando o Jogo > Tempo, Peso e Movimento"
 ---
 
 # Controlando o tempo
-Quando uma aventura está em andamento, o árbitro deve manter o registro do tempo que se passa no mundo imaginário, conhecido como tempo do jogo. Esse tempo é diferente do tempo real: o que pode levar apenas alguns segundos para os jogadores e o mestre descrever, pode levar horas ou dias para ser completado.
+Quando uma aventura está em andamento, o árbitro deve manter o registro do tempo que se passa no mundo imaginário, conhecido como tempo do jogo. Esse tempo é diferente do tempo real: o que pode levar apenas alguns segundos para os jogadores e o árbitro descrever, pode levar horas ou dias para ser completado.
 
-Por exemplo, quando os personagens estão explorando uma masmorra, o mestre controla o número de turnos que se passam; quando os personagens estão explorando regiões selvagens, o tempo pode ser controlado em dias. 
+Por exemplo, quando os personagens estão explorando uma masmorra, o árbitro controla o número de turnos que se passam; quando os personagens estão explorando regiões selvagens, o tempo pode ser controlado em dias. 
 
-O mestre deve julgar o que pode ser realizado em um dado período de tempo.
+O árbitro deve julgar o que pode ser realizado em um dado período de tempo.
 
 # Recursos
 A medida que o tempo de jogo passa, o árbitro deve ficar atento aos recursos que o grupo consome. Por exemplo: comida, água, combustível para as fontes de iluminação, duração de magias ou efeitos mágicos, etc.

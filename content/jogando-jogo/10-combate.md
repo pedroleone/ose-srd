@@ -41,7 +41,7 @@ Personagens atacando com armas de duas mãos (e algumas armas de ataque a distâ
 
 ## Iniciativa Individual (Regra Opcional)
 
-Ao invés de jogar a iniciativa para o grupo, uma jogada pode ser feita para cada indivíduo na batalha, modificado pela DES (ver Atributos). O mestre pode definir um modificador de iniciativa para monstros que são muito rápidos ou lentos, ao invés de aplicar o modificador de DES.
+Ao invés de jogar a iniciativa para o grupo, uma jogada pode ser feita para cada indivíduo na batalha, modificado pela DES (ver Atributos). O árbitro pode definir um modificador de iniciativa para monstros que são muito rápidos ou lentos, ao invés de aplicar o modificador de DES.
 
 # Moral do Monstro (Regra Opcional)
 
@@ -83,7 +83,7 @@ Todas as armas de ataque a distância possuem alcance, especificados na lista de
 
 **Cobertura Completa**: o alvo não pode ser atingido.
 
-**Cobertura Parcial**: o mestre pode aplicar penalidades nas jogadas de ataque que variam de -1 a -4 (exemplo, uma mesa pequena poderia conceder uma penalidade de -1, enquanto uma floresta densa provocaria uma penalidade de -4).
+**Cobertura Parcial**: o árbitro pode aplicar penalidades nas jogadas de ataque que variam de -1 a -4 (exemplo, uma mesa pequena poderia conceder uma penalidade de -1, enquanto uma floresta densa provocaria uma penalidade de -4).
 
 # Conjurar Magias
 
@@ -112,7 +112,7 @@ Repita os passos 3a a 3e
 1. **jogue 1d20**
 2. **Aplique os modificadores**: FOR para corpo a corpo; DES para ataques a distância; Alcance; Cobertura para ataques à distância.
 3. **Determine a CA atingida**: Consulte o resultado na matriz de combate para o TAC0 do atacante (ver Tabelas de Combate). Isso indica o valor da CA que o ataque atinge. 
-4. **Resultado**: se a CA atingida for menor ou igual a CA do alvo, o ataque acerta. O mestre determina o dano.
+4. **Resultado**: se a CA atingida for menor ou igual a CA do alvo, o ataque acerta. O árbitro determina o dano.
 
 ## Classe de Armadura Ascendente (Regra Opcional)
 
@@ -123,7 +123,7 @@ Grupos que utilizem a Classe de Armadura Ascendente devem realizar os seguintes 
 1. **jogue 1d20**
 2. **Aplique os modificadores**: FOR para corpo a corpo; DES para ataques a distância; Alcance; Cobertura para ataques à distância.
 3. **Determine a CA atingida**: Adicione o bônus de ataque a jogada de ataque. O resultado é a CA Ascendente que o ataque atingiu. 
-4. **Resultado**: se a CAA atingida for igual ou maior que a CAA do alvo, o ataque acerta. O mestre determina o dano.
+4. **Resultado**: se a CAA atingida for igual ou maior que a CAA do alvo, o ataque acerta. O árbitro determina o dano.
 
 ## 1s e 20s
 

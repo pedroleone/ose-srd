@@ -56,15 +56,13 @@ metaDescription: "Dicionário de Termos"
 
 **Movement Rate**: Taxa de Movimentação
 
-**PC / NPC**: PJ/PdM ou PdJ/PnJ ou PJ/PNJ ? Não está unificado. A unificação também vai depender da tradução adotada para "Mestre": se ficar "árbitro" não pdoe usar PdM para NPC, teria que ser PNJ (eu prefiro em maiúscula).
-- Jogando o Jogo > Tabelas de Combate - consta PdJ / PnJ
-- Mestrando Aventuras -> Papel do Mestre - PNJ
+**PC / NPC**: PJ / PNJ
 
 **Prime Requisite**: Requisito Primário (cf. Personagens > Atributos)
 
 **Race**: Raça
 
-**Referee**: Árbitro ou Mestre? Nos títulos consta "mestre", mas no corpo do texto consta "árbitro".
+**Referee**: Árbitro.
 
 **Retainer**: Seguidor (cf. Personagens > Atributos)
 

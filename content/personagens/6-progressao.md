@@ -5,7 +5,7 @@ metaDescription: "Personagens -> Progressão"
 ---
 
 # Experiência
-Todos os personagens que sobrevivem a uma aventura ganham pontos de experiência (XP), concedidos pelo mestre (Ver Concedendo XP). A experiência é adquirida de duas fontes: tesouro recuperado e monstro derrotado.
+Todos os personagens que sobrevivem a uma aventura ganham pontos de experiência (XP), concedidos pelo árbitro (Ver Concedendo XP). A experiência é adquirida de duas fontes: tesouro recuperado e monstro derrotado.
 
 # Modificadores de Requisitos Primários
 Os personagens recebem um bônus ou penalidade de XP baseado em seus valores de requisitos primários em sua classe (ver Valores de Atributos). Este modificador é aplicado ao XP total que um personagem em particular recebe ao final da aventura.
@@ -29,7 +29,7 @@ Em algumas campanhas, os personagens ganham o direito de portar certos títulos 
 * **Mago**: Médium, Vidente, Conjurador, Mágico, Encantador (Encantadora), Bruxo (Bruxa), Feiticeiro (Feiticeira), Necromante, Mago.
 
 # Jogos em Níveis Altos (Regra Opcional)
-Classes de personagens humanos são listadas como tendo um nível máximo igual a 14. Essa faixa de níveis oferece a melhor experiência de jogo em termos de desafios e recompensas. Alguns grupos, no entanto, podem desejar continuar a jogar muito além desse limite. Isso deve ser considerado cuidadosamente, pois PJs semi-humanos serão deixados para trás, devido aos seus limites rigorosos de nível. Se o mestre permitir um jogo em níveis superiores, as seguintes orientações - que permitem a personagens humanos evoluírem até o  36º nível - devem ser utilizadas.
+Classes de personagens humanos são listadas como tendo um nível máximo igual a 14. Essa faixa de níveis oferece a melhor experiência de jogo em termos de desafios e recompensas. Alguns grupos, no entanto, podem desejar continuar a jogar muito além desse limite. Isso deve ser considerado cuidadosamente, pois PJs semi-humanos serão deixados para trás, devido aos seus limites rigorosos de nível. Se o árbitro permitir um jogo em níveis superiores, as seguintes orientações - que permitem a personagens humanos evoluírem até o  36º nível - devem ser utilizadas.
 
 ## Clérigos
 Precisam 100.000 XP adicionais por nível além do 14º e ganham 1 ponto de vida por nível. Magias de níveis mais altos se tornam disponíveis a medida que o personagem avança.
@@ -78,10 +78,10 @@ Quando os personagens acumulam riquezas suficientes, eles podem desejar construi
 Consulte Fortalezas para regras detalhadas sobre construção de forta
 
 # Empregados
-Empregados são PdM contratados por um personagem para realizar determinados serviços. 
+Empregados são PNJ contratados por um personagem para realizar determinados serviços. 
 
 ## Empregados e Aventuras
-Empregados não acompanham os personagens em aventuras. (Os personagens podem contratar PdMs para juntar-se a eles em aventuras, mas estes são tratados diferentemente. Ver  Seguidores[Retainer = Seguidor].)
+Empregados não acompanham os personagens em aventuras. (Os personagens podem contratar PNJs para juntar-se a eles em aventuras, mas estes são tratados diferentemente. Ver  Seguidores[Retainer = Seguidor].)
 
 ## Tipos de Empregados
 Empregados são divididos em dois tipos:

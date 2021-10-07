@@ -9,7 +9,7 @@ Se uma espada mágica possui senciência (consulte Espadas para ver a probabilid
 # Rolando uma Espada Senciente
 
 * **Propósito especial**: Se a espada tiver um propósito especial, consulte Propósitos Especiais de Espadas Sencientes para determinar qual é.
-* **Inteligência e personalidade**: A INT da espada é 1d6+6. (As espadas imbuídas com um propósito especial sempre têm INT 12.) A espada tem sua própria personalidade e deve ser interpretada como um NPC.
+* **Inteligência e personalidade**: A INT da espada é 1d6+6. (As espadas imbuídas com um propósito especial sempre têm INT 12.) A espada tem sua própria personalidade e deve ser interpretada como um PNJ.
 * **Comunicação**: A INT da espada determina os meios pelos quais ela pode se comunicar. Veja a tabela à direita.
    * **Empatia**: A espada não pode se comunicar diretamente, mas empaticamente informa o portador sobre quais são seus poderes e como usá-los.
    * **Discurso**: A espada fala em voz alta. O número de idiomas que ela conhece é indicado rolando na tabela de idiomas, à direita. Os idiomas devem ser selecionados pelo árbitro.
@@ -60,7 +60,7 @@ O árbitro determina o comportamento do personagem, através da espada, por exem
 * **Ciúmes**: Descartando outras armas ou ignorando as armas mágicas recém-descobertas.
 * **Glória**: Entrando em batalha, a fim de obter glória através da espada.
 * **Rendição**: Para um inimigo que a espada considere mais digno de possuí-la ou mais suscetível de ser controlado.
-* **Indulgência**: Ter altos gatos com a espada e com coisas para ela. Compra de bainhas caras, jóias, encantando com magias e confeccionando guardas, etc. A espada pode forçar o personagem a gastar a maior parte de seu dinheiro em tais coisas!
+* **Indulgência**: Ter altos gatos com a espada e com coisas para ela. Compra de bainhas caras, joias, encantando com magias e confeccionando guardas, etc. A espada pode forçar o personagem a gastar a maior parte de seu dinheiro em tais coisas!
 
 ## Encerrando o Controle
 Uma vez no controle, a espada só liberará o personagem quando a circunstância que desencadeou o teste de controle terminar ou quando a espada estiver satisfeita.
@@ -68,7 +68,7 @@ Uma vez no controle, a espada só liberará o personagem quando a circunstância
 # Poderes Extraordinários
 
 ## Tabela de Poderes Extraordinários
-Cada poder deve ser rolado na tabela abaixo. As duplicatas devem ser re-roladas, a menos que seja indicado.
+Cada poder deve ser rolado na tabela abaixo. As duplicatas devem ser reroladas, a menos que seja indicado.
 
 **Frequência de uso**: A menos que a descrição de um poder diga o contrário, ele pode ser usado no máximo três vezes por dia.
 
@@ -93,7 +93,7 @@ Cada poder deve ser rolado na tabela abaixo. As duplicatas devem ser re-roladas,
 +----------+----------------------------------------------------+
 | 55–59    | Levitação                                          |
 +----------+----------------------------------------------------+
-| 60–69    | Telecinésia                                        |
+| 60–69    | Telecinesia                                        |
 +----------+----------------------------------------------------+
 | 70–79    | Telepatia                                          |
 +----------+----------------------------------------------------+
@@ -101,9 +101,9 @@ Cada poder deve ser rolado na tabela abaixo. As duplicatas devem ser re-roladas,
 +----------+----------------------------------------------------+
 | 89–97    | Visão de Raio-X                                    |
 +----------+----------------------------------------------------+
-| 98–99    | Role novamentes 2 vezes nessa tabela               |
+| 98–99    | Role novamente 2 vezes nessa tabela               |
 +----------+----------------------------------------------------+
-| 0        | Role novamentes 3 vezes nessa tabela               |
+| 0        | Role novamente 3 vezes nessa tabela               |
 +----------+----------------------------------------------------+
 
 # Clariaudiência
@@ -149,13 +149,13 @@ Se esse poder for rolado mais de uma vez, o multiplicador de dano será aumentad
 Uma ilusão à escolha do usuário se manifesta. Isso funciona da mesma maneira que a magia Força Fantasmagórica do Usuário de Magia:
 
 # Levitação
-Concende a capacidade de se mover para cima e para baixo pelo ar à vontade.
+Concede a capacidade de se mover para cima e para baixo pelo ar à vontade.
 
 * **Vertical**: O usuário direciona mentalmente o movimento vertical em até 6m por rodada. 
 * **Horizontal**: O personagem pode se empurrar apoiando-se em objetos sólidos para se mover lateralmente.
 * **Peso**: Uma quantidade normal de peso pode ser transportada enquanto se está levitando.
 
-# Telecinésia
+# Telecinesia
 Ao se concentrar, o usuário é capaz de mover objetos ou criaturas dentro de 36m com o poder do pensamento.
 
 * **Peso**: Até 2,000 moedas de peso podem ser afetadas como alvo.

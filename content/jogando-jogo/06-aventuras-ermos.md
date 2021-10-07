@@ -6,10 +6,10 @@ metaDescription: "Jogando o Jogo > Aventuras nos Ermos"
 
 # Sequência de jogo por dia
 1. **Decida o curso**: os jogadores decidem o curso que vão seguir durante o dia.
-2. **Perdendo-se**: o mestre determina se o grupo se perde.
-3. **Monstros errantes**: o mestre faz os testes para determinar monstros errantes.
-4. **Descrição**: o mestre descreve o terreno pelos quais os personagens passam e qualquer local de interesse que os personagens atravessem, perguntando aos jogadores pelas ações, quando necessário. Se monstros forem encontrados, siga os procedimentos descritos em Encontros.
-5. **Fim do dia**: o mestre atualiza o registro do tempo, com atenção especial para as rações, duração de magias, e necessidade de descanso do grupo.
+2. **Perdendo-se**: o árbitro determina se o grupo se perde.
+3. **Monstros errantes**: o árbitro faz os testes para determinar monstros errantes.
+4. **Descrição**: o árbitro descreve o terreno pelos quais os personagens passam e qualquer local de interesse que os personagens atravessem, perguntando aos jogadores pelas ações, quando necessário. Se monstros forem encontrados, siga os procedimentos descritos em Encontros.
+5. **Fim do dia**: o árbitro atualiza o registro do tempo, com atenção especial para as rações, duração de magias, e necessidade de descanso do grupo.
 
 # Distância e Medidas
 Os espaços abertos das regiões selvagens significam que os personagens e monstros podem mover-se mais livremente do que em uma masmorra.
@@ -34,7 +34,7 @@ A coleta de ervas, frutas, castanhas etc., pode ser feita em conjunto com o movi
 A caça é uma atividade que exige engajamento total por um dia, não sendo possível viajar ou descansar. Quando caçando, existe uma chance de 1 em 1d6 de que sejam encontrados animais que possam servir para alimentação (se eles puderem ser pegos!). Essa é uma adição as chances normais de encontros aleatórios (ver Monstros errantes).
 
 # Perdendo-se
-No começo de cada dia de viagem, o mestre deve fazer uma jogada para determinar se o grupo se perdeu. A probabilidade depende do terreno sendo atravessado:
+No começo de cada dia de viagem, o árbitro deve fazer uma jogada para determinar se o grupo se perdeu. A probabilidade depende do terreno sendo atravessado:
 * **Terrenos abertos, pastagens**: 1 em 1d6.
 * **Terrenos áridos, colinas, montanhas, florestas**: 2 em 1d6.
 * **Desertos, selvas, pântano**: 3 em 1d6.
@@ -64,7 +64,7 @@ Cercados: Se o grupo for surpreendido por três ou mais monstros, eles podem ter
 Os personagens podem ver normalmente por 4,5 km ao redor, em terreno aberto. Essa distância pode ser reduzida algumas vezes (por exemplo, em um terreno coberto por vegetação, como uma floresta) ou ampliada (por exemplo, observando do topo de uma montanha). 
 
 # Monstros errantes
-**Frequência**: Uma jogada para determinar a presença de monstros errantes é normalmente feita uma vez por dia, mas o mestre pode escolher fazer mais jogadas: até três ou quatro por dia.
+**Frequência**: Uma jogada para determinar a presença de monstros errantes é normalmente feita uma vez por dia, mas o árbitro pode escolher fazer mais jogadas: até três ou quatro por dia.
 **Chance**: A chance de encontrar um monstro errante depende do terreno sendo explorado (ver mais abaixo).
 **Distância**: Monstros errantes são encontrados a 4d6 x 3 metros. Se ambos os lados forem surpreendidos (ver Encontros), a distância é reduzida para 1d4 x 3 metros.
 

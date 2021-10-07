@@ -7,8 +7,8 @@ metaDescription: "Jogando o Jogo > Encontros"
 Um encontro começa quando um grupo de aventureiros tropeça em um monstro, seja porque o árbitro planejou um encontro na área que os PJs estão explorando, ou porque uma jogada para determinar um encontro aleatório indicou um encontro (ver Monstros Errantes).
 
 # Sequência do Encontro
-1. **Surpresa**: o mestre joga para determinar surpresa, se for aplicável.
-2. **Distância do encontro**: o mestre determina a distância entre os PJs e os monstros.
+1. **Surpresa**: o árbitro joga para determinar surpresa, se for aplicável.
+2. **Distância do encontro**: o árbitro determina a distância entre os PJs e os monstros.
 3. **Iniciativa**: qualquer um dos lados que não estiver surpreso, joga iniciativa para determinar quem age primeiro.
 4. **Ações**: os lados que não estiverem surpresos decidirão como responder ao encontro. O encontro é jogado de acordo.
 5. **Conclusão**: um turno se passou.
@@ -19,7 +19,7 @@ Uma jogada de surpresa é feita para todos os lados que não estão esperando po
 
 ## Jogada de surpresa
 Cada lado que não estiver ciente da presença do outro grupo, joga 1d6.
-**Monstros**: o mestre joga para os monstros.
+**Monstros**: o árbitro joga para os monstros.
 **PJs**: um jogador faz a jogada para o grupo de aventureiros como um todo.
 **Resultado**: um resultado 1 ou 2 significa que o lado foi surpreendido.
 
@@ -44,9 +44,9 @@ Ver Combate para detalhes.
 Os jogadores decidirão como eles vão agir.
 
 ## Ações dos monstros
-O mestre determinará a reação dos monstros em relação ao grupo. Algumas vezes, as circunstâncias deixarão claro qual a reação do monstro. De outra forma, o mestre deve jogar na tabela a seguir para saber como os monstros reagirão ao grupo.
+O árbitro determinará a reação dos monstros em relação ao grupo. Algumas vezes, as circunstâncias deixarão claro qual a reação do monstro. De outra forma, o árbitro deve jogar na tabela a seguir para saber como os monstros reagirão ao grupo.
 
-**Carisma**: se um personagem específico tentar falar com o monstro, o modificador de reações de PdM devido ao CAR deste personagem (ver Atributos) é utilizado para modificar a jogada de reação do monstro.
+**Carisma**: se um personagem específico tentar falar com o monstro, o modificador de reações de PNJ devido ao CAR deste personagem (ver Atributos) é utilizado para modificar a jogada de reação do monstro.
 
 ## Jogada de Reação dos Monstros
 
@@ -82,7 +82,7 @@ Qualquer ação é possível em um encontro, mas as mais comuns são:
 Se um dos lados desejar evitar um encontro, ele pode tentar fugir. Isso é chamado evasão e só é possível antes do combate ter início. Quando um lado decide tentar uma evasão, o outro grupo deve decidir se irá perseguí-lo ou não. 
 
 **Jogadores**: podem decidir livremente se desejam perseguir monstros em fuga.
-**Monstros**: o mestre deve decidir se os monstros perseguirão PJs em fuga. (Uma jogada que obtenha um valor baixo na Tabela de Reação de Monstros deve ser obtida para indicar que o monstro irá perseguir.)
+**Monstros**: o árbitro deve decidir se os monstros perseguirão PJs em fuga. (Uma jogada que obtenha um valor baixo na Tabela de Reação de Monstros deve ser obtida para indicar que o monstro irá perseguir.)
 **Sem perseguição**: se o grupo opositor decidir deixar o outro grupo fugir, então a tentativa de evasão é bem sucedida automaticamente; o encontro é evitado.
 **Perseguição**: se o grupo opositor der perseguição, a chance de evasão dependerá do ambiente sendo explorado. Ver Evasão e Perseguição.
 

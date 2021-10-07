@@ -616,7 +616,7 @@ _Enxame de muitos pequenos insetos que podem ser encontrados protegendo seu ninh
 
 * **Tipo e locomoção**: Um enxame pode ser composto por rastejadores (exemplo, aranhas, formigas, centopeias) ou voadores (exemplo abelas, vespas). Alguns enxames são capazes de ambos os tipos de movimento (exemplo escaravelhos, gafanhotos).
 * **Tamanho**: área de 3 × 9 metros, normalmente.
-* **Imunidade**: Só são ameaçados por fogo, frio extremo, magias de sono (afetam o enxame inteiro), fumaça (afasta), ou outros ataques que o mestre deseje.
+* **Imunidade**: Só são ameaçados por fogo, frio extremo, magias de sono (afetam o enxame inteiro), fumaça (afasta), ou outros ataques que o árbitro deseje.
 * **Ataque do enxame**: Casa dano automático a personagens dentro da área do enxame; 2 pv se estiverem usando armaduras, 4 se não.
 * **Protegendo-se**: Personagens dentro do enxame que estejam se defendendo brandindo uma arma (ou similar) sofrem metade do dano do enxame. Brandir uma tocha causa dano ao enxame.
 * **Escapando**: Ao sair da área do enxame, os personagens continuam a sofrer metade do dano até que 3 rodadas sejam gastas esmagando os insetos presos ao personagem.
@@ -717,7 +717,7 @@ _Esqueletos remanescentes de humanoides, reanimados como guardiões por poderoso
 ---
 
 # Estátua Viva
-_Estátuas animadas de qualquer tamanho e material (três tipos são descritas a seguir; outras podem ser inventadas pelo mestre)._
+_Estátuas animadas de qualquer tamanho e material (três tipos são descritas a seguir; outras podem ser inventadas pelo árbitro)._
 
 * **Imunidades**: Não afetadas por magias de sono.
 * **Origens mágicas**: Criadas por poderosos magos.

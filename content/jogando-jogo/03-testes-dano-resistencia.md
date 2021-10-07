@@ -5,7 +5,7 @@ metaDescription: "Jogando o Jogo > Testes, Dano e Resistência"
 ---
 
 # Testes de Atributos
-O mestre pode utilizar os valores de atributo dos personagens para determinar a chance de sucesso na realização de várias tarefas.
+O árbitro pode utilizar os valores de atributo dos personagens para determinar a chance de sucesso na realização de várias tarefas.
 
 **Testando um atributo**: o jogador joga 1d20 e, se o resultado for menor ou igual ao atributo, o teste é bem sucedido. Se o resultado for maior do que o valor de atributo, o teste falha.
 
@@ -52,7 +52,7 @@ O teste de resistência apropriado a ser feito, bem como os efeitos de sucesso o
 **Monstros**: a maioria dos monstros utiliza a tabela de valores de resistência na ***Tabela de Combate***. Algumas descrições de monstros podem indicar que eles usam uma tabela de valor de resistência de uma classe de personagem específica.
 
 ## Fazendo um teste de resistência
-Quando afetado por uma magia ou forma de ataque que requeira um teste de resistência, o jogador ou mestre deve jogar 1d20 e comparar o resultado com o valor do teste de resistência apropriado.
+Quando afetado por uma magia ou forma de ataque que requeira um teste de resistência, o jogador ou árbitro deve jogar 1d20 e comparar o resultado com o valor do teste de resistência apropriado.
 * **Maior ou igual**: um resultado maior ou igual ao valor do teste de resistência é um sucesso.
 * **Menor**: um resultado menor do que o valor do teste de resistência é um fracasso.
 

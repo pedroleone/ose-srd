@@ -98,7 +98,7 @@ Os tesouros são normalmente guardados por monstros ou armadilhas, mas algumas v
 1. **Dardos**: 1d6 dardos propelidos por molas acertam o personagem, causando 1d4 pontos de dano cada.
 2. **Clarão de luz**: provoca cegueira por 1d8 turnos (teste de resistência contra magias).
 3. **Monstro escondido**: exemplo, uma cobra. Libertada quando o tesouro é perturbado.
-4. **Ilusão**: tipicamente de um monstro. O monstro tem CA 9 [10] e desaparece se for acertado em combate. Seu ataque não causa dano real: um PdJ que aparentemente morra, apenas ficará inconsciente por 1d4 turnos.
+4. **Ilusão**: tipicamente de um monstro. O monstro tem CA 9 [10] e desaparece se for acertado em combate. Seu ataque não causa dano real: um PJ que aparentemente morra, apenas ficará inconsciente por 1d4 turnos.
 5. **Borrifo**: um líquido misterioso cobre o personagem. Os monstros são atraídos pelo cheiro: a chance de monstros errantes é dobrada por 1d6 horas.
 6. **Picada de agulha**: uma agulha embebida em veneno pica (teste de resistência contra veneno ou morte).
 

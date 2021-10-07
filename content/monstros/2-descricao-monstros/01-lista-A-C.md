@@ -420,7 +420,7 @@ _Baleias imensas com até 18 m de comprimento. Vivem no oceano aberto e caçam m
 
 
 # Bandido
-_PdMs ladrões que vivem para roubar._
+_PNJs ladrões que vivem para roubar._
 
 
 **Classe de Armadura**: 6 [13]
@@ -1068,7 +1068,7 @@ _Humanoides com cerca de 6 m de altura, com um único olho central. Moram em cav
 * **Penalidade de ataque**: -2 de penalidade nas jogadas de ataque, devido a percepção de profundidade limitada.
 * **Arremesso de rochas**: a até 60 m.
 * **Raciocínio lento**: pode ser enganado por personagens inteligentes.
-* **Maldição**: 1 em cada 20 ciclopes são capazes de amaldiçoar um personagem uma vez por semana. Teste de resistência vs feitiço ou será afetado por uma maldição a escolha do mestre. (Efeitos máximos possíveis: penalidade de -2 nos testes de resistência, penalidade de -4 para acertar, e um atributo reduzido em 50%.)
+* **Maldição**: 1 em cada 20 ciclopes são capazes de amaldiçoar um personagem uma vez por semana. Teste de resistência vs feitiço ou será afetado por uma maldição a escolha do árbitro. (Efeitos máximos possíveis: penalidade de -2 nos testes de resistência, penalidade de -4 para acertar, e um atributo reduzido em 50%.)
 
 # Cobra
 _São encontradas em todos os climas, com exceção dos mais exremos. Normalmente só irão atacar se forem encurraladas ou surpreendidas._

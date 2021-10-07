@@ -25,16 +25,16 @@ Alguns monstros só podem ser feridos por armas mágicas ou de prata. O árbitro
 * Outro monstro invulnerável.
 * Um monstro com 5 DV ou mais.
 
-# Oponentes Paralizados
-Oponentes indefesos, como aqueles paralizados magicamente ou congelados, podem ser atingidos automaticamente em combate corpo a corpo. Só é necessário jogar para determinar o dano.
+# Oponentes Paralisados
+Oponentes indefesos, como aqueles paralisados magicamente ou congelados, podem ser atingidos automaticamente em combate corpo a corpo. Só é necessário jogar para determinar o dano.
 
 # Espaçamento
-O Árbitro deve julgar quantos atacantes podem atacar um único oponente, levando em consideração o tamanho do oponente e o espaço disponível ao redor dele.
+O árbitro deve julgar quantos atacantes podem atacar um único oponente, levando em consideração o tamanho do oponente e o espaço disponível ao redor dele.
 
-* **Passagens de 3 m:** Normalmente pelo menos 2 - 3 personagens podem lutar lado a lado em uma passagem de 3 m de largura.
+* **Passagens de 3 m:** Normalmente pelo menos 2-3 personagens podem lutar lado a lado em uma passagem de 3 m de largura.
 
 # Subjugar (Regra Opcional)
-Personagens que desejem subjugar um oponente inteligente deve anunciar que eles estão atcando sem a intenção de matar.
+Personagens que desejem subjugar um oponente inteligente deve anunciar que eles estão atacando sem a intenção de matar.
 
 * **Golpes contundentes:** Apenas ataques contundentes podem ser realizados. Armas de combate corpo a corpo de lâminas podem ser empregadas para causar dano contundente com a parte chata da lâmina.
 
@@ -48,7 +48,7 @@ Personagens que desejem subjugar um oponente inteligente deve anunciar que eles 
 * **Dano:** Ataques desarmados causam 1d2 pontos de dano, modificados pela FOR.
 
 # Superfície instáveis
-Personagens em uma superfície instavél, como um navio em um mar agitado ou montando um animal voador, são afetados da seguinta maneira:
+Personagens em uma superfície instável, como um navio em um mar agitado ou montando um animal voador, são afetados da seguinte maneira:
 
 * **Ataques a distância:** Sofrem uma penalidade de -4.
 * **Magias:* Não podem ser lançadas.

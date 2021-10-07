@@ -19,7 +19,7 @@ Esta magia transforma os ossos ou corpos de uma criatura morta em esqueletos ou 
 
 * **Esqueletos**: CA 7 [12] e DV igual ao que a criatura possuía em vida.
 * **Zumbis**: CA 8 [11] e DV um a mais do que a criatura possuía em vida.
-* **Personagens com classe**: se um PJ ou PdM com níveis em classe é animado por esta magia, os níveis não são contados para os DV. Por exemplo um corpo animado de um guerreiro de 5º nível teria 2 DV (1 DV como um humano normal, +1 por ter sido vivificado como um zumbi).
+* **Personagens com classe**: se um PJ ou PNJ com níveis em classe é animado por esta magia, os níveis não são contados para os DV. Por exemplo um corpo animado de um guerreiro de 5º nível teria 2 DV (1 DV como um humano normal, +1 por ter sido vivificado como um zumbi).
 
 
 # Conjurar Elemental

@@ -6,10 +6,10 @@ metaDescription: "Jogando o Jogo > Aventuras em Masmorras"
 
 # Sequência de jogo por turno
 
-1. **Monstros errantes**: o mestre realiza os testes se aplicável.
+1. **Monstros errantes**: o árbitro realiza os testes se aplicável.
 2. **Ações**: o grupo decide que ações realizar (exemplo, mover-se, procurar, ouvir, entrar em salas).
-3. **Descrição**: o mestre descreve o que acontece. Se forem encontrados monstros, siga o procedimento descrito em Encontros.
-4. **Fim do turno**: o mestre atualiza o registro do tempo, com atenção especial para as fontes de luz, duração de magias e a necessidade do grupo descansar.
+3. **Descrição**: o árbitro descreve o que acontece. Se forem encontrados monstros, siga o procedimento descrito em Encontros.
+4. **Fim do turno**: o árbitro atualiza o registro do tempo, com atenção especial para as fontes de luz, duração de magias e a necessidade do grupo descansar.
 
 # Portas
 Masmorras frequentemente possuem muitas portas, algumas secretas e outras óbvias. Muitas estão trancadas e muitas emperradas.
@@ -33,9 +33,9 @@ Monstros que vivem em masmorras, normalmente podem abrir portas (mesmo portas em
 
 ## Ouvindo através de portas
 
-**Chance de sucesso**: Os PdJs tem 1 chance em 1d6 de detectar sons sutis através de uma porta. (Alguns tipos de aventureiros podem ter uma chance maior de sucesso.)
+**Chance de sucesso**: Os PJs tem 1 chance em 1d6 de detectar sons sutis através de uma porta. (Alguns tipos de aventureiros podem ter uma chance maior de sucesso.)
 
-**O mestre joga**: O mestre sempre deve fazer a jogada para o personagem tentando ouvir atrás da porta, de forma que o jogador nunca saberá se a jogada falhou ou se realmente não existe nenhum som sendo produzido do outro lado da porta.
+**O árbitro joga**: O árbitro sempre deve fazer a jogada para o personagem tentando ouvir atrás da porta, de forma que o jogador nunca saberá se a jogada falhou ou se realmente não existe nenhum som sendo produzido do outro lado da porta.
 
 **Uma chance**: Esta tentativa só pode ser feita uma única vez, em qualquer porta, por um personagem.
 
@@ -63,7 +63,7 @@ As masmorras freqüentemente possuem elementos escondidas, como portas secretas 
 
 **Chance de sucesso**: Se um personagem está procurando no local certo, a chance base de encontrar uma passagem secreta ou armadilha é de 1 em 1d6. (Alguns tipos de aventureiros podem ter uma chance maior de sucesso.)
 
-**O mestre joga**: O mestre sempre deve fazer a jogada de procurar pelo personagem, de forma que o jogador nunca saberá se a jogada falhou ou se realmente não existe nenhum elemento escondido na área pesquisada.
+**O árbitro joga**: O árbitro sempre deve fazer a jogada de procurar pelo personagem, de forma que o jogador nunca saberá se a jogada falhou ou se realmente não existe nenhum elemento escondido na área pesquisada.
 
 **Uma chance**: Cada personagem só pode realizar uma única tentativa de procurar em uma área.
 
@@ -82,7 +82,7 @@ Cada armadilha é acionada por uma ação específica (por exemplo, abrir uma po
 
 **Dano pela armadilha**: O dano infligido por uma armadilha acionada normalmente é automático, sem a necessidade de uma jogada de ataque.
 
-**Monstros**: Monstros podem ser capazes de evitar uma armadilha sem risco, se o mestre desejar.
+**Monstros**: Monstros podem ser capazes de evitar uma armadilha sem risco, se o árbitro desejar.
 
 ## Procurando por Armadilhas
 

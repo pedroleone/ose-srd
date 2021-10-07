@@ -10,7 +10,7 @@ Os persoangens conjuradores podem realizar pesquisas por novas magias, itens má
 O sucesso em toda pesquisa mágica não é garantida. Existe uma probabilidade mínima de 15% de que qualquer pesquisa seja um fracasso. Se a pesquisa falhar, o tempo e o dinheiro investido são perdidos.
 
 # Criando novas magias
-O jogador deve descrever em detalhes a magia que ele deseja criar e os efeitos que ela possui. O mestre então decidirá se a magia pode ser criada e, se possível, a que nível a magia pertencerá.
+O jogador deve descrever em detalhes a magia que ele deseja criar e os efeitos que ela possui. O árbitro então decidirá se a magia pode ser criada e, se possível, a que nível a magia pertencerá.
 
 ## Restrições
 O personagem deve ser capaz de conjurar magias do nível que a magia pertencerá.
@@ -19,7 +19,7 @@ O personagem deve ser capaz de conjurar magias do nível que a magia pertencerá
 Pesquisar uma nova magia demora duas semanas por nível da magia e 1.000 po por nível da magia.
 
 # Criando itens mágicos
-O jogador deve descrever em detalhes o item que ele deseja criar e seus efeitos. O mestre então decidirá se é possível criá-lo, e se possível, que tipos de materiais são necessários.
+O jogador deve descrever em detalhes o item que ele deseja criar e seus efeitos. O árbitro então decidirá se é possível criá-lo, e se possível, que tipos de materiais são necessários.
 
 ## Restrições
 

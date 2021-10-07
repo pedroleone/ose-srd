@@ -29,7 +29,7 @@ A moeda mais comum são as peças de ouro (po). Moedas feitas de outros metais -
 Os personagens dos jogadores começam o jogo com 3d6 x 10 peças de ouro.
 
 # Herança
-Diante da possibilidade de morte do personagem, os jogadores podem desejar criar um testamento para seus personagens, deixando suas riquezas para um herdeiro. Se o mestre permitir isso, as seguintes cláusulas se aplicam:
+Diante da possibilidade de morte do personagem, os jogadores podem desejar criar um testamento para seus personagens, deixando suas riquezas para um herdeiro. Se o árbitro permitir isso, as seguintes cláusulas se aplicam:
 * **Taxas**: qualquer tesouro deixado como uma herança será taxada em 10%.
 * **Herdeiro**: o personagem herdeiro deve ser um novo personagem de 1º nível.
 * **Apenas uma vez**: um jogador só pode deixar uma herança para um personagem apenas uma vez.

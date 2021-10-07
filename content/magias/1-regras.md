@@ -53,7 +53,7 @@ Conjuradores divinos podem conjurar versões reversas da magia falando as palavr
 ## Contrariar a divindade
 Conjuradores divinos devem ser fiéis aos princípios básicos de sua tendência, clero e religião. Se o personagem contrariar sua divindade, penalidades (determinadas pelo árbitro) podem ser impostas.
 
-Isso pode incluir penalidades no ataque (-1), uma redução nas magias, ou ser enviado em uma jornada perigosa. Para ganhar os favores do deus novamente, o personagem deve realizar algum grande feito para a divindade (determinada pelo mestre), por exemplo: doando itens mágicos ou ouro, construir um templo, converter várias pessoas para a religião, derrotar um poderoso inimigo da divindade etc.
+Isso pode incluir penalidades no ataque (-1), uma redução nas magias, ou ser enviado em uma jornada perigosa. Para ganhar os favores do deus novamente, o personagem deve realizar algum grande feito para a divindade (determinada pelo árbitro), por exemplo: doando itens mágicos ou ouro, construir um templo, converter várias pessoas para a religião, derrotar um poderoso inimigo da divindade etc.
 
 ## Magias e a Tendência da Divindade
 Um conjurador divino pode contrariar a divindade quando conjurar magias (ou suas versões reversas) cujos efeitos vão de encontro a tendência da divindade:

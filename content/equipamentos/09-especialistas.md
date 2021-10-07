@@ -48,7 +48,7 @@ Adestradores não são necessários para pequenos números de animais comuns, co
 
 **Número de Animais**: um adestrador pode treinar até seis animais por vez.
 
-**Tempo Necessário**: o mestre decide por quanto tempo um animal deve ser treinado, baseado na natureza do treinamento. O treinamento levará pelo menos um mês para ensinar o primeiro novo comportamento ou truque. Depois deste primeiro mês, um animal se acostuma ao adestrador e pode aprender novos comportamentos duas vezes mais rápido (duas semanas por comportamento).
+**Tempo Necessário**: o árbitro decide por quanto tempo um animal deve ser treinado, baseado na natureza do treinamento. O treinamento levará pelo menos um mês para ensinar o primeiro novo comportamento ou truque. Depois deste primeiro mês, um animal se acostuma ao adestrador e pode aprender novos comportamentos duas vezes mais rápido (duas semanas por comportamento).
 
 Interruptions: If training is interrupted, all time already spent on that particular behaviour is lost and the animal becomes unable to learn further behaviours.
 
@@ -88,7 +88,7 @@ Um humano normal não especializado que rema embarcações marítimas. Não é t
 
 Eruditos são indivíduos muito raros que devotam as suas vidas ao estudo de conhecimento obscuro. Um erudito pode ser consultado sobre assuntos incomuns.
 
-**Tempo e Custo**: o mestre deve julgar o tempo e custo necessários para que uma pesquisa responda a uma questão.
+**Tempo e Custo**: o árbitro deve julgar o tempo e custo necessários para que uma pesquisa responda a uma questão.
 
 **Chance de Sucesso**: nunca existe 100% de certeza de encontrar uma resposta.
 
@@ -104,10 +104,10 @@ Toda embarcação grande necessita de um capitão, um marinheiro experiente, que
 
 Um espião é contratado para obter informação de uma pessoa ou grupo. O espião pode ser um forasteiro que tenta se infiltrar ou pode ser um traidor já conectado com a pessoa ou grupo que será espionado.
 
-**Classe**: espiões normalmente são PdM ladrões, mas podem pertencer a qualquer classe.
+**Classe**: espiões normalmente são PNJ ladrões, mas podem pertencer a qualquer classe.
 
-**Tempo**: o mestre determinará o tempo necessário para realização do trabalho.
+**Tempo**: o árbitro determinará o tempo necessário para realização do trabalho.
 
-**Chance de Sucesso**: o mestre julgará a probabilidade de sucesso da missão, baseada nas circunstâncias.
+**Chance de Sucesso**: o árbitro julgará a probabilidade de sucesso da missão, baseada nas circunstâncias.
 
 **Confiabilidade**: espiões pode ser ou não confiáveis, podendo até apunhalar o personagem contratante nas costas (talvez literalmente!).

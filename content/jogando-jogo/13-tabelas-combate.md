@@ -6,8 +6,8 @@ metaDescription: "Jogando o Jogo > Tabelas de Combate"
 
 Estas tabelas listam as probabilidades de ataque para todos os monstros e personagens, e os valores de testes de resistência usados por monstros e humanos normais.
 
-# Testes de Resistência de PdJs e PnJs
-PdJs e PnJs com classe usam as tabelas de testes de resistências de suas classes, listadas nas respectivas classes.
+# Testes de Resistência de PJs e PNJs
+PJs e PNJs com classe usam as tabelas de testes de resistências de suas classes, listadas nas respectivas classes.
 
 # Humanos Normais
 Todos os humanos que não sejam membros de uma classe de aventureiro são classificados como humanos normais. Eles são tratados como tendo menos de 1 Dado de Vida e tem seus próprios valores para testes de resistência e probabilidades de ataque.
