@@ -42,13 +42,13 @@ metaDescription: "Dicionário de Termos"
 
 - **Thief**: Ladrão
 
-**Demihuman**: Semi-humano (em alguns lugares consta "semi humano", separado)
+**Demihuman**: Semi-humano
 
-**Dungeon Adventuring**: Aventuras em Masmorras (cf. Jogando o Jogo > Aventuras em Masmorras)
+**Dungeon Adventuring**: Aventuras em Masmorras
 
 **Hamlet**: Aldeia
 
-**Hirelings**: Empregados (cf. Personagens > Empregados)
+**Hirelings**: Empregados
 
 **Hit Dice**: Dado de Vida
 
@@ -58,13 +58,13 @@ metaDescription: "Dicionário de Termos"
 
 **PC / NPC**: PJ / PNJ
 
-**Prime Requisite**: Requisito Primário (cf. Personagens > Atributos)
+**Prime Requisite**: Requisito Primário
 
 **Race**: Raça
 
 **Referee**: Árbitro.
 
-**Retainer**: Seguidor (cf. Personagens > Atributos)
+**Retainer**: Seguidor
 
 **Saving Throw**: Teste de Resistência
 
@@ -72,13 +72,23 @@ metaDescription: "Dicionário de Termos"
 
 **Spells / Rods / Staves**: Magias / Bastões / Cajados
 
+**Sub-Table**: Subtabela
+
+> As subtabelas de [Encontros nos Ermos](monstros/4-encontros-ermos) possuem letra identificadora baseada no tipo de terreno. Quando foram traduzidas essa identificação também mudou:
+
+* **Sub-Table S: Swamp**: Subtabela P: Pântano
+
 **Town**: Vila
 
 **Village**: Vilarejo
 
-**Wilderness Adventuring**: Aventuras nos Ermos (cf. Jogando o Jogo > Aventuras nos Ermos)
+**Wilderness Adventuring**: Aventuras nos Ermos
 
 ## Monstros
+* **Driver Ant**: Formiga Gigante
+
+> **Driver Ant** em inglês também é sinônimo para *army ant*, traduzido literalmente como [formiga-correição](https://pt.wikipedia.org/wiki/Formiga-correi%C3%A7%C3%A3o), mas gigante fica melhor, é o que ela é de fato)
+
 * **Giant Bass**: Perca Gigante
 * **Giant Catfish**: Peixe-gato Gigante
 * **Giant Piranha**: Piranha Gigante

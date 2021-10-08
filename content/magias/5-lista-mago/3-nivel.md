@@ -43,7 +43,7 @@ Dissipar magia remove magias de duração não instantânea em um cubo de 3 m de
 
 **Alcance**: 36 m
 
-Essa magia faz com que um ou mais humanos, semi humanos ou monstros humanóides fiquem paralisados se falharem em um teste de resistência contra magia. Ela pode ser conjurada de duas maneiras.
+Essa magia faz com que um ou mais humanos, semi-humanos ou monstros humanóides fiquem paralisados se falharem em um teste de resistência contra magia. Ela pode ser conjurada de duas maneiras.
 
 * **Contra um indivíduo**: O teste de resistência do alvo recebe uma penalidade de -2.
 * **Contra um grupo**: A magia é direcionada a 1d4 indivíduos de um grupo.

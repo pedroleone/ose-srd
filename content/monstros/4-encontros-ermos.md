@@ -4,21 +4,21 @@ metaTitle: "Encontros nos Ermos"
 metaDescription: "Monstros > Encontros nos Ermos"
 ---
 
-This section provides encounter tables by terrain type, using the monsters found in this book. Referees who are using additional (or alternative) monsters should either adapt the tables to include these, or should create their own encounter tables.
+Esta seção fornece tabelas de encontro por tipo de terreno, usando os monstros encontrados neste livro. Os árbitros que estão usando monstros adicionais (ou alternativos) devem adaptar as tabelas para incluí-los, ou devem criar suas próprias tabelas de encontro.
 
-# How to Roll an Encounter
-Roll 1d8 and 1d12:  
-* Look up the d8 result on the column in the table below that corresponds to the terrain being explored. The result indicates which sub-table to consult.
-* Look up the d12 result in the sub-table indicated.
+# Como Rolar um Encontro
+Role 1d8 e 1d12:
+* Procure o resultado do d8 na coluna da tabela abaixo que corresponde ao terreno que está sendo explorado. O resultado indica qual subtabela consultar.
+* Procure o resultado do d12 na subtabela indicada.
 
-# Notes
-**Aerial encounters*: Always use the Flyer table, in sub-table 1, opposite.
+# Notas
+**Encontros aéreos**: sempre use a coluna Voador, na subtabela 1, abaixo.
 
-**Lost World**: In Lost World or prehistoric settings, any Animal result may be rolled on the Prehistoric Animal table, in sub-table 2, opposite.
+**Mundo Perdido**: em Mundos Perdidos ou cenários pré-históricos, qualquer resultado Animal pode ser rolado na tabela de Animais Pré-históricos, na subtabela 2, a seguir.
 
-**NPC adventurers**: Encounters with NPC adventuring parties are listed in the tables as “Basic Adventurers”, “Expert Adventurers”, “High-Level Cleric”, “High-Level Fighter”, or “High-Level Magic-User”. Guidelines for generating NPC adventurers can be found under Adventuring Parties, p76. 
+**PNJs Aventureiros**: encontros com grupos de PNJs aventureiros são listados nas tabelas como “Aventureiros Iniciantes”, “Aventureiros Experientes”, “Clérigo de Alto Nível”, “Guerreiro de Alto Nível” ou “Mago de Alto Nível”. Diretrizes para gerar PNJs aventureiros podem ser encontradas no capítulo Grupos de Aventureiros.
 
-# Encounter Sub-Table By Terrain Type
+# Subtabela de Encontros por Tipo de Terreno
 |d8|Barren, Hills, Mountains|City|Clear, Grasslands|Desert|Forest|
 |--- |--- |--- |--- |--- |--- |
 |1|B—Animal|C—Human|G—Animal|D—Animal|F—Animal|
@@ -29,8 +29,9 @@ Roll 1d8 and 1d12:
 |6|B—Humanoid|C—Human|G—Humanoid|D—Human|F—Humanoid|
 |7|B—Humanoid|C—Humanoid|1—Insect|D—Humanoid|1—Insect|
 |8|2—Unusual|2—Undead|2—Unusual|2—Undead|2—Unusual|
+.
 
-|d8|Jungle|Lake, River|Ocean, Sea|Settled|Swamp|
+|d8|Jungle|Lake, River|Ocean, Sea|Settled|Pântano|
 |--- |--- |--- |--- |--- |--- |
 |1|J—Animal|L—Animal|1—Dragon|C—Animal|1—Dragon|
 |2|J—Animal|1—Dragon|1—Flyer|1—Dragon|1—Flyer|
@@ -41,26 +42,26 @@ Roll 1d8 and 1d12:
 |7|1—Insect|L—Swimmer|O—Swimmer|C—Humanoid|2—Undead|
 |8|1—Insect|L—Swimmer|O—Swimmer|1—Insect|2—Undead|
 
-# Standard Sub-Table 1
+# Subtabela 1: Padrão
 
-|d12|Dragon|Flyer|Insect|
-|--- |--- |--- |--- |
-|1|Chimera|Cockatrice|Beetle, Fire|
-|2|Dragon, Black|Gargoyle|Beetle, Oil|
-|3|Dragon, Blue|Griffon|Beetle, Tiger|
-|4|Dragon, Gold|Hawk, Giant|Driver Ant|
-|5|Dragon, Green|Hippogriff|Driver Ant|
-|6|Dragon, Red|Killer Bee|Killer Bee|
-|7|Dragon, White|Pegasus|Rhagodessa|
-|8|Hydra (or Sea Hydra)|Pixie|Robber Fly|
-|9|Hydra (or Sea Hydra)|Robber Fly|Scorpion, Giant|
-|10|Wyvern|Roc, Small|Spider, Black Widow|
-|11|Basilisk*|Sprite|Spider, Crab|
-|12|Salamander*|Stirge|Spider, Tarantella|
+| d12 | Dragão | Voador | Inseto |
+| --- | --- | --- | --- |
+| 1 | Quimera | Cocatriz | Besouro de Fogo |
+| 2 | Dragão Preto | Gárgula | Besouro de Óleo |
+| 3 | Dragão Azul | Grifo | Besouro Tigre |
+| 4 | Dragão Ouro | Falcão Gigante | Formiga Gigante |
+| 5 | Dragão Verde | Hipogrifo | Formiga Gigante |
+| 6 | Dragão Vermelho | Abelha Assassina | Abelha Assassina |
+| 7 | Dragão Branco | Pégaso | Rhagodessa |
+| 8 | Hidra (ou Hidra aquática) | Pixie | Mosca Salteadora |
+| 9 | Hidra (ou Hidra aquática) | Mosca Salteadora | Escorpião Gigante |
+| 10 | Wyvern | Roca Pequena | Aranha, Viúva Negra |
+| 11 | Basilisco * | Sprite | Aranha, Caranguejeira |
+| 12 | Salamandra * | Estirge | Aranha, Tarântula |
 
-# Standard Sub-Table 2
+# Subtabela 2: Padrão
 
-|d12|Prehistoric Animal|Undead|Unusual|
+|d12|Animal Pré-histórico|Undead|Unusual|
 |--- |--- |--- |--- |
 |1|Bear, Cave|Ghoul|Basilisk|
 |2|Cat, Sabre-Toothed|Ghoul|Blink Dog|
@@ -211,7 +212,7 @@ Roll 1d8 and 1d12:
 |11|Pirate|Termite, Water|
 |12|Pirate|Whale|
 
-# Subtabela S: Pântano
+# Subtabela P: Pântano
 
 | d12 | Humano | Humanoide | Nadador |
 | --- | --- | --- | --- |

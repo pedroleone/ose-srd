@@ -95,7 +95,7 @@ _Large, black, six-legged, semi-intelligent monsters. Look similar to panthers w
 * **Save bonus**: +2 to all saves.
 * **Hate blink dogs**: Always attack them and their companions.
 
-# Pássaro Roca
+# Roca
 _Gigantic birds of prey that nest in the highest peaks of isolated mountain ranges. Will attack intruders, if approached carelessly._
 
 * **Alignment reaction**: –1 to reaction rolls versus Neutro characters; –2 versus Caótico characters.
@@ -103,7 +103,7 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 * **Eggs**: 1d6 eggs or chicks in 50% of nests.
 * **Trainable**: Can be trained, if captured when young.
 
-## Giant Roc
+## Roca Gigante
 
 **Classe de Armadura**: 0 [19]
 
@@ -129,7 +129,7 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 * **Alignment reaction**; **Swoop**: See main entry.
 
-## Large Roc
+## Roca Grande
 
 **Classe de Armadura**: 2 [17]
 
@@ -156,7 +156,7 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 * **Alignment reaction**: –1 to reaction rolls versus Neutro characters; –2 versus Caótico characters.
 * **Swoop**: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
 
-## Small Roc
+## Roca Pequena
 
 **Classe de Armadura**: 4 [15]
 
@@ -443,7 +443,7 @@ _Giant, eight-armed cephalopods. Lurk in coastal waters, close to settlements._
 # Pterossauro
 _Predatory, winged reptiles that live in warm climes, hunting creatures on the ground by gliding on air currents. Often found in Lost World regions._
 
-## Pteranodon
+## Pteranodonte
 _Wingspan of up to 15m. Highly aggressive; often prey on humanoids._
 
 **Classe de Armadura**: 6 [13]
@@ -469,7 +469,7 @@ _Wingspan of up to 15m. Highly aggressive; often prey on humanoids._
 **Tesouro**: V
 
 
-## Pterodactyl
+## Pterodáctilo
 _8–3m wingspan. Prey on small to medium animals, but will attack humanoids, if very hungry._
 
 **Classe de Armadura**: 7 [12]
@@ -556,7 +556,7 @@ _Horrific, hybrid monstrosities with the forequarters of a lion, the hindquarter
 # Rato
 _Multitudinous, disease-ridden rodents that will eat anything. Avoid contact with humans, but may attack if defending their nest or if summoned and commanded by magic (e.g. see Wererat)._
 
-## Giant Rat
+## Rato Gigante
 _1m long (or larger), with black or grey fur. Often live in dark, dungeon areas and close to undead monsters._
 
 **Classe de Armadura**: 7 [12]
@@ -586,7 +586,7 @@ _1m long (or larger), with black or grey fur. Often live in dark, dungeon areas 
 * **Attacking in water**: May attack without penalty; excellent swimmers.
 
 
-## Normal Rat
+## Rato Normal
 _Swarming packs of 6” to 2’ long individuals, with brown or grey fur._
 
 **Classe de Armadura**: 9 [10]
@@ -738,7 +738,7 @@ _Horrid, 3–4’ long, slug-like creatures with sucker mouths. Lurk in swamps._
 # Salamandra
 _Giant, magical reptiles with an affinity for extreme heat or cold._
 
-## Flame Salamander
+## Salamandra de Fogo
 _12’–16’ long, intelligent serpents with lizard-like heads and legs. Bright orange/yellow/red scales. Natives of the plane of elemental fire, but also live in volcanoes and scorching deserts._
 
 **Classe de Armadura**: 2 [17]
@@ -768,7 +768,7 @@ _12’–16’ long, intelligent serpents with lizard-like heads and legs. Brigh
 * **Fire immunity**: Unharmed by fire.
 * **Hate frost salamanders**: Will attack on sight.
 
-## Frost Salamander
+## Salamandra de Gelo
 _Giant, 6-legged lizards with blue/white scales. Dwell in icy, wilderness regions._
 
 **Classe de Armadura**: 3 [16]

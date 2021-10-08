@@ -106,7 +106,7 @@ _Habitam pântanos e charcos._
 
 **Tendência**: Chaotic
 
-**XP**: 1,250
+**XP**: 1.250
 
 **Número Encontrado**: 1d4 (1d4)
 
@@ -135,7 +135,7 @@ _Preferem planícies abertas e desertos._
 
 **Tendência**: Neutral
 
-**XP**: 2,300
+**XP**: 2.300
 
 **Número Encontrado**: 1d4 (1d4)
 
@@ -164,7 +164,7 @@ _Pode ser encontrado em qualquer terreno, frequentemente disfarçado como uma pe
 
 **Tendência**: Leal
 
-**XP**: 2,700
+**XP**: 2.700
 
 **Número Encontrado**: 1d4 (1d4)
 
@@ -194,7 +194,7 @@ _Faz seus covis em selvas e florestas._
 
 **Tendência**: Caótico
 
-**XP**: 1,750
+**XP**: 1.750
 
 **Número Encontrado**: 1d4 (1d4)
 
@@ -223,7 +223,7 @@ _Habitam colinas e montanhas._
 
 **Tendência**: Caótico
 
-**XP**: 2,300
+**XP**: 2.300
 
 **Número Encontrado**: 1d4 (1d4)
 
@@ -252,7 +252,7 @@ _Dragões aquáticos e inteligentes com escamas verdes, asas similares a nadadei
 
 **Tendência**: Neutral
 
-**XP**: 1,750
+**XP**: 1.750
 
 **Número Encontrado**: 0 (1d4)
 
@@ -394,7 +394,7 @@ _Imensos animais com presas, que vivem perto de florestas tropicais. É possíve
 **Tesouro**: Presas
 
 * **Carga**: Na primeira rodada de combate, ainda não em corpo a corpo,. Requer uma corrida livre de pelo menos 20 metros. As presas infligem o dobro do dano.
-* **Atropelar**: 3-em-4 chances de atropelar a cada rodada. +4 para acertar criaturas de tamanho humano ou menores.
+* **Atropelar**: 3 em 4 chances de atropelar a cada rodada. +4 para acertar criaturas de tamanho humano ou menores.
 * **Marfim**: Cada presa vale 1d6 × 100 po
 
 ---
@@ -417,7 +417,7 @@ _Imensos vórtices de ar rodopiante._
 
 **TAC0**: 12 [+7] / 10 [+9] / 8 [+11]
 
-**Movimento**: 108 (36) flying
+**Movimento**: 108 (36) voando
 
 **Testes de Resistência**: Ver descrição principal (8/12/16)
 
@@ -455,7 +455,7 @@ _Enormes figuras humanoides de terra e pedra._
 
 **Tendência**: Neutra
 
-**XP**: 1,200/1,900/2,300
+**XP**: 1.200/1.900/2.300
 
 **Número Encontrado**: 1 (1)
 
@@ -485,7 +485,7 @@ _Colunas rodopiantes de fogo_
 
 **Tendência**: Neutra
 
-**XP**: 1,200/1,900/2,300
+**XP**: 1.200/1.900/2.300
 
 **Número Encontrado**: 1 (1)
 
@@ -515,7 +515,7 @@ _Enormes ondas de água._
 
 **Tendência**: Neutra
 
-**XP**: 1,200/1,900/2,300
+**XP**: 1.200/1.900/2.300
 
 **Número Encontrado**: 1 (1)
 
@@ -826,7 +826,7 @@ _Dinossauros robustos e herbívoros com uma armadura de placas sobre suas costas
 
 **Tendência**: Neutra
 
-**XP**: 1,100
+**XP**: 1.100
 
 **Número Encontrado**: 0 (1d4)
 
@@ -965,7 +965,7 @@ _Fanáticos religiosos e povo nômade que vagam pelas estepes e regiões desért
 
 
 # Formiga Gigante
-_Negras formigas onívoras gigantes (1,8 m de comprimento)._
+_Formigas negras onívoras gigantes (1,8 m de comprimento)._
 
 **Classe de Armadura**: 3 [16]
 
@@ -987,7 +987,7 @@ _Negras formigas onívoras gigantes (1,8 m de comprimento)._
 
 **Número Encontrado**: 2d4 (4d6)
 
-**Tesouro**: U (see below)
+**Tesouro**: U (veja abaixo)
 
 * **Gananciosas**: Consumem tudo em seu caminho, quando famintas.
 * **Moral**: Atacam incansavelmente, quando engajadas em combate (moral 12). Perseguirão mesmo através das chamas.

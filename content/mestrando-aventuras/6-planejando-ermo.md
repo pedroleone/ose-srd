@@ -28,7 +28,7 @@ Marque as áreas que são controladas por humanos, mantendo em mente as necessid
 
 # 4. Localize os reinos não humanos
 
-Marque as regiões que são controladas por outras espécies inteligentes que existam no cenário (exemplos semihumanos, raças monstruosas, e assim por diante), levando em consideração o seu ambiente preferido e meio de vida.
+Marque as regiões que são controladas por outras espécies inteligentes que existam no cenário (exemplos semi-humanos, raças monstruosas, e assim por diante), levando em consideração o seu ambiente preferido e meio de vida.
 
 **Nômades**: algumas espécies inteligentes podem manter domínios com fronteiras bem definidas, enquanto outros podem mover-se - caçando ou invadindo - uma região definida mais vagamente.
 

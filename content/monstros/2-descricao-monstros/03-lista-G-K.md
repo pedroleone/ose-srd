@@ -155,11 +155,11 @@ _Humanoides agressivos de 6m de altura, com cabelo e pele que vão do cinza ao b
 
 **Tendência**: Neutro
 
-**XP**: 1,100
+**XP**: 1.100
 
 **Número Encontrado**: 1d2 (1d3)
 
-**Tesouro**: E + 5,000gp
+**Tesouro**: E + 5.000gp
 
 
 * **Olfato e visão apurados**: Só são supreendidos com resultado 1.
@@ -187,11 +187,11 @@ _Humanóides de 4,8m de altura com cabelos escuros e pele vermelha. Se vestem co
 
 **Tendência**: Caótico
 
-**XP**: 1,100
+**XP**: 1.100
 
 **Número Encontrado**: 1d2 (1d3)
 
-**Tesouro**: E + 5,000gp
+**Tesouro**: E + 5.000gp
 
 * **Arremesso de rocha**: Até 60m.
 * **Imunidade a fogo**: Não é ferido por fogo.
@@ -199,13 +199,13 @@ _Humanóides de 4,8m de altura com cabelos escuros e pele vermelha. Se vestem co
 * **Guardiões**: 20% chance de 1d3 hidras, caso contrário 3d6 cães infernais .
 
 ## Gigante do Gelo
-_Humanóides de 5,4m de altura com pele e cabelos pálidos (com tons amarelos ou azuis). Se vestem com gibões ou armadura de ferro. Os homens tem barba grande._
+_Humanoides de 5,4m de altura com pele e cabelos pálidos (com tons amarelos ou azuis). Se vestem com gibões ou armadura de ferro. Os homens tem barba grande._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 10+1 (46pv)
 
-**Ataques**: 1 × arma (4d6) or 1 × arremsso de rocha (3d6)
+**Ataques**: 1 × arma (4d6) ou 1 × arremesso de rocha (3d6)
 
 **TAC0**: 11 [+8]
 
@@ -221,7 +221,7 @@ _Humanóides de 5,4m de altura com pele e cabelos pálidos (com tons amarelos ou
 
 **Número Encontrado**: 1d2 (1d4)
 
-**Tesouro**: E + 5,000gp
+**Tesouro**: E + 5.000gp
 
 * **Arremesso de rocha**: Até 60m.
 * **Imunidade a frio**: Não é afetado por ataques baseados em gelo/frio.
@@ -251,7 +251,7 @@ _Humanóides de 3,6m peludos e bestiais com baixa inteligência. Habitam sopés.
 
 **Número Encontrado**: 1d4 (2d4)
 
-**Tesouro**: E + 5,000gp 
+**Tesouro**: E + 5.000gp 
 
 * **Armas**: Portam clavas gigantes e lanças.
 
@@ -262,7 +262,7 @@ _Humanóides de 4,2m com pele cinza rochosa. Habitam cavernas naturais ou cabana
 
 **Dados de Vida**: 9 (40pv)
 
-**Ataques**: 1 × arma (3d6) or 1 × arremesso de rocha (3d6)
+**Ataques**: 1 × arma (3d6) ou 1 × arremesso de rocha (3d6)
 
 **TAC0**: 12 [+7]
 
@@ -278,14 +278,14 @@ _Humanóides de 4,2m com pele cinza rochosa. Habitam cavernas naturais ou cabana
 
 **Número Encontrado**: 1d2 (1d6)
 
-**Tesouro**: E + 5,000gp
+**Tesouro**: E + 5.000gp
 
 * **Armas**: Clavas de pedra feitas de estalactites gigantes.
 * **Arremesso de rocha**: Até 60m.
 * **Guardiões**: 50% chance of 1d4 ursos da caverna.
 
 ## Gigante das Tempestades
-_Humanóides de 6,6m de altura com peles de tonalidade de bronze e cabelos vistosos (vermelhos ou amarelos)._
+_Humanoides de 6,6m de altura com peles de tonalidade de bronze e cabelos vistosos (vermelhos ou amarelos)._
 
 **Classe de Armadura**: 2 [17]
 
@@ -303,20 +303,20 @@ _Humanóides de 6,6m de altura com peles de tonalidade de bronze e cabelos visto
 
 **Tendência**: Leal 
 
-**XP**: 1,350
+**XP**: 1.350
 
 **Número Encontrado**: 1 (1d3)
 
-**Tesouro**: E + 5,000gp
+**Tesouro**: E + 5.000gp
 
 * **Invocar tempestade**: Leva 1 turno.
 * **Relâmpago**: Em uma tempestade, podem arremessar relâmpagos uma vez a cada 5 rodadas: 18m de comprimento, 1,5m de largura; infligem dano igual aos pontos de vida totais do gigante (teste de resistência contra magias para metade do dano); podem ser refletidos nas superfícies que estiverem no caminho.
 * **Imunidade a raio**: Não são feridos por raios. Apreciam se expor a tempestades.
 * **Castelo**: No alto de picos montanhosos, em cima de ilhas de nuvens, ou em águas profundas. 
-* **Guardians**: 2d4 grifos. Debaixo d'água: 3d6 carangueijos gigantes.
+* **Guardiões**: 2d4 grifos. Debaixo d'água: 3d6 caranguejos gigantes.
 
 # Gnoll
-_Humanóides preguiçosos com fomra de hiena e baixa inteligência que vivem de roubo e intimidação. Lendas dizem que os gnolls foram criados magicamente por um mago que cruzou gnomos e trolls._
+_Humanoides preguiçosos com forma de hiena e baixa inteligência que vivem de roubo e intimidação. Lendas dizem que os gnolls foram criados magicamente por um mago que cruzou gnomos e trolls._
 
 **Classe de Armadura**: 5 [14]
 
@@ -344,7 +344,7 @@ _Humanóides preguiçosos com fomra de hiena e baixa inteligência que vivem de 
 
 
 # Gnomo
-_Semihumanos baixo com nariz e barbas grandes. Primos menores dos anões, os quais se dão bem. Preferem viver em tocas em terrenos não montanhosos._
+_Semi-humanos baixo com nariz e barbas grandes. Primos menores dos anões, os quais se dão bem. Preferem viver em tocas em terrenos não montanhosos._
 
 **Classe de Armadura**: 5 [14]
 
@@ -360,7 +360,7 @@ _Semihumanos baixo com nariz e barbas grandes. Primos menores dos anões, os qua
 
 **Moral**: 8 (10 se estiver a vista de um líder ou capitão)
 
-**Tendência**: Leal or Neutro
+**Tendência**: Leal ou Neutro
 
 **XP**: 10
 
@@ -376,7 +376,7 @@ _Semihumanos baixo com nariz e barbas grandes. Primos menores dos anões, os qua
 * **Minas e maquinário**: Amam maquinário, mineração, ouro e gemas. Podem tomar más decisões para obter itens preciosos. Guerreiam com goblins e kobolds para obter metais preciosos.
 
 # Goblin
-_Pequenos e grotescos humanóis com pele cor de terra pálida e olhos vermelhos brilhantes. Vivem no subterrâneo._
+_Pequenos e grotescos humanoides com pele cor de terra pálida e olhos vermelhos brilhantes. Vivem no subterrâneo._
 
 **Classe de Armadura**: 6 [13]
 
@@ -394,7 +394,7 @@ _Pequenos e grotescos humanóis com pele cor de terra pálida e olhos vermelhos 
 
 **Tendência**: Caótico
 
-**XP**: 5 (guardacostas: 20, rei: 35)
+**XP**: 5 (guarda-costas: 20, rei: 35)
 
 **Número Encontrado**: 2d4 (6d10)
 
@@ -407,7 +407,7 @@ _Pequenos e grotescos humanóis com pele cor de terra pálida e olhos vermelhos 
 * **Rei goblin e guarda-costas**: Um rei de 3DV (15pv) e 2d6 guarda-costas com 2DV (2d6pv) vivem no lar dos goblins. Eles não sofrem penalidade sob a luz do sol. O rei tem um bônus de +1 no dano. 
 * **Tesouro**: Só tem o tipo de tesouro C quando for encontrado em regiões selvagens ou no seu lar.
 
-# Gólem 
+# Golem 
 _Seres artificiais construídos de diferentes materiais por clérigos ou magos poderosos._
 
 * **Imunidade**: Não é afetado por gases; não é afetado por magias de encantar, sono e imobilizar pessoas.
@@ -415,7 +415,7 @@ _Seres artificiais construídos de diferentes materiais por clérigos ou magos p
 * **Construção**: Um processo extremamente complexo, caro e moroso.
 
 
-## Gólem de Âmbar
+## Golem de Âmbar
 _Construído no formato de felinos gigantes (e.g. leões ou tigres)._
 
 **Classe de Armadura**: 6 [13]
@@ -434,7 +434,7 @@ _Construído no formato de felinos gigantes (e.g. leões ou tigres)._
 
 **Tendência**: Neutro
 
-**XP**: 2,300
+**XP**: 2.300
 
 **Número Encontrado**: 1 (1)
 
@@ -444,8 +444,8 @@ _Construído no formato de felinos gigantes (e.g. leões ou tigres)._
 * **Rastreamento**: Sem chance erro.
 * **Detectar criaturas invisíveis**: Em um raio de 18m.
 
-## Gólem de Osso
-_Autômato de 1,8m de altura feito de ossos humanos, moldado em uma forma humanóide. Tem quatro braços, ligados ao torso em diferentes lugares._
+## Golem de Osso
+_Autômato de 1,8m de altura feito de ossos humanos, moldado em uma forma humanoide. Tem quatro braços, ligados ao torso em diferentes lugares._
 
 
 **Classe de Armadura**: 2 [17]
@@ -495,18 +495,18 @@ _Autômato de bronze que lembram gigantes do fogo, que possuem um grande calor i
 
 **Tendência**:  Neutro
 
-**XP**: 4,300
+**XP**: 4.300
 
 **Número Encontrado**: 1 (1)
 
 **Tesouro**: Nenhum
 
 * **Imunidade a dano mundano**: Só pode ser ferido por ataques mágicos.
-* **Sangue flamejante**: Se for ferido por uma arma de corte, emite um jato de líquido flamejante: o atacante recebe 2d6 de dano (teste de reistência contra morte para evitar).
+* **Sangue flamejante**: Se for ferido por uma arma de corte, emite um jato de líquido flamejante: o atacante recebe 2d6 de dano (teste de resistência contra morte para evitar).
 * **Imunidade a fogo**: Não é ferido por fogo.
 
 ## Golem de Madeira
-_90cm de altura, rusticamente contruídos de madeira em formatos humanóides._
+_90cm de altura, rusticamente construídos de madeira em formatos humanoides._
 
 **Classe de Armadura**: 7 [12]
 
@@ -553,7 +553,7 @@ _Monstros mágicos que se parecem com touros com escamas de ferro. Vivem em plan
 
 **Tendência**: Caótico
 
-**XP**: 1,200
+**XP**: 1.200
 
 **Número Encontrado**: 1d2 (1d4)
 
@@ -591,14 +591,14 @@ _Primatas similares a gorilas, albinos e herbívoros, que vivem em cavernas e em
 * **Territorial**: Defendem seus lares com ameaças e, se ignorados, violência.
 
 # Grandes Felinos
-_Caçadores cauteosos que normalmente evitam combate a menos que estejam famintos ou encurralados. Grandes felinos podem ser brincalhões, mas rapidamente se irritam. Eles ficam em áreas abertas, raramente entrando em lugares subterrâneos._
+_Caçadores cautelosos que normalmente evitam combate a menos que estejam famintos ou encurralados. Grandes felinos podem ser brincalhões, mas rapidamente se irritam. Eles ficam em áreas abertas, raramente entrando em lugares subterrâneos._
 
 * **Perseguição**: Sempre perseguem presas que fogem.
 * **Presa favorita**: Frequentemente desenvolvem um gosto por certo tipo de carne (podendo inclusive ser carne humana!), e preferencialmente caçam esta criatura.
 * **Curioso**: Pode seguir os PJs por curiosidade.
 
 ## Leão
-_Caça em grupos chamados de alcatéias. Vivem em regiões quentes, tipicamente em savanas ou cerrados próximos a desertos._
+_Caça em grupos chamados de alcateias. Vivem em regiões quentes, tipicamente em savanas ou cerrados próximos a desertos._
 
 
 **Classe de Armadura**: 6 [13]
@@ -688,7 +688,7 @@ _Felinos enormes e agressivos com presas de 30cm. Normalmente só encontradas em
 
 **Dados de Vida**: 8 (36pv)
 
-**Ataques**: 2 × claw (1d8), 1 × bite (2d8)
+**Ataques**: 2 × garra (1d8), 1 × mordida (2d8)
 
 **TAC0**: 12 [+7]
 
@@ -816,7 +816,7 @@ _Criaturas enormes parecidas com dragões e cabeças de serpentes. Hidras aquát
 
 **Tendência**: Neutro
 
-**XP**: 175/275/450/50/900/900/1,100/1,100
+**XP**: 175/275/450/50/900/900/1.100/1.100
 
 **Número Encontrado**: 1 (1)
 
@@ -838,7 +838,7 @@ _Criaturas fantásticas que combinam características de uma águia gigante (cab
 
 **TAC0**: 16 [+3]
 
-**Movimento**: 54m (18m) / 108m (36m) flying
+**Movimento**: 54m (18m) / 108m (36m) voando
 
 **Testes de Resistência**:  M12 V13 P14 S15 F16 (2)
 
@@ -852,7 +852,7 @@ _Criaturas fantásticas que combinam características de uma águia gigante (cab
 
 **Tesouro**: Nenhum
 
-* **Odeiam pégasos**: Normamente irão atacá-los.
+* **Odeiam pégasos**: Normalmente irão atacá-los.
 * **Montaria**: Podem carregar um cavaleiro de tamanho humano.
 * **Domesticação**: Podem ser treinados como montaria.
 
@@ -875,7 +875,7 @@ _Variedade maior e mais perigosa de goblins. Vivem no subterrâneo, mas comument
 
 **Tendência**: Caótico
 
-**XP**: 15 (guardacostas: 75)
+**XP**: 15 (guarda-costas: 75)
 
 **Número Encontrado**: 1d6 (4d6)
 
