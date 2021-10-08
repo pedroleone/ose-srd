@@ -78,7 +78,18 @@ metaDescription: "Dicionário de Termos"
 
 * **Sub-Table S: Swamp**: Subtabela P: Pântano
 
+**Terrain Type**: Tipo de Terreno
+
+* **Barren, Hills, Mountains**: Semiárido, Colinas, Montanhas
+* **Clear, Grasslands**: Campo, Prados
+* **City, Desert**: Cidade, Deserto
+* **Forest, Jungle**: Floresta, Selva
+* **Lake, River, Ocean, Sea**: Lago, Rio, Oceano, Mar
+* **Settled, Swamp**: Povoado, Pântano
+
 **Town**: Vila
+
+**Undead**: Morto-vivo
 
 **Village**: Vilarejo
 

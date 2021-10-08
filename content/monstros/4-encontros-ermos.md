@@ -19,49 +19,53 @@ Role 1d8 e 1d12:
 **PNJs Aventureiros**: encontros com grupos de PNJs aventureiros são listados nas tabelas como “Aventureiros Iniciantes”, “Aventureiros Experientes”, “Clérigo de Alto Nível”, “Guerreiro de Alto Nível” ou “Mago de Alto Nível”. Diretrizes para gerar PNJs aventureiros podem ser encontradas no capítulo Grupos de Aventureiros.
 
 # Subtabela de Encontros por Tipo de Terreno
-|d8|Barren, Hills, Mountains|City|Clear, Grasslands|Desert|Forest|
-|--- |--- |--- |--- |--- |--- |
-|1|B—Animal|C—Human|G—Animal|D—Animal|F—Animal|
-|2|1—Dragon|C—Human|G—Animal|D—Animal|F—Animal|
-|3|1—Dragon|C—Human|1—Dragon|1—Dragon|1—Dragon|
-|4|B—Flyer|C—Human|1—Flyer|D—Flyer|1—Flyer|
-|5|B—Human|C—Human|G—Human|D—Human|F—Human|
-|6|B—Humanoid|C—Human|G—Humanoid|D—Human|F—Humanoid|
-|7|B—Humanoid|C—Humanoid|1—Insect|D—Humanoid|1—Insect|
-|8|2—Unusual|2—Undead|2—Unusual|2—Undead|2—Unusual|
-.
 
-|d8|Jungle|Lake, River|Ocean, Sea|Settled|Pântano|
+<mark><b>NOTA DO TRADUTOR</b>: Nessas duas tabelas abaixo, mudar as letras para a subtabela correspondente, depois de traduzir tudo. Por exemplo, a subtabela S de Swamp, virou P de Pântano.</mark>
+<p></p>
+
+|d8|Semiárido, Colina, Montanha|Cidade|Campo, Prado|Deserto|Floresta|
 |--- |--- |--- |--- |--- |--- |
-|1|J—Animal|L—Animal|1—Dragon|C—Animal|1—Dragon|
-|2|J—Animal|1—Dragon|1—Flyer|1—Dragon|1—Flyer|
-|3|1—Dragon|1—Flyer|O—Human|1—Flyer|S—Human|
-|4|1—Flyer|L—Human|O—Swimmer|C—Human|S—Humanoid|
-|5|J—Human|L—Humanoid|O—Swimmer|C—Human|1—Insect|
-|6|J—Humanoid|1—Insect|O—Swimmer|C—Human|S—Swimmer|
-|7|1—Insect|L—Swimmer|O—Swimmer|C—Humanoid|2—Undead|
-|8|1—Insect|L—Swimmer|O—Swimmer|1—Insect|2—Undead|
+|1|B—Animal|C—Humano|G—Animal|D—Animal|F—Animal|
+|2|1—Dragão|C—Humano|G—Animal|D—Animal|F—Animal|
+|3|1—Dragão|C—Humano|1—Dragão|1—Dragão|1—Dragão|
+|4|B—Voador|C—Humano|1—Voador|D—Voador|1—Voador|
+|5|B—Humano|C—Humano|G—Humano|D—Humano|F—Humano|
+|6|B—Humanoide|C—Humano|G—Humanoide|D—Humano|F—Humanoide|
+|7|B—Humanoide|C—Humanoide|1—Inseto|D—Humanoide|1—Inseto|
+|8|2—Incomum|2—Morto-vivo|2—Incomum|2—Morto-vivo|2—Incomum|
+<p></p>
+
+|d8|Selva|Lago, Rio|Oceano, Mar|Povoado|Pântano|
+|--- |--- |--- |--- |--- |--- |
+|1|J—Animal|L—Animal|1—Dragão|C—Animal|1—Dragão|
+|2|J—Animal|1—Dragão|1—Voador|1—Dragão|1—Voador|
+|3|1—Dragão|1—Voador|O—Humano|1—Voador|S—Humano|
+|4|1—Voador|L—Humano|O—Nadador|C—Humano|S—Humanoide|
+|5|J—Humano|L—Humanoide|O—Nadador|C—Humano|1—Inseto|
+|6|J—Humanoide|1—Inseto|O—Nadador|C—Humano|S—Nadador|
+|7|1—Inseto|L—Nadador|O—Nadador|C—Humanoide|2—Morto-vivo|
+|8|1—Inseto|L—Nadador|O—Nadador|1—Inseto|2—Morto-vivo|
 
 # Subtabela 1: Padrão
 
-| d12 | Dragão | Voador | Inseto |
-| --- | --- | --- | --- |
-| 1 | Quimera | Cocatriz | Besouro de Fogo |
-| 2 | Dragão Preto | Gárgula | Besouro de Óleo |
-| 3 | Dragão Azul | Grifo | Besouro Tigre |
-| 4 | Dragão Ouro | Falcão Gigante | Formiga Gigante |
-| 5 | Dragão Verde | Hipogrifo | Formiga Gigante |
-| 6 | Dragão Vermelho | Abelha Assassina | Abelha Assassina |
-| 7 | Dragão Branco | Pégaso | Rhagodessa |
-| 8 | Hidra (ou Hidra aquática) | Pixie | Mosca Salteadora |
-| 9 | Hidra (ou Hidra aquática) | Mosca Salteadora | Escorpião Gigante |
-| 10 | Wyvern | Roca Pequena | Aranha, Viúva Negra |
-| 11 | Basilisco * | Sprite | Aranha, Caranguejeira |
-| 12 | Salamandra * | Estirge | Aranha, Tarântula |
+|d12|Dragão|Voador|Inseto|
+|--- |--- |--- |--- |
+|1|Quimera|Cocatriz|Besouro de Fogo|
+|2|Dragão Preto|Gárgula|Besouro de Óleo|
+|3|Dragão Azul|Grifo|Besouro Tigre|
+|4|Dragão Ouro|Falcão Gigante|Formiga Gigante|
+|5|Dragão Verde|Hipogrifo|Formiga Gigante|
+|6|Dragão Vermelho|Abelha Assassina|Abelha Assassina|
+|7|Dragão Branco|Pégaso|Rhagodessa|
+|8|Hidra (ou Hidra aquática)|Pixie|Mosca Salteadora|
+|9|Hidra (ou Hidra aquática)|Mosca Salteadora|Escorpião Gigante|
+|10|Wyvern|Roca Pequena|Aranha, Viúva Negra|
+|11|Basilisco *|Sprite|Aranha, Caranguejeira|
+|12|Salamandra *|Estirge|Aranha, Tarântula|
 
 # Subtabela 2: Padrão
 
-|d12|Animal Pré-histórico|Undead|Unusual|
+|d12|Animal Pré-histórico|Morto-vivo|Incomum|
 |--- |--- |--- |--- |
 |1|Bear, Cave|Ghoul|Basilisk|
 |2|Cat, Sabre-Toothed|Ghoul|Blink Dog|
@@ -78,7 +82,7 @@ Role 1d8 e 1d12:
 
 # Sub-Table B: Barren, Hills, Mountains
 
-|d12|Animal|Flyer|Human|Humanoid|
+|d12|Animal|Voador|Humano|Humanoide|
 |--- |--- |--- |--- |--- |
 |1|Antelope|Gargoyle|Bandit|Dwarf|
 |2|Ape, White|Griffon|Berserker|Giant, Cloud|
@@ -95,7 +99,7 @@ Role 1d8 e 1d12:
 
 # Sub-Table C: City, Settled
 
-|d12|Animal|Human, City|Human, Settled|Humanoid|
+|d12|Animal|Humano, Cidade|Humano, Povoado|Humanoide|
 |--- |--- |--- |--- |--- |
 |1|Antelope|Acolyte|Acolyte|Dwarf|
 |2|Antelope|Basic Adventurers|Basic Adventurers|Elf|
@@ -112,7 +116,7 @@ Role 1d8 e 1d12:
 
 # Sub-Table D: Desert
 
-|d12|Animal|Flyer|Human|Humanoid|
+|d12|Animal|Voador|Humano|Humanoide|
 |--- |--- |--- |--- |--- |
 |1|Antelope|Gargoyle|Expert Adventurers|Giant, Fire|
 |2|Antelope|Gargoyle|High-Level Cleric|Goblin|
@@ -129,7 +133,7 @@ Role 1d8 e 1d12:
 
 # Sub-Table F: Forest
 
-|d12|Animal|Human|Humanoid|
+|d12|Animal|Humano|Humanoide|
 |--- |--- |--- |--- |
 |1|Antelope|Basic Adventurers|Bugbear|
 |2|Boar|Bandit|Cyclops|
@@ -146,7 +150,7 @@ Role 1d8 e 1d12:
 
 # Sub-Table G: Clear, Grasslands
 
-|d12|Animal|Human|Humanoid|
+|d12|Animal|Humano|Humanoide|
 |--- |--- |--- |--- |
 |1|Antelope|Bandit|Bugbear|
 |2|Boar|Bandit|Elf|
@@ -163,7 +167,7 @@ Role 1d8 e 1d12:
 
 # Sub-Table J: Jungle
 
-|d12|Animal|Human|Humanoid|
+|d12|Animal|Humano|Humanoide|
 |--- |--- |--- |--- |
 |1|Antelope|Bandit|Bugbear|
 |2|Boar|Berserker|Cyclops|
@@ -180,7 +184,7 @@ Role 1d8 e 1d12:
 
 # Sub-Table L: Lake, River
 
-|d12|Animal|Human|Humanoid|Swimmer|
+|d12|Animal|Humano|Humanoide|Nadador|
 |--- |--- |--- |--- |--- |
 |1|Antelope|Basic Adventurers|Bugbear|Crab, Giant|
 |2|Boar|Bandit|Elf|Crocodile|
@@ -197,7 +201,7 @@ Role 1d8 e 1d12:
 
 # Sub-Table O: Ocean, Sea
 
-|d12|Human|Swimmer|
+|d12|Humano|Nadador|
 |--- |--- |--- |
 |1|Buccaneer|Dragon Turtle|
 |2|Buccaneer|Hydra, Sea|
@@ -214,17 +218,17 @@ Role 1d8 e 1d12:
 
 # Subtabela P: Pântano
 
-| d12 | Humano | Humanoide | Nadador |
-| --- | --- | --- | --- |
-| 1 | Aventureiros Iniciantes | Gnoll | Caranguejo Gigante |
-| 2 | Bandido | Goblin | Crocodilo |
-| 3 | Bandido | Hobgoblin | Crocodilo Grande |
-| 4 | Furioso | Homem-lagarto | Crocodilo Gigante |
-| 5 | Salteador | Homem-lagarto | Peixe, Peixe-gato |
-| 6 | Aventureiros Experientes | Homem-lagarto | Enxame de Insetos |
-| 7 | Aventureiros Experientes | Nixie | Enxame de Insetos |
-| 8 | Clérigo de Alto Nível | Ogro | Sanguessuga Gigante |
-| 9 | Guerreiro de Alto Nível | Orc | Sanguessuga Gigante |
-| 10 | Mago de Alto Nível | Troglodita | Homem-lagarto |
-| 11 | Comerciante | Troll | Homem-lagarto |
-| 12 | Comerciante | Troll | Cupim Aquático |
+|d12|Humano|Humanoide|Nadador|
+|--- |--- |--- |--- |
+|1|Aventureiros Iniciantes|Gnoll|Caranguejo Gigante|
+|2|Bandido|Goblin|Crocodilo|
+|3|Bandido|Hobgoblin|Crocodilo Grande|
+|4|Furioso|Homem-lagarto|Crocodilo Gigante|
+|5|Salteador|Homem-lagarto|Peixe, Peixe-gato|
+|6|Aventureiros Experientes|Homem-lagarto|Enxame de Insetos|
+|7|Aventureiros Experientes|Nixie|Enxame de Insetos|
+|8|Clérigo de Alto Nível|Ogro|Sanguessuga Gigante|
+|9|Guerreiro de Alto Nível|Orc|Sanguessuga Gigante|
+|10|Mago de Alto Nível|Troglodita|Homem-lagarto|
+|11|Comerciante|Troll|Homem-lagarto|
+|12|Comerciante|Troll|Cupim Aquático|
