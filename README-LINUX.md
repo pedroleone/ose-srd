@@ -4,11 +4,11 @@ Repositório dos dados do OSE SRD
 ## Rodando localmente no Linux
 
 ### 1. Instalar ferramentas
-No `Debian 11` e nas distribuições nele baseadas:
+No `Debian 11` e distribuições derivadas:
 ```sh
 sudo aptitude install npm nodejs
 ```
-No `Debian 10` e anteriores, e nas distribuições nele baseadas, primeiro instale o `npm`:
+No `Debian 10` e anteriores, e distribuições derivadas, primeiro instale o `npm`:
 ```sh
 sudo aptitude install npm
 ```
@@ -25,7 +25,7 @@ apt-get install -y nodejs
 Para outras distribuições consulte o site do desenvolvedor, as instruções são bem simples: [nodesource distributions](https://github.com/nodesource/distributions/blob/master/README.md).
 ### 2. Clonar o repositório
 ```sh
-git clone https://github.com/pedroleone/osr-srd.git
+git clone https://github.com/pedroleone/ose-srd.git
 ```
 ### 3. Na pasta do projeto (osr-srd)
 ```sh
@@ -33,7 +33,7 @@ npm install
 sudo npm install -g gatsby
 ```
 ### 4. Visualizar o site
-Já está tudo instalado, agora pode rodar o site. Ainda na pasta do projeto (osr-srd), execute:
+Já está tudo instalado, agora pode rodar o site. Ainda na pasta do projeto (ose-srd), execute:
 ```sh
 gatsby develop
 ```
