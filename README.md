@@ -18,7 +18,7 @@ Vá até o menu File -> New, e escolha Clone Repository
 ![Clone Repository...](https://i.imgur.com/NJc4mTk.png)
 
 Na janela que irá se abrir, você precisa preencher dois campos:
-* Repository URL: o endereço do repositório que você está clonando. No caso deste repositório é **pedroleone/osr-srd**
+* Repository URL: o endereço do repositório que você está clonando. No caso deste repositório é **pedroleone/ose-srd**
 * Local path: onde vai ficar os arquivos que você vai copiar para a sua máquina. Escolha um diretório vazio.
 
 ![Dados](https://i.imgur.com/q9dTwOE.png)
