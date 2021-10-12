@@ -837,7 +837,7 @@ _Crustáceos não inteligentes que espreitam águas costeiras e rastejam pelas p
 * **Esfomeado**: ataque qualquer criatura que se mova.
 
 # Carniçal
-_Mortos-vivos humanóides grotescos e animalescos que anseiam pela carne dos vivos._
+_Mortos-vivos humanoides grotescos e animalescos que anseiam pela carne dos vivos._
 
 **Classe de Armadura**: 6 [13]
 

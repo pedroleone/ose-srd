@@ -61,13 +61,13 @@ O conjurador pode se comunicar com um tipo de animais dentro do alcance, quando 
 
 **Alcance**: 54 m
 
-Essa magia faz com que um ou mais humanos, semi-humanos ou monstros humanóides fiquem paralisados se falharem em um teste de resistência contra magia. Ela pode ser conjurada de duas maneiras.
+Essa magia faz com que um ou mais humanos, semi-humanos ou monstros humanoides fiquem paralisados se falharem em um teste de resistência contra magia. Ela pode ser conjurada de duas maneiras.
 
 1. **Contra um indivíduo**: O teste de resistência do alvo recebe uma penalidade de -2.
 
 2. **Contra um grupo**: A magia é direcionada a 1d4 indivíduos de um grupo.
 
-**Restrições**: Humanóides com 4+1 Dados de Vida ou mais, assim como mortos vivos, não são afetados.
+**Restrições**: Humanoides com 4+1 Dados de Vida ou mais, assim como mortos vivos, não são afetados.
 
 
 

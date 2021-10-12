@@ -169,7 +169,7 @@ _Humanoides agressivos de 6m de altura, com cabelo e pele que vão do cinza ao b
 * **Odeiam intruosos**: Podem bloquear passagens nas montanhas para assegurar seu isolamento.
 
 ## Gigante do Fogo
-_Humanóides de 4,8m de altura com cabelos escuros e pele vermelha. Se vestem com armaduras feitas de metais dourados (bronze, cobre, latão). Ficam em lugares de calor extremo (por exemplo perto de vulcões)._
+_Humanoides de 4,8m de altura com cabelos escuros e pele vermelha. Se vestem com armaduras feitas de metais dourados (bronze, cobre, latão). Ficam em lugares de calor extremo (por exemplo perto de vulcões)._
 
 **Classe de Armadura**: 4 [15]
 
@@ -229,7 +229,7 @@ _Humanoides de 5,4m de altura com pele e cabelos pálidos (com tons amarelos ou 
 * **Guardiões**: 20% chance de 3d6 ursos polares, caso contrário 6d6 lobos.
 
 ## Gigante das Colinas
-_Humanóides de 3,6m peludos e bestiais com baixa inteligência. Habitam sopés. Famosos por atacarem assentamentos humanos para roubar comida._
+_Humanoides de 3,6m peludos e bestiais com baixa inteligência. Habitam sopés. Famosos por atacarem assentamentos humanos para roubar comida._
 
 **Classe de Armadura**: 4 [15]
 
@@ -256,7 +256,7 @@ _Humanóides de 3,6m peludos e bestiais com baixa inteligência. Habitam sopés.
 * **Armas**: Portam clavas gigantes e lanças.
 
 ## Gigante das Rochas
-_Humanóides de 4,2m com pele cinza rochosa. Habitam cavernas naturais ou cabanas primitivas construídas de pedra._
+_Humanoides de 4,2m com pele cinza rochosa. Habitam cavernas naturais ou cabanas primitivas construídas de pedra._
 
 **Classe de Armadura**: 4 [15]
 

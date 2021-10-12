@@ -49,7 +49,7 @@ CA –2 [21], DV 16* (72 pv), Atq 1 × soco (3d8), THAC0 8 [+11], MV 108 m (36 m
 * **Ferir criaturas voadoras**: infligem 1d8 pontos de dano extra.
 
 ## Elemental da Terra
-Figura humanóide imensa de terra ou rocha. 
+Figura humanoide imensa de terra ou rocha. 
 
 CA –2 [21], DV 16* (72 pv), Atq 1 × soco (3d8), THAC0 8 [+11], MV 18 m (6 m), SV D2 W3 P4 B3 S6 (16), ML 10, Tend Neutro, XP 2,300, NA 1 (1), TT Nenhum
 

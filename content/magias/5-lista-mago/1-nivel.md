@@ -30,14 +30,14 @@ O conjurador cria um disco de energia circular e ligeiramente côncavo, que o se
 
 **Alcance**: 36 m
 
-Uma única criatura humanóide deve fazer um teste de resistência contra magia, ou será enfeitiçado, como a seguir:
+Uma única criatura humanoide deve fazer um teste de resistência contra magia, ou será enfeitiçado, como a seguir:
 
 * **Amizade**: o alvo considera o conjurador um amigo confiável e aliado, e sairá em defesa do conjurador.
 * **Comandos**: se eles compartilharem um idioma, o conjurador pode transmitir comandos que o alvo deve obedecer.
 * **Natureza do Alvo**: comandos que contradigam os hábitos da criatura enfeitiçada ou seu alinhamento, podem ser ignoradas.
 * **Comandos Suicidas**: uma criatura afetada nunca obedecerá ordens suicídas ou obiviamente perigosas.
 
-**Restrições**: humanóides com mais de 4+1 DV e mortos-vivos não são afetados.
+**Restrições**: humanoides com mais de 4+1 DV e mortos-vivos não são afetados.
 
 **Duração**: o feitiço dura indefinidamente, mas o alvo pode realizar testes de resistência contra magia em determinados intervalos, dependendo de seu valor de INT. Se um destes testes de resistência for bem sucedido, a magia é encerrada.
 

@@ -9,7 +9,7 @@ Itens mágicos são geralmente classificados de acordo com uma das categorias li
 * **Armadura** e escudos: Concede benefícios de proteção ao usuário..
 * **Itens Diversos** : Itens encantados que não se enquadram em nenhuma outra categoria
 * **Poções**: Líquidos mágicos guardados em frascos de vidro.
-* **Anéis**: Anéis simples ou com jóias que concedem um encantamento a que o usa.
+* **Anéis**: Anéis simples ou com joias que concedem um encantamento a que o usa.
 * **Bastões** / cajados / varinhas: Pedaços compridos de madeira, metal, cristal ou outro material encantado magicamente.. Utilizado por usuários de magia para desencadear efeitos mágicos.
 * **Pergaminhos e mapas**: folhas antigas de pergaminho ou papel, inscritas com runas mágicas ou instruções que levam a um tesouro. Observe que os mapas de tesouro são rolados na tabela de itens mágicos, embora geralmente não sejam mágicos.
 * **Espadas**: Concede bônus para acertar ataques e de dano em combate. Também podem estar encantadas com poderes adicionas.

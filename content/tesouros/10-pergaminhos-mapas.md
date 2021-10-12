@@ -177,7 +177,7 @@ A segunte lista de tipos de mapas do tesouro pode ser usada para determinar a na
 * **XII**: Um montante de tesouro no valor de 6d6 × 1,000po.
 
 ## Valor do Montante de Tesouro
-Para montantes de tesouros com um valor listado em peças de ouro, o árbitro pode escolher que tipo de tesouro está no montante de tesouro. (Por exemplo, podem ser moedas, mas também podem consistir em objetos de arte ou jóias valiosas.)
+Para montantes de tesouros com um valor listado em peças de ouro, o árbitro pode escolher que tipo de tesouro está no montante de tesouro. (Por exemplo, podem ser moedas, mas também podem consistir em objetos de arte ou joias valiosas.)
 
 ## Guardiões
 O tesouro normalmente fica guardado por encantamentos, armadilhas ou monstros (por exemplo, um monstro da tabela de encontros de masmorra de níveis 5 a 6 ou superior).
