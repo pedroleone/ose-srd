@@ -249,7 +249,7 @@ _Aranhas negras com 1,8 m de comprimento, exibindo o padrão de uma ampulheta ve
 * **Veneno**: provoca a morte em 1 turno (teste de resistência vs veneno).
 * **Teias**: criaturas presas nas teias ficam emaranhadas e incapazes de se mover. Libertar-se depende da Força: 2d4 turnos para valores de força na média humana; 4 rodadas para Força acima de 18; 2 rodadas para criaturas com força de gigante. As teias podem ser destruídas por fogo em duas rodadas. Todas criaturas na teia flamejante sofrem 1d6 pontos de dano.
 
-## Caranguejeira
+## Aranha-caranguejo
 _Aranhas caçadoras com 1,5 m de comprimento que podem mudar sua coloração para assemelhar-se ao ambiente._
 
 **Classe de Armadura**: 7 [12]
@@ -279,8 +279,8 @@ _Aranhas caçadoras com 1,5 m de comprimento que podem mudar sua coloração par
 * **Aderência**: podem andar pelas paredes e teto.
 * **Veneno**: provoca morte em 1d4 turnos (teste de resistência vs veneno com bônus de +2).
 
-## Tarântula
-_Aranhas caçadoras peludas com 2,1 metros de comprimento que lembram as tarântulas. Mágicas por natureza._
+## Tarantela
+_Aranhas caçadoras peludas com 2,1 metros de comprimento que lembram as tarântulas (caranguejeiras). Mágicas por natureza._
 
 **Classe de Armadura**: 5 [14]
 
