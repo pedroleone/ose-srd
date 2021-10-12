@@ -118,7 +118,9 @@ metaDescription: "Dicionário de Termos"
 * **Snake, Pit Viper**: Cobra, Víbora
 * **Snake, Rock Python**: Cobra, Píton
 * **Snake, Spitting Cobra**: Cobra, Naja
-* **Spider, Crab**: Aranha, Viúva Negra
+* **Spider, Black Widow**: Aranha, Viúva Negra
+* **Spider, Crab**: Aranha-caranguejo
+* **Spider, Tarantella**: Aranha, Tarantela (não existe aranha Tarantella, que é uma dança folclórica italiana "dança da aranha", da cidade de Taranto, que dá nome à aranha tarântula. Tarântula e Caranguejeira são sinônimos, a primeira grafia é usada em Portugal, a segunda no Brasil)
 * **Termite, Water**: Cupim Aquático
 * **Titanothere**: Brontotério
 * **Trader**: Comerciante
