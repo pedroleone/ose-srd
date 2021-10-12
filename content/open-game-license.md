@@ -96,7 +96,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 * Old-School Essentials System Reference Document © 2019 Gavin Norman. Author Gavin Norman.
 
-* Old-School Essentials Documento de Referência do Sistema © 2020-2021 Franciolli Araújo e Pedro Leone. Tradução do original em inglês de autoria de Gavin Norman.
+* Old-School Essentials Documento de Referência do Sistema © 2020-2021 Franciolli Araújo e Pedro Leone. Tradutores: Franciolli Araújo, Pedro Leone, Daniel "Nerun" Rodrigues, Igor Teuri, Paulo E. R. Weber e Bruno Assis. Tradução do original de Gavin Norman.
 
 **FIM DA LICENÇA**
 
