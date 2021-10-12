@@ -680,9 +680,8 @@ _Caçadores rápidos que vivem em planícies e florestas._
 
 * **Perseguição**: Sempre perseguem presas que fogem.
 
-## Tigres dente-de-sabre
+## Tigre dentes-de-sabre
 _Felinos enormes e agressivos com presas de 30cm. Normalmente só encontradas em regiões do Mundo Perdido._
-
 
 **Classe de Armadura**: 6 [13]
 

@@ -209,7 +209,7 @@ _Intelligent, wicked, 8’ tall humanoids with emaciated, rubbery bodies. Consum
 # Tubarão
 _Aggressive, predatory fish of low intelligence and unpredictable behaviour. Live in saltwater._
 
-## Bull Shark
+## Tubarão-touro
 _8’ long; brown colouration. Attack by ramming, then biting the stunned prey._
 
 **Classe de Armadura**: 4 [15]
@@ -238,7 +238,7 @@ _8’ long; brown colouration. Attack by ramming, then biting the stunned prey._
 * **Feeding frenzy**: Triggered by the scent of blood: always attack; no morale checks.
 * **Ram**: Stunned for 3 rounds (save versus paralysis).
 
-## Great White Shark
+## Grande Tubarão Branco
 _9m long (or bigger!); grey colouration with white belly. Sometimes attack small boats._
 
 **Classe de Armadura**: 4 [15]
@@ -266,7 +266,7 @@ _9m long (or bigger!); grey colouration with white belly. Sometimes attack small
 * **Blood scent**: Can detect blood in water up to 300’ away.
 * **Feeding frenzy**: Triggered by the scent of blood: always attack; no morale checks.
 
-## Mako Shark
+## Tubarão-mako
 _15’ long; bluish-grey or tan colouration._
 
 **Classe de Armadura**: 4 [15]
@@ -325,7 +325,7 @@ _Fantastic creatures that appear as elegant horses with a long horn. Unicorns ar
 
 # Urso
 
-## Black Bear
+## Urso Preto
 _6’ tall; favour eating berries and roots._
 
 **Classe de Armadura**: 6 [13]
@@ -354,7 +354,7 @@ _6’ tall; favour eating berries and roots._
 * **Defensive**: Adults will protect their young with their lives, but otherwise only attack if cornered.
 * **Camp raids**: Sometimes raid camps, for food (especially fish and sweet treats).
 
-## Cave Bear
+## Urso das Cavernas
 _Ferocious, 15’ tall grizzly bears found in caves and Lost World settings. Omnivorous, but prefer meat, including humans._
 
 **Classe de Armadura**: 5 [14]
@@ -382,7 +382,7 @@ _Ferocious, 15’ tall grizzly bears found in caves and Lost World settings. Omn
 * **Bear hug**: If a victim is hit by both paws in the same round, the bear hugs for an extra 2d8 automatic damage.
 * **Sense of smell**: Poor eyesight, but keen sense of smell. When hungry, will follow a track of blood by scent.
 
-## Grizzly Bear
+## Urso Pardo
 _Aggressive, 9’ tall. Silver-tipped fur, brown or reddish brown in colour. Live in forests and mountains. Favour eating meat._
 
 **Classe de Armadura**: 6 [13]
@@ -410,7 +410,7 @@ _Aggressive, 9’ tall. Silver-tipped fur, brown or reddish brown in colour. Liv
 * **Bear hug**: If a victim is hit by both paws in the same round, the bear hugs for an extra 2d8 automatic damage.
 
 
-## Polar Bear
+## Urso Polar
 _Aggressive, white-furred bears that stand 11’ tall and live in cold regions. Favours eating fish._
 
 **Classe de Armadura**: 6 [13]
@@ -439,7 +439,7 @@ _Aggressive, white-furred bears that stand 11’ tall and live in cold regions. 
 * **Swimming**: Excellent swimmers.
 * **Snow walk**: Wide paws allow running on the surface of snow without sinking.
 
-# Urso-Coruja
+# Urso-coruja
 _Huge (8’ tall, 1,500 pounds), ill-tempered, carnivorous bear-like creature with the face of an owl. Owl bears are found in dense forests and underground._
 
 **Classe de Armadura**: 5 [14]

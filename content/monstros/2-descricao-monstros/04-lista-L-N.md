@@ -33,7 +33,7 @@ _6’ long, carnivorous lizards with skin flaps between legs that enable gliding
 
 * **Cling**: Climb walls, trees, etc. and drop on victims.
 
-## Gecko
+## Lagartixa
 _5’ long, carnivorous, nocturnal lizards. Light blue scales with orange spots._
 
 **Classe de Armadura**: 5 [14]
@@ -60,7 +60,7 @@ _5’ long, carnivorous, nocturnal lizards. Light blue scales with orange spots.
 
 * **Cling**: Climb walls, trees, etc. and drop on victims.
 
-## Horned Chameleon
+## Camaleão com Chifres
 _7’ long lizards whose scales change colour as camouflage._
 
 **Classe de Armadura**: 2 [17]
@@ -129,7 +129,7 @@ _Shapechangers with a human and an animal form._
 * **Scent**: Horses and some other animals can smell lycanthropes and will become afraid.
 * **Infection**: A character who loses more than half their hit points from the natural attacks of lycanthropes (i.e. bites, claws) contracts lycanthropy. Humans become were-creatures of the same type (run by the referee, henceforth); non-humans die. The disease takes full effect in 2d12 days, showing signs of infection after half the time.
 
-## Devil Swine
+## Porco Diabólico
 _Corpulent humans who can change into huge swine. Love to eat human flesh. Lurk in isolated human settlements close to forests or marshes._
 
 **Classe de Armadura**: 3 [16] (9 [10] in human form)
@@ -159,7 +159,7 @@ _Corpulent humans who can change into huge swine. Love to eat human flesh. Lurk 
 * **Charm person**: 3 times a day. Save versus spells at –2 or be charmed: move towards the devil swine (resisting those who try to prevent it); obey the devil swine’s commands (if understood); defend the devil swine; unable to cast spells or use magic items; unable to harm the devil swine. Killing the devil swine breaks the charm.
 * **Charmed victims**: 1d4–1 accompany a devil swine.
 
-## Werebear
+## Homem-urso
 _Highly intelligent, also in bear form. Dwell alone or among normal bears._
 
 **Classe de Armadura**: 2 [17] (8 [11] in human form)
@@ -187,7 +187,7 @@ _Highly intelligent, also in bear form. Dwell alone or among normal bears._
 * **Amiable**: May be friendly, if approached peacefully.
 * **Bear hug**: If a victim is hit by both claws in the same round, the werebear can hug for an extra 2d8 automatic damage.
 
-## Wereboar
+## Homem-javali
 _Semi-intelligent and irascible. In human form, often appear like berserkers._
 
 **Classe de Armadura**: 4 [15] (9 [10] in human form)
@@ -214,7 +214,7 @@ _Semi-intelligent and irascible. In human form, often appear like berserkers._
 
 * **Battle rage**: In human form, may enter a berserk rage: +2 to hit; fight to the death. Rage sometimes causes them to attack their allies.
 
-## Wererat
+## Homem-rato
 _Intelligent, humanoid rats who can change into normal humans._
 
 **Classe de Armadura**: 7 [12] (9 [10] in human form)
@@ -243,7 +243,7 @@ _Intelligent, humanoid rats who can change into normal humans._
 * **Languages**: Can speak Common in both forms.
 * **Weapons**: May also use weapons in animal form.
 
-## Weretiger
+## Homem-tigre
 _Exhibit feline behaviour: curious, but dangerous when cornered. Talented swimmers and trackers._
 
 **Classe de Armadura**: 3 [16] (9 [10] in human form)
@@ -270,7 +270,7 @@ _Exhibit feline behaviour: curious, but dangerous when cornered. Talented swimme
 
 * **Surprise**: On a 1–4, due to stealth.
 
-## Werewolf
+## Lobisomem
 _Semi-intelligent pack hunters._
 
 **Classe de Armadura**: 5 [14] (9 [10] in human form)
@@ -329,7 +329,7 @@ _Slimy horrors that lurk on stone surfaces or among boulders._
 # Lobo
 _Carnivorous relatives of dogs that hunt in packs._
 
-## Dire Wolf
+## Lobo Atroz
 _Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests._
 
 **Classe de Armadura**: 6 [13]
@@ -357,7 +357,7 @@ _Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests.
 * **Training**: At the referee’s discretion, captured cubs may be trained like dogs. Dire wolves are ferocious and extremely difficult to train.
 * **Mounts**: Sometimes trained as mounts by goblins.
 
-## Normal Wolf
+## Lobo Normal
 _Dwell primarily in wild lands, but occasionally lair in caves._
 
 **Classe de Armadura**: 7 [12]
@@ -533,6 +533,40 @@ _Deadly creatures of a magical nature that look like women with writhing snakes 
 * **Mirrors**: The reflection of a medusa is harmless. If a medusa sees her own reflection, she must save or be petrified.
 * **Poison**: The snakes’ bites are venomous: save versus poison or die in 1 turn.
 * **Magic resistance**: +2 bonus to saves versus spells.
+
+# Mercador
+_Organized traders who travel between settlements in well-armed caravans, buying and selling trade goods (e.g. gold, jewels, silk, spices, wine, etc.)._
+
+**Classe de Armadura**: 5 [14]
+
+**Dados de Vida**: 1 (4pv)
+
+**Ataques**: 1 × arma (1d6 ou por arma)
+
+**TAC0**: 19 [0]
+
+**Movimento**: 27m (9m)
+
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
+
+**Moral**: Varia
+
+**Tendência**: Neutro
+
+**XP**: 10
+
+**Número Encontrado**: 0 (1d20)
+
+**Tesouro**: A
+
+* **Weapons**: Sword and dagger.
+* **Mounted**: On horse, camel, or mule (by terrain).
+* **Wagons**: 2 per merchant. Pulled by horses, mules, or camels (by terrain).
+* **Caravan guards**: For every merchant, 4 guards are present (1st level fighters). AC 4 [15], with crossbows, swords, daggers.
+* **Guard lieutenants**: For every 5 merchants, 2 lieutenants are present (2nd–3rd level fighters). AC 4 [15]. Equipped as guards.
+* **Guard captain**: Guards are led by a 5th level fighter. AC 4 [15]. Equipped as guards.
+* **Pack animals**: 1d12 extra horses, mules, or camels.
+* **Treasure**: Should be reduced, if less than 10 merchants are in the group.
 
 # Minotauro
 _Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes and labyrinths._
@@ -738,7 +772,7 @@ _Undead humanoids wrapped in funerary bandages. Haunt ruins and tombs._
 * **Damage immunity**: Only harmed by fire or magic. All damage reduced by half.
 * **Undead**: Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. charm, hold, sleep).
 
-# Musaranho Gigane
+# Musaranho Gigante
 _Brown-furred, mole-like, insectivores with long snouts. Dwell underground; skilled burrowers._
 
 **Classe de Armadura**: 4 [15]
@@ -769,7 +803,7 @@ _Brown-furred, mole-like, insectivores with long snouts. Dwell underground; skil
 * **Territorial**: Ferociously defend their hunting area from all intruders.
 * **Echolocation**: Perceive their surroundings up to 18m. Unaffected by lack of light. If unable to hear (e.g. silence, 15’ radius): AC reduced to 8 [11], –4 penalty to attacks.
 
-# Neanderthal (Homem das Cavernas)
+# Neandertal (Homem das Cavernas)
 _Squat, powerful, primitive demihumans with ape-like faces. Dwell in caverns and hunt cave bears. Shy of contact with humans (with whom they are related), but friendly with dwarves and gnomes._
 
 **Classe de Armadura**: 8 [11]

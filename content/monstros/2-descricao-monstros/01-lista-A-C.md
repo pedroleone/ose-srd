@@ -280,7 +280,7 @@ _Aranhas caçadoras com 1,5 m de comprimento que podem mudar sua coloração par
 * **Veneno**: provoca morte em 1d4 turnos (teste de resistência vs veneno com bônus de +2).
 
 ## Tarântula
-_Aranhas caçadoras peludas com 2,1 metros de comprimento que lembram as tarântulas. Magicas por natureza._
+_Aranhas caçadoras peludas com 2,1 metros de comprimento que lembram as tarântulas. Mágicas por natureza._
 
 **Classe de Armadura**: 5 [14]
 
@@ -666,7 +666,7 @@ _Marinheiros que ganham a vida pilhando assentamentos costeiros e outras embarca
 # Bugbear
 _Goblins grandes e peludos com um andar desajeitado. Favorecem ataques surpresa._
 
-**Classe de Armadura**: 5 14]
+**Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 3+1 (14 pv) 
 
@@ -720,7 +720,7 @@ _Criaturas mágicas altamente inteligentes invocadas de outro plano de existênc
 * **Se morto**: retorna ao seu plano de origem.
 
 # Camelo
-_Animais irrascíveis que são adaptados a vida em climas secos. Frequentemente usados para transporte no deserto._
+_Animais irascíveis que são adaptados a vida em climas secos. Frequentemente usados para transporte no deserto._
 
 **Classe de Armadura**: 7 [12]
 
@@ -1188,7 +1188,7 @@ _Serpentes de 1,8m que vivem em baixo da água, saindo para respirar apenas uma 
 * **Veneno**: Ação lenta: os efeitos são sentidos 1d4+2 turnos depois. Teste de resistência contra veneno ou morre 1 rodada depois. Neste ponto, a magia neutralizar veneno tem 25% de chance de não funcionar.
 * **Indivíduos maiores**: Serpentes marinhas com mais de 3 DV podem ser encontradas. Elas tem 1,8m de comprimento para cada 3 DV.
 
-## Cobra-naja
+## Naja
 _Cobras de 90m de comprimento com escalas cinzas/brancas. Preferem atacar à distância com seu cuspe venenoso._
 
 **Classe de Armadura**: 7 [12]

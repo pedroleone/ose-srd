@@ -1,5 +1,5 @@
 ---
-title: "Encontros nos Ermos ❌"
+title: "Encontros nos Ermos"
 metaTitle: "Encontros nos Ermos"
 metaDescription: "Monstros > Encontros nos Ermos"
 ---
@@ -19,9 +19,6 @@ Role 1d8 e 1d12:
 **PNJs Aventureiros**: encontros com grupos de PNJs aventureiros são listados nas tabelas como “Aventureiros Iniciantes”, “Aventureiros Experientes”, “Clérigo de Alto Nível”, “Guerreiro de Alto Nível” ou “Mago de Alto Nível”. Diretrizes para gerar PNJs aventureiros podem ser encontradas no capítulo Grupos de Aventureiros.
 
 # Subtabela de Encontros por Tipo de Terreno
-
-<mark><b>NOTA DO TRADUTOR</b>: Nessas duas tabelas abaixo, mudar as letras para a subtabela correspondente, depois de traduzir tudo. Por exemplo, a subtabela S de Swamp, virou P de Pântano.</mark>
-<p></p>
 
 |d8|Semiárido, Colina, Montanha|Cidade|Campo, Prado|Deserto|Floresta|
 |--- |--- |--- |--- |--- |--- |
@@ -67,156 +64,156 @@ Role 1d8 e 1d12:
 
 |d12|Animal Pré-histórico|Morto-vivo|Incomum|
 |--- |--- |--- |--- |
-|1|Bear, Cave|Ghoul|Basilisk|
-|2|Cat, Sabre-Toothed|Ghoul|Blink Dog|
-|3|Crocodile, Giant|Ghoul|Centaur|
-|4|Mastodon|Mummy|Gorgon|
-|5|Pterodactyl, Pteranodon|Skeleton|Lycanthrope, Werebear|
-|6|Rhino, Woolly|Skeleton|Lycanthrope, Wereboar|
-|7|Snake, Pit Viper|Spectre|Lycanthrope, Wererat|
-|8|Stegosaurus|Wight|Lycanthrope, Weretiger|
-|9|Titanothere|Wraith|Lycanthrope, Werewolf|
-|10|Triceratops|Vampire|Medusa|
-|11|Tyrannosaurus Rex|Zombie|Treant|
-|12|Wolf, Dire|Zombie|Warp Beast|
+|1|Urso das Cavernas|Carniçal|Basilisco|
+|2|Tigre dentes-de-sabre|Carniçal|Cão Teleportador|
+|3|Crocodilo Gigante|Carniçal|Centauro|
+|4|Mastodonte|Múmia|Gorgon|
+|5|Pterodáctilo, Pteranodonte|Esqueleto|Licantropo, Homem-urso|
+|6|Rinoceronte-lanudo|Esqueleto|Licantropo, Homem-javali|
+|7|Cobra, Víbora|Espectro|Licantropo, Homem-rato|
+|8|Estegossauro|Vulto|Licantropo, Homem-tigre|
+|9|Brontotério|Aparição|Licantropo, Lobisomem|
+|10|Tricerátops|Vampiro|Medusa|
+|11|Tiranossauro Rex|Zumbi|Ente|
+|12|Lobo Atroz|Zumbi|Pantera Deslocadora|
 
-# Sub-Table B: Barren, Hills, Mountains
+# Subtabela B: Semiárido, Colinas, Montanhas
 
 |d12|Animal|Voador|Humano|Humanoide|
 |--- |--- |--- |--- |--- |
-|1|Antelope|Gargoyle|Bandit|Dwarf|
-|2|Ape, White|Griffon|Berserker|Giant, Cloud|
-|3|Ape, White|Harpy|Berserker|Giant, Frost|
-|4|Bear, Cave|Hawk|Brigand|Giant, Hill|
-|5|Cat, Mountain Lion|Hawk, Giant|Brigand|Giant, Stone|
-|6|Hawk|Hippogriff|Expert Adventurers|Giant, Storm|
-|7|Mule|Manticore|High-Level Cleric|Gnome|
-|8|Rock Baboon|Manticore|High-Level Fighter|Goblin|
-|9|Snake, Pit Viper|Pegasus|High-Level MU|Kobold|
-|10|Snake, Rattler|Roc, Small|Merchant|Orc|
-|11|Wolf|Roc, Large|Neanderthal|Troglodyte|
-|12|Wolf, Dire|Roc, Giant|Neanderthal|Troll|
+|1|Animal de Rebanho|Gárgula|Bandido|Anão|
+|2|Gorila Branco|Grifo|Furioso|Gigante das Nuvens|
+|3|Gorila Branco|Harpia|Furioso|Gigante do Gelo|
+|4|Urso das Cavernas|Falcão|Salteador|Gigante das Colinas|
+|5|Grande Felino, Onça-parda|Falcão Gigante|Salteador|Gigante das Rochas|
+|6|Falcão|Hipogrifo|Aventureiros Experientes|Gigante das Tempestades|
+|7|Mula|Mantícora|Clérigo de Alto Nível|Gnomo|
+|8|Babuíno Selvagem|Mantícora|Guerreiro de Alto Nível|Goblin|
+|9|Cobra, Víbora|Pégasos|Mago de Alto Nível|Kobold|
+|10|Cobra, Cascavel|Roca Pequena|Mercador|Orc|
+|11|Lobo|Roca Grande|Neandertal|Troglodita|
+|12|Lobo Atroz|Roca Gigante|Neandertal|Troll|
 
-# Sub-Table C: City, Settled
+# Subtabela C: Cidade, Povoado
 
 |d12|Animal|Humano, Cidade|Humano, Povoado|Humanoide|
 |--- |--- |--- |--- |--- |
-|1|Antelope|Acolyte|Acolyte|Dwarf|
-|2|Antelope|Basic Adventurers|Basic Adventurers|Elf|
-|3|Boar|Bandit|Bandit|Giant, Hill|
-|4|Cat, Tiger|Bandit|Bandit|Gnome|
-|5|Ferret, Giant|Expert Adventurers|Expert Adventurers|Gnoll|
-|6|Hawk|High-Level Fighter|High-Level Cleric|Goblin|
-|7|Rat, Giant|Merchant|High-Level Fighter|Halfling|
-|8|Shrew, Giant|Noble|High-Level Magic-User|Hobgoblin|
-|9|Snake, Pit Viper|Trader|Merchant|Ogre|
-|10|Spider, Tarantella|Trader|Noble|Orc|
-|11|Weasel, Giant|Trader|Trader|Pixie|
-|12|Wolf|Veteran|Veteran|Sprite|
+|1|Animal de Rebanho|Acólito|Acólito|Anão|
+|2|Animal de Rebanho|Aventureiros Iniciantes|Aventureiros Iniciantes|Elfo|
+|3|Javali|Bandido|Bandido|Gigante das Colinas|
+|4|Grande Felino, Tigre|Bandido|Bandido|Gnomo|
+|5|Furão Gigante|Aventureiros Experientes|Aventureiros Experientes|Gnoll|
+|6|Falcão|Guerreiro de Alto Nível|Clérigo de Alto Nível|Goblin|
+|7|Rato Gigante|Mercador|Guerreiro de Alto Nível|Halfling|
+|8|Musaranho Gigante|Nobre|Mago de Alto Nível|Hobgoblin|
+|9|Cobra, Víbora|Comerciante|Mercador|Ogro|
+|10|Aranha, Tarântula|Comerciante|Nobre|Orc|
+|11|Doninha Gigante|Comerciante|Comerciante|Pixie|
+|12|Lobo|Veterano|Veterano|Sprite|
 
-# Sub-Table D: Desert
+# Subtabela D: Deserto
 
 |d12|Animal|Voador|Humano|Humanoide|
 |--- |--- |--- |--- |--- |
-|1|Antelope|Gargoyle|Expert Adventurers|Giant, Fire|
-|2|Antelope|Gargoyle|High-Level Cleric|Goblin|
-|3|Camel|Griffon|Dervish|Hobgoblin|
-|4|Camel|Hawk|Dervish|Hobgoblin|
-|5|Cat, Lion|Hawk, Giant|High-Level Fighter|Ogre|
-|6|Cat, Lion|Hawk, Giant|High-Level Magic-User|Ogre|
-|7|Hawk|Manticore|Merchant|Ogre|
-|8|Lizard, Gecko|Manticore|Noble|Orc|
-|9|Lizard, Tuatara|Manticore|Nomad|Orc|
-|10|Snake, Pit Viper|Roc, Small|Nomad|Pixie|
-|11|Snake, Rattler|Roc, Large|Nomad|Sprite|
-|12|Spider, Tarantella|Roc, Giant|Nomad|Thoul|
+|1|Animal de Rebanho|Gárgula|Aventureiros Experientes|Gigante do Fogo|
+|2|Animal de Rebanho|Gárgula|Clérigo de Alto Nível|Goblin|
+|3|Camelo|Grifo|Fanático|Hobgoblin|
+|4|Camelo|Falcão|Fanático|Hobgoblin|
+|5|Grande Felino, Leão|Falcão Gigante|Guerreiro de Alto Nível|Ogro|
+|6|Grande Felino, Leão|Falcão Gigante|Mago de Alto Nível|Ogro|
+|7|Falcão|Mantícora|Mercador|Ogro|
+|8|Lagarto, Lagartixa|Mantícora|Nobre|Orc|
+|9|Lagarto, Tuatara|Mantícora|Nômade|Orc|
+|10|Cobra, Víbora|Roca Pequena|Nômade|Pixie|
+|11|Cobra, Cascavel|Roca Grande|Nômade|Sprite|
+|12|Aranha, Tarântula|Roca Gigante|Nômade|Thoul|
 
-# Sub-Table F: Forest
-
-|d12|Animal|Humano|Humanoide|
-|--- |--- |--- |--- |
-|1|Antelope|Basic Adventurers|Bugbear|
-|2|Boar|Bandit|Cyclops|
-|3|Cat, Panther|Bandit|Dryad|
-|4|Cat, Tiger|Berserker|Elf|
-|5|Hawk|Brigand|Giant, Hill|
-|6|Lizard, Gecko|Brigand|Gnoll|
-|7|Lizard, Tuatara|Brigand|Goblin|
-|8|Snake, Pit Viper|Expert Adventurers|Hobgoblin|
-|9|Spider, Crab|High-Level Cleric|Ogre|
-|10|Unicorn|High-Level Fighter|Orc|
-|11|Wolf|High-Level Magic-User|Thoul|
-|12|Wolf, Dire|Merchant|Troll|
-
-# Sub-Table G: Clear, Grasslands
+# Subtabela F: Floresta
 
 |d12|Animal|Humano|Humanoide|
 |--- |--- |--- |--- |
-|1|Antelope|Bandit|Bugbear|
-|2|Boar|Bandit|Elf|
-|3|Cat, Lion|Berserker|Giant, Hill|
-|4|Elephant|Brigand|Gnoll|
-|5|Ferret, Giant|Expert Adventurers|Goblin|
-|6|Hawk, Giant|High-Level Cleric|Halfling|
-|7|Horse, Wild|High-Level Fighter|Hobgoblin|
-|8|Mule|High-Level Magic-User|Ogre|
-|9|Rock Baboon|Merchant|Orc|
-|10|Snake, Pit Viper|Merchant|Pixie|
-|11|Snake, Rattler|Noble|Thoul|
-|12|Weasel, Giant|Nomad|Troll|
+|1|Animal de Rebanho|Aventureiros Iniciantes|Bugbear|
+|2|Javali|Bandido|Ciclope|
+|3|Grande Felino, Leopardo|Bandido|Dríade|
+|4|Grande Felino, Tigre|Furioso|Elfo|
+|5|Falcão|Salteador|Gigante das Colinas|
+|6|Lagarto, Lagartixa|Salteador|Gnoll|
+|7|Lagarto, Tuatara|Salteador|Goblin|
+|8|Cobra, Víbora|Aventureiros Experientes|Hobgoblin|
+|9|Aranha, Viúva Negra|Clérigo de Alto Nível|Ogro|
+|10|Unicórnio|Guerreiro de Alto Nível|Orc|
+|11|Lobo|Mago de Alto Nível|Thoul|
+|12|Lobo Atroz|Mercador|Troll|
 
-# Sub-Table J: Jungle
+# Subtabela G: Campo, Prados
 
 |d12|Animal|Humano|Humanoide|
 |--- |--- |--- |--- |
-|1|Antelope|Bandit|Bugbear|
-|2|Boar|Berserker|Cyclops|
-|3|Cat, Panther|Brigand|Elf|
-|4|Lizard, Draco|Brigand|Giant, Fire|
-|5|Lizard, Gecko|Brigand|Giant, Hill|
-|6|Lizard, Horned Chameleon|Expert Adventurers|Gnoll|
-|7|Rat, Giant|Expert Adventurers|Goblin|
-|8|Shrew, Giant|High-Level Cleric|Lizard Man|
-|9|Snake, Pit Viper|High-Level Fighter|Ogre|
-|10|Snake, Rock Python|High-Level Magic-User|Orc|
-|11|Snake, Spitting Cobra|Merchant|Troglodyte|
-|12|Spider, Crab|Neanderthal|Troll|
+|1|Animal de Rebanho|Bandido|Bugbear|
+|2|Javali|Bandido|Elfo|
+|3|Grande Felino, Leão|Furioso|Gigante das Colinas|
+|4|Elefante|Salteador|Gnoll|
+|5|Furão Gigante|Aventureiros Experientes|Goblin|
+|6|Falcão Gigante|Clérigo de Alto Nível|Halfling|
+|7|Cavalo Selvagem|Guerreiro de Alto Nível|Hobgoblin|
+|8|Mula|Mago de Alto Nível|Ogro|
+|9|Babuíno Selvagem|Mercador|Orc|
+|10|Cobra, Víbora|Mercador|Pixie|
+|11|Cobra, Cascavel|Nobre|Thoul|
+|12|Doninha Gigante|Nômade|Troll|
 
-# Sub-Table L: Lake, River
+# Subtabela J: Selva
+
+|d12|Animal|Humano|Humanoide|
+|--- |--- |--- |--- |
+|1|Animal de Rebanho|Bandido|Bugbear|
+|2|Javali|Furioso|Ciclope|
+|3|Grande Felino, Leopardo|Salteador|Elfo|
+|4|Lagarto, Draco|Salteador|Gigante do Fogo|
+|5|Lagarto, Lagartixa|Salteador|Gigante das Colinas|
+|6|Lagarto, Camaleão|Aventureiros Experientes|Gnoll|
+|7|Rato Gigante|Aventureiros Experientes|Goblin|
+|8|Musaranho Gigante|Clérigo de Alto Nível|Homem-lagarto|
+|9|Cobra, Víbora|Guerreiro de Alto Nível|Ogro|
+|10|Cobra, Píton|Mago de Alto Nível|Orc|
+|11|Cobra, Naja|Mercador|Troglodita|
+|12|Aranha, Viúva Negra|Neandertal|Troll|
+
+# Subtabela L: Lago, Rio
 
 |d12|Animal|Humano|Humanoide|Nadador|
 |--- |--- |--- |--- |--- |
-|1|Antelope|Basic Adventurers|Bugbear|Crab, Giant|
-|2|Boar|Bandit|Elf|Crocodile|
-|3|Cat, Panther|Brigand|Gnoll|Crocodile|
-|4|Cat, Tiger|Buccaneer|Hobgoblin|Crocodile, Large|
-|5|Crab, Giant|Buccaneer|Lizard Man|Fish, Catfish|
-|6|Crocodile|Buccaneer|Lizard Man|Fish, Piranha|
-|7|Crocodile, Large|Expert Adventurers|Nixie|Fish, Sturgeon|
-|8|Piranha, Giant|High-Level Cleric|Ogre|Leech, Giant|
-|9|Leech, Giant|High-Level Fighter|Orc|Lizard Man|
-|10|Rat, Giant|High-Level Magic-User|Sprite|Merman|
-|11|Shrew, Giant|Merchant|Thoul|Nixie|
-|12|Toad, Giant|Merchant|Troll|Termite, Water|
+|1|Animal de Rebanho|Aventureiros Iniciantes|Bugbear|Caranguejo Gigante|
+|2|Javali|Bandido|Elfo|Crocodilo|
+|3|Grande Felino, Leopardo|Salteador|Gnoll|Crocodilo|
+|4|Grande Felino, Tigre|Bucaneiro|Hobgoblin|Crocodilo Grande|
+|5|Caranguejo Gigante|Bucaneiro|Homem-lagarto|Peixe-gato|
+|6|Crocodilo|Bucaneiro|Homem-lagarto|Peixe, Piranha|
+|7|Crocodilo Grande|Aventureiros Experientes|Nixie|Peixe, Esturjão|
+|8|Peixe, Piranha|Clérigo de Alto Nível|Ogro|Sanguessuga Gigante|
+|9|Sanguessuga Gigante|Guerreiro de Alto Nível|Orc|Homem-lagarto|
+|10|Rato Gigante|Mago de Alto Nível|Sprite|Tritão|
+|11|Musaranho Gigante|Mercador|Thoul|Nixie|
+|12|Sapo Gigante|Mercador|Troll|Cupim Aquático|
 
-# Sub-Table O: Ocean, Sea
+# Subtabela O: Oceano, Mar
 
 |d12|Humano|Nadador|
 |--- |--- |--- |
-|1|Buccaneer|Dragon Turtle|
-|2|Buccaneer|Hydra, Sea|
-|3|Expert Adventurers|Merman|
-|4|Merchant|Octopus, Giant|
-|5|Merchant|Sea Dragon|
-|6|Merchant|Sea Serpent|
-|7|Merchant|Shark|
-|8|Merchant|Shark|
-|9|Pirate|Snake, Sea|
-|10|Pirate|Squid, Giant|
-|11|Pirate|Termite, Water|
-|12|Pirate|Whale|
+|1|Bucaneiro|Tartaruga-Dragão|
+|2|Bucaneiro|Hidra, aquática|
+|3|Aventureiros Experientes|Tritão|
+|4|Mercador|Polvo Gigante|
+|5|Mercador|Dragão Marinho|
+|6|Mercador|Serpente Marinha (Menor)|
+|7|Mercador|Tubarão|
+|8|Mercador|Tubarão|
+|9|Pirata|Cobra, Serpente Marinha|
+|10|Pirata|Lula Gigante|
+|11|Pirata|Cupim Aquático|
+|12|Pirata|Baleia|
 
-# Subtabela P: Pântano
+# Subtabela S: Pântano
 
 |d12|Humano|Humanoide|Nadador|
 |--- |--- |--- |--- |
@@ -230,5 +227,5 @@ Role 1d8 e 1d12:
 |8|Clérigo de Alto Nível|Ogro|Sanguessuga Gigante|
 |9|Guerreiro de Alto Nível|Orc|Sanguessuga Gigante|
 |10|Mago de Alto Nível|Troglodita|Homem-lagarto|
-|11|Comerciante|Troll|Homem-lagarto|
+|11|Mercador|Troll|Homem-lagarto|
 |12|Comerciante|Troll|Cupim Aquático|

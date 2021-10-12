@@ -100,9 +100,35 @@ metaDescription: "Dicionário de Termos"
 
 > **Driver Ant** em inglês também é sinônimo para *army ant*, traduzido literalmente como [formiga-correição](https://pt.wikipedia.org/wiki/Formiga-correi%C3%A7%C3%A3o), mas gigante fica melhor, é o que ela é de fato)
 
+* **Blink Dog**: Cão Teleportador
+* **Crab**: Caranguejo
+* **Dervish**: Fanático
+* **Devil Swine**: Porco Diabólico
+* **Ghoul**: Carniçal
 * **Giant Bass**: Perca Gigante
 * **Giant Catfish**: Peixe-gato Gigante
 * **Giant Piranha**: Piranha Gigante
 * **Giant Rockfish**: Peixe-pedra Gigante
 * **Giant Sturgeon**: Esturjão Gigante
+* **Lizard, Gecko**: Lagarto, Lagartixa
+* **Merchant**: Mercador
+* **Mountain Lion** (*cougar, puma, catamount, panther*): Onça-parda (puma, suçuarana)
+* **Shrew, Giant**: Musaranho Gigante
+* **Snake, Giant Rattler**: Cobra, Cascavel Gigante
+* **Snake, Pit Viper**: Cobra, Víbora
+* **Snake, Rock Python**: Cobra, Píton
+* **Snake, Spitting Cobra**: Cobra, Naja
+* **Spider, Crab**: Aranha, Viúva Negra
 * **Termite, Water**: Cupim Aquático
+* **Titanothere**: Brontotério
+* **Trader**: Comerciante
+* **Treant**: Ente
+* **Warp Beast**: Pantera Deslocadora
+* **Werebear**: Homem-urso
+* **Wereboar**: Homem-javali
+* **Wererat**: Homem-rato
+* **Weretiger**: Homem-tigre
+* **Werewolf**: Lobisomem
+* **Wight**: Vulto
+* **Wolf, Dire**: Lobo Atroz
+* **Wraith**: Aparição

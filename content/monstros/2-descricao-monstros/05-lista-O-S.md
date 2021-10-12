@@ -73,7 +73,7 @@ _Large, black, six-legged, semi-intelligent monsters. Look similar to panthers w
 
 **Dados de Vida**: 6* (27pv)
 
-**Ataques**: 2 × tentacle (2d4)
+**Ataques**: 2 × tentáculos (2d4)
 
 **TAC0**: 14 [+5]
 
@@ -652,7 +652,7 @@ _Dim, armoured, herbivorous mammals._
 * **Charge**: If disturbed or threatened, will charge in a random direction. Requires a clear run of at least 20 yards. Make a horn attack on all in the path: inflicts double damage.
 * **Trample**: 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
 
-## Normal Rhinoceros
+## Rinoceronte normal
 
 **Classe de Armadura**: 5 [14]
 
@@ -678,7 +678,7 @@ _Dim, armoured, herbivorous mammals._
 
 * **Charge**: If disturbed or threatened, will charge in a random direction. Requires a clear run of at least 20 yards. Make a horn attack on all in the path: inflicts double damage.
 
-## Woolly Rhinoceros
+## Rinoceronte-lanudo
 _Giant rhinoceroses adapted for cold climates: their bodies covered with shaggy, white fur. Live in herds, in cold Lost World areas._
 
 **Classe de Armadura**: 4 [15]
