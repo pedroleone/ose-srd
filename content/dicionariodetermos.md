@@ -74,10 +74,6 @@ metaDescription: "Dicionário de Termos"
 
 **Sub-Table**: Subtabela
 
-> As subtabelas de [Encontros nos Ermos](monstros/4-encontros-ermos) possuem letra identificadora baseada no tipo de terreno. Quando foram traduzidas essa identificação também mudou:
-
-* **Sub-Table S: Swamp**: Subtabela P: Pântano
-
 **Terrain Type**: Tipo de Terreno
 
 * **Barren, Hills, Mountains**: Semiárido, Colinas, Montanhas
@@ -112,15 +108,18 @@ metaDescription: "Dicionário de Termos"
 * **Giant Sturgeon**: Esturjão Gigante
 * **Lizard, Gecko**: Lagarto, Lagartixa
 * **Merchant**: Mercador
-* **Mountain Lion** (*cougar, puma, catamount, panther*): Onça-parda (puma, suçuarana)
+* **Mountain Lion**: Onça-parda
+> Sinônimos em inglês: *cougar, puma, catamount, panther*; em português: puma e suçuarana.
 * **Shrew, Giant**: Musaranho Gigante
 * **Snake, Giant Rattler**: Cobra, Cascavel Gigante
 * **Snake, Pit Viper**: Cobra, Víbora
 * **Snake, Rock Python**: Cobra, Píton
 * **Snake, Spitting Cobra**: Cobra, Naja
 * **Spider, Black Widow**: Aranha, Viúva Negra
-* **Spider, Crab**: Aranha-caranguejo (especificamente a aranha-caranguejo-das-flores, *misumena vatia*, porque é a única aranha do tipo caranguejo que muda de cor, e a descrição do monstro diz que ela tem essa habilidade)
-* **Spider, Tarantella**: Aranha, Tarantela (não existe aranha Tarantella, que é uma dança folclórica italiana. A "dança da aranha" é da cidade de Taranto, que dá nome à aranha tarântula. Tarântula e Caranguejeira são sinônimos, a primeira grafia é usada em Portugal, a segunda no Brasil)
+* **Spider, Crab**: Aranha-caranguejo
+> Especificamente a aranha-caranguejo-das-flores (*misumena vatia*), porque é a única aranha do tipo caranguejo que muda de cor, e a descrição do monstro diz que ela tem essa habilidade.
+* **Spider, Tarantella**: Aranha, Tarantela
+> Não existe aranha Tarantella, que é uma dança folclórica italiana. A "dança da aranha" é da cidade de Taranto, cidade esta que dá nome à aranha tarântula. Tarântula e Caranguejeira são sinônimos, a primeira grafia é usada em Portugal, a segunda no Brasil.
 * **Termite, Water**: Cupim Aquático
 * **Titanothere**: Brontotério
 * **Trader**: Comerciante
