@@ -57,8 +57,8 @@ Role 1d8 e 1d12:
 |8|Hidra (ou Hidra aquática)|Pixie|Mosca Salteadora|
 |9|Hidra (ou Hidra aquática)|Mosca Salteadora|Escorpião Gigante|
 |10|Wyvern|Roca Pequena|Aranha, Viúva Negra|
-|11|Basilisco *|Sprite|Aranha, Caranguejeira|
-|12|Salamandra *|Estirge|Aranha, Tarântula|
+|11|Basilisco *|Sprite|Aranha-caranguejo|
+|12|Salamandra *|Estirge|Aranha, Tarantela|
 
 # Subtabela 2: Padrão
 
@@ -107,7 +107,7 @@ Role 1d8 e 1d12:
 |7|Rato Gigante|Mercador|Guerreiro de Alto Nível|Halfling|
 |8|Musaranho Gigante|Nobre|Mago de Alto Nível|Hobgoblin|
 |9|Cobra, Víbora|Comerciante|Mercador|Ogro|
-|10|Aranha, Tarântula|Comerciante|Nobre|Orc|
+|10|Aranha, Tarantela|Comerciante|Nobre|Orc|
 |11|Doninha Gigante|Comerciante|Comerciante|Pixie|
 |12|Lobo|Veterano|Veterano|Sprite|
 
@@ -126,7 +126,7 @@ Role 1d8 e 1d12:
 |9|Lagarto, Tuatara|Mantícora|Nômade|Orc|
 |10|Cobra, Víbora|Roca Pequena|Nômade|Pixie|
 |11|Cobra, Cascavel|Roca Grande|Nômade|Sprite|
-|12|Aranha, Tarântula|Roca Gigante|Nômade|Thoul|
+|12|Aranha, Tarantela|Roca Gigante|Nômade|Thoul|
 
 # Subtabela F: Floresta
 
@@ -140,7 +140,7 @@ Role 1d8 e 1d12:
 |6|Lagarto, Lagartixa|Salteador|Gnoll|
 |7|Lagarto, Tuatara|Salteador|Goblin|
 |8|Cobra, Víbora|Aventureiros Experientes|Hobgoblin|
-|9|Aranha, Viúva Negra|Clérigo de Alto Nível|Ogro|
+|9|Aranha-caranguejo|Clérigo de Alto Nível|Ogro|
 |10|Unicórnio|Guerreiro de Alto Nível|Orc|
 |11|Lobo|Mago de Alto Nível|Thoul|
 |12|Lobo Atroz|Mercador|Troll|
@@ -177,7 +177,7 @@ Role 1d8 e 1d12:
 |9|Cobra, Víbora|Guerreiro de Alto Nível|Ogro|
 |10|Cobra, Píton|Mago de Alto Nível|Orc|
 |11|Cobra, Naja|Mercador|Troglodita|
-|12|Aranha, Viúva Negra|Neandertal|Troll|
+|12|Aranha-caranguejo|Neandertal|Troll|
 
 # Subtabela L: Lago, Rio
 
