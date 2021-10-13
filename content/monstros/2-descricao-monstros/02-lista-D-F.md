@@ -94,7 +94,7 @@ _Habitam pântanos e charcos._
 
 **Dados de Vida**: 7** (31 pv)
 
-**Ataques**: [2 × garra (1d4 + 1), 1 × mordida (2d10)] ou baforada
+**Ataques**: [2 × garras (1d4 + 1), 1 × mordida (2d10)] ou baforada
 
 **TAC0**: 13 [+6]
 
@@ -123,7 +123,7 @@ _Preferem planícies abertas e desertos._
 
 **Dados de Vida**: 9** (40 pv)
 
-**Ataques**: [2 × garra (1d6 + 1), 1 × mordida (3d10)] ou baforada
+**Ataques**: [2 × garras (1d6 + 1), 1 × mordida (3d10)] ou baforada
 
 **TAC0**: 12 [+7]
 
@@ -152,7 +152,7 @@ _Pode ser encontrado em qualquer terreno, frequentemente disfarçado como uma pe
 
 **Dados de Vida**: 11** (49 pv)
 
-**Ataques**: [2 × garra (2d4), 1 × mordida (6d6)] ou baforada
+**Ataques**: [2 × garras (2d4), 1 × mordida (6d6)] ou baforada
 
 **TAC0**: 11 [+8]
 
@@ -182,7 +182,7 @@ _Faz seus covis em selvas e florestas._
 
 **Dados de Vida**: 8** (36 pv)
 
-**Ataques**: [2 × garra (1d6), 1 × mordida (3d8)] ou baforada
+**Ataques**: [2 × garras (1d6), 1 × mordida (3d8)] ou baforada
 
 **TAC0**: 12 [+7]
 
@@ -211,7 +211,7 @@ _Habitam colinas e montanhas._
 
 **Dados de Vida**: 10** (45 pv)
 
-**Ataques**: [2 × garra (1d8), 1 × mordida (4d8)] ou baforada
+**Ataques**: [2 × garras (1d8), 1 × mordida (4d8)] ou baforada
 
 **TAC0**: 11 [+8]
 
@@ -270,7 +270,7 @@ _Encontrado em regiões frias._
 
 **Dados de Vida**: 6** (27 pv)
 
-**Ataques**: [2 × garra (1d4), 1 × mordida (2d8)] ou baforada
+**Ataques**: [2 × garras (1d4), 1 × mordida (2d8)] ou baforada
 
 **TAC0**: 14 [+5]
 
@@ -632,7 +632,7 @@ _Aracnídeos enormes, tão grandes quanto um cavalo, com pinças e ferrão morta
 
 **Dados de Vida**: 4* (18pv)
 
-**Ataques**: 2 × garra (1d10), 1 × ferrão (1d4 + veneno)
+**Ataques**: 2 × garras (1d10), 1 × ferrão (1d4 + veneno)
 
 **TAC0**: 16 [+3]
 

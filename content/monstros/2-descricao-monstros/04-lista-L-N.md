@@ -13,7 +13,7 @@ _6’ long, carnivorous lizards with skin flaps between legs that enable gliding
 
 **Dados de Vida**: 4+2 (20pv)
 
-**Ataques**: 1 × bite (1d10)
+**Ataques**: 1 × mordida (1d10)
 
 **TAC0**: 15 [+4]
 
@@ -40,7 +40,7 @@ _5’ long, carnivorous, nocturnal lizards. Light blue scales with orange spots.
 
 **Dados de Vida**: 3+1 (14pv)
 
-**Ataques**: 1 × bite (1d8)
+**Ataques**: 1 × mordida (1d8)
 
 **TAC0**: 16 [+3]
 
@@ -96,7 +96,7 @@ _8’ long, iguana-like, carnivorous lizards with olive scales and a ridge of wh
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 2 × claw (1d4)
+**Ataques**: 2 × garras (1d4)
 
 **TAC0**: 14 [+5]
 
@@ -136,7 +136,7 @@ _Corpulent humans who can change into huge swine. Love to eat human flesh. Lurk 
 
 **Dados de Vida**: 9* (40pv)
 
-**Ataques**: 1 × gore (2d6) or 1 × weapon (1d6 or by weapon) or 1 × magic (charm)
+**Ataques**: 1 × gore (2d6) or 1 × arma (1d6 ou por arma) or 1 × magic (charm)
 
 **TAC0**: 12 [+7]
 
@@ -166,7 +166,7 @@ _Highly intelligent, also in bear form. Dwell alone or among normal bears._
 
 **Dados de Vida**: 6* (27pv)
 
-**Ataques**: 2 × claw (2d4), 1 × bite (2d8)
+**Ataques**: 2 × garras (2d4), 1 × mordida (2d8)
 
 **TAC0**: 14 [+5]
 
@@ -221,7 +221,7 @@ _Intelligent, humanoid rats who can change into normal humans._
 
 **Dados de Vida**: 3* (13pv)
 
-**Ataques**: 1 × bite (1d4) or 1 × weapon (1d6 or by weapon)
+**Ataques**: 1 × mordida (1d4) or 1 × arma (1d6 ou por arma)
 
 **TAC0**: 17 [+2]
 
@@ -250,7 +250,7 @@ _Exhibit feline behaviour: curious, but dangerous when cornered. Talented swimme
 
 **Dados de Vida**: 5* (22pv)
 
-**Ataques**: 2 × claw (1d6), 1 × bite (2d6)
+**Ataques**: 2 × garras (1d6), 1 × mordida (2d6)
 
 **TAC0**: 15 [+4]
 
@@ -277,7 +277,7 @@ _Semi-intelligent pack hunters._
 
 **Dados de Vida**: 4* (18pv)
 
-**Ataques**: 1 × bite (2d4)
+**Ataques**: 1 × mordida (2d4)
 
 **TAC0**: 16 [+3]
 
@@ -336,7 +336,7 @@ _Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests.
 
 **Dados de Vida**: 4+1 (19pv)
 
-**Ataques**: 1 × bite (2d4)
+**Ataques**: 1 × mordida (2d4)
 
 **TAC0**: 15 [+4]
 
@@ -364,7 +364,7 @@ _Dwell primarily in wild lands, but occasionally lair in caves._
 
 **Dados de Vida**: 2+2 (11pv)
 
-**Ataques**: 1 × bite (1d6)
+**Ataques**: 1 × mordida (1d6)
 
 **TAC0**: 17 [+2]
 
@@ -392,7 +392,7 @@ _Giant, ten-armed cephalopods. Two of the ten arms are larger, and may be used t
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 8 × small tentacle (1d4 + constriction), 2 × large tentacle (1d4 + constriction or 1d10 hull damage), 1 × beak (1d10 or 2 hull damage)
+**Ataques**: 8 × pequenos tentáculos (1d4 + constrição), 2 × tentáculos grandes (1d4 + constrição or 1d10 hull damage), 1 × bico (1d10 or 2 hull damage)
 
 **TAC0**: 14 [+5]
 
@@ -413,7 +413,7 @@ _Giant, ten-armed cephalopods. Two of the ten arms are larger, and may be used t
 * **Crush boats**: 25% likely to wrap the 2 large tentacles around a boat, doing 1d10 hull damage per tentacle. When the large tentacles are grappling a boat, in subsequent rounds, the beak inflicts 2 points of hull damage automatically.
 * **Grab crew**: 75% likely to grab crew from the deck and drag them underwater to be eaten.
 * **Constriction**: Tentacles grab and constrict after a hit. 1d4 automatic damage per round.
-* **Severing tentacles**: Requires a hit that inflicts 6 or more damage (8 small tentacles) or 10 or more damage (2 large tentacles).
+* **Severing tentacles**: Requires a hit that inflicts 6 or more damage (8 pequenos tentáculos) or 10 or more damage (2 large tentacles).
 * **Ink cloud**: When escaping, can emit a cloud of black ink (18m diameter) and jet away at 3 times normal speed. Maximum twice a day.
 * **Gargantuan specimens**: Two or three times larger can be encountered.
 
@@ -424,7 +424,7 @@ _Monstrosities with the face of a man, the body of a lion, bat-like wings, and a
 
 **Dados de Vida**: 6+1 (28pv)
 
-**Ataques**: [2 × claw (1d4), 1 × bite (2d4)] or 6 × tail spike (1d6)
+**Ataques**: [2 × garras (1d4), 1 × mordida (2d4)] or 6 × tail spike (1d6)
 
 **TAC0**: 13 [+6]
 
@@ -575,7 +575,7 @@ _Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes 
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: [1 × gore (1d6), 1 × bite] or 1 × weapon (1d6 + 2 or by weapon + 2)
+**Ataques**: [1 × gore (1d6), 1 × mordida] or 1 × arma (1d6 + 2 ou por arma + 2)
 
 **TAC0**: 14 [+5]
 
@@ -633,7 +633,7 @@ _Carnivorous bats that may attack adventurers, if hungry. 1-in-20 groups of gian
 
 **Dados de Vida**: 2 (9pv)
 
-**Ataques**: 1 × bite(1d4)
+**Ataques**: 1 × mordida(1d4)
 
 **TAC0**: 18 [+1]
 
@@ -660,7 +660,7 @@ _1m long, carnivorous flies with yellow and black stripes. Look similar to kille
 
 **Dados de Vida**: 2 (9pv)
 
-**Ataques**: 1 × bite (1d8)
+**Ataques**: 1 × mordida (1d8)
 
 **TAC0**: 18 [+1]
 
@@ -720,7 +720,7 @@ _Stubborn horse/donkey cross-breeds used as beasts of burden._
 
 **Dados de Vida**: 2 (9pv)
 
-**Ataques**: 1 × kick (1d4) or 1 × bite (1d3)
+**Ataques**: 1 × kick (1d4) or 1 × mordida (1d3)
 
 **TAC0**: 18 [+1]
 
@@ -779,7 +779,7 @@ _Brown-furred, mole-like, insectivores with long snouts. Dwell underground; skil
 
 **Dados de Vida**: 1 (4pv)
 
-**Ataques**: 2 × bite (1d6)
+**Ataques**: 2 × mordidas (1d6)
 
 **TAC0**: 19 [0]
 
@@ -810,7 +810,7 @@ _Squat, powerful, primitive demihumans with ape-like faces. Dwell in caverns and
 
 **Dados de Vida**: 2 (9pv)
 
-**Ataques**: 1 × weapon (2d4 or by weapon + 1)
+**Ataques**: 1 × arma (2d4 ou por arma + 1)
 
 **TAC0**: 18 [+1]
 
@@ -840,7 +840,7 @@ _1m tall sprites that appear as attractive women with blueish, greenish, or grey
 
 **Dados de Vida**: 1 (4pv)
 
-**Ataques**: 1 × weapon (1d4) or 1 × group spell (charm)
+**Ataques**: 1 × arma (1d4) or 1 × group spell (charm)
 
 **TAC0**: 19 [0]
 
@@ -871,7 +871,7 @@ _Powerful humans with noble titles (e.g. Count, Duke, Knight, etc.). Dwell in ca
 
 **Dados de Vida**: 3 (13pv)
 
-**Ataques**: 1 × weapon (1d8 or by weapon)
+**Ataques**: 1 × arma (1d8 ou por arma)
 
 **TAC0**: 17 [+2]
 
@@ -899,7 +899,7 @@ _Superstitious tribes who wander steppes and desert regions, living in tents or 
 
 **Dados de Vida**: 1 (4pv)
 
-**Ataques**: 1 × weapon (1d6 or by weapon)
+**Ataques**: 1 × arma (1d6 ou por arma)
 
 **TAC0**: 19 [0]
 

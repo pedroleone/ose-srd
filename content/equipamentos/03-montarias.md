@@ -31,7 +31,7 @@ metaDescription: "Equipamentos > Montarias"
 # Camelo
 Animais irrasciveis que são adaptados a vida em climas secos. Frequentemente usados para transporte nos desertos.
 
-CA 7 [12], DV 2 (9 pv), Atq 1 × bite (1), 1 × cascos (1d4), THAC0 18 [+1], MV 45 m (15 m), TR D12 W13 P14 B15 S16 (1), ML 7, TD Neutro, XP 20, NA 0 (2d4), TT None
+CA 7 [12], DV 2 (9 pv), Atq 1 × mordida (1), 1 × cascos (1d4), THAC0 18 [+1], MV 45 m (15 m), TR D12 W13 P14 B15 S16 (1), ML 7, TD Neutro, XP 20, NA 0 (2d4), TT None
 
 * **Mal-humorado**: Morde ou chuta criaturas no caminho, incluindo seus donos.
 * **Hidratação**: Após beber suficientemente, pode sobreviver até 2 semandas sem água.
@@ -47,7 +47,7 @@ CA 7 [12], HD 3 (13hp), Att None, THAC0 17 [+2], MV 90’ (30’), SV D12 W13 P1
 # Mula
 Cruzamento entre cavalo e burro, são animais de carga teimosos.
 
-AC 7 [12], HD 2 (9hp), Att 1 × kick (1d4) or 1 × bite (1d3), THAC0 18 [+1], MV 120’ (40’), SV D14 W15 P16 B17 S18 (NH), ML 8, AL Neutral, XP 20, NA 1d8 (2d6), TT None
+AC 7 [12], HD 2 (9hp), Att 1 × kick (1d4) or 1 × mordida (1d3), THAC0 18 [+1], MV 120’ (40’), SV D14 W15 P16 B17 S18 (NH), ML 8, AL Neutral, XP 20, NA 1d8 (2d6), TT None
 
 * **Perseverante**: Podem ser levados para o subterrâneo, se o árbitro permitir.
 * **Defensivo**: Pode atacar se ameaçado, mas não pode ser treinado para atacar com um comando.

@@ -1224,7 +1224,7 @@ _Anfíbios semelhantes a vermes, gigantescos (9m de comprimento), cinzas, com ma
 
 **Dados de Vida**:  6* (27pv)
 
-**Ataques**: 1 × bite (1d8)
+**Ataques**: 1 × mordida (1d8)
 
 **TAC0**: 14 [+5]
 
@@ -1251,7 +1251,7 @@ _Híbridos de ave/réptil pequeno, com uma longa cauda de serpente, e a cabeça,
 
 **Dados de Vida**: 5** (22pv)
 
-**Ataques**: 1 × bicada (1d6 + petrificação)
+**Ataques**: 1 × bico (1d6 + petrificação)
 
 **TAC0**: 15 [+4]
 

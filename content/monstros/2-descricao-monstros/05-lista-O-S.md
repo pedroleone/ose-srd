@@ -39,7 +39,7 @@ _Ugly, bad-tempered, animalistic humanoids who live underground and are active a
 
 **Dados de Vida**: 1 (4pv)
 
-**Ataques**: 1 × weapon (1d6 or by weapon)
+**Ataques**: 1 × arma (1d6 ou por arma)
 
 **TAC0**: 19 [0]
 
@@ -109,7 +109,7 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 **Dados de Vida**: 36 (162pv)
 
-**Ataques**: 2 × claw (3d6), 1 × bite (8d6)
+**Ataques**: 2 × garras (3d6), 1 × mordida (8d6)
 
 **TAC0**: 5 [+14]
 
@@ -135,7 +135,7 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 **Dados de Vida**: 12 (54pv)
 
-**Ataques**: 2 × claw (1d8), 1 × bite (2d10)
+**Ataques**: 2 × garras (1d8), 1 × mordida (2d10)
 
 **TAC0**: 10 [+9]
 
@@ -162,7 +162,7 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 2 × claw (1d4+1), 1 × bite (2d6)
+**Ataques**: 2 × garras (1d4+1), 1 × mordida (2d6)
 
 **TAC0**: 14 [+5]
 
@@ -221,7 +221,7 @@ _Shy; only attack when seeing a bite-size (halfling-size or smaller) morsel clos
 
 **Dados de Vida**: 2 (9pv)
 
-**Ataques**: 1 × bite (1d6)
+**Ataques**: 1 × mordida (1d6)
 
 **TAC0**: 18 [+1]
 
@@ -246,7 +246,7 @@ _15’ long, pale white. Four feelers beside the mouth. Lurk in the mud at the b
 
 **Dados de Vida**: 8+3 (39pv)
 
-**Ataques**: Att 1 × bite (2d8), 4 × feeler (1d4)
+**Ataques**: Att 1 × mordida (2d8), 4 × feeler (1d4)
 
 **TAC0**: 12 [+7]
 
@@ -271,7 +271,7 @@ _5’ long piranhas with black and green scales. Live in rivers (occasionally la
 
 **Dados de Vida**: 3+3 (16pv)
 
-**Ataques**: 1 × bite (1d8)
+**Ataques**: 1 × mordida (1d8)
 
 **TAC0**: 16 [+3]
 
@@ -328,7 +328,7 @@ _Huge (nearly 9m long), aggressive fish with armour plating._
 
 **Dados de Vida**: 10+2* (47pv)
 
-**Ataques**: 1 × bite (2d10)
+**Ataques**: 1 × mordida (2d10)
 
 **TAC0**: 11 [+8]
 
@@ -355,7 +355,7 @@ _Sailors who make a living by raiding coastal settlements, robbing other ships, 
 
 **Dados de Vida**: 1 (4pv)
 
-**Ataques**: 1 × weapon (1d6 or by weapon)
+**Ataques**: 1 × arma (1d6 ou por arma)
 
 **TAC0**: 19 [0]
 
@@ -418,7 +418,7 @@ _Giant, eight-armed cephalopods. Lurk in coastal waters, close to settlements._
 
 **Dados de Vida**: 8 (36pv)
 
-**Ataques**: 8 × tentacle (1d3 + constriction), 1 × bite (1d6)
+**Ataques**: 8 × tentáculos (1d3 + constrição), 1 × mordida (1d6)
 
 **TAC0**: 12 [+7]
 
@@ -450,7 +450,7 @@ _Wingspan of up to 15m. Highly aggressive; often prey on humanoids._
 
 **Dados de Vida**: 5 (22pv)
 
-**Ataques**: 1 × bite (1d12)
+**Ataques**: 1 × mordida (1d12)
 
 **TAC0**: 15 [+4]
 
@@ -476,7 +476,7 @@ _8–3m wingspan. Prey on small to medium animals, but will attack humanoids, if
 
 **Dados de Vida**: 1 (4pv)
 
-**Ataques**: 1 × bite (1d3)
+**Ataques**: 1 × mordida (1d3)
 
 **TAC0**: 19 [0]
 
@@ -532,7 +532,7 @@ _Horrific, hybrid monstrosities with the forequarters of a lion, the hindquarter
 
 **Dados de Vida**: 9** (40pv)
 
-**Ataques**: 2 × claw (1d3), goat: 1 × gore (2d4), lion: 1 × bite (2d4), dragon: 1 × bite (3d4) or 1 × breath (3d6)
+**Ataques**: 2 × garras (1d3), goat: 1 × gore (2d4), lion: 1 × mordida (2d4), dragon: 1 × mordida (3d4) or 1 × breath (3d6)
 
 **TAC0**: 12 [+7]
 
@@ -563,7 +563,7 @@ _1m long (or larger), with black or grey fur. Often live in dark, dungeon areas 
 
 **Dados de Vida**: ½ (2pv)
 
-**Ataques**: 1 × bite (1d3 + disease)
+**Ataques**: 1 × mordida (1d3 + disease)
 
 **TAC0**: 19 [0]
 
@@ -593,7 +593,7 @@ _Swarming packs of 6” to 2’ long individuals, with brown or grey fur._
 
 **Dados de Vida**: 1hp
 
-**Ataques**: 1 × bite per pack (1d6 + disease)
+**Ataques**: 1 × mordida per pack (1d6 + disease)
 
 **TAC0**: 19 [0]
 
@@ -624,7 +624,7 @@ _Huge, hairy, nocturnal arachnid carnivores with large heads and mandibles and 1
 
 **Dados de Vida**: 4+2 (20pv)
 
-**Ataques**: 1 × sucker (grab), 1 × bite (2d8)
+**Ataques**: 1 × sucker (grab), 1 × mordida (2d8)
 
 **TAC0**: 15 [+4]
 
@@ -713,7 +713,7 @@ _Horrid, 3–4’ long, slug-like creatures with sucker mouths. Lurk in swamps._
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 1 × bite (1d6 + blood drain)
+**Ataques**: 1 × mordida (1d6 + blood drain)
 
 **TAC0**: 14 [+5]
 
@@ -745,7 +745,7 @@ _12’–16’ long, intelligent serpents with lizard-like heads and legs. Brigh
 
 **Dados de Vida**: 8* (36pv)
 
-**Ataques**: 2 × claw (1d4), 1 × bite (1d8), 1 × heat aura (1d8)
+**Ataques**: 2 × garras (1d4), 1 × mordida (1d8), 1 × heat aura (1d8)
 
 **TAC0**: 12 [+7]
 
@@ -775,7 +775,7 @@ _Giant, 6-legged lizards with blue/white scales. Dwell in icy, wilderness region
 
 **Dados de Vida**: 12* (54pv)
 
-**Ataques**: 4 × claw (1d6), 1 × bite (2d6), 1 × cold aura (1d8)
+**Ataques**: 4 × garras (1d6), 1 × mordida (2d6), 1 × cold aura (1d8)
 
 **TAC0**: 10 [+9]
 
@@ -805,7 +805,7 @@ _Outlaws and mercenaries who make aliving by raiding settlements and attacking t
 
 **Dados de Vida**: 1 (4pv)
 
-**Ataques**: 1 × weapon (1d6 or by weapon)
+**Ataques**: 1 × arma (1d6 ou por arma)
 
 **TAC0**: 19 [0]
 
@@ -836,7 +836,7 @@ _Warty amphibians with long, sticky tongues. As large as a great hound, weighing
 
 **Dados de Vida**: 2+2 (11pv)
 
-**Ataques**: 1 × bite (1d4+1)
+**Ataques**: 1 × mordida (1d4+1)
 
 **TAC0**: 17 [+2]
 
@@ -865,7 +865,7 @@ _6m–9m long, serpent-like sea monsters with rows of many fins._
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 1 × bite (2d6) or 1 × squeeze (1d10 hull damage)
+**Ataques**: 1 × mordida (2d6) or 1 × squeeze (1d10 hull damage)
 
 **TAC0**: 14 [+5]
 

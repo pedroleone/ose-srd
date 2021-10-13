@@ -43,7 +43,7 @@ _Monstros mágicos que se parecem com horrendas estátuas aladas e com chifres. 
 
 **Dados de Vida**: 4 (18pv)
 
-**Ataques**: 2 × garra (1d3), 1 × mordida (1d6), 1 × chifre (1d4)
+**Ataques**: 2 × garras (1d3), 1 × mordida (1d6), 1 × chifre (1d4)
 
 **TAC0**: 16 [+3]
 
@@ -422,7 +422,7 @@ _Construído no formato de felinos gigantes (e.g. leões ou tigres)._
 
 **Dados de Vida**: 10** (45pv)
 
-**Ataques**: 2 × garra (2d6), 1 × mordida (2d10)
+**Ataques**: 2 × garras (2d6), 1 × mordida (2d10)
 
 **TAC0**: 11 [+8]
 
@@ -660,7 +660,7 @@ _Caçadores rápidos que vivem em planícies e florestas._
 
 **Dados de Vida**: 4 (18pv)
 
-**Ataques**: 2 × garra (1d4), 1 × mordida (1d8)
+**Ataques**: 2 × garras (1d4), 1 × mordida (1d8)
 
 **TAC0**: 16 [+3]
 
@@ -687,7 +687,7 @@ _Felinos enormes e agressivos com presas de 30cm. Normalmente só encontradas em
 
 **Dados de Vida**: 8 (36pv)
 
-**Ataques**: 2 × garra (1d8), 1 × mordida (2d8)
+**Ataques**: 2 × garras (1d8), 1 × mordida (2d8)
 
 **TAC0**: 12 [+7]
 
@@ -715,7 +715,7 @@ _Grandes caçadores solitários com padrões de camuflagem na pelagem. Preferem 
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 2 × garra (1d6), 1 × mordida (2d6)
+**Ataques**: 2 × garras (1d6), 1 × mordida (2d6)
 
 **TAC0**: 14 [+5]
 
