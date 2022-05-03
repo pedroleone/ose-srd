@@ -63,7 +63,7 @@ A Classe de Armadura do seu personagem é determinada por dois fatores:
 * **Destreza**: Veja o capítulo Atributos.
 
 ## CA Sem Armadura
-Se o seu personagem não tem armadura, sua CA base é 9 [0].
+Se o seu personagem não tem armadura, sua CA base é 9 [10].
 
 # 12. Anote o Nível e a XP
 Seu personagem começa o jogo no 1º nível com 0 pontos de experiência (XP).
