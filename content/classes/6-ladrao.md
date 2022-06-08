@@ -63,7 +63,7 @@ Ladrões são aventureiros que vivem por suas perícias de trapaça e intriga. S
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
 
 # Ataque pelas costas
-Quando atacando um oponente desprevenido pelas costas, o ladrão recebe um bônus de +4 para acertar e dobre qualquer dano causado.
+Quando atacando um oponente desprevenido pelas costas, o ladrão recebe um bônus de +4 para acertar e dobra qualquer dano causado.
 
 # Combate
 Devido a sua necessidade por furtividade e liberdade de movimento, ladrões não podem usar armaduras mais pesadas do que couro e não podem usar escudos. Eles podem usar qualquer arma.
