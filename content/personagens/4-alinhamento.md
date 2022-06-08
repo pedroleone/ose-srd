@@ -4,7 +4,7 @@ metaTitle: "Alinhamento"
 metaDescription: "Personagens -> Alinhamento"
 ---
 
-Todas as criaturas, sejam PJs, PNJs ou monstros, seguem uma das três filosofias ou esferas de comportamento, conhecidas como alinhamento. Essas esferas são Lei, Neutralidade e Caos. Um jogador deve escolher um destes caminhos quando estiver criando um personagem.
+Todas as criaturas, sejam PJs, PNJs ou monstros, seguem uma das três filosofias ou esferas de comportamento, conhecidas como alinhamento. Essas esferas são Ordem, Neutralidade e Caos. Um jogador deve escolher um destes caminhos quando estiver criando um personagem.
 
 **Ordem**: Criaturas ordeiras acreditam na verdade e justiça. Para esse fim, eles seguirão leis e acreditarão que todas as coisas devem seguir a ordem. Criaturas ordeiras também acreditam no sacrifício por um bem maior e escolherão o bem de um grupo maior em detrimento do bem de um indivíduo.
 
