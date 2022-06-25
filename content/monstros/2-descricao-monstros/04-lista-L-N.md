@@ -1,927 +1,579 @@
----
-title: "Lista Monstros L-N ❌"
-metaTitle: "Lista Monstros L-N"
-metaDescription: "Monstros > Lista Monstros L-N"
----
 # Lagarto Gigante
-
-
 ## Draco
-_6’ long, carnivorous lizards with skin flaps between legs that enable gliding. Usually dwell above ground, but sometimes shelter in caves. Sometimes attack humans._
-
+_Lagartos carnívoros de 1,80m de comprimento com membranas de pele entre as pernas que permitem planar no ar. Geralmente habitam acima do solo, mas às vezes se abrigam em cavernas. Às vezes atacam humanos._
 **Classe de Armadura**: 5 [14]
-
 **Dados de Vida**: 4+2 (20pv)
-
 **Ataques**: 1 × mordida (1d10)
-
 **TAC0**: 15 [+4]
-
-**Movimento**: 36m (12m) / 63m (21m) gliding
-
+**Movimento**: 36m (12m) / 63m (21m) planando
 **Testes de Resistência**: M12 V13 P14 S15 F16 (3)
-
 **Moral**:  7
-
 **Tendência**: Neutro
-
 **XP**: 125
-
 **Número Encontrado**: 1d4 (1d8)
-
 **Tesouro**: U 
-
-* **Cling**: Climb walls, trees, etc. and drop on victims.
+* ** Aderência:**: Podem andar pelas paredes, arvores, etc. e saltar sobre suas vítimas.
 
 ## Lagartixa
-_5’ long, carnivorous, nocturnal lizards. Light blue scales with orange spots._
-
+_Lagartos noturnos, carnívoros, com 1,5m de comprimento. Possuem escamas azuis claras com manchas laranja._
 **Classe de Armadura**: 5 [14]
-
 **Dados de Vida**: 3+1 (14pv)
-
 **Ataques**: 1 × mordida (1d8)
-
 **TAC0**: 16 [+3]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (2)
-
 **Moral**:  7
-
 **Tendência**: Neutro
-
 **XP**: 50
-
 **Número Encontrado**: 1d6 (1d10)
-
 **Tesouro**: U
-
-* **Cling**: Climb walls, trees, etc. and drop on victims.
+* ** Aderência:**: Podem andar pelas paredes, arvores, etc. e saltar sobre suas vítimas.
 
 ## Camaleão com Chifres
-_7’ long lizards whose scales change colour as camouflage._
-
+_Lagartos de 2,1m de comprimento cujas escamas mudam de cor fornecendo camuflagem._
 **Classe de Armadura**: 2 [17]
-
 **Dados de Vida**: 5* (22pv)
-
-**Ataques**: 1 × tongue/bite (2d4), 1 × horn (1d6), 1 × tail (knock down
-
+**Ataques**: 1 × língua/mordida (2d4), 1 × chifre (1d6), 1 × cauda (derruba vítima no chão)
 **TAC0**: 15 [+4]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (3)
-
 **Moral**:  7
-
 **Tendência**: Neutro
-
 **XP**: 300
-
 **Número Encontrado**: 1d3 (1d6)
-
 **Tesouro**: U
-
-* **Surprise**: On a 1–5, due to camouflage.
-* **Sticky tongue**: Can attack targets up to 5’ away. If the attack succeeds, the victim is dragged to the mouth and bitten (2d4 damage).
-* **Tail**: Causes no damage, but knocks opponent down: cannot attack that round.
+* ** Surpresa**: 1-5, devido à camuflagem.
+* ** Língua pegajosa**: pode atacar alvos a até 1,5 metros de distância. Se o ataque for bem sucedido, a vítima é arrastada até a boca e mordida (2d4 de dano).
+* ** Cauda **: Não causa danos, mas derruba o oponente: não pode atacar nessa rodada.
 
 ## Tuatara
-_8’ long, iguana-like, carnivorous lizards with olive scales and a ridge of white spikes along the back. Have been known to attack humans._
-
+Lagartos carnívoros de 2,4 m de comprimento, semelhantes a iguanas, com escamas cor de oliva e uma crista de espinhos brancos ao longo das costas. São conhecidos por atacar humanos._
 **Classe de Armadura**: 4 [15]
-
 **Dados de Vida**: 6 (27pv)
-
 **Ataques**: 2 × garras (1d4)
-
 **TAC0**: 14 [+5]
-
 **Movimento**: 27m (9m)
-
 **Testes de Resistência**: M10 V11 P12 S13 F14 (4)
-
 **Moral**:  6
-
 **Tendência**: Neutro
-
 **XP**: 275
-
 **Número Encontrado**: 1d2 (1d4)
-
 **Tesouro**: V
-
-* **Infravision**: 27m. Granted by retractable eye membranes.
+* ** Infravisão **: 27m. Concedido por membranas oculares retráteis.
 
 # Licantropo
-_Shapechangers with a human and an animal form._
-
-* **Human form**: Have physical characteristics reminiscent of the associated animal type.
-* **Mundane damage immunity**: In animal form, can only harmed by silver weapons or magic.
-* **Languages**: In human form, can speak normally. In animal form, can only speak with animals of the associated type.
-* **Armour**: Not used because it hinders shape-changing.
-* **Summon animals**: Can summon 1–2 animals of the associated type from the surrounding area (wererats summon giant rats). These arrive in 1d4 rounds.
-* **Wolfsbane**: If hit, must save versus poison or flee in terror.
-* **Reversion**: If killed, a lycanthrope reverts to its human form.
-* **Scent**: Horses and some other animals can smell lycanthropes and will become afraid.
-* **Infection**: A character who loses more than half their hit points from the natural attacks of lycanthropes (i.e. bites, claws) contracts lycanthropy. Humans become were-creatures of the same type (run by the referee, henceforth); non-humans die. The disease takes full effect in 2d12 days, showing signs of infection after half the time.
+_ Metamorfos com forma humana e animal. _
+* ** Forma humana**: Possui características físicas que lembram o tipo animal associado.
+* ** Imunidade a dano mundano **: Na forma animal, só pode ser ferido por armas de prata ou magia.
+* ** Idiomas **: Na forma humana, pode falar normalmente. Na forma animal, só pode falar com animais do tipo associado.
+* **Armaduras**: Não são usadas porque dificulta a mudança de forma.
+* ** Invocar animais **: Pode invocar 1–2 animais do tipo associado da área circundante (os homens-rato invocam ratos gigantes). Estes chegam em 1d4 rodadas.
+* ** acônito **: Se atingido, deve salvar contra veneno ou fugir aterrorizado.
+* ** Reversão:**: Se morto, um licantropo volta à sua forma humana.
+* ** Olfato**: Cavalos e alguns outros animais podem sentir o cheiro de licantropos e ficarão com medo.
+* ** Infecção**: Um personagem que perde mais da metade de seus pontos de vida por ataques naturais de licantropos (ou seja, mordidas e garras) contrai licantropia. Os humanos tornam-se criaturas do mesmo tipo (conduzido pelo árbitro, de agora em diante); não-humanos morrem. A doença tem efeito total em 2d12 dias, mostrando sinais de infecção após metade do tempo.
 
 ## Porco Diabólico
-_Corpulent humans who can change into huge swine. Love to eat human flesh. Lurk in isolated human settlements close to forests or marshes._
-
-**Classe de Armadura**: 3 [16] (9 [10] in human form)
-
+_ Humanos corpulentos que podem se transformar em enormes suínos. Adoram comer carne humana. Espreitam em assentamentos humanos isolados perto de florestas ou pântanos._
+**Classe de Armadura**: 3 [16] (9 [10] na forma humana)
 **Dados de Vida**: 9* (40pv)
-
-**Ataques**: 1 × gore (2d6) or 1 × arma (1d6 ou por arma) or 1 × magic (charm)
-
+**Ataques**: 1 × ataque em fúria (2d6) ou 1 × arma (1d6 ou por arma) ou 1 × magia (Enfeitiçar)
 **TAC0**: 12 [+7]
-
-**Movimento**: 54m (18m) / 36m (12m) in human form
-
+**Movimento**: 54m (18m) / 36m (12m) na forma humana
 **Testes de Resistência**: M8 V9 P10 S10 F12 (9)
-
 **Moral**:  10
-
 **Tendência**: Caótico
-
 **XP**: 1,600
-
 **Número Encontrado**: 1d3 (1d4)
-
 **Tesouro**: C
-
-* **Shapechange**: Only at night.
-* **Ambush**: Prefer to attack by surprise.
-* **Charm person**: 3 times a day. Save versus spells at –2 or be charmed: move towards the devil swine (resisting those who try to prevent it); obey the devil swine’s commands (if understood); defend the devil swine; unable to cast spells or use magic items; unable to harm the devil swine. Killing the devil swine breaks the charm.
-* **Charmed victims**: 1d4–1 accompany a devil swine.
+* ** Mudança de forma**: Apenas à noite.
+* **Emboscada**: Prefere atacar de surpresa.
+* **Enfeitiçar Pessoa**: 3 vezes ao dia. Salve contra feitiços a -2 ou fique enfeitiçado: vá em direção ao Porco Diabólico (resistindo àqueles que tentam impedi-lo); obedecer aos comandos do Porco Diabólico (se entendido); deve defender o Porco Diabólico; incapaz de lançar feitiços ou usar itens mágicos; incapaz de prejudicar o Porco Diabólico. Matar o Porco Diabólico quebra o encanto.
+* ** Vítimas enfeitiçadas**: 1d4–1 acompanham um Porco Diabólico.
 
 ## Homem-urso
-_Highly intelligent, also in bear form. Dwell alone or among normal bears._
-
-**Classe de Armadura**: 2 [17] (8 [11] in human form)
-
+_ Altamente inteligente, também em forma de urso. Vive sozinho ou entre ursos normais._
+**Classe de Armadura**: 2 [17] (8 [11] na forma humana)
 **Dados de Vida**: 6* (27pv)
-
 **Ataques**: 2 × garras (2d4), 1 × mordida (2d8)
-
 **TAC0**: 14 [+5]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M10 V11 P12 S13 F14 (6)
-
 **Moral**:  10
-
 **Tendência**: Neutro
-
 **XP**: 500
-
 **Número Encontrado**: 1d4 (1d4)
-
 **Tesouro**: C
-
-* **Amiable**: May be friendly, if approached peacefully.
-* **Bear hug**: If a victim is hit by both claws in the same round, the werebear can hug for an extra 2d8 automatic damage.
+* ** Amável**: Pode ser amigável, se abordado pacificamente.
+* ** Abraço de urso**: Se uma vítima for atingida por ambas as garras na mesma rodada, o homem-urso pode abraçar com 2d8 de dano automático extra.
 
 ## Homem-javali
-_Semi-intelligent and irascible. In human form, often appear like berserkers._
-
-**Classe de Armadura**: 4 [15] (9 [10] in human form)
-
+_ Semi-inteligente e irritadiço. Na forma humana, muitas vezes aparecem como Furiosos._
+**Classe de Armadura**: 4 [15] (9 [10] na forma humana)
 **Dados de Vida**: 4+1* (19pv)
-
-**Ataques**: 1 × tusk/bite (2d6)
-
+**Ataques**: 1 × presas/mordida (2d6)
 **TAC0**: 15 [+4]
-
 **Movimento**: 45m (15m)
-
 **Testes de Resistência**: M10 V11 P12 S13 F14 (4)
-
 **Moral**:  9
-
 **Tendência**: Neutro
-
 **XP**: 200
-
 **Número Encontrado**: 1d4 (2d4)
-
 **Tesouro**: C
-
-* **Battle rage**: In human form, may enter a berserk rage: +2 to hit; fight to the death. Rage sometimes causes them to attack their allies.
+* ** Fúria de batalha **: Na forma humana, pode entrar em fúria frenética: +2 para acertar; luta até a morte. A raiva às vezes faz com que eles ataquem seus aliados.
 
 ## Homem-rato
-_Intelligent, humanoid rats who can change into normal humans._
-
-**Classe de Armadura**: 7 [12] (9 [10] in human form)
-
+_ Ratos humanoides inteligentes que podem se transformar em humanos normais._
+**Classe de Armadura**: 7 [12] (9 [10] na forma humana)
 **Dados de Vida**: 3* (13pv)
-
-**Ataques**: 1 × mordida (1d4) or 1 × arma (1d6 ou por arma)
-
+**Ataques**: 1 × mordida (1d4) ou 1 × arma (1d6 ou por arma)
 **TAC0**: 17 [+2]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (3)
-
 **Moral**:  8
-
 **Tendência**: Caótico
-
 **XP**: 50
-
 **Número Encontrado**: 1d8 (2d8)
-
 **Tesouro**: C
-
-* **Surprise**: On a 1–4; set ambushes.
-* **Languages**: Can speak Common in both forms.
-* **Weapons**: May also use weapons in animal form.
+* **Surpresa**: Em 1-4; arma emboscadas.
+* **Idiomas**: Pode falar Comum em ambas as formas.
+* **Armas**: Também pode usar armas em forma animal.
 
 ## Homem-tigre
-_Exhibit feline behaviour: curious, but dangerous when cornered. Talented swimmers and trackers._
-
-**Classe de Armadura**: 3 [16] (9 [10] in human form)
-
+_ Exibe comportamento felino: curioso, mas perigoso quando encurralado. Nadadores talentosos e rastreadores._
+**Classe de Armadura**: 3 [16] (9 [10] na forma humana)
 **Dados de Vida**: 5* (22pv)
-
 **Ataques**: 2 × garras (1d6), 1 × mordida (2d6)
-
 **TAC0**: 15 [+4]
-
 **Movimento**: 45m (15m)
-
 **Testes de Resistência**: M10 V11 P12 S13 F14 (5)
-
 **Moral**:  9
-
 **Tendência**: Neutro
-
 **XP**: 300
-
 **Número Encontrado**: 1d4 (1d4)
-
 **Tesouro**: C
-
-* **Surprise**: On a 1–4, due to stealth.
-
+* **Surpresa**: Em 1-4, devido a furtividade.
 ## Lobisomem
-_Semi-intelligent pack hunters._
-
-**Classe de Armadura**: 5 [14] (9 [10] in human form)
-
+_ Caçadores de matilha semi-inteligentes._
+**Classe de Armadura**: 5 [14] (9 [10] na forma humana)
 **Dados de Vida**: 4* (18pv)
-
 **Ataques**: 1 × mordida (2d4)
-
 **TAC0**: 16 [+3]
-
 **Movimento**: 54m (18m)
-
 **Testes de Resistência**: M10 V11 P12 S13 F14 (4)
-
 **Moral**:  8
-
 **Tendência**: Caótico
-
-**XP**: 125 (leader: 300)
-
+**XP**: 125 (líder: 300)
 **Número Encontrado**: 1d6 (2d6)
-
 **Tesouro**: C
-
-* **Leader**: Groups of 5+ are led by a werewolf with 5HD (30pv). The leader gains a +2 bonus to damage rolls.
+* **Líder**: Grupos de 5 ou + são liderados por um lobisomem com 5 dados de vida (30pv). O líder ganha um bônus de +2 nas jogadas de dano.
 
 # Limo Cinzento
-_Slimy horrors that lurk on stone surfaces or among boulders._
-
+_ Horrores viscosos que espreitam em superfícies de pedra ou entre pedregulhos. _
 **Classe de Armadura**: 8 [11]
-
 **Dados de Vida**: 3* (13pv)
-
-**Ataques**: 1 × touch (2d8)
-
+**Ataques**: 1 × toque (2d8)
 **TAC0**: 17 [+2]
-
 **Movimento**: 3m (1m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (2)
-
 **Moral**:  12
-
 **Tendência**: Neutro
-
 **XP**: 50
-
 **Número Encontrado**: 1 (1)
-
 **Tesouro**: Nenhum
-
-* **Blend in with stone**: Difficult to tell apart from wet stone.
-* **Acid**: After a successful attack, sticks to the victim and exudes acid. The acid destroys normal armour immediately and inflicts 2d8 damage per round. (Magic armour is dissolved in one turn.)
-    Energy immunity: Unharmed by cold or fire.
+* ** Misturar-se com a pedra**: Difícil de distinguir da pedra molhada.
+* **Ácido**: Após um ataque bem sucedido, gruda na vítima e exala ácido. O ácido destrói a armadura normal imediatamente e causa 2d8 de dano por rodada. (A armadura mágica é dissolvida em um turno.)
+***Imunidade a energia***: Não é afetado por frio ou fogo.
 
 # Lobo
-_Carnivorous relatives of dogs that hunt in packs._
+_Carnívoros parecidos com cães que caçam em matilhas._
 
 ## Lobo Atroz
-_Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests._
-
+_Lobos grandes, selvagens e semi-inteligentes. Habita em cavernas, montanhas e florestas._
 **Classe de Armadura**: 6 [13]
-
 **Dados de Vida**: 4+1 (19pv)
-
 **Ataques**: 1 × mordida (2d4)
-
 **TAC0**: 15 [+4]
-
 **Movimento**: 45m (15m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (2)
-
 **Moral**:  8
-
 **Tendência**: Neutro
-
 **XP**: 125
-
 **Número Encontrado**: 1d4 (2d4)
-
 **Tesouro**: Nenhum
-
-* **Training**: At the referee’s discretion, captured cubs may be trained like dogs. Dire wolves are ferocious and extremely difficult to train.
-* **Mounts**: Sometimes trained as mounts by goblins.
+* **Treinamento**: A critério do árbitro, os filhotes capturados podem ser treinados como cães. Os lobos atrozes são ferozes e extremamente difíceis de treinar.
+* **Montarias**: Às vezes treinadas como montarias por goblins.
 
 ## Lobo Normal
-_Dwell primarily in wild lands, but occasionally lair in caves._
-
+_Habita principalmente em terras selvagens, mas ocasionalmente em cavernas._
 **Classe de Armadura**: 7 [12]
-
 **Dados de Vida**: 2+2 (11pv)
-
 **Ataques**: 1 × mordida (1d6)
-
 **TAC0**: 17 [+2]
-
 **Movimento**: 54m (18m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
-
-**Moral**:  6 (8 in larger packs)
-
+**Moral**:  6 (8 em matilhas maiores)
 **Tendência**: Neutro
-
 **XP**: 25
-
 **Número Encontrado**: 2d6 (3d6)
-
 **Tesouro**: Nenhum
-
-* **Training**: At the referee’s discretion, captured cubs may be trained like dogs. Wolves are difficult to train.
-* **Strength in numbers**: Packs of 4 or more wolves have morale 8. If the pack is reduced to less than 50% of its original size, this morale bonus is lost.
+* **Treinamento**: A critério do árbitro, os filhotes capturados podem ser treinados como cães. Os lobos são difíceis de treinar.
+* **Força em números**: Matilhas de 4 ou mais lobos têm moral 8. Se a matilha for reduzida a menos de 50% de seu tamanho original, esse bônus de moral é perdido.
 
 # Lula Gigante
-_Giant, ten-armed cephalopods. Two of the ten arms are larger, and may be used to attack ships. Dwell in the depths of the sea, only surface to find prey._
-
+_Cefalópodes gigantes de dez braços. Dois dos dez braços são maiores e podem ser usados para atacar navios. Habita nas profundezas do mar, sobe a superfície apenas para encontrar presas._
 **Classe de Armadura**: 7 [12]
-
 **Dados de Vida**: 6 (27pv)
-
-**Ataques**: 8 × pequenos tentáculos (1d4 + constrição), 2 × tentáculos grandes (1d4 + constrição or 1d10 hull damage), 1 × bico (1d10 or 2 hull damage)
-
+**Ataques**: 8 × pequenos tentáculos (1d4 + constrição), 2 × tentáculos grandes (1d4 + constrição ou 1d10 danos no casco), 1 × bico (1d10 ou 2 danos no casco)
 **TAC0**: 14 [+5]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (3)
-
 **Moral**:  7
-
 **Tendência**: Neutro
-
 **XP**: 275
-
 **Número Encontrado**: 0 (1d4)
-
 **Tesouro**: V
-
-* **Crush boats**: 25% likely to wrap the 2 large tentacles around a boat, doing 1d10 hull damage per tentacle. When the large tentacles are grappling a boat, in subsequent rounds, the beak inflicts 2 points of hull damage automatically.
-* **Grab crew**: 75% likely to grab crew from the deck and drag them underwater to be eaten.
-* **Constriction**: Tentacles grab and constrict after a hit. 1d4 automatic damage per round.
-* **Severing tentacles**: Requires a hit that inflicts 6 or more damage (8 pequenos tentáculos) or 10 or more damage (2 large tentacles).
-* **Ink cloud**: When escaping, can emit a cloud of black ink (18m diameter) and jet away at 3 times normal speed. Maximum twice a day.
-* **Gargantuan specimens**: Two or three times larger can be encountered.
+* **Esmagar barcos**: 25% de probabilidade de envolver os 2 tentáculos grandes ao redor de um barco, causando 1d10 de dano no casco por tentáculo. Quando os grandes tentáculos estão agarrando um barco, nas rodadas subsequentes, o bico inflige 2 pontos de dano ao casco automaticamente.
+* **Agarrar tripulação**: 75% de probabilidade de pegar a tripulação do convés e arrastá-los para debaixo d'água para serem comidos.
+* **Constrição**: Os tentáculos agarram e se contraem após um golpe. 1d4 de dano automático por rodada.
+* **Separar tentáculos**: Requer um golpe que cause 6 ou mais danos (8 tentáculos pequenos) ou 10 ou mais danos (2 tentáculos grandes).
+* **Nuvem de tinta**: Ao escapar, pode emitir uma nuvem de tinta preta (18m de diâmetro) e fugir para longe 3 vezes mais rápido que a velocidade normal. Máximo duas vezes por dia.
+* **Exemplares gigantescos:**: Exemplares duas ou três vezes maiores podem ser encontrados.
 
 # Mantícora
-_Monstrosities with the face of a man, the body of a lion, bat-like wings, and a tail bristling with spikes. Love eating humans. Dwell in wild, mountainous regions._
-
+_ Monstruosidades com rosto de homem, corpo de leão, asas de morcego e cauda coberta de espinhos. Adora comer humanos. Vive em regiões selvagens e montanhosas._
 **Classe de Armadura**: 4 [15]
-
 **Dados de Vida**: 6+1 (28pv)
-
-**Ataques**: [2 × garras (1d4), 1 × mordida (2d4)] or 6 × tail spike (1d6)
-
+**Ataques**: [2 × garras (1d4), 1 × mordida (2d4)] ou 6 × cauda de espinhos (1d6)
 **TAC0**: 13 [+6]
-
-**Movimento**: 36m (12m) / 54m (18m) flying
-
+**Movimento**: 36m (12m) / 54m (18m) voando
 **Testes de Resistência**: M10 V11 P12 S13 F14 (6)
-
 **Moral**:  9
-
 **Tendência**: Caótico
-
 **XP**: 350
-
 **Número Encontrado**: 1d2 (1d4)
-
 **Tesouro**: D
-
-* **Tail spikes**: 54m range. 24 in total; 2 regrow each day.
-* **Track and ambush**: Follow humans and attack with tail spikes when they stop to rest.
+* ** Cauda de espinhos **: 54m de alcance. 24 espinhos no total;  Regenera 2 espinhos por dia.
+* ** Rastrear e emboscar **: Segue humanos e ataca com a ponta da cauda quando eles pararem para descansar.
 
 # Mastodonte
-_Shaggy elephants with large tusks. Live in icy or Lost World regions._
-
+_ Elefantes peludos com grandes presas. Viva em regiões geladas ou do Mundo Perdido._
 **Classe de Armadura**: 3 [16]
-
 **Dados de Vida**: 15 (67pv)
-
-**Ataques**: 2 × tusk (2d6) or 1 × trample (4d8)
-
+**Ataques**: 2 × presas (2d6) ou 1 × pisotear (4d8)
 **TAC0**: 9 [+10]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M8 V9 P10 S10 F12 (8)
-
 **Moral**:  8
-
 **Tendência**: Neutro
-
 **XP**: 1,350
-
 **Número Encontrado**: 0 (2d8)
-
-**Tesouro**: Tusks
-
-* **Charge**: In first round of combat, when not in melee. Requires a clear run of at least 20 yards. Tusks inflict double damage.
-* **Trample**: 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
-* **Ivory**: 2d4 × 100gp per tusk.
+**Tesouro**: Presas
+* **Investida**: Na primeira rodada de combate, quando não estiver em combate corpo a corpo. Requer uma corrida clara de pelo menos 18m. As presas infligem o dobro de dano.
+* **Pisotear**: chance de 3 em 4 de atropelar a cada rodada. +4 para acertar criaturas de tamanho humano ou menores.
+* ** Marfim **: 2d4 × 100gp por presa.
 
 # Médium
-_1st level NPC magic-users._
-
+_Usuários de magia NPC de 1º nível._
 **Classe de Armadura**: 9 [10]
-
 **Dados de Vida**: 1** (4pv)
-
-**Ataques**: 1 × dagger (1d4) or 1 × spell
-
+**Ataques**: 1 × adaga (1d4) ou 1 × magia
 **TAC0**: 19 [0]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M13 V14 P13 S16 F15 (MU1)
-
 **Moral**:  7
-
-**Tendência**: Any
-
+**Tendência**: Qualquer
 **XP**: 16
-
 **Número Encontrado**: 1d4 (1d12)
-
 **Tesouro**: V
-
-* **Spells**: Each individual has one 1st level arcane spell memorized. (Choose or select at random.)
-* **Master**: 50% of groups are led by a magic-user of 3rd level. The master has two 1st level spells and one 2nd level spell. (Choose or select at random.)    
+* **Magias**: Cada indivíduo tem uma magia arcana de 1º nível memorizada. (Escolha ou selecione aleatoriamente.)
+* **Mestre**: 50% dos grupos são liderados por um mago de 3º nível. O mestre tem duas magias de 1º nível e uma magia de 2º nível. (Escolha ou selecione aleatoriamente.)    
 
 # Medusa
-_Deadly creatures of a magical nature that look like women with writhing snakes in place of hair._
-
+_ Criaturas mortais de natureza mágica que se parecem com mulheres com cobras se contorcendo no lugar de cabelos._
 **Classe de Armadura**: 8 [11]
-
 **Dados de Vida**: 4** (18pv)
-
-**Ataques**: 1 × snakebites (1d6 + poison)
-
+**Ataques**: 1 × mordida de cobra(1d6 + veneno)
 **TAC0**: 16 [+3]
-
 **Movimento**: 27m (9m)
-
 **Testes de Resistência**: M10 V11 P12 S13 F14 (4)
-
 **Moral**:  8
-
 **Tendência**: Caótico
-
 **XP**: 175
-
 **Número Encontrado**: 1d3 (1d4)
-
 **Tesouro**: F
-
-* **Disguise**: Use hooded cloaks to lure victims close before revealing their true form.
-* **Petrification**: Anyone who looks at an undisguised medusa will be turned to stone (save versus petrify).
-* **Averting eyes**: –4 penalty to-hit; the medusa gains a +2 bonus to attack.
-* **Mirrors**: The reflection of a medusa is harmless. If a medusa sees her own reflection, she must save or be petrified.
-* **Poison**: The snakes’ bites are venomous: save versus poison or die in 1 turn.
-* **Magic resistance**: +2 bonus to saves versus spells.
+* **Disfarce**: Usa capas com capuz para atrair as vítimas para perto antes de revelar sua verdadeira forma.
+* **Petrificação**: Qualquer um que olhar para uma medusa sem disfarce será transformado em pedra (salvar contra petrificar).
+* **Desviando os olhos**: -4 de penalidade para acertar; a medusa ganha um bônus de +2 para atacar.
+* **Espelhos**: O reflexo de uma medusa é inofensivo. Se uma medusa vê seu próprio reflexo, ela deve salvar ou ficar petrificada.
+* **Veneno**: As mordidas das cobras são venenosas: salve contra veneno ou morra em 1 turno.
+* **Resistência mágica**: +2 de bônus em testes de resistência contra feitiços.
 
 # Mercador
-_Organized traders who travel between settlements in well-armed caravans, buying and selling trade goods (e.g. gold, jewels, silk, spices, wine, etc.)._
-
+_ Comerciantes organizados que viajam entre assentamentos em caravanas bem armadas, comprando e vendendo mercadorias comerciais (por exemplo, ouro, joias, seda, especiarias, vinho, etc.)._
 **Classe de Armadura**: 5 [14]
-
 **Dados de Vida**: 1 (4pv)
-
 **Ataques**: 1 × arma (1d6 ou por arma)
-
 **TAC0**: 19 [0]
-
 **Movimento**: 27m (9m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
-
 **Moral**: Varia
-
 **Tendência**: Neutro
-
 **XP**: 10
-
 **Número Encontrado**: 0 (1d20)
-
 **Tesouro**: A
-
-* **Weapons**: Sword and dagger.
-* **Mounted**: On horse, camel, or mule (by terrain).
-* **Wagons**: 2 per merchant. Pulled by horses, mules, or camels (by terrain).
-* **Caravan guards**: For every merchant, 4 guards are present (1st level fighters). AC 4 [15], with crossbows, swords, daggers.
-* **Guard lieutenants**: For every 5 merchants, 2 lieutenants are present (2nd–3rd level fighters). AC 4 [15]. Equipped as guards.
-* **Guard captain**: Guards are led by a 5th level fighter. AC 4 [15]. Equipped as guards.
-* **Pack animals**: 1d12 extra horses, mules, or camels.
-* **Treasure**: Should be reduced, if less than 10 merchants are in the group.
+* **Armas**: Espadas e adagas.
+* **Montaria**: A cavalo, camelo ou mula (por terreno).
+* **Vagões**: 2 por comerciante. Puxado por cavalos, mulas ou camelos (por terreno).
+* **Guardas de caravana**: Para cada comerciante, 4 guardas estão presentes (guerreiros de 1º nível). AC 4 [15], com bestas, espadas, adagas.
+* ** Tenentes da Guarda: **: Para cada 5 comerciantes, 2 tenentes estão presentes (guerreiros de 2º a 3º níveis). CA 4 [15]. Equipados como guardas.
+* ** Capitão da Guarda: **: Os guardas são liderados por um lutador de 5º nível. CA 4 [15]. Equipado como guardas.
+* **Animais de carga**: 1d12 cavalos, mulas ou camelos extras.
+* **Tesouro**: Deve ser reduzido, se menos de 10 comerciantes estiverem no grupo.
 
 # Minotauro
-_Large, brutish, bull-headed men with a craving for human flesh. Dwell in mazes and labyrinths._
-
+_ Homens grandes, brutais e com cabeça de touro com desejo por carne humana. Habitam em calabouços e labirintos._
 **Classe de Armadura**: 6 [13]
-
 **Dados de Vida**: 6 (27pv)
-
-**Ataques**: [1 × gore (1d6), 1 × mordida] or 1 × arma (1d6 + 2 ou por arma + 2)
-
+**Ataques**: [1 × ataque em fúria (1d6), 1 × mordida] ou 1 × arma (1d6 + 2 ou por arma + 2)
 **TAC0**: 14 [+5]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M10 V11 P12 S13 F14 (6)
-
 **Moral**:  12
-
 **Tendência**: Caótico
-
 **XP**: 275
-
 **Número Encontrado**: 1d6 (1d8)
-
 **Tesouro**: C
-
-* **Weapons**: Prefer axes, clubs, or spears.
-* **Aggressive**: Attack same size or smaller creatures on sight. Pursue until the victims are out of sight.
+* **Armas**: Prefere machados, clavas ou lanças.
+* **Agressivo**: Ataca criaturas do mesmo tamanho ou menores à vista. Persegue até que as vítimas estejam fora de vista.
 
 # Monstro da Ferrugem
-_Magical, armadillo-like creatures with long tails and two long, antennae-like feelers. Feed on rusted metal._
-
+_ Criaturas mágicas semelhantes a tatus com caudas longas e duas antenas longas parecidas com tentáculos. Alimenta-se de metal enferrujado._
 **Classe de Armadura**: 2 [17]
-
 **Dados de Vida**: 5 (22pv)
-
-**Ataques**: 1 × feeler (rusting)
-
+**Ataques**: 1 × antena (ferrugem)
 **TAC0**: 15 [+4]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (3)
-
 **Moral**:  7
-
 **Tendência**: Neutro
-
 **XP**: 175
-
 **Número Encontrado**: 1d4 (1d4)
-
 **Tesouro**: Nenhum
-
-* **Rusting**: Metal that touches a rust monster (e.g. weapons that hit it, or armour struck by a feeler) crumbles instantly to rust. Magic items have a 10% chance per “plus”, to be unaffected on each successful hit. Each time a magic item is affected, it loses one “plus”.
-* **Smell metal**: Attracted by the scent.
+* **Ferrugem**: O metal que toca um monstro de ferrugem (por exemplo, armas que o atingem ou armaduras atingidas por uma antena) se desintegra instantaneamente em ferrugem. Itens mágicos têm 10% de chance por “mais”, de não serem afetados em cada acerto bem-sucedido. Cada vez que um item mágico é afetado, ele perde um “mais”.
+* **Cheiro de metal**: É atraído pelo odor do metal.
 
 # Morcego
 
-## Giant Bat
-_Carnivorous bats that may attack adventurers, if hungry. 1-in-20 groups of giant bats are vampiric (see Giant Vampire Bat)._
-
+## Morcego Gigante
+_ Morcegos carnívoros que podem atacar aventureiros, se estiverem com fome. 1 em cada 20 grupos de morcegos gigantes são vampíricos (veja Morcego Vampiro Gigante). _
 **Classe de Armadura**: 6 [13]
-
 **Dados de Vida**: 2 (9pv)
-
 **Ataques**: 1 × mordida(1d4)
-
 **TAC0**: 18 [+1]
-
-**Movimento**: 9m (3m) /54m (18m) flying
-
+**Movimento**: 9m (3m) /54m (18m) voando
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
-
 **Moral**:  8
-
 **Tendência**: Neutro
-
 **XP**: 20
-
 **Número Encontrado**: 1d10 (1d10)
-
 **Tesouro**: Nenhum
+* ** Ecolocalização **: Não é afetado por efeitos que prejudiquem, modifiquem ou dependam da visão. Cego pelo silêncio mágico.
 
-* **Echolocation**: Unaffected by effects that impair, modify, or rely on sight. Blinded by magical silence.
+## Morcego Vampiro Gigante
+**Classe de Armadura**: 6 [13]
+**Dados de Vida**: 2 (9pv)
+**Ataques**: 1 × mordida(1d4 + inconsciência)
+**TAC0**: 18 [+1]
+**Movimento**: 9m (3m) /54m (18m) voando
+**Testes de Resistência**: M12 V13 P14 S15 F16 (1)
+**Moral**:  8
+**Tendência**: Neutro
+**XP**: 20
+**Número Encontrado**: 1d10 (1d10)
+**Tesouro**: Nenhum
+* ** Ecolocalização **: Não é afetado por efeitos que prejudiquem, modifiquem ou dependam da visão. Cego pelo silêncio mágico.
+* ** Inconsciência **: Por 1d10 rodadas (resistência contra paralisia).
+* ** Drenagem de Sangue **: Um morcego vampiro pode drenar sangue de uma vítima inconsciente: 1d4 pontos de vida de dano automático por rodada. Uma vítima morta por drenagem de sangue torna-se um morto-vivo (possivelmente um vampiro) após 24 horas (resistência contra feitiços).
+
+## Morcego Normal
+**Classe de Armadura**: 6 [13]
+**Dados de Vida**: 1 v
+**Ataques**: 1 × enxame (confusão)
+**TAC0**: 20 [-1]
+**Movimento**: 2,7m (0,9m) /36m (12m) voando
+**Testes de Resistência**: M14 V15 P16 S17 F18 (HN)
+**Moral**:  6
+**Tendência**: Neutro
+**XP**: 5
+**Número Encontrado**: 1d100 (1d100)
+**Tesouro**: Nenhum
+* ** Ecolocalização **: Não é afetado por efeitos que prejudiquem, modifiquem ou dependam da visão. Cego pelo silêncio mágico.
+* ** Enxame **: 10 morcegos podem enxamear ao redor da cabeça de um alvo, causando confusão: -2 para jogadas de ataque e salvamentos; incapaz de lançar feitiços.
+* ** Ataques **: Como humano normal.
+* ** Voador **: A menos que seja magicamente invocado ou controlado, os morcegos normais verificam o moral a cada rodada.
 
 # Mosca Salteadora
-_1m long, carnivorous flies with yellow and black stripes. Look similar to killer bees, which they hunt. May attack humans._
-
+_Moscas carnívoras de 1m de comprimento com listras amarelas e pretas. Parecem-se com as abelhas assassinas, que caçam. Pode atacar humanos._
 **Classe de Armadura**: 6 [13]
-
 **Dados de Vida**: 2 (9pv)
-
 **Ataques**: 1 × mordida (1d8)
-
 **TAC0**: 18 [+1]
-
-**Movimento**: 27m (9m) / 54m (18m) flying
-
+**Movimento**: 27m (9m) / 54m (18m) voando
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
-
 **Moral**:  8
-
 **Tendência**: Neutro
-
 **XP**: 20
-
 **Número Encontrado**: 1d6 (2d6)
-
 **Tesouro**: U
-
-* **Surprise**: Hunt patiently. Surprise on a 1–4, when waiting in shadows for prey.
-* **Poison immunity**: Unharmed by killer bees’ poison.
-* **Leap**: Can leap up to 9m and attack.
+* **Surpresa**: Caça pacientemente. Surpreenda com 1-4, ao esperar nas sombras por uma presa.
+* **Imunidade ao veneno**: Imune pelo veneno das abelhas assassinas.
+* **Salto**: Pode saltar até 9m e atacar.
 
 # Muco Esverdeado
-_Dripping, green slime that clings to walls and ceilings._
-
-**Classe de Armadura**: No hit roll required
-
+_Lodo verde gotejante que se agarra às paredes e tetos._
+**Classe de Armadura**: Nenhuma jogada de acerto necessária
 **Dados de Vida**: 2* (9pv)
-
-**Ataques**: 1 × touch (consume flesh)
-
+**Ataques**: 1 × toque (consome carne)
 **TAC0**: 18 [+1]
-
 **Movimento**: 1m (30cm)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
-
 **Moral**:  12
-
 **Tendência**: Neutro
-
 **XP**: 25
-
 **Número Encontrado**: 1 (0)
-
 **Tesouro**: Nenhum
-
-* **Surprise**: Drops down on surprised characters from above.
-* **Acid**: When in contact with a victim, sticks on and exudes acid. The acid destroys wood or metal (including armour) in 6 rounds, but cannot affect stone.
-* **Consume flesh**: Once in contact with flesh for 6 rounds, the victim is turned into green slime in a further 1d4 rounds.
-* **Removing**: Once stuck on a victim, can only be removed by fire. This inflicts half damage to the victim and half to the slime.
-* **Immunity**: Unharmed by all attacks except cold or fire.
+* ** Surpresa **: Cai em personagens surpresos de cima.
+* **Ácido**: Quando em contato com a vítima, gruda e exala ácido. O ácido destrói madeira ou metal (incluindo armaduras) em 6 rodadas, mas não pode afetar pedra.
+* **Consumir carne**: Uma vez em contato com a carne por 6 rodadas, a vítima é transformada em gosma verde em mais 1d4 rodadas.
+* **Remoção**: Uma vez preso em uma vítima, só pode ser removido pelo fogo. Isso inflige metade do dano à vítima e metade ao muco.
+* ** Imunidade**: Imune por todos os ataques exceto frio ou fogo.
 
 # Mula
-_Stubborn horse/donkey cross-breeds used as beasts of burden._
-
+_ Mestiços teimosos de cavalos/jumentos usados como animais de carga._
 **Classe de Armadura**: 7 [12]
-
 **Dados de Vida**: 2 (9pv)
-
-**Ataques**: 1 × kick (1d4) or 1 × mordida (1d3)
-
+**Ataques**: 1 × coice (1d4) ou 1 × mordida (1d3)
 **TAC0**: 18 [+1]
-
 **Movimento**: 36m (12m)
-
-**Testes de Resistência**: M14 V15 P16 S17 F18 (NH)
-
+**Testes de Resistência**: M14 V15 P16 S17 F18 (HN)
 **Moral**:  8
-
 **Tendência**: Neutro
-
 **XP**: 20
-
 **Número Encontrado**: 1d8 (2d6)
-
 **Tesouro**: Nenhum
-
-* **Tenacious**: Can be taken underground, if the referee allows it.
-* **Defensive**: May attack if threatened, but cannot be trained to attack on command.
-* **Beast of burden**: Carry up to 2,000 coins unencumbered; up to 4,000 at half speed.
+* **Persistente**: Pode ser levado para o subsolo, se o árbitro permitir.
+* **Defensivo**: Pode atacar se ameaçado, mas não pode ser treinado para atacar sob comando.
+* **Besta de carga**: Carregue até 2.000 moedas sem ônus; até 4.000 a meia velocidade.
 
 # Múmia
-_Undead humanoids wrapped in funerary bandages. Haunt ruins and tombs._
-
+_ Humanoides mortos-vivos envoltos em bandagens funerárias. Assombram ruínas e túmulos._
 **Classe de Armadura**: 3 [16]
-
 **Dados de Vida**: 5+1* (23pv)
-
-**Ataques**: 1 × touch (1d12 + disease)
-
+**Ataques**: 1 × toque (1d12 + doença)
 **TAC0**: 14 [+5]
-
 **Movimento**: 18m (6m)
-
 **Testes de Resistência**: M10 V11 P12 S13 F14 (5)
-
 **Moral**:  12
-
 **Tendência**: Caótico
-
 **XP**: 400
-
 **Número Encontrado**: 1d4 (1d12)
-
 **Tesouro**: D
-
-* **Paralyse with terror**: Anyone seeing a mummy must save versus paralysis or be paralysed with terror. Paralysis is broken if the mummy attacks or goes out of sight.
-* **Disease**: Anyone hit contracts a horrible rotting disease. Magical healing is ineffective; natural healing is ten times slower. The disease can only be removed by magic.
-* **Damage immunity**: Only harmed by fire or magic. All damage reduced by half.
-* **Undead**: Make no noise, until they attack. Immune to effects that affect living creatures (e.g. poison). Immune to mind-affecting or mind-reading spells (e.g. charm, hold, sleep).
+* **Paralisar de terror **: Qualquer um que veja uma múmia deve salvar contra paralisia ou ficar paralisado de terror. A paralisia é quebrada se a múmia atacar ou desaparecer. 
+* **Doença **: Qualquer pessoa atingida contrai uma terrível doença de podridão. A cura mágica é ineficaz; a cura natural é dez vezes mais lenta. A doença só pode ser removida por magia.
+* ** Imunidade a danos **: Apenas ferido por fogo ou magia. Todo o dano é reduzido pela metade.
+* ** Mortos-vivos **: Não fazem barulho, até que eles ataquem. Imune a efeitos que afetam criaturas vivas (por exemplo, veneno). Imune a feitiços que afetam a mente ou que leem a mente (por exemplo, enfeitiçar, imobilizar, sono).
 
 # Musaranho Gigante
-_Brown-furred, mole-like, insectivores with long snouts. Dwell underground; skilled burrowers._
-
+_Insetívoros de pelagem marrom, semelhantes a toupeiras, com focinhos longos. Habitam no subsolo; escavadores habilidosos._
 **Classe de Armadura**: 4 [15]
-
 **Dados de Vida**: 1 (4pv)
-
 **Ataques**: 2 × mordidas (1d6)
-
 **TAC0**: 19 [0]
-
 **Movimento**: 54m (18m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
-
 **Moral**:  10
-
 **Tendência**: Neutro
-
 **XP**: 10
-
 **Número Encontrado**: 1d4 (1d8)
-
 **Tesouro**: Nenhum
-
-* **Initiative**: Always win initiative in the round of their first attack. +1 to initiative in the round of their second attack.
-* **Ferocity**: Attack targets’ heads. Targets with 3 HD or less must save versus death or flee.
-* **Climbing**: Skilled climbers; can jump up to 5’.
-* **Territorial**: Ferociously defend their hunting area from all intruders.
-* **Echolocation**: Perceive their surroundings up to 18m. Unaffected by lack of light. If unable to hear (e.g. silence, 15’ radius): AC reduced to 8 [11], –4 penalty to attacks.
+* ** Iniciativa **: Sempre ganha a iniciativa na rodada de seu primeiro ataque. +1 na iniciativa na rodada de seu segundo ataque.
+* ** Ferocidade **: Atacam a cabeça dos alvos. Alvos com 3 DV ou menos devem salvar contra a morte ou fugir. 
+* ** Escalada **: Alpinistas habilidosos; pode saltar até 1,5m. 
+* ** Territorial **: Defenda ferozmente sua área de caça de todos os intrusos.
+* ** Ecolocalização **: Perceba seus arredores até 18m. Não afetado pela falta de luz. Se incapaz de ouvir (por exemplo, silêncio): CA reduzida para 8 [11], penalidade de -4 nos ataques.
 
 # Neandertal (Homem das Cavernas)
-_Squat, powerful, primitive demihumans with ape-like faces. Dwell in caverns and hunt cave bears. Shy of contact with humans (with whom they are related), but friendly with dwarves and gnomes._
-
+_Demi-humanos atarracados, poderosos e primitivos com rostos de macaco. Vivem em cavernas e caçam ursos das cavernas. Tímidos ao contato com humanos (com quem se relacionam), mas amigável com anões e gnomos._
 **Classe de Armadura**: 8 [11]
-
 **Dados de Vida**: 2 (9pv)
-
 **Ataques**: 1 × arma (2d4 ou por arma + 1)
-
 **TAC0**: 18 [+1]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (2)
-
 **Moral**:  7
-
 **Tendência**: Leal
-
 **XP**: 20
-
 **Número Encontrado**: 1d10 (1d4 × 10)
-
 **Tesouro**: C
-
-* **Weapons**: Prefer stone axes, stone hammers, clubs, or spears.
-* **Leaders**: Two 6HD leaders (one male, one female) live in the neanderthal lair. They are 3m tall and of a related but distinct race.
-* **Racial animosity**: Attack ogres on sight. Hate goblins and kobolds.
-* **Pets**: Sometimes keep white apes as pets (see Ape, White).
+* **Armas**: Preferem machados de pedra, martelos de pedra, porretes ou lanças.
+* **Líderes**: Dois líderes 6HD (um homem e uma mulher) vivem no covil neandertal. Eles têm 3m de altura e são de uma raça relacionada, mas distinta.
+* **Animosidade racial**: Ataque ogros à vista. Odeia goblins e kobolds.
+* ** Animais de estimação **: Às vezes, gorilas brancos são encontrados como animais de estimação (veja Gorila Branco).
 
 # Nixie
-_1m tall sprites that appear as attractive women with blueish, greenish, or greyish skin. Lair in the deepest parts of rivers and lakes._
-
+_ Duendes de 1m de altura que aparecem como mulheres atraentes com pele azulada, esverdeada ou acinzentada. Seu covil fica nas partes mais profundas de rios e lagos._
 **Classe de Armadura**: 7 [12]
-
 **Dados de Vida**: 1 (4pv)
-
-**Ataques**: 1 × arma (1d4) or 1 × group spell (charm)
-
+**Ataques**: 1 × arma (1d4) ou 1 × feitiço de grupo (enfeitiçar)
 **TAC0**: 19 [0]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M12 V13 P13 S15 F15 (E1)
-
 **Moral**:  6
-
 **Tendência**: Neutro
-
 **XP**: 10
-
 **Número Encontrado**: 0 (2d20)
-
 **Tesouro**: B
-
-* **Shy**: Will try to charm intruders, rather than entering combat.
-* **Weapons**: Daggers and small tridents (as spears).
-* **Charm**: 10 nixies together can cast a charm to enchant a victim to serve them for one year. Save versus spells or be charmed: move towards the nixies (resisting those who try to prevent it); defend the nixies; obey the nixies’ commands (if understood); unable to cast spells or use magic items; unable to harm the nixies. Killing the nixies breaks the charm.
-* **Summon giant bass**: Each nixie can summon one fish to aid in combat (Giant Bass).
-* **Bestow water breathing**: Can cast upon charmed slaves. Lasts for one day, then must be refreshed.
+* **Reservado**: Tentará encantar intrusos, em vez de entrar em combate.
+* **Armas**: Adagas e pequenos tridentes (como lanças).
+* **Enfeitiçar**: 10 nixies juntos podem lançar um feitiço para encantar uma vítima para servi-los por um ano. Salve contra feitiços ou seja enfeitiçado: mova-se em direção aos nixies (resistindo àqueles que tentam impedi-lo); deve defender os nixies; obedecer aos comandos dos nixies (se compreendidos); incapaz de lançar feitiços ou usar itens mágicos; incapaz de prejudicar os nixies. Matar os nixies quebra o charme.
+* **Convocar robalo gigante**: Cada Nixie pode convocar um peixe para ajudar no combate (Robalo Gigante).
+* ** Concede respiração aquática**: Pode ser lançado em escravos enfeitiçados. Dura um dia, depois deve ser atualizado.
 
 # Nobre
-_Powerful humans with noble titles (e.g. Count, Duke, Knight, etc.). Dwell in castles._
-
+_ Humanos poderosos com títulos nobres (por exemplo, Conde, Duque, Cavaleiro, etc.). Vivem em castelos._
 **Classe de Armadura**: 2 [17]
-
 **Dados de Vida**: 3 (13pv)
-
 **Ataques**: 1 × arma (1d8 ou por arma)
-
 **TAC0**: 17 [+2]
-
 **Movimento**: 18m (6m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (3)
-
 **Moral**:  8
-
-**Tendência**: Any
-
+**Tendência**: Qualquer
 **XP**: 35
-
 **Número Encontrado**: 2d6 (2d6)
-
 **Tesouro**: V × 3
-
-* **Class**: Usually treated as 3rd level fighters, but may be of any class and level.
-* *Squire and retainers*: Accompanied by a 2nd level fighter (a squire) and up to ten 1st level fighters (retainers).
+* **Classe**: Geralmente tratados como guerreiros de 3º nível, mas podem ser de qualquer classe e nível.
+* ** Escudeiro e lacaios **: Acompanhados por um guerreiro de 2º nível (um escudeiro) e até dez guerreiros de 1º nível (lacaios).
 
 # Nômade
-_Superstitious tribes who wander steppes and desert regions, living in tents or temporary huts. Demeanour depends on the tribe: some are warlike, others peaceful._
-
-**Classe de Armadura**: 7 [12] to 4
-
+_ Tribos supersticiosas que vagam pelas estepes e regiões desérticas, vivendo em tendas ou cabanas temporárias. O comportamento depende da tribo: alguns são guerreiros, outros pacíficos._
+**Classe de Armadura**: 7 [12] até 4 [15]
 **Dados de Vida**: 1 (4pv)
-
 **Ataques**: 1 × arma (1d6 ou por arma)
-
 **TAC0**: 19 [0]
-
 **Movimento**: 36m (12m)
-
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
-
 **Moral**:  8
-
-**Tendência**: Any
-
+**Tendência**: Qualquer
 **XP**: 10
-
 **Número Encontrado**: 0 (1d4 × 10)
-
 **Tesouro**: A
-
-* **Mounted**: On riding horses or (in the desert) on camels.
-* **Arms (desert)**: 50% of group have: leather armour, shield, lance; 30% have: chainmail, shield, lance; 20% have: leather armour, shortbow.
-* **Arms (steppes)**: 50% of group have: leather armour, shortbow; 20% have: leather armour, shield, lance; 20% have: chainmail, shortbow; 10% have: chainmail, shield, lance, and may be mounted on a war horse.
-* **Leaders**: For every 25 nomads, there is a 2nd level fighter. For every 40 nomads, there is a 4th level fighter.
-* **Camps**: Hunting / foraging groups commonly combine and live in a tribe of up to 300 nomad warriors.
-* **Camp leaders**: Tribal chief (8th level fighter), plus a 5th level fighter for every 100 nomads. 50% chance of a cleric (9th level); 25% chance of a magic-user (8th level).
-* **Hoard**: Only have treasure type A in the camp.
-* **Traders**: Often carry trade route tales of faraway lands.
+* ** Montado **: Em cavalos ou (no deserto) em camelos. 
+* ** Armas (deserto) **: 50% do grupo possui: armadura de couro, escudo, lança; 30% possuem: cota de malha, escudo, lança; 20% têm: armadura de couro, arco curto. 
+* ** Armas (estepes) **: 50% do grupo possui: armadura de couro, arco curto; 20% possuem: armadura de couro, escudo, lança; 20% possuem: cota de malha, arco curto; 10% têm: cota de malha, escudo, lança e pode estar montado em um cavalo de guerra. 
+* ** Líderes **: Para cada 25 nômades, há um guerreiro de 2º nível. Para cada 40 nômades, há um guerreiro de 4º nível. 
+* ** Acampamentos **: Grupos de caça / forrageamento geralmente se combinam e vivem em uma tribo de até 300 guerreiros nômades. 
+* ** Líderes do acampamento **: chefe tribal (guerreiro de 8º nível), mais um guerreiro de 5º nível para cada 100 nômades. 50% de chance de um clérigo (9º nível); 25% de chance de um usuário de magia (8º nível). 
+* ** Tesouro **: Só tenha tesouro tipo A no acampamento. 
+* **Comerciantes **: Muitas vezes carregam histórias de rotas comerciais de terras distantes.
