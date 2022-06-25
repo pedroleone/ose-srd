@@ -1,3 +1,9 @@
+---
+title: "Lista Monstros L-N"
+metaTitle: "Lista Monstros L-N"
+metaDescription: "Monstros > Lista Monstros L-N"
+---
+
 # Lagarto Gigante
 ## Draco
 _Lagartos carnívoros de 1,80m de comprimento com membranas de pele entre as pernas que permitem planar no ar. Geralmente habitam acima do solo, mas às vezes se abrigam em cavernas. Às vezes atacam humanos._
