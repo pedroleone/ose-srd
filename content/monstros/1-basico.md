@@ -35,11 +35,11 @@ Valores de Teste de Resistência (VTR)
 
 Os valores de Teste de Resistência do monstro:
 
-* **D**: Morte/Veneno.
-* **W**: Varinhas.
+* **M**: Morte/Veneno.
+* **V**: Varinhas.
 * **P**: Paralisia/petrificação.
 * **B**: Ataques de Baforada.
-* **S**: Magias/Bastões/Cajados.
+* **F**: Feitiços/Bastões/Cajados.
 
 **Teste de Resistência como DV**: O DV que o monstro usa está listado entre parênteses (com um HN indicando que ele faz o teste de resistência como um humano normal). Esse valor nem sempre vai ser igual à classificação de DV do monstro — monstros não-inteligentes tipicamente fazem o teste de resistência com metade da classificação de DV deles; monstros mágicos podem fazer o teste de resistência com valores maiores de classificação de DV.
 
