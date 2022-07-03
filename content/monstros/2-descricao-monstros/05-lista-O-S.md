@@ -1,11 +1,11 @@
 ---
-title: "Lista Monstros O-S ❌"
+title: "Lista Monstros O-S"
 metaTitle: "Lista Monstros O-S"
 metaDescription: "Monstros > Lista Monstros O-S"
 ---
 
 # Ogro
-_Frightful humanoids, 8–3m tall, dressed in animal hides. Often dwell in caves._
+_Humanóide assustador, 3 a 8 metros de altura, vestido em couro de bicho. Costuma habitar cavernas._
 
 **Classe de Armadura**: 5 [14]
 
@@ -29,11 +29,11 @@ _Frightful humanoids, 8–3m tall, dressed in animal hides. Often dwell in caves
 
 **Tesouro**: C + 1
 
-* **Sack**: Outside of the lair, carry a sack containing 1d6 × 100gp.
-* **Hate neanderthals**: Attack on sight.
+* **Saca**: Fora do covil, carrega uma saca contendo 1d6 × 100po.
+* **Odeia neanderthals**: Ataca imediatamente.
 
 # Orc
-_Ugly, bad-tempered, animalistic humanoids who live underground and are active at night. Sadistic bullies who hate other living creatures and delight in killing._
+_ Humanóides feios,animalescos e mal-humorados que vivem no subterrâneo e saem a noite. São valentões sádicos que odeiam criaturas vivas e amam matar._
 
 **Classe de Armadura**: 6 [13]
 
@@ -47,7 +47,7 @@ _Ugly, bad-tempered, animalistic humanoids who live underground and are active a
 
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
 
-**Moral**:  6 (8 with leader)
+**Moral**:  6 (8 com líder)
 
 **Tendência**: Caótico
 
@@ -57,17 +57,17 @@ _Ugly, bad-tempered, animalistic humanoids who live underground and are active a
 
 **Tesouro**: D
 
-* **Hate the sun**: –1 to-hit in full daylight.
-* **Weapons**: Prefer axes, clubs, spears, or swords. Only leaders can use mechanical weapons (e.g. crossbows, catapults).
-* **Craven**: Afraid of larger or stronger-looking creatures, though leaders may force them to fight.
-* **Leader**: Groups are led by an orc with 8 hit points. The leader gains a +1 bonus to damage rolls. Leaders have defeated other orcs in combat to gain their position.
-* **Orc chieftain**: A 4HD (15pv) chieftain rules an orc tribe. The chieftain gains a +2 bonus to damage rolls.
-* **Giant companions**: For every 20 orcs, there is a 1-in-6 chance of an ogre accompanying them. There is a 1-in-10 chance of a troll living in the lair.
-* **Tribal**: Orcs of different tribes may fight among themselves, unless their leaders command them not to. Each tribe has its own lair and has as many females as males, and two whelps per two adults.
-* **Mercenaries**: Orcs may be hired to fight in Caótico armies. They delight in wanton killing and razing of settlements.
+* **Ódio ao Sol**: =1 para acertar em plena luz do dia.
+* **Armas**: Prefere machados, porretes, lanças ou espadas. Só líderes podem usar armas mecânicas (ex: besta, catapultas). 
+* **Covarde**: Teme criaturas grandes e que aparentam ser mais fortes. Líderes pode forçá-lo a lutar. 
+* **Líder**: Grupos são liderados por um orc com 8 hit points. O líder ganha +1 bônus para rolagens de dano. Líderes tiveram de derrotar outros orcs em combate para alcançar essa posição. 
+* **Chefe Orc**: Um chefe de 4HD (15pv) governa a tribo orc. O chefe ganha +2 bônus em rolagens de dano.
+* **Companheiro Gigante **: Para cada 20 orcs, há 1-em-6 chances de ter um Ogro os acompanhando. Há 1-em-6 chances de um Troll estar vivendo no covil. 
+* **Tribal**: Orcs de tribos diferentes podem lutar entre si a não ser que o líder os impeça. Cada tribo tem seu próprio covil povoado tanto por fêmeas quanto machos e com dois filhotes a cada dois adultos.
+* **Mercenários**:Orcs podem ser contratados para lutar em exércitos Caóticos. Eles se deleitam com matança desenfreada e a destruição de assentamentos.
 
 # Pantera Deslocadora
-_Large, black, six-legged, semi-intelligent monsters. Look similar to panthers with a tentacle growing from each front shoulder. Tentacles ridged with razor-sharp edges._
+_ Monstros grandes, pretos, de seis patas e semi inteligentes. Semelhantes a panteras com tentáculos sulcados de pontas afiadas crescendo em cada ombro dianteiro._
 
 **Classe de Armadura**: 4 [15]
 
@@ -91,17 +91,18 @@ _Large, black, six-legged, semi-intelligent monsters. Look similar to panthers w
 
 **Tesouro**: D
 
-* **Displacement**: Appear 1m from actual location: attackers suffer –2 to hit.
-* **Save bonus**: +2 to all saves.
-* **Hate blink dogs**: Always attack them and their companions.
+* **Deslocamento**: Surge 1m de distância da posição atual. Atacantes sofrem -2 para acertar. 
+* **Bônus Salvaguarda**: +2 em todas salvaguardas.
+* **Odeia cachorros piscantes**: Sempre ataca eles e seus companheiros
+
 
 # Roca
-_Gigantic birds of prey that nest in the highest peaks of isolated mountain ranges. Will attack intruders, if approached carelessly._
+_Aves de rapina gigantescas com ninhos nos picos mais altos de serras isoladas. Ataca intrusos se abordado sem cuidado._
 
-* **Alignment reaction**: –1 to reaction rolls versus Neutro characters; –2 versus Caótico characters.
-* **Swoop**: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
-* **Eggs**: 1d6 eggs or chicks in 50% of nests.
-* **Trainable**: Can be trained, if captured when young.
+* **Reação de alinhamento**: –1 nas rolagens de reação contra personagens Neutro; -2 contra personagens Caóticos.
+* **Mergulho**: Pode mergulhar nas vítimas visíveis. Se a vítima for surpreendida, o ataque inflige o dobro de dano. Numa rolagem de ataque de 18 ou mais, a vítima pode ser levada para longe (se tiver tamanho apropriado).
+* **Ovos**: 1d6 ovos ou pintinhos em 50% dos ninhos.
+* **Treinável**: Pode ser treinada se capturada quando jovem.
 
 ## Roca Gigante
 
@@ -113,11 +114,11 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 **TAC0**: 5 [+14]
 
-**Movimento**: 18m (6m) / 424m (118m) flying
+**Movimento**: 18m (6m) / 424m (118m) voando
 
 **Testes de Resistência**: M2 V3 P4 S3 F6 (18)
 
-**Moral**:  10 (12 in lair)
+**Moral**:  10 (12 no Covil)
 
 **Tendência**: Leal
 
@@ -127,7 +128,7 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 **Tesouro**: I
 
-* **Alignment reaction**; **Swoop**: See main entry.
+* **Reação de Alinhamento**; **Mergulho**: Ver o principal.
 
 ## Roca Grande
 
@@ -139,11 +140,11 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 **TAC0**: 10 [+9]
 
-**Movimento**: 18m (6m) / 424m (118m) flying
+**Movimento**: 18m (6m) / 424m (118m) voando.
 
 **Testes de Resistência**: M10 V11 P12 S13 F14 (6)
 
-**Moral**:  9 (12 in lair)
+**Moral**:  9 (12 no Covil)
 
 **Tendência**: Leal
 
@@ -153,8 +154,9 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 **Tesouro**: I
 
-* **Alignment reaction**: –1 to reaction rolls versus Neutro characters; –2 versus Caótico characters.
-* **Swoop**: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
+* **Reação de Alinhamento**: –1 para rolagens de reação contra personagens Neutro; -2 contra personagens Caóticos.
+* **Mergulho**: Pode mergulhar nas vítimas visíveis. Se a vítima for surpreendida, o ataque inflige o dobro de dano. Numa rolagem de ataque de 18 ou mais, a vítima pode ser levada para longe (se tiver tamanho apropriado).
+
 
 ## Roca Pequena
 
@@ -166,11 +168,11 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 **TAC0**: 14 [+5]
 
-**Movimento**: 18m (6m) / 424m (118m) flying
+**Movimento**: 18m (6m) / 424m (118m) voando
 
 **Testes de Resistência**: M12 V13 P14 S15 F16 (3)
 
-**Moral**:  8 (12 in lair)
+**Moral**:  8 (12 no Covil)
 
 **Tendência**: Leal
 
@@ -180,21 +182,21 @@ _Gigantic birds of prey that nest in the highest peaks of isolated mountain rang
 
 **Tesouro**: I
 
-* **Alignment reaction**: –1 to reaction rolls versus Neutro characters; –2 versus Caótico characters.
-* **Swoop**: Can dive onto victims visible from above. If the victim is surprised, the attack inflicts double damage. On an attack roll of 18 or more, the victim can be carried away (if of appropriate size).
+* **Reação de Alinhamento**: –1 para rolagens de reação contra personagens Neutro; -2 contra personagens Caóticos.
+* **Mergulho**: Pode mergulhar nas vítimas visíveis. Se a vítima for surpreendida, o ataque inflige o dobro de dano. Numa rolagem de ataque de 18 ou mais, a vítima pode ser levada para longe (se tiver tamanho apropriado).
 
 # Pégaso
-_Semi-intelligent winged horses that are wilful and timid._
+_Cavalos alados semi-inteligentes, tímidos resolutos._
 
 **Classe de Armadura**: 6 [13]
 
 **Dados de Vida**: 2+2 (11pv)
 
-**Ataques**: 2 × hoof (1d6)
+**Ataques**: 2 × casco (1d6)
 
 **TAC0**: 17 [+2]
 
-**Movimento**: 212m (24m) / 424m (118m) flying
+**Movimento**: 212m (24m) / 424m (118m) voando
 
 **Testes de Resistência**: M12 V13 P14 S15 F16 (2)
 
@@ -208,14 +210,15 @@ _Semi-intelligent winged horses that are wilful and timid._
 
 **Tesouro**: Nenhum
 
-* **Hate hippogriffs**: Natural enemies.
-* **Mount**: Can carry a human-sized rider.
-* **Training**: If captured when young, will serve Leal characters.
+* **Odeia hipogrifos**: Inimigos naturais.
+* **Montaria**: Pode carregar um cavaleiro de tamanho humano.
+* **Treinado**: Se capturado quando jovem severirá personagens Leais.
+
 
 # Peixe Gigante
 
 ## Perca Gigante
-_Shy; only attack when seeing a bite-size (halfling-size or smaller) morsel close by._
+_Tímido, só ataca quando pode abocanhar por inteiro (tamanho de Pequenino ou menor)._
 
 **Classe de Armadura**: 7 [12]
 
@@ -240,13 +243,13 @@ _Shy; only attack when seeing a bite-size (halfling-size or smaller) morsel clos
 **Tesouro**: Nenhum(1)
 
 ## Peixe-gato Gigante
-_15’ long, pale white. Four feelers beside the mouth. Lurk in the mud at the bottom of rivers and lakes. Will attack creatures on the bottom or swimming above._
+_ Quatro metros de comprimento, pálido, com quatro antenas ao lado da boca. Espreita na lama do fundo de rios e lagos. Atacara criaturas no fundo d'água ou nadando acima._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 8+3 (39pv)
 
-**Ataques**: Att 1 × mordida (2d8), 4 × feeler (1d4)
+**Ataques**: Att 1 × mordida (2d8), 4 × antenas(1d4)
 
 **TAC0**: 12 [+7]
 
@@ -265,7 +268,7 @@ _15’ long, pale white. Four feelers beside the mouth. Lurk in the mud at the b
 **Tesouro**: Nenhum
 
 ## Piranha Gigante
-_5’ long piranhas with black and green scales. Live in rivers (occasionally lakes) and attack anything in the water._
+_Piranhas de 1 metro e meio com escamas verdes e rpetas. Vive em rios (ocasionalmente em lagos) e atacam qualquer coisa dentro d'água._
 
 **Classe de Armadura**: 6 [13]
 
@@ -289,17 +292,18 @@ _5’ long piranhas with black and green scales. Live in rivers (occasionally la
 
 **Tesouro**: Nenhum
 
-* **Surround opponents**: A target can be attacked by up to 8 giant piranhas.
-* **Morale**: When blood is in the water, do not check morale.
+* **Cerca oponentes**: O alvo pode ser atacado por até 8 piranhas gigantes.
+* **Moral**:Quando há sangue na água, não role teste de Moral.
+
 
 ## Peixe-pedra Gigante
-_Spiny fish with lumpy, rock-like skin. Live in saltwater shallows. Normally passive, but highly aggressive if disturbed._
+_Peixe espinhoso com pele de aspecto rochoso. Vive nos alagados de água salgada. Normalmente passivo mas altamente agressivo se perturbado._
 
 **Classe de Armadura**: 7 [12]
 
 **Dados de Vida**: 5+5* (27pv)
 
-**Ataques**: 4 × spine (1d4 + poison)
+**Ataques**: 4 × espinho (1d4 + veneno)
 
 **TAC0**: 14 [+5]
 
@@ -317,12 +321,12 @@ _Spiny fish with lumpy, rock-like skin. Live in saltwater shallows. Normally pas
 
 **Tesouro**: Nenhum
 
-* **Camouflage**: 70% chance of being mistaken for a rock or coral formation.
-* **Grasping**: If mistaken for a rock and grasped, all 4 spines automatically hit.
-* **Poison**: Causes death (save vs poison).
+* **Camuflagem**: 70% de chance de ser confundido com uma pedra ou formação coral.
+* **Agarrar**: Se confundido com uma pedra, todos os 4 espinhos acertam automaticamente.
+* **Veneno**:Causa morte (salvaguarda contra Veneno) 
 
-## Esturjão Gigante
-_Huge (nearly 9m long), aggressive fish with armour plating._
+# Esturjão Gigante
+_Enorme (quase 9m de comprimento), peixe agressivo com blindagem._
 
 **Classe de Armadura**: 0 [19]
 
@@ -346,10 +350,10 @@ _Huge (nearly 9m long), aggressive fish with armour plating._
 
 **Tesouro**: Nenhum
 
-* **Swallow whole**: On an attack roll of 18 or more. Inside the fish’s belly: suffer 2d6 damage per round (until the fish dies); save versus death or be paralysed; may attack with sharp weapons at –4 to hit (inside belly has AC 7 [12]); body digested 6 turns after death.
+* **Engole inteiro**: Em uma jogada de ataque de 18 ou mais. Dentro da barriga do peixe: sofre 2d6 dano por rodada (até o peixe morrer); Salvaguarda contra Morte ou está paralisado; pode atacar com arma afiada com -4 para acertar (dentro da barriga CA 7 [12]; corpo é digerido em 6 turnos após morte.
 
 # Pirata
-_Sailors who make a living by raiding coastal settlements, robbing other ships, and illegal slaving. Typically ply the open seas. Renowned for their ruthless and evil ways._
+_Marinheiros que ganham a vida saqueando assentamentos costeiros, roubando outros navios e escravizando. Normalmente atuam em mar aberto. Reconhecidos por seus modos implacáveis e cruéis._
 
 **Classe de Armadura**: 7 [12] or 5
 
@@ -369,31 +373,32 @@ _Sailors who make a living by raiding coastal settlements, robbing other ships, 
 
 **XP**: 10
 
-**Número Encontrado**: 0 (see below)
+**Número Encontrado**: 0 (ver abaixo)
 
 **Tesouro**: A
 
-* **Ships and crew**: Depends where encountered. Rivers or lakes: 1d8 river boats (1d2 × 10 pirates each); coastal waters: 1d6 small galleys (1d3+1 × 10 pirates each); any: 1d4 longships (1d3+2 × 10 pirates each); ocean: 1d3 small warships (1d5+3 × 10 pirates each).
-* **Arms**: 50% of group have: leather armour, sword; 35% have: leather armour, sword, crossbow; 15% have: chainmail, sword.
-* **Leaders**: For every 30 pirates, there is a 4th level fighter. For every 50 pirates, and for each ship, there is a 5th level fighter. For every 100 pirates, and per fleet, there is an 8th level fighter.
-* **Fleet commander**: Fleets of 300 or more pirates are led by a pirate lord (11th level fighter). 75% chance of a magic-user (level 1d2+8).
-* **Treacherous**: Will attack other pirates, if they can profit from it.
-* **Prisoners**: 25% chance of 1d3 prisoners to be ransomed.
-* **Treasure**: Divided between vessels. Instead of carrying with them, may have a map to where it is buried.
-* **Havens**: Lawless, fortified, coastal towns may act as a haven for pirates.
+* **Navios e tripulação**: Depende de onde é encontrado. Rios e lagos: 1d8 barcos fluviais (1d2 x 10 piratas em cada); águas costeiras: 1d6 gales pequenas (1d3+1 x 10 piratas em cada); área qualquer: 1d4 navios longos (1d3+2 x 10 piratas em cada); oceano: 1d3 pequenos barcos de guerra (1d5+3 x 10 piratas em cada).
+* **Armss**: 50% do grupo tem: armadura de couro, espada; 35% do grupo tem: armadura de couro, espada, besta; 15% do grupo tem: cota de malha, espada.
+* **Líderes**: Para cada 30 piratas, há um Guerreiro de 4º nível. Para cada 50 piratas e para cada navio, há um Guerreiro de 5º nível. Para cada 100 piratas e por frota, há um Guerreiro de 8º nível.
+* **Comandate de frota**: Frotas de 300 ou mais piratas são lideradas por um lorde pirata (Guerreiro do 11º nível). 75% de chance de ter um usuário de magia (nível 1d2+8)
+* **Traiçoeiro**: Atacará outros piratas se puderem lucrar com isso.
+* **Prisioneiros**: 25% de chance de 1d3 prisioneiros para serem resgatados.
+* **Tesouro**: Dividido entre os navios. Ao invés de carregarem consigo, podem ter um mapa de onde o enterraram.
+* **Portos**: Cidades costeiras fortificadas e sem lei que servem de refúgio para piratas. 
+
 
 # Pixie
-_1–2’ tall humanoids with insectoid wings. Distant relatives of elves._
+_ Humanóides de 60 centímetros com asas de inseto. Parentes distantes dos elfos._
 
 **Classe de Armadura**: 3 [16]
 
 **Dados de Vida**: 1* (4pv)
 
-**Ataques**: 1 × dagger (1d4)
+**Ataques**: 1 × adaga(1d4)
 
 **TAC0**: 19 [0]
 
-**Movimento**: 27m (9m) / 54m (18m) flying
+**Movimento**: 27m (9m) / 54m (18m) voando
 
 **Testes de Resistência**: M12 V13 P13 S15 F15 (E1)
 
@@ -407,12 +412,12 @@ _1–2’ tall humanoids with insectoid wings. Distant relatives of elves._
 
 **Tesouro**: R + S
 
-* **Invisible**: Naturally invisible, but may choose to reveal themselves. May remain invisible when attacking: cannot be attacked in the first round; in subsequent rounds, may be attacked at –2 to hit (locatable by faint shadows and air movement).
-* **Surprise**: Always surprise, if invisible.
-* **Limited flight**: Small wings only allow 3 turns of flight. Must rest 1 turn after flying.
+* **Invisível**:Naturalmente invisível mas pode escolher se revelar. Pode permanecer invisível durante um ataque, não pode ser atacada na primeira rodada; nas rodadas seguintes pode ser atacado com -2 para acertar (localizado por sombras fracas e movimento do ar).
+* **Surpresa**: Se invisível, sempre surpreende.
+* **Voo limitado**: Asas pequenas permitem apenas 3 turnos de voo. Deve descansar 1 turno depois de voar.
 
 # Polvo Gigante
-_Giant, eight-armed cephalopods. Lurk in coastal waters, close to settlements._
+_ Cefalópodes gigantes de oito braços. Espreita nas águas costeiras, perto dos assentamentos._
 
 **Classe de Armadura**: 7 [12]
 
@@ -436,15 +441,15 @@ _Giant, eight-armed cephalopods. Lurk in coastal waters, close to settlements._
 
 **Tesouro**: Nenhum
 
-* **Constriction**: Tentacles grab and constrict after a hit. Each constricting tentacle inflicts: 1d3 automatic damage per round, plus a –1 penalty to attacks.
-* **Severing tentacles**: Requires a hit with a cutting weapon inflicting 6 or more damage.
-* **Ink cloud**: When escaping, can emit a cloud of black ink (24m diameter) and jet away at 3 times normal speed.
+* **Constrição**: Tentáculos agarram e apertam depois de um golpe. Cada tentáculo inflige: 1d3 dano automático por rodada, mais uma penalidade de -1 em ataques.
+* **Decepando tentáculos**: Requer um golpe com arma cortante infligindo 6 ou mais de dano.
+* **Nuvem de Tinta**:Ao escapar, pode expelir uma nuvem de tinta preta e evadir com três vezes a velocidade normal.
 
 # Pterossauro
-_Predatory, winged reptiles that live in warm climes, hunting creatures on the ground by gliding on air currents. Often found in Lost World regions._
+_Répteis alados, preadadores que vivem em climas quentes caçando criaturas no solo planando pelas correntes de ar. Geralmente encontrados em regiões de Mundo Perdido._
 
 ## Pteranodonte
-_Wingspan of up to 15m. Highly aggressive; often prey on humanoids._
+_Envergadura de até 15 metros. Muito agressivo, frequentemente predando humanóides._
 
 **Classe de Armadura**: 6 [13]
 
@@ -454,7 +459,7 @@ _Wingspan of up to 15m. Highly aggressive; often prey on humanoids._
 
 **TAC0**: 15 [+4]
 
-**Movimento**: 212m (24m) flying
+**Movimento**: 212m (24m) voando
 
 **Testes de Resistência**: M12 V13 P14 S15 F16 (3)
 
@@ -470,7 +475,7 @@ _Wingspan of up to 15m. Highly aggressive; often prey on humanoids._
 
 
 ## Pterodáctilo
-_8–3m wingspan. Prey on small to medium animals, but will attack humanoids, if very hungry._
+_Envergadura de 3-8 metros. Preda animais de pequeno e médio porte, mas atacará humanóides se estiver com fome._
 
 **Classe de Armadura**: 7 [12]
 
@@ -480,7 +485,7 @@ _8–3m wingspan. Prey on small to medium animals, but will attack humanoids, if
 
 **TAC0**: 19 [0]
 
-**Movimento**: 54m (18m) flying
+**Movimento**: 54m (18m) voando
 
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
 
@@ -495,13 +500,12 @@ _8–3m wingspan. Prey on small to medium animals, but will attack humanoids, if
 **Tesouro**: Nenhum 
 
 # Pudim Negro
-_Huge (5’–9m across), mindless blobs of amorphous black jelly. Driven by ravenous hunger._
-
+_Enormes (1,5 - 9m de diâmetro)bolhas irracionais e amorfas de gelatina preta. Impulsionada por uma fome voraz._
 **Classe de Armadura**: 6 [13]
 
 **Dados de Vida**: 10* (45pv)
 
-**Ataques**: 1 × touch (3d8)
+**Ataques**: 1 × toque (3d8)
 
 **TAC0**: 11 [+8]
 
@@ -519,24 +523,24 @@ _Huge (5’–9m across), mindless blobs of amorphous black jelly. Driven by rav
 
 **Tesouro**: Nenhum
 
-* **Immunity**: Only harmed by fire-based attacks.
-* **Division**: Non-fire attacks (including spells) cause the pudding to divide. Each hit creates a 2HD pudding that does 1d8 damage.
-* **Erode wood and metal**: Can dissolve wood or metal in one turn.
-* **Cling**: Can move across walls and ceilings.
-* **Seep**: Can squeeze through small holes and cracks.
+* **Imunidade**: Só é ferido por ataques à base de fogo.
+* **Divisão**: Ataques sem fogo (incluindo feitiços) fazem com que o pudim se divida. Cada acerto cria um pudim com 2DV que causa 1d8 pontos de dano.
+* **Corroí madeira e metal**: Pode dissolver madeira e metal em um turno.
+* **Grudar**: Pode se mover pelas paredes e tetos.
+* **Infiltra**: Pode passar por pequenos orifícios e rachaduras. 
 
 # Quimera
-_Horrific, hybrid monstrosities with the forequarters of a lion, the hindquarters of a goat, the wings of a dragon, and three heads: goat, lion, and dragon. Dwell in wild, hilly areas, or sometimes in dungeons._
+_Horrenda mostruosidade híbrida com a face de um leão, o traseiro de uma cabra, as asas de um dragão e três cabeças: cabra, leão e dragão. Habita regiões selvagens e montanhosas, ás vezes em masmorras._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 9** (40pv)
 
-**Ataques**: 2 × garras (1d3), goat: 1 × gore (2d4), lion: 1 × mordida (2d4), dragon: 1 × mordida (3d4) or 1 × breath (3d6)
+**Ataques**: 2 × garras (1d3), cabra 1 × gore (2d4), leão: 1 × mordida (2d4), dragão: 1 × mordida (3d4) or 1 × sopro (3d6)
 
 **TAC0**: 12 [+7]
 
-**Movimento**: 36m (12m) / 54m (18m) flying
+**Movimento**: 36m (12m) / 54m (18m) voando
 
 **Testes de Resistência**: M8 V9 P10 S10 F12 (9)
 
@@ -550,24 +554,24 @@ _Horrific, hybrid monstrosities with the forequarters of a lion, the hindquarter
 
 **Tesouro**: F
 
-* **Attack pattern**: Dragon head: 50% chance of breath attack, otherwise bites.
-* **Breath weapon**: Cone of fire: end 3m wide, 15m long. Can be used up to three times per day.
+* **Padrão de Ataque**: Cabeça de Dragão: 50% de cance de um ataque de sopro, do contrário ela morde.
+* **Ataque de sopro**:Cone de fogo: extremidade 3m comprimento, largura 15m. Três usos por dia.
 
 # Rato
-_Multitudinous, disease-ridden rodents that will eat anything. Avoid contact with humans, but may attack if defending their nest or if summoned and commanded by magic (e.g. see Wererat)._
+_ Multidão de roedores cheios de doença que comem qualquer coisa. Evitam contato com humanos mas podem atacar para defender o ninho ou se invocados e ordenados por magia (por exemplo, ver Homem-Rato)._
 
 ## Rato Gigante
-_1m long (or larger), with black or grey fur. Often live in dark, dungeon areas and close to undead monsters._
+_1m ou mais de comprimento com pelo preto ou cinza. Geralmente habitam no escuro, em masmorras e perto de monstros mortos-vivos._
 
 **Classe de Armadura**: 7 [12]
 
 **Dados de Vida**: ½ (2pv)
 
-**Ataques**: 1 × mordida (1d3 + disease)
+**Ataques**: 1 × mordida (1d3 + doença
 
 **TAC0**: 19 [0]
 
-**Movimento**: 36m (12m) / 18m (6m) swimming
+**Movimento**: 36m (12m) / 18m (6m) nadando
 
 **Testes de Resistência**: M12 V13 P14 S15 F16 (1)
 
@@ -581,23 +585,22 @@ _1m long (or larger), with black or grey fur. Often live in dark, dungeon areas 
 
 **Tesouro**: C
 
-* **Disease**: Bite has a 1-in-20 chance of infecting the target (save versus poison). The disease has a 1-in-4 chance of being deadly (die in 1d6 days). Otherwise, the victim is sick and bedridden for one month.
-* **Afraid of fire**: Will flee fire, unless forced to fight by summoner.
-* **Attacking in water**: May attack without penalty; excellent swimmers.
-
+* **Doença**: Mordida tem 1-em-20 chances de infectar o alvo (salvaguarda contra veneno). A doença tem 1-em-4 chances de ser fatal (morre em 1d6 dias). Do contrário, a vítima está doente e acamada por um mês.
+* **Medo de fogo**: Foge de fogo a menos que seja forçado a lutar pelo invocador.
+* **Ataque na água**: Pode atacar sem penalidade; são excelentes nadadores.
 
 ## Rato Normal
-_Swarming packs of 6” to 2’ long individuals, with brown or grey fur._
+_ Enxame de ratos de 15 a 60 centímetros com pelo marrom ou cinza._
 
 **Classe de Armadura**: 9 [10]
 
 **Dados de Vida**: 1hp
 
-**Ataques**: 1 × mordida per pack (1d6 + disease)
+**Ataques**: 1 × mordida por enxame (1d6 + doença)
 
 **TAC0**: 19 [0]
 
-**Movimento**: 18m (6m) / 9m (3m) swimming
+**Movimento**: 18m (6m) / 9m (3m) nadando
 
 **Testes de Resistência**: M14 V15 P16 S17 F18 (NH)
 
@@ -611,20 +614,20 @@ _Swarming packs of 6” to 2’ long individuals, with brown or grey fur._
 
 **Tesouro**: L
 
-* **Disease**: Bite has a 1-in-20 chance of infecting the target (save versus poison). The disease has a 1-in-4 chance of being deadly (die in 1d6 days). Otherwise, the victim is sick and bedridden for one month.
-* **Afraid of fire**: Will flee fire, unless forced to fight by summoner.
-* **Attacking in water**: May attack without penalty; excellent swimmers.
-* **Pack**: Each group of 5–10 rats attacks as a pack. Each pack makes a single attack roll against one creature.
-* **Engulf**: The creature attacked must save versus death or fall prone, unable to attack until able to stand up again.
+* **Doença**: Mordida tem 1-em-20 chances de infectar o alvo (salvaguarda contra veneno). A doença tem 1-em-4 chances de ser fatal (morre em 1d6 dias). Do contrário, a vítima está doente e acamada por um mês.
+* **Medo de fogo**: Foge de fogo a menos que seja forçado a lutar pelo invocador.
+* **Ataque na água**: Pode atacar sem penalidade; são excelentes nadadores.
+* **Bando**: Cada grupo de 5-10 ratos ataca como um bando. Cada bando faz uma única roalgem de ataque contra uma única criatura.
+* **Sobrepujar**: A criatura atacada deve rolar salvaguarda contra morte ou cairá, incapaz de atacar até poder se levantar.
 
 # Rhagodessa
-_Huge, hairy, nocturnal arachnid carnivores with large heads and mandibles and 10 legs. Yellow head and abdomen, dark brown thorax. Dwell in caves, hunt voraciously._
+_Grandes aracnídeos peludos e noturnos; de cabeça e mandíbula grande e com 10 pernas. Cabeça e abdomem amarelo, tórax castanho escuro. Habita cavernas e caça vorazmente._
 
 **Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 4+2 (20pv)
 
-**Ataques**: 1 × sucker (grab), 1 × mordida (2d8)
+**Ataques**: 1 × Ventosa (Agarrar), 1 × Mordida (2d8)
 
 **TAC0**: 15 [+4]
 
@@ -642,15 +645,15 @@ _Huge, hairy, nocturnal arachnid carnivores with large heads and mandibles and 1
 
 **Tesouro**: U
 
-* **Suckers**: Front legs equipped with suckers for grabbing prey.
-* **Grab**: When hit with a sucker, the victim is stuck and will be bitten automatically next round.
-* **Cling**: Can walk on walls.
+* **Ventosa**: Pernas dianteiras equipadas com ventosas para agarrar a presa.
+* **Agarrar**: Quando atingido por uma ventosa, a vítima está presa e será mordida automaticamente na próxima rodada.
+* **Aderência**: Pode andar nas paredes.
 
 # Rinoceronte
-_Dim, armoured, herbivorous mammals._
+_Mamíferos escuros, blindados e herbívoros._
 
-* **Charge**: If disturbed or threatened, will charge in a random direction. Requires a clear run of at least 20 yards. Make a horn attack on all in the path: inflicts double damage.
-* **Trample**: 3-in-4 chance of trampling each round. +4 to-hit human-sized or smaller creatures.
+* **Disparada**: Se perturbado ou ameaçado, sai em disparada em uma direção aleatória. Requer uma corrida desimpedida por pelo menos 18 metros. Faz um ataque de chifre contra tudo em seu caminho: inflige o dobro de dano.
+* **Atropelo**:3-em-4 chances de atropelar a cada rodada. +4 para acertar criaturas de tamanho humano ou menores.
 
 ## Rinoceronte normal
 
@@ -658,7 +661,7 @@ _Dim, armoured, herbivorous mammals._
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 1 × horn (2d4) or 1 × trample (2d8)
+**Ataques**: 1 × Chifre(2d4) ou 1 × Atropelo (2d8)
 
 **TAC0**: 14 [+5]
 
@@ -676,16 +679,17 @@ _Dim, armoured, herbivorous mammals._
 
 **Tesouro**: Nenhum
 
-* **Charge**: If disturbed or threatened, will charge in a random direction. Requires a clear run of at least 20 yards. Make a horn attack on all in the path: inflicts double damage.
+* **Disparada**: Se perturbado ou ameaçado, sai em disparada em uma direção aleatória. Requer uma corrida desimpedida por pelo menos 18 metros. Faz um ataque de chifre contra tudo em seu caminho: inflige o dobro de dano.
+
 
 ## Rinoceronte-lanudo
-_Giant rhinoceroses adapted for cold climates: their bodies covered with shaggy, white fur. Live in herds, in cold Lost World areas._
+_Rinoceronte gigante adaptado para climas frios. Seu corpo é coberto por pêlo branco e desgrenhado. Vive em rebanhos em áreas frias do Mundo Perdido.._
 
 **Classe de Armadura**: 4 [15]
 
 **Dados de Vida**: 8 (36pv)
 
-**Ataques**: 1 × horn (2d6) or 1 × trample (2d12)
+**Ataques**: 1 × Chifre (2d6) or 1 × Atropelo (2d12)
 
 **TAC0**: 12 [+7]
 
@@ -703,17 +707,17 @@ _Giant rhinoceroses adapted for cold climates: their bodies covered with shaggy,
 
 **Tesouro**: Nenhum
 
-* **Charge**: If disturbed or threatened, will charge in a random direction. Requires a clear run of at least 20 yards. Make a horn attack on all in the path: inflicts double damage.v
+* **Disparada**: Se perturbado ou ameaçado, sai em disparada em uma direção aleatória. Requer uma corrida desimpedida por pelo menos 18 metros. Faz um ataque de chifre contra tudo em seu caminho: inflige o dobro de dano.
 
 
 # Saguessuga Gigante
-_Horrid, 3–4’ long, slug-like creatures with sucker mouths. Lurk in swamps._
+_ Horríveis criaturas similares lesmas de 90 centímetros a 1 metro de comprimento e ventosas nas bocas. Espreita pelos pântanos._
 
 **Classe de Armadura**: 7 [12]
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 1 × mordida (1d6 + blood drain)
+**Ataques**: 1 × mordida (1d6 + drenagem de sangue)
 
 **TAC0**: 14 [+5]
 
@@ -731,21 +735,21 @@ _Horrid, 3–4’ long, slug-like creatures with sucker mouths. Lurk in swamps._
 
 **Tesouro**: Nenhum
 
-* **Blood drain**: Attaches to victim on a successful hit, doing 1d6 automatic damage per round.
-* **Detaching**: Must be killed.
-* **If victim dies**: Leech detaches and finds a hidden place to digest.
+* **Drenagem de sangue **: Prende-se à vítima em um ataque bem sucedido, causa 1d6 de dano automático por rodada.
+* **Desprender**: Deve ser morta.
+* **Se a vítima morrer**: Sangue suga se desprende e acha um local escondido para digerir.
 
 # Salamandra
-_Giant, magical reptiles with an affinity for extreme heat or cold._
+_Répteis gigantes e mágicos com afinidade por calor ou frio extremos._
 
 ## Salamandra de Fogo
-_12’–16’ long, intelligent serpents with lizard-like heads and legs. Bright orange/yellow/red scales. Natives of the plane of elemental fire, but also live in volcanoes and scorching deserts._
+_Serpentes inteligentes de 3 a 5metros com cabeças e pernas semelhantes a largartos. Escamas brilhantes de laranja/vermelhas/amarelas.Nativas do plano elemental do fogo mas também habitam vulcões e desertos escaldantes._
 
 **Classe de Armadura**: 2 [17]
 
 **Dados de Vida**: 8* (36pv)
 
-**Ataques**: 2 × garras (1d4), 1 × mordida (1d8), 1 × heat aura (1d8)
+**Ataques**: 2 × garras (1d4), 1 × mordida (1d8), 1 × Aura de calor (1d8)
 
 **TAC0**: 12 [+7]
 
@@ -763,19 +767,19 @@ _12’–16’ long, intelligent serpents with lizard-like heads and legs. Brigh
 
 **Tesouro**: F
 
-* **Heat aura**: All creatures within 6m suffer 1d8 damage per round.
-* **Mundane damage immunity**: Can only be harmed by magical attacks.
-* **Fire immunity**: Unharmed by fire.
-* **Hate frost salamanders**: Will attack on sight.
+* **Aura de calor**: Todas criaturas em um raio de 6m sofrem 1d8 de dano por rodada.
+* **Imunidade a dano mundano**: Só pode ser ferida por ataques mágicos.
+* **Imunidade ao fogo**: Não é machucada por fogo.
+* **Odeia salamandras de gelo**:Ataca imediatamente.
 
 ## Salamandra de Gelo
-_Giant, 6-legged lizards with blue/white scales. Dwell in icy, wilderness regions._
+_Largartos gigantes de 6 patas com escamas azuis/brancas. Habitam os ermos gelados.._
 
 **Classe de Armadura**: 3 [16]
 
 **Dados de Vida**: 12* (54pv)
 
-**Ataques**: 4 × garras (1d6), 1 × mordida (2d6), 1 × cold aura (1d8)
+**Ataques**: 4 × garras (1d6), 1 × mordida (2d6), 1 × Aura de frio (1d8)
 
 **TAC0**: 10 [+9]
 
@@ -793,13 +797,13 @@ _Giant, 6-legged lizards with blue/white scales. Dwell in icy, wilderness region
 
 **Tesouro**: E
 
-* **Cold aura**: All creatures within 6m suffer 1d8 damage per round.
-* **Mundane damage immunity**: Can only be harmed by magical attacks.
-* **Cold immunity**: Unharmed by cold-based attacks.
-* **Hate flame salamanders**: Will attack on sight.
+* **Aura de frio**: Todas criaturas em um raio de 6m sofrem 1d8 de dano por rodada.
+* **Imunidade a dano mundano**: Só pode ser ferida por ataques mágicos.
+* **Imunidade ao frio**: Não é machucada por ataques baseados em frio.
+* **Odeia salamandras de fogo**: Ataca imediatamente.
 
 # Salteador
-_Outlaws and mercenaries who make aliving by raiding settlements and attacking travellers._
+_Foras da lei e mercenários que ganham a vida saqueando assentamentos e atacando viajantes._
 
 **Classe de Armadura**: 6 [13]
 
@@ -823,14 +827,14 @@ _Outlaws and mercenaries who make aliving by raiding settlements and attacking t
 
 **Tesouro**: A
 
-* **Footmen**: Half the group has: leather armour, shield, sword, shortbow.
-* **Cavalry**: The other half is mounted on riding horses and has: chainmail, shield, sword.
-* **Leaders and commanders**: For every 20 brigands, there is a leader (2nd level fighter). For every 40 brigands, there is a commander (4th level fighter). Leader sride war horses (with barding) and have: plate mail, sword, lance.
-* **Fortified camps**: Bands commonly combine and live in a camp of 5d6 × 10 brigands.
-* **Camp leaders**: Combined camps are led by a 9th level fighter, plus a 5th level fighter for every 50 brigands. Also 50% chance of a magic-user (level 1d3 + 8); 30% chance of a cleric (8th level).
+* **Soldado**: Metade do grupo tem: armadura de couro, escudo, espada e arco curto.
+* **Cavalaria**:A outra metade está montada em cavalso e tem: cota de malha, escudo, espada.
+* **Líderes e comandantes**: Para cada 20 salteadores, há um líder (Guerreiro 2º nível). Para cada 40 salteadores, há um comandate (Guerreiro 4º Nível). Líderes montam cavalos de guerra (com barda) e tem: armadura de placas, espada, lança.
+* **Acampamento fortificado**: Bandos geralmente se juntam e vivem em um único acampamento de 5d6 x 10 salteadores. 
+* **Líderes de acampamento**: Acampamentos combinados são liderados por um guerreiro de 9º nível, mais um guerreiro de 5º nível a cada 50 salteadores. Também há 50% de chance de um usuário de magia (nível 1d3+8); 30% de chance de ter um clérigo (8º nível).
 
 # Sapo Gigante
-_Warty amphibians with long, sticky tongues. As large as a great hound, weighing 150 to 250 pounds._
+_Anfíbios verrugosos com línguas longas e pegajosas. Tão grande quanto um grande cão, pesando 150 a 250 libras._
 
 **Classe de Armadura**: 7 [12]
 
@@ -854,18 +858,18 @@ _Warty amphibians with long, sticky tongues. As large as a great hound, weighing
 
 **Tesouro**: Nenhum
 
-* **Surprise**: On a 1–3, in forests or dark dungeons, due to the ability to change colour to match their surrounding.
-* **Sticky tongue**: Attack up to 15’ away. On a hit, prey (up to dwarf size) is dragged to the mouth and bitten.
-* **Swallow whole**: An attack roll of 20 indicates a small victim is swallowed. Inside the toad’s belly: suffer 1d6 damage per round (until the toad dies); may attack with sharp weapons at –4 to hit; body digested in 6 turns after death.
+* **Surpresa**:Em 1-3, em florestas ou masmorras escuras devido à capacidade de mudar de cor para combinar com o ambiente.
+* **Língua pegajosa**: Ataca até 4 metros de distância.No acerto, a presa (até o tamanho de um anão) é arrastada até a boca para ser mordida.
+* **Engole por inteiro**: Uma rolagem de ataque de 20 indica que uma vítima pequena é engolida. Dentro da barriga do sapo: sofre 1d6 dano por rodada (até o sapo morrer); pode atacar com armas afiadas com -4 para acertar; corpo digerido em 6 turnos depois da morte.
 
 # Serpente Marinha (Menor)
-_6m–9m long, serpent-like sea monsters with rows of many fins._
+_Monstros marinhos de 6-9m, semelhantes a serpentes com fileiras de muitas barbatanas._
 
 **Classe de Armadura**: 5 [14]
 
 **Dados de Vida**: 6 (27pv)
 
-**Ataques**: 1 × mordida (2d6) or 1 × squeeze (1d10 hull damage)
+**Ataques**: 1 × mordida (2d6) or 1 × aperto (1d10 dano no casco)
 
 **TAC0**: 14 [+5]
 
@@ -883,17 +887,17 @@ _6m–9m long, serpent-like sea monsters with rows of many fins._
 
 **Tesouro**: Nenhum
 
-* **Lunge**: Up to 6m out of water to use bite attack.
-* **Squeeze**: Coil around and crush a vessel (of equal size or smaller).
+* **Estocada**: Até 6m fora da água para usar o ataque de mordida. Up to 6m out of water to use bite attack.
+* **Aperto**: Se enrola e esmaga o navio (de tamanho igual ou menor).
 
 # Sombra
-_Intelligent, incorporeal (but not undead) monsters that look like shadows. Able to slightly change their shape._
+_Monstros inteligentes e incorpóreos (mas não mortos-vivos) que parecem sombras. Capazes de mudar ligeiramente sua forma._
 
 **Classe de Armadura**: 7 [12]
 
 **Dados de Vida**: 2+2* (11pv)
 
-**Ataques**: 1 × touch (1d4 + strength drain)
+**Ataques**: 1 × touch (1d4 + Dreno de força)
 
 **TAC0**: 17 [+2]
 
@@ -911,14 +915,13 @@ _Intelligent, incorporeal (but not undead) monsters that look like shadows. Able
 
 **Tesouro**: F
 
-* **Surprise**: On a 1–5.
-* **Strength drain**: Victims lose 1 STR per hit. Recovers after 8 turns. If reduced to 0 STR, the victim becomes a shadow.
-* **Mundane damage immunity**: Can only be harmed by magical attacks.
-* **Spell immunity**: Unaffected by charm and sleep spells.
-
+* **Surpresa**: De 1 a 5.
+* **Dreno de força**: Vítimas perdem 1 FOR por acerto. Recuperam depois de 8 turnos. Se reduzido a 0 de FOR, a vítima se torna uma Sombra.
+* **Imunidade a danos mundanos**: Só pode ser ferido por ataques mágicos.
+* **Imunidade a feitiços**: Não é afetado por feitiços de encantar e sono.
 
 # Sprite
-_30cm tall, winged humanoids, related to pixies and elves. They are shy, but driven by curiosity and their odd sense of humour._
+_Humanóides alados com 30 centímetros de altura, parentes das pixies e dos elfos. São tímidos mas movidos por curiosidade e pelo seu estranho senso de humor._
 
 **Classe de Armadura**: 5 [14]
 
@@ -928,7 +931,7 @@ _30cm tall, winged humanoids, related to pixies and elves. They are shy, but dri
 
 **TAC0**: 19 [0]
 
-**Movimento**: 18m (6m) / 54m (18m) flying
+**Movimento**: 18m (6m) / 54m (18m) voando
 
 **Testes de Resistência**: M12 V13 P13 S15 F15 (E1)
 
@@ -942,5 +945,6 @@ _30cm tall, winged humanoids, related to pixies and elves. They are shy, but dri
 
 **Tesouro**: S
 
-* **Curse**: Five sprites can collectively curse a target (no attack roll; save versus spells). The effect is determined by the referee, but will always be used to comical effect (e.g. target trips, target’s nose grows).
-* **Pranksters**: Even if attacked, sprites have no interest in killing, merely in making practical jokes.
+* **Maldição**: Cinco sprites podem amaldiçoar um alvo coletivamente (sem jogada de ataque; salvamento contra feitiços). O efeito é determinado pelo árbitro, mas sempre será usado para efeito cÔmico (por exemplo, tropeçar, crescer o nariz).
+* **Pegadinha**: Mesmo se atacados, Sprites não tem interesse em matar, apenas em fazer piadas e pegadinhas.
+
