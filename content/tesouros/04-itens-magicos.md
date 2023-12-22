@@ -29,26 +29,26 @@ Probabilidades separadas estão listadas na tabela para personagens de nível B�
 
 É recomendado que as probabilidades usadas estejam adequadas ao nível de experiência do grupo. De forma alternativa, se o árbitro preferir distribuir uniformemente os itens,  indenpedente do nível do personagem, as probabilidades do Especialista podem ser usadas sempre.
 
------------+------------+----------------------------+
-| Tipo de Item Mágico                                      |
++------------+------------+----------------------------+
+| Tipo de Item Mágico                                  |
 +============+============+============================+
 | **B: d%**  | **X: d%**  | Tipo de Item               |
 +------------+------------+----------------------------+
-| 1–10       | 1–10       | Armadura ou Escudo           |
+| 1–10       | 1–10       | Armadura ou Escudo         |
 +------------+------------+----------------------------+
-| 11–15      | 11–15      | Itens Diversos          |
+| 11–15      | 11–15      | Itens Diversos             |
 +------------+------------+----------------------------+
-| 16–40      | 16–35      | Poção                     |
+| 16–40      | 16–35      | Poção                      |
 +------------+------------+----------------------------+
 | 41–45      | 36–40      | Anel                       |
 +------------+------------+----------------------------+
-| 46–50      | 41–45      | Bastão / Cajado / Varinha         |
+| 46–50      | 41–45      | Bastão / Cajado / Varinha  |
 +------------+------------+----------------------------+
-| 51–70      | 46–75      | Pergaminho ou Mapa              |
+| 51–70      | 46–75      | Pergaminho ou Mapa         |
 +------------+------------+----------------------------+
-| 71–90      | 76–95      | Espada                      |
+| 71–90      | 76–95      | Espada                     |
 +------------+------------+----------------------------+
-| 91–00      | 96–00      | Arma Mágica                     |
+| 91–00      | 96–00      | Arma Mágica                |
 +------------+------------+----------------------------+
 
 # Identificando Itens Mágicoságicos
