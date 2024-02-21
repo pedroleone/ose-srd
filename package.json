@@ -36,7 +36,7 @@
     "gatsby-remark-grid-tables": "0.0.3",
     "gatsby-remark-images": "^3.3.3",
     "gatsby-source-filesystem": "^2.3.3",
-    "gatsby-transformer-remark": "^2.8.8",
+    "gatsby-transformer-remark": "^5.25.1",
     "graphql": "^14.6.0",
     "is-absolute-url": "^3.0.3",
     "lodash.flatten": "^4.4.0",
