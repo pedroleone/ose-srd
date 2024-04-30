@@ -1,10 +1,10 @@
 name: Build and Deploy to Gatsby on every commit
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - 'master'
-  workflow_dispatch:
 
   # schedule:
   #   - cron: '0 */2 * * *'
