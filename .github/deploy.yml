@@ -1,0 +1,29 @@
+name: Build and Deploy to Gatsby on every commit
+
+on:
+  push:
+    branches:
+      - 'master'
+
+  # schedule:
+  #   - cron: '0 */2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    # https://github.com/actions/setup-node#usage
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '16.x'
+    - run: npm ci
+    - run: npm run build
+    # Deploy the gatsby build to Netlify
+    - uses: netlify/actions/cli@master
+      env:
+        NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+      with:
+        args: deploy --dir=public --prod
+        secrets: '["NETLIFY_AUTH_TOKEN"]'
