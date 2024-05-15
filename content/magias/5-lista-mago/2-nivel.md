@@ -52,7 +52,7 @@ Conjuradores de níveis altos: qualquer personagem conjurador que tenha mais de 
 
 **Alcance**: 72 m
 
-Uma ilusão à escolha do conjurador se manifesta em uma área de 6 m³. Três tipos de ilusão podem ser criadas:
+Uma ilusão à escolha do conjurador se manifesta em uma área de 6m x 6m x 6m. Três tipos de ilusão podem ser criadas:
 
 * **Uma monstro ilusório**: que pode ser direcionado para atacar. O monstro tem CA 9 [10] e desaparecerá se acertado em combate.
 * **Um ataque ilusório**: de algum tempo (uma avalanche, um teto desabando, um projétil mágico, etc.). Alvos que sejam bem sucedidos em um teste de resistência contra magia, não são afetados.
@@ -148,7 +148,7 @@ Essa magia concede ao conjurador a habilidade de perceber e entender os pensamen
 
 **Alcance**: 3 m
 
-Teia conjura uma massa forte, com várias camadas de fios pegajosos que bloqueiam uma área equivalente a um cubo de 3 m de aresta (54 m²).
+Teia conjura uma massa forte, com várias camadas de fios pegajosos que bloqueiam uma área equivalente a um cubo de 3m (3m x 3m x 3m).
 
 * **Emaranhamento**: criaturas pegas dentro da teia ficam emaranhadas entre as fibras pegajosas. Criaturas emaranhadas não podem se mover, mas podem se libertar, dependendo de sua força.
 * **Inflamável**: os fios da teia são inflamáveis, e podem ser destruídas com fogo em duas rodadas. Todas as criaturas presas na teia flamejante sofre 1d6 pontos de dano.
