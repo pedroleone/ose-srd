@@ -9,29 +9,25 @@ Bem vindo à tradução não oficial do Old School Essentials SRD!
 # Sobre o Old School Essentials
 Old School Essentials é um jogo aventuresco de interpretação de papéis (RPG) sobre exploração, perigo, monstros e magia. O jogo tem intencionalmente poucas regras, colocando o foco do jogo na imaginação, improvisação e diversão. As regras são otimizadas para facilidade de uso na mesa, com atenção meticulosa à redação e à clareza na diagramação. E além disso, Old School Essentials é 100% compatível com a edição clássica Basic/Expert de 1981.
 
-[![OSE](https://oldschoolessentials.necroticgnome.com/srd/images/thumb/9/99/Old-School_Essentials_Black_Box_Front_A4_740x.png/300px-Old-School_Essentials_Black_Box_Front_A4_740x.png)](https://necroticgnome.com/collections/old-school-essentials)
+[![OSE](https://ose-srd.netlify.app/imagens/ose_black_box.png)](https://necroticgnome.com/pages/about-old-school-essentials)
 
 # Um Trabalho em Processo de Revisão
 Este documento está sob constante atualização. Os trabalhos de tradução foram iniciados por **Franciolli Araújo** e **Pedro Luiz** do blog [Dados Místicos](https://dadosmisticos.com/) em 14/04/2020 e concluídos em 03/07/2022. No entanto, **o processo de revisão ainda está incompleto**.
 
-[![DadosMisticos](https://i.imgur.com/texVG8q.png)](https://dadosmisticos.com/)
+[![DadosMisticos](https://ose-srd.netlify.app/imagens/logo_dados_misticos.png)](https://dadosmisticos.com)
 
 Todo o desenvolvimento deste SRD é **open source** e você pode acompanhar pelo [GitHub](https://github.com/pedroleone/osr-srd). Se estiver interessado em ajudar, você pode abrir [*issues*](https://github.com/pedroleone/osr-srd/issues) informando erros, sugestões ou mesmo solicitando acesso para se tornar contribuidor oficial. Fique à vontade para fazer um [*pull request*](https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) também.
-
-## Símbolos
-
-🔴 - Sem conteúdo (apenas lorem ipsum) <br/>
-❌ - Conteúdo em inglês (retirado da SRD oficial)
 
 ## Equipe de Tradutores
 Todos que contribuíram de alguma forma conforme a plataforma [GitHub](https://github.com/pedroleone/osr-srd/graphs/contributors):
 
-* Franciolli da Silva Dantas de Araújo
-* Pedro Luiz Leone
-* Daniel Dias Rodrigues ("Nerun")
-* Igor Teuri
-* Paulo E. R. Weber
 * Bruno Assis
+* Cairo Noleto
+* Daniel Dias Rodrigues
+* Franciolli da Silva Dantas de Araújo
+* Ícaro Agostino
+* Igor Teuri
 * Luan Morelatto
 * Lucio Muller de Siqueira
-* Walenc
+* Paulo E. R. Weber
+* Pedro Luiz Leone

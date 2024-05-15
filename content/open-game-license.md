@@ -100,7 +100,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 **FIM DA LICENÇA**
 
-> *O próprio texto da licença Open Game (OGL) acima é identidade do produto da [Wizards of the Coast][wizards]. Por isso, sempre que usada, a licença deve ser disponibilizada no original em inglês. No entanto, nada impede a tradução da licença a título de auxílio apenas. Uma tradução não oficial está disponível na [GURPZine Wiki][wiki]. A wiki também ensina a usar a OGL.*
+> *O próprio texto da licença Open Game (OGL) acima é identidade do produto da [Wizards of the Coast][wizards]. Por isso, sempre que usada, a licença deve ser disponibilizada no original em inglês.*
 
 [wizards]: https://company.wizards.com
 
