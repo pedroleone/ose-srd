@@ -5,7 +5,7 @@ metaDescription: "Monstros > Lista Monstros G-K"
 ---
 
 # Gafanhoto das Profundezas
-_gafanhotos gigantes herbívoros, de 60 a 90cm de comprimento, que vivem em cavernas_
+_Gafanhotos gigantes herbívoros, de 60 a 90cm de comprimento, que vivem em cavernas_
 
 **Classe de Armadura**: 4 [15]
 

@@ -51,7 +51,7 @@ Probabilidades separadas estão listadas na tabela para personagens de nível B�
 | 91–00      | 96–00      | Arma Mágica                |
 +------------+------------+----------------------------+
 
-# Identificando Itens Mágicoságicos
+# Identificando Itens Mágicos
 **Testando**: A maneira mais comum de identificar itens mágicos é por tentativa e erro - beber uma poção, vestir uma armadura, usar uma arma na batalha, etc.
 **Ajudantes**: Jogadores podem querer usar os ajudantes como "cobaias" para testar itens com propriedades desconhecidas. Os ajudantes podem concordar em fazer isso, mas podem colocar a condição de poder ficar com item que testaram. 
 **Através de Magia**: PNJs usuários de magia de um nível alto também podem identificar itens mágicos. Eles sempre vão exigir um pagamento ou serviço em troca. O processo leva tempo: possivelmente várias semanas.
