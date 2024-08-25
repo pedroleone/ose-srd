@@ -54,7 +54,7 @@ metaDescription: "Tesouro -> Pergaminhos e Mapas"
 |           | 99–00     | Mapa de Tesouro: XII                |
 +-----------+-----------+-------------------------------------+
 
-**B**: Personagens Básicos (níveis 1–3)<br>
+**B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)
 
 Pergaminhos são folhas envelhecidas de papel, papiro ou couro nas quais palavras mágicas foram escritas por um conjurador de feitiços de alto nível.

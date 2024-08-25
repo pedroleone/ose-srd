@@ -76,7 +76,7 @@ Clique no item na tabela para ler a descrição completa.
 |             | 98-00      | Escaravelho de Proteção                         |
 +-------------+------------+-------------------------------------------------+
 
-**B**: Personagens Básicos (níveis 1–3)<br>
+**B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)
 
 **Uso**: Todos os personagens (a manos que indicado).

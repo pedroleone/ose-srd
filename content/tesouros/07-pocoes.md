@@ -62,7 +62,7 @@ metaDescription: "Tesouro -> Poções"
 |            | 98–00      |  Encontrar Tesouro                   |
 +------------+------------+--------------------------------------+
 
-**B**: Personagens Básicos (níveis 1–3)<br>
+**B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)
 
 **Uso**: Todos os personagens (a manos que indicado).

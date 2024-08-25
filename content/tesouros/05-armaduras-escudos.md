@@ -50,7 +50,7 @@ metaDescription: "Tesouro -> Armaduras e Escudos"
 |           | 96-00     | Escudo +3                             |
 +-----------+-----------+---------------------------------------+
 
-**B**: Personagens Básicos (níveis 1–3)<br>
+**B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)
 
 **Uso**: Conforme restrições normais de classe.

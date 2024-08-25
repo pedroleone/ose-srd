@@ -52,7 +52,7 @@ metaDescription: "Tesouro -> Bastões, Cajados e Varinhas"
 |            |  96–00       | Varinha de Detectar Armadilha                  |
 +------------+--------------+------------------------------------------------+
 
-**B**: Personagens Básicos (níveis 1–3)<br>
+**B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)
 
 # Cargas

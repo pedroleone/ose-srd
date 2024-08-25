@@ -52,7 +52,7 @@ metaDescription: "Tesouro -> Armas"
 |         | 0        | Martelo de Batalha +3, Martelo de Arremesso Anão    |
 +---------+----------+-----------------------------------------------------+
 
-**B**: Personagens Básicos (níveis 1–3)<br>
+**B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)
 
 **Uso**: Conforme restrições normais de classe.

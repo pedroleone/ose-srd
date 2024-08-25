@@ -48,7 +48,7 @@ metaDescription: "Tesouro -> Anéis"
 |           | 99–00     | Visão de Raio-X                        |
 +-----------+-----------+----------------------------------------+
 
-**B**: Personagens Básicos (níveis 1–3)<br>
+**B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)
 
 **Uso**: Todos os personagens (a menos que indicado).
