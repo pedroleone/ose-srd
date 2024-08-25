@@ -72,39 +72,39 @@ Cada poder deve ser rolado na tabela abaixo. As duplicatas devem ser reroladas, 
 
 **Frequência de uso**: A menos que a descrição de um poder diga o contrário, ele pode ser usado no máximo três vezes por dia.
 
-+----------+----------------------------------------------------+
-| Poderes Extraordinários de Espadas Sencientes                 |
-+==========+====================================================+
-| **d100** | **Poder**                                          |
-+----------+----------------------------------------------------+
-| 01–10    | Clariaudiência                                     |
-+----------+----------------------------------------------------+
-| 11–20    | Clarividência                                      |
-+----------+----------------------------------------------------+
-| 21–30    | Percepção Extrassensorial                          |
-+----------+----------------------------------------------------+
-| 31–35    | Dano Extra (duplicatas permitidas)                 |
-+----------+----------------------------------------------------+
-| 36–40    | Voar                                               |
-+----------+----------------------------------------------------+
-| 41–45    | Cura (duplicatas permitidas)                       |
-+----------+----------------------------------------------------+
-| 46–54    | Ilusão                                             |
-+----------+----------------------------------------------------+
-| 55–59    | Levitação                                          |
-+----------+----------------------------------------------------+
-| 60–69    | Telecinesia                                        |
-+----------+----------------------------------------------------+
-| 70–79    | Telepatia                                          |
-+----------+----------------------------------------------------+
-| 80–88    | Teleporte                                          |
-+----------+----------------------------------------------------+
-| 89–97    | Visão de Raio-X                                    |
-+----------+----------------------------------------------------+
-| 98–99    | Role novamente 2 vezes nessa tabela                |
-+----------+----------------------------------------------------+
-| 0        | Role novamente 3 vezes nessa tabela                |
-+----------+----------------------------------------------------+
++----------+------------------------------------------------+
+| Poderes Extraordinários de Espadas Sencientes             |
++==========+================================================+
+| **d100** | **Poder**                                      |
++----------+------------------------------------------------+
+| 01–10    | Clariaudiência                                 |
++----------+------------------------------------------------+
+| 11–20    | Clarividência                                  |
++----------+------------------------------------------------+
+| 21–30    | Percepção Extrassensorial                      |
++----------+------------------------------------------------+
+| 31–35    | Dano Extra (duplicatas permitidas)             |
++----------+------------------------------------------------+
+| 36–40    | Voar                                           |
++----------+------------------------------------------------+
+| 41–45    | Cura (duplicatas permitidas)                   |
++----------+------------------------------------------------+
+| 46–54    | Ilusão                                         |
++----------+------------------------------------------------+
+| 55–59    | Levitação                                      |
++----------+------------------------------------------------+
+| 60–69    | Telecinesia                                    |
++----------+------------------------------------------------+
+| 70–79    | Telepatia                                      |
++----------+------------------------------------------------+
+| 80–88    | Teleporte                                      |
++----------+------------------------------------------------+
+| 89–97    | Visão de Raio-X                                |
++----------+------------------------------------------------+
+| 98–99    | Role novamente 2 vezes nessa tabela            |
++----------+------------------------------------------------+
+| 0        | Role novamente 3 vezes nessa tabela            |
++----------+------------------------------------------------+
 
 # Clariaudiência
 Permite que o portador ouça através dos ouvidos de outra criatura.
@@ -255,25 +255,25 @@ O usuário pode ver objetos invisíveis ou ocultos até 6m de distância. (Este 
 
 Algumas espadas sencientes também são imbuídas de um propósito especial. O propósito dessas espadas é geralmente matar um certo tipo de personagem ou criatura. O propósito pode ser rolado na tabela abaixo, ou o árbitro pode inventar outros.
 
-+---------+------------------------------------------------------------------------------------+
-| **Tabela de Propósitos Especiais**                                                           |
-+=========+====================================================================================+
-| **d6**  | Tipo de Alvo a ser Morto                                                           |
-+---------+------------------------------------------------------------------------------------+
-| 1       | Conjuradores de Magia Arcana                                                       |
-+---------+------------------------------------------------------------------------------------+
-| 2       | Conjuradores de Magia Divina                                                       |
-+---------+------------------------------------------------------------------------------------+
-| 3       | Combatentes (por exemplo, guerreiros ou outras classes orientados                  |
-|         | primariamente ao combate, incluindo semi-humanos não conjuradores)                 |
-|         | e que não sejam conjuradores, incluindo semi-humanos não conjuradores)             |
-+---------+------------------------------------------------------------------------------------+
-| 4       | Tipos específicos de monstros (determinados aleatoriamente)                        |
-+---------+------------------------------------------------------------------------------------+
-| 5       | Criaturas ordeiras (ou criaturas caóticas se a espada for ordeira)                 |
-+---------+------------------------------------------------------------------------------------+
-| 6       | Criaturas caóticas (ou criaturas ordeiras se a espada for caótica)                 |
-+---------+------------------------------------------------------------------------------------+
++--------+-----------------------------------------------------------------------+
+| **Tabela de Propósitos Especiais**                                             |
++========+=======================================================================+
+| **d6** | Tipo de Alvo a ser Morto                                              |
++--------+-----------------------------------------------------------------------+
+| 1      | Conjuradores de Magia Arcana                                          |
++--------+-----------------------------------------------------------------------+
+| 2      | Conjuradores de Magia Divina                                          |
++--------+-----------------------------------------------------------------------+
+| 3      | Combatentes (por exemplo, guerreiros ou outras classes orientados     |
+|        | primariamente ao combate, incluindo semi-humanos não conjuradores)    |
+|        | e que não sejam conjuradores, incluindo semi-humanos não conjuradores)|
++--------+-----------------------------------------------------------------------+
+| 4      | Tipos específicos de monstros (determinados aleatoriamente)           |
++--------+-----------------------------------------------------------------------+
+| 5      | Criaturas ordeiras (ou criaturas caóticas se a espada for ordeira)    |
++--------+-----------------------------------------------------------------------+
+| 6      | Criaturas caóticas (ou criaturas ordeiras se a espada for caótica)    |
++--------+-----------------------------------------------------------------------+
 
 # Poder de Alinhamento
 Além de seus poderes sensoriais e extraordinários, as espadas com propósito especial têm um poder extra quando usadas para atingir o propósito designado (por exemplo, ao atacar o inimigo que a espada foi projetada para matar). Esse poder depende do alinhamento da espada:

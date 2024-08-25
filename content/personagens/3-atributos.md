@@ -167,7 +167,7 @@ Personagens com apenas um requisito primário utilizam a tabela a seguir. Os mod
 +------------------------+------------------------+
 | Modificadores de Requisito Primário             |
 +========================+========================+
-| **Requisito Primário** | **Modificador de XP**  |     
+| **Requisito Primário** | **Modificador de XP**  |
 +------------------------+------------------------+
 |  3-5                   | -20%                   |
 +------------------------+------------------------+

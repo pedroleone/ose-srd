@@ -62,8 +62,7 @@ metaDescription: "Tesouro -> Poções"
 |            | 98–00      |  Encontrar Tesouro                   |
 +------------+------------+--------------------------------------+
 
-**B**: Personagens Básicos (níveis 1–3)
-
+**B**: Personagens Básicos (níveis 1–3)<br>
 **X**: Personagens Especialistas (nível 4+)
 
 **Uso**: Todos os personagens (a manos que indicado).
@@ -157,7 +156,7 @@ O corpo do personagem se torna uma nuvem de vapor. Isso tem os seguintes efeitos
 # Poção da Força Gigante
 Concede a força de um gigante do gelo.
 * **Ataques com armas**: Causam o dobro de dano.
-* **Arremessar pedra**: O personagem pode aremesar pedras para causar 3d6 de dano dentro de um alcance de até 60m.
+* **Arremessar pedra**: O personagem pode arremessar pedras para causar 3d6 de dano dentro de um alcance de até 60m.
 * **Não cumulativo**: Os efeitos desta poção não são cumulativos com outros itens mágicos que aumentam a força (por exemplo, um Cinturão da Força Gigante).
 
 # Poção de Crescimento
@@ -171,7 +170,7 @@ Tem um dos dois seguintes efeitos no personagem que bebe:
 
 # Poção do Heroísmo
 Os seres humanos normais e os personagens de uma classe que não usa magia, focada em combate (por exemplo, anão, guerreiro, halfling) que bebem uma poção de heroísmo ganham temporariamente níveis adicionais. O número de níveis ganhos depende do nível de experiência normal do personagem:
-* **Humano normal**: Adquire as habilidades de um guerreito de 4° nível.
+* **Humano normal**: Adquire as habilidades de um guerreiro de 4° nível.
 * **1° ao 3° nível**: Adquire 3 níveis.
 * **4° ao 7° nível**: Adquire 2 níveis.
 * **8° ao 10° nível**: Adquire 1 nível.
@@ -193,7 +192,7 @@ O personagem torna-se magicamente protegido contra danos, obtendo os seguintes b
 
 # Poção de Levitação
 O personagem ganha a capacidade de se mover para cima e para baixo pelo ar à vontade.
-* **Vertical**: O persoangem direciona mentalmente o movimento vertical em até 18m por rodada. 
+* **Vertical**: O personagem direciona mentalmente o movimento vertical em até 18m por rodada. 
 * **Horizontal**: O personagem pode se empurrar apoiando-se em objetos sólidos para se mover lateralmente.
 * **Peso**: Uma quantidade normal de peso pode ser transportada enquanto se está levitando.
 
@@ -212,12 +211,12 @@ Ao beber esta poção, o personagem se transforma em outro ser (à sua escolha).
 Os movimentos e ações do personagem são magicamente acelerados.
 * **Movimento**: A taxa de movimento é dobrada.
 * **Ataques**: O número de ataques por rodada que o personagem pode fazer é dobrado.
-* **Outras ações**: Podem ser executadas no dopro da velocidade.
+* **Outras ações**: Podem ser executadas no dobro da velocidade.
 
 # Poção de Encontrar Tesouro
 Concede a capacidade de sentir tesouros próximos.
 * **Alcance**: Tesouros até 108m de distância podem ser detectados.
-* **Direção e distâcia**: O personagem ganha uma consciência da direção e distância do tesouro.
+* **Direção e distância**: O personagem ganha uma consciência da direção e distância do tesouro.
 * **Concentração**: O personagem deve se concentrar para conseguir sentir essa informação.
 * **Vários montantes de tesouros**: O maior montante de tesouro no alcance é sentido.
 * **Obstruções**: A magia é bloqueada por chumbo.

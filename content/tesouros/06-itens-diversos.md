@@ -8,74 +8,76 @@ Descrição de Itens
 
 Clique no item na tabela para ler a descrição completa.
 
-+-------------+------------+-------------------------------------------------------------+
-| Itens Mágicos Diversos                                                                 |
-+=============+============+=============================================================+
-| **B: d10**  | **X: d%**  | **Item**                                                    |
-+-------------+------------+-------------------------------------------------------------+
-|             | 1-3        | Amuleto de Proteção contra Escriação                        |
-+-------------+------------+-------------------------------------------------------------+
-| 1           | 4-5        | Mochila Devoradora                                          |
-+-------------+------------+-------------------------------------------------------------+
-| 2           | 6-11       | Mochila de Carga                                            |
-+-------------+------------+-------------------------------------------------------------+
-|             | 12-16      | Mochila da Levitação                                        |
-+-------------+------------+-------------------------------------------------------------+
-|             | 17-21      | Botas de Velocidade                                         |
-+-------------+------------+-------------------------------------------------------------+
-|             | 22-26      | Botas de Viajar e Saltar                                    |
-+-------------+------------+-------------------------------------------------------------+
-| 3           | 27-31      | Vassoura Voadora                                            |
-+-------------+------------+-------------------------------------------------------------+
-| 4           | 32-35      | Bola de Cristal                                             |
-+-------------+------------+-------------------------------------------------------------+
-|             | 36-37      | Bola de Cristal com Clariaudiência                          |
-+-------------+------------+-------------------------------------------------------------+
-|             | 38         | Bola de Cristal com Percepção Extrassensorial               |
-+-------------+------------+-------------------------------------------------------------+
-|             | 39-40      | Capa Deslocadora                                            |
-+-------------+------------+-------------------------------------------------------------+
-|             | 41         | Tambores de Pânico                                          |
-+-------------+------------+-------------------------------------------------------------+
-|             | 42         | Garrafa Efreeti                                             |
-+-------------+------------+-------------------------------------------------------------+
-|             | 43         | Dispositivo de Invovação Elemental: Ar                      |
-+-------------+------------+-------------------------------------------------------------+
-|             | 44         | Dispositivo de Invovação Elemental: Terra                   |
-+-------------+------------+-------------------------------------------------------------+
-|             | 45         | Dispositivo de Invovação Elemental: Fogo                    |
-+-------------+------------+-------------------------------------------------------------+
-|             | 46         | Dispositivo de Invovação Elemental: Água                    |
-+-------------+------------+-------------------------------------------------------------+
-| 5           | 47-56      | Capa e Botas Élficas                                        |
-+-------------+------------+-------------------------------------------------------------+
-|             | 57         | Tapete Voador                                               |
-+-------------+------------+-------------------------------------------------------------+
-| 6           | 58-64      | Manoplas do Poder Ogro                                      |
-+-------------+------------+-------------------------------------------------------------+
-|             | 65-66      | Cinturão da Força Gigante                                   |
-+-------------+------------+-------------------------------------------------------------+
-| 7           | 67-77      | Elmo da Alteração de Alinhamento                            |
-+-------------+------------+-------------------------------------------------------------+
-|             | 78-82      | Elmo da Leitura de Idiomas e Magia                          |
-+-------------+------------+-------------------------------------------------------------+
-| 8           | 83         | Elmo da Telepatia                                           |
-+-------------+------------+-------------------------------------------------------------+
-|             | 84         | Elmo do Teletranspore                                       |
-+-------------+------------+-------------------------------------------------------------+
-|             | 85         | Chifre da Explosão                                          |
-+-------------+------------+-------------------------------------------------------------+
-| 9           | 86-90      | Medalhão da Percepção Extrassensorial 9m                    |
-+-------------+------------+-------------------------------------------------------------+
-|             | 91-93      | Medalhão da Percepção Extrassensorial 27m                   |
-+-------------+------------+-------------------------------------------------------------+
-|             | 94-94      | Espelho de Prender Vida                                     |
-+-------------+------------+-------------------------------------------------------------+
-| 10          | 95-97      | Corda de Escalada                                           |
-+-------------+------------+-------------------------------------------------------------+
-|             | 98-00      | Escaravelho de Proteção                                     |
-+-------------+------------+-------------------------------------------------------------+
++-------------+------------+-------------------------------------------------+
+| Itens Mágicos Diversos                                                     |
++=============+============+=================================================+
+| **B: d10**  | **X: d%**  | **Item**                                        |
++-------------+------------+-------------------------------------------------+
+|             | 1-3        | Amuleto de Proteção contra Escriação            |
++-------------+------------+-------------------------------------------------+
+| 1           | 4-5        | Mochila Devoradora                              |
++-------------+------------+-------------------------------------------------+
+| 2           | 6-11       | Mochila de Carga                                |
++-------------+------------+-------------------------------------------------+
+|             | 12-16      | Mochila da Levitação                            |
++-------------+------------+-------------------------------------------------+
+|             | 17-21      | Botas de Velocidade                             |
++-------------+------------+-------------------------------------------------+
+|             | 22-26      | Botas de Viajar e Saltar                        |
++-------------+------------+-------------------------------------------------+
+| 3           | 27-31      | Vassoura Voadora                                |
++-------------+------------+-------------------------------------------------+
+| 4           | 32-35      | Bola de Cristal                                 |
++-------------+------------+-------------------------------------------------+
+|             | 36-37      | Bola de Cristal com Clariaudiência              |
++-------------+------------+-------------------------------------------------+
+|             | 38         | Bola de Cristal com Percepção Extrassensorial   |
++-------------+------------+-------------------------------------------------+
+|             | 39-40      | Capa Deslocadora                                |
++-------------+------------+-------------------------------------------------+
+|             | 41         | Tambores de Pânico                              |
++-------------+------------+-------------------------------------------------+
+|             | 42         | Garrafa Efreeti                                 |
++-------------+------------+-------------------------------------------------+
+|             | 43         | Dispositivo de Invocação Elemental: Ar          |
++-------------+------------+-------------------------------------------------+
+|             | 44         | Dispositivo de Invocação Elemental: Terra       |
++-------------+------------+-------------------------------------------------+
+|             | 45         | Dispositivo de Invocação Elemental: Fogo        |
++-------------+------------+-------------------------------------------------+
+|             | 46         | Dispositivo de Invocação Elemental: Água        |
++-------------+------------+-------------------------------------------------+
+| 5           | 47-56      | Capa e Botas Élficas                            |
++-------------+------------+-------------------------------------------------+
+|             | 57         | Tapete Voador                                   |
++-------------+------------+-------------------------------------------------+
+| 6           | 58-64      | Manoplas do Poder Ogro                          |
++-------------+------------+-------------------------------------------------+
+|             | 65-66      | Cinturão da Força Gigante                       |
++-------------+------------+-------------------------------------------------+
+| 7           | 67-77      | Elmo da Alteração de Alinhamento                |
++-------------+------------+-------------------------------------------------+
+|             | 78-82      | Elmo da Leitura de Idiomas e Magia              |
++-------------+------------+-------------------------------------------------+
+| 8           | 83         | Elmo da Telepatia                               |
++-------------+------------+-------------------------------------------------+
+|             | 84         | Elmo do Teletransporte                           |
++-------------+------------+-------------------------------------------------+
+|             | 85         | Chifre da Explosão                              |
++-------------+------------+-------------------------------------------------+
+| 9           | 86-90      | Medalhão da Percepção Extrassensorial 9m        |
++-------------+------------+-------------------------------------------------+
+|             | 91-93      | Medalhão da Percepção Extrassensorial 27m       |
++-------------+------------+-------------------------------------------------+
+|             | 94-94      | Espelho de Prender Vida                         |
++-------------+------------+-------------------------------------------------+
+| 10          | 95-97      | Corda de Escalada                               |
++-------------+------------+-------------------------------------------------+
+|             | 98-00      | Escaravelho de Proteção                         |
++-------------+------------+-------------------------------------------------+
 
+**B**: Personagens Básicos (níveis 1–3)<br>
+**X**: Personagens Especialistas (nível 4+)
 
 **Uso**: Todos os personagens (a manos que indicado).
 
@@ -94,7 +96,7 @@ Uma bolsa pequena de aparência normal que devora objetos colocados dentro dele.
 # Mochila de Carga
 Uma bolsa pequena de aparência normal que pode guardar magicamente objetos e cargas.
 * **Tamanho**: Objetos de até 3m x 1,5m x 90cm podem ser colocados dentro da bolsa.
-* **Peso**: Até 10,000 moedas de peso podem ser colocadas dentor da bolsa.
+* **Peso**: Até 10,000 moedas de peso podem ser colocadas dentro da bolsa.
 * **Quando estiver cheia**: A bolsa pesa 600 moedas.
 
 # Botas da Levitação
@@ -143,8 +145,8 @@ Um manto que dobra a luz, fazendo que quem o veste pareça estar 1,5m metro mais
 # Tambores de Pânico
 Tambores de guerra grandes que induzem pânico àqueles que ouvem seu som.
 * **Alcance**: Criaturas até 72m de distância, são afetadas, quando os tambores são tocados. Aqueles que estiverem dentro de 3m dos tambores não são afetados.
-* **Criaturas Afetadas**: São afligidas pelo encatamento de medo dos tambores: elas devem fazer um teste de resistência contra magias ou fazer um teste de moral cm uma penalidade de -2 (se a regra opcional de Moral estiver sendo usada — veja Moral, p123).
-* **Efeitos**: Criaturas que falhem no testes de resistência ou moral, fogem do som dos tambores com toda sua velocidade de deslcoamento por 30 rodadas.
+* **Criaturas Afetadas**: São afligidas pelo encantamento de medo dos tambores: elas devem fazer um teste de resistência contra magias ou fazer um teste de moral cm uma penalidade de -2 (se a regra opcional de Moral estiver sendo usada — veja Moral, p123).
+* **Efeitos**: Criaturas que falhem no testes de resistência ou moral, fogem do som dos tambores com toda sua velocidade de deslocamento por 30 rodadas.
 
 # Garrafa Efreeti
 Um jarro pesado de 1 metro selado com uma rolha. Quebrar o selo e remover a rolha liberam o Efreeti preso (veja p157), que irá servir ao personagem.
@@ -164,13 +166,13 @@ Itens ritualísticos encantados com o poder de invocar seres dos planos elementa
 * **Frequência**: O poder de invocação só pode ser usado uma vez por dia.
 * **Antes do uso**: O dispositivo deve ser preparado. Isso demora um turno.
 * **Ativação**: Uma vez preparado, ativar o dispositivo leva uma rodada.
-* **Elemental invocado**: Um elemetal de 12 DV (veja p158) é conjurado a fazer o pedido do invocador.
-* **Comandos sobre o elemental**: Funcioname de acordo com o descrito na magia Conjurar Elemental do Usuário de Magia (veja p90).
+* **Elemental invocado**: Um elemental de 12 DV (veja p158) é conjurado a fazer o pedido do invocador.
+* **Comandos sobre o elemental**: Funciona de acordo com o descrito na magia Conjurar Elemental do Usuário de Magia (veja p90).
 
 # Capa e Botas Élficas
 Um conjunto de botas encantadas e uma capa que combina, de origem élfica.
-* **Furtividade**: Quem veste as botas é capaz de se mover sileciosamente.
-* **Quase invisibilidade**: O usuário da capa fica quase invisível: existe apenas a chance de 1-em-6 da pessa ser vista.
+* **Furtividade**: Quem veste as botas é capaz de se mover silenciosamente.
+* **Quase invisibilidade**: O usuário da capa fica quase invisível: existe apenas a chance de 1-em-6 da pessoa ser vista.
 * **Atacando**: O poder de invisibilidade da capa é anulado por um turno, se o usuário atacar.
 
 # Tapete Voador
@@ -190,18 +192,18 @@ Um personagem que use essas manoplas fica com o valor de Força de 18.  Isso lhe
 # Cinturão da Força Gigante
 Um personagem que usar esse cinturão recebe a força de um gigante da colina.
 * **Habilidade em Combate**: A habilidade em combate do usuário é aumentada: o personagem ataque como se fosse um monstro de 8 Dados de Vida. (se o personagem já tiver melhores probabilidades para o ataque, o cinturão não as afeta.)
-* **Dano**: O usuário inflinge 2d8 de dano em combate, ou duas vezes o dano normal, se estiver usando as regras opcionais de dano variável (veja Combate, p120).
+* **Dano**: O usuário inflige 2d8 de dano em combate, ou duas vezes o dano normal, se estiver usando as regras opcionais de dano variável (veja Combate, p120).
 
 # Elmo da Alteração de Alinhamento
 Um elmo lindamente trabalhado, mas amaldiçoado.
-* **Colocando** o elmo: faz com que o alinhamento do usuário mude instantâneamento. O novo alinhamento é determinado aleatóriamente.
+* **Colocando** o elmo: faz com que o alinhamento do usuário mude instantaneamente. O novo alinhamento é determinado aleatoriamente.
 * **Removendo**: A maldição funciona de forma que o usuário não consegue remover o elmo, uma vez colocado, e resistirá a tentativas de removê-lo.
 * **Dissipando a magia**: A maldição pode ser removida por magia (por exemplo, remover maldição), ou (se o árbitro quiser) executando uma missão especial.
 
 # Elmo da Leitura de Idiomas e Magia
 Um elmo frágil que garante ao usuário a capacidade de ler escritos de todos os tipos.
 * **Textos normais**: Textos em qualquer idioma podem ser entendidos.
-* **Textos mágicos**: Até mesmo escrita mágica é compreensível. (Entretanto, isso não concede a capacidade de conjudar magias.)
+* **Textos mágicos**: Até mesmo escrita mágica é compreensível. (Entretanto, isso não concede a capacidade de conjurar magias.)
 * **Fragilidade**: Toda vez que o usuário é atingido, existe uma chance de 1-em-10 do elmo ser destruído. Se o usuário for morto, o elmo é destruído.
 
 # Elmo da Telepatia
@@ -211,7 +213,7 @@ Um elmo lindamente trabalhado que garante ao usuário a capacidade de telepatia:
 * **Compreensão**: Os pensamentos da criatura se tornam compreensível para o usuário do elmo.
 * **Comunicação bidirecional**: O usuário pode iniciar uma comunicação bidirecional telepática, embora a criatura alvo não seja compelida a responder.
 
-# Elmo do Teletranspore
+# Elmo do Teletransporte
 Um elmo mágico que dá ao conjurador usuário de magia a capacidade de conjurar a magia teleporte (ver p93).
 * **Sujeitos**: O usuário pode teleportar a si mesmo, outras criaturas, ou um objeto.
 * **Resistindo**: Se usado em outra criatura ou objeto, um teste de resistência contra magias pode ser feito para resistir ao teleporte.
@@ -246,7 +248,7 @@ Um espelho com a capacidade de magicamente aprisionar criaturas vivas atrás de 
 
 # Corda de Escalada
 Um rolo de corda fina, mas forte, contendo a extensão de 15m.
-* **Comando**: O proprietário pode comandar que a corda escale em qualque direção.
+* **Comando**: O proprietário pode comandar que a corda escale em qualquer direção.
 * **Segurando**: A corda também pode ser comandada para se segurar em uma superfície.
 * **Carga**: Até 10,000 moedas de peso podem ser suspendidas pela corda.
 

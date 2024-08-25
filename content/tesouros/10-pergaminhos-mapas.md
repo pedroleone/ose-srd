@@ -54,8 +54,7 @@ metaDescription: "Tesouro -> Pergaminhos e Mapas"
 |           | 99–00     | Mapa de Tesouro: XII                |
 +-----------+-----------+-------------------------------------+
 
-**B**: Personagens Básicos (níveis 1–3)
-
+**B**: Personagens Básicos (níveis 1–3)<br>
 **X**: Personagens Especialistas (nível 4+)
 
 Pergaminhos são folhas envelhecidas de papel, papiro ou couro nas quais palavras mágicas foram escritas por um conjurador de feitiços de alto nível.
@@ -169,11 +168,11 @@ A segunte lista de tipos de mapas do tesouro pode ser usada para determinar a na
 * **V**: 3 itens mágicos e 1 poção.
 * **VI**: 3 itens mágicos, 1 pergaminho, 1 poção.
 * **VII**: 5d6 gemas e 2 itens mágicos.
-* **VIII**: Um montante de tesouro no valor de 1d4 × 1,000po.
-* **IX**: Um montante de tesouro no valor de 5d6 × 1,000po.
-* **X**: Um montante de tesouro no valor de 5d6 × 1,000po e 1 item mágico.
-* **XI**: Um montante de tesouro no valor de 5d6 × 1,000po e 5d6 gemas.
-* **XII**: Um montante de tesouro no valor de 6d6 × 1,000po.
+* **VIII**: Um montante de tesouro no valor de 1d4 × 1.000po.
+* **IX**: Um montante de tesouro no valor de 5d6 × 1.000po.
+* **X**: Um montante de tesouro no valor de 5d6 × 1.000po e 1 item mágico.
+* **XI**: Um montante de tesouro no valor de 5d6 × 1.000po e 5d6 gemas.
+* **XII**: Um montante de tesouro no valor de 6d6 × 1.000po.
 
 ## Valor do Montante de Tesouro
 Para montantes de tesouros com um valor listado em peças de ouro, o árbitro pode escolher que tipo de tesouro está no montante de tesouro. (Por exemplo, podem ser moedas, mas também podem consistir em objetos de arte ou joias valiosas.)

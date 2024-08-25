@@ -52,9 +52,8 @@ metaDescription: "Tesouro -> Bastões, Cajados e Varinhas"
 |            |  96–00       | Varinha de Detectar Armadilha                  |
 +------------+--------------+------------------------------------------------+
 
-B: Personagens básicos (níveis 1–3)
-X: Personagens Especialistas (níveis 4+)
-
+**B**: Personagens Básicos (níveis 1–3)<br>
+**X**: Personagens Especialistas (nível 4+)
 
 # Cargas
 Cajados, bastões, e varinhas tem um número limitado de usos, chamados de "cargas".
@@ -133,7 +132,7 @@ Um item de grande poder mágico, esse cajado pode ser usado como arma em combate
 * **Magia Arcana**: Utilizável apenas por conjudaroes de magia arcana.
 * **Corpo a corpo**: Gastando uma carga, causa 2d6 de dano em um acerto bem-sucedido.
 * **Cone de frio**:  Conjura um cone de energia congelante, com 18m de comprimento e 9m de largura na extremidade final do cone. As criaturas atingidas pelo cone sofrem 8d6 de dano (teste de resistência contra magias para tomar metade do dano).
-* **Magias**: Pode conjurar: Luz Contínua (veja a pág. 81), Bola de Fogo (dano de 8d6 - veja p84), Relâmpago (dano de 8d6 - veja a página 85), Telecinésia (até 2.400 moedas de peso - veja p92).
+* **Magias**: Pode conjurar: Luz Contínua (veja a pág. 81), Bola de Fogo (dano de 8d6 - veja p84), Relâmpago (dano de 8d6 - veja a página 85), Telecinesia (até 2.400 moedas de peso - veja p92).
 
 # Cajado das Cobras
 Um cajado ágico que tem o poder de se transformar em uma cobra com um comando.
@@ -153,7 +152,7 @@ Usado como uma arma mágica corpo-a-corpo.
 
 # Cajado de Definhar
 As criaturas atingidas pelo cajado são envelhecidas magicamente:
-* **Magia Divina**: Utilizável apenas por conjudaroes de magias divinas.
+* **Magia Divina**: Utilizável apenas por conjuradores de magias divinas.
 * **Efeito**: O alvo envelhece 10 anos. As criaturas vivas morrem ao atingir sua expectativa de vida natural.
 * **Espécies que vivem muito**: Ignoram parcialmente os efeitos, ignorando uma certa quantidade de envelhecimento. (Por exemplo, os elfos podem ignorar até 200 anos de envelhecimento, os anões ignoram até 50 anos e assim por diante.)
 * **Criaturas mortas-vivas**: Não são afetadas pelo poder desse cajado.
@@ -163,7 +162,7 @@ Embora geralmente seja permitido aos usuários de magia usar apenas adagas em co
 
 # Cajado da Magia
 Um item de poder mágico supremo, esse cajado pode ser usado como arma em combate corpo a corpo, e pode evocar uma dúzia de efeitos mágicos diferentes.
-* **Magia Arcana**: Utilizável apenas por conjudaroes de magia arcana.
+* **Magia Arcana**: Utilizável apenas por conjuradores de magia arcana.
 * **Corpo a corpo**: Tratado como um cajado com um bônus mágico de +1 em rolagens de ataques e danos.
 * **Corpo a corpo**: Gastando uma carga, causa 2d6 de dano em um acerto bem-sucedido.
 * **Cone de frio**:  Conjura um cone de energia congelante, com 18m de comprimento e 9m de largura na extremidade final do cone. As criaturas atingidas pelo cone sofrem 8d6 de dano (teste de resistência contra magias para tomar metade do dano).

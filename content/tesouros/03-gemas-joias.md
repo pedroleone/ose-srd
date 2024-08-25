@@ -20,7 +20,7 @@ O valor de cada gema em um montante de tesouro é determinado pela seguinte tabe
 +----------+-------------------+
 | 16–19    | 500po             |
 +----------+-------------------+
-| 20       | 1,000po           |
+| 20       | 1.000po           |
 +----------+-------------------+
 
 # Joias
