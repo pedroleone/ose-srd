@@ -97,7 +97,7 @@ Um canal de comunicação é aberto entre os planos exteriores de existência, p
 * **Insanidade**: a comunhão com criaturas de grande poder pode despedaçar a sanidade do conjurador. A chance básica é mostrada na tabela abaixo. Para cada nível de conjurador acima do 11º, a chance é reduzida em 5%. Se o conjurador ficar insano como resultado da comunhão, o tempo de recuperação é igual ao número do plano conectado.
 
 +----------+----------------+--------------+----------------+--------------+
-|**Perguntas aos contatos extraplanares**                                 |
+|**Perguntas aos contatos extraplanares**                                  |
 +==========+================+==============+================+==============+
 |**Plano** |**Nº Perguntas**|**Não sabe**  |**Verdade**     |**Insanidade**|
 +----------+----------------+--------------+----------------+--------------+

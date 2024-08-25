@@ -4,7 +4,6 @@ metaTitle: "Pergaminhos e Mapas"
 metaDescription: "Tesouro -> Pergaminhos e Mapas"
 ---
 
-
 +-----------+-----------+-------------------------------------+
 | Pergaminho Mágicos e Mapas                                  |
 +===========+===========+=====================================+
@@ -137,21 +136,21 @@ Quando usado, conjura um círculo de proteção de 3m de raio em torno do leitor
 O árbitro pode escolher as magias ou rolá-las aleatoriamente. A tabela abaixo pode ser usada para selecionar o nível de cada magia em um pergaminho. (A tabela lista probabilidades separadas para personagens nos níveis Básico e Especialista. Consulte Itens Mágicos Básicos e Especializados, p232.)
 
 +-----------+-----------+---------------+-----------------+
-| Nível de Magia Aleatório para Pergaminho                               |
+| Nível de Magia Aleatório para Pergaminho                |
 +===========+===========+===============+=================+
 | **B: d6** | **X: d%** | **Arcana**    | **Divina**      |
 +-----------+-----------+---------------+-----------------+
-| 1-3       | 1–25      | 1°           | 1°             |
+| 1-3       | 1–25      | 1°            | 1°              |
 +-----------+-----------+---------------+-----------------+
-| 4-5       | 26–50     | 2°           | 2°             |
+| 4-5       | 26–50     | 2°            | 2°              |
 +-----------+-----------+---------------+-----------------+
-| 6         | 51–70     | 3°           | 3°             |
+| 6         | 51–70     | 3°            | 3°              |
 +-----------+-----------+---------------+-----------------+
-|           | 71–85     | 4°          | 4°             |
+|           | 71–85     | 4°            | 4°              |
 +-----------+-----------+---------------+-----------------+
-|           | 86–95     | 5°           | 5°             |
+|           | 86–95     | 5°            | 5°              |
 +-----------+-----------+---------------+-----------------+
-|           | 96–00     | 6°           | 5°             |
+|           | 96–00     | 6°            | 5°              |
 +-----------+-----------+---------------+-----------------+
 
 # Mapa de Tesouro

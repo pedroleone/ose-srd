@@ -101,9 +101,9 @@ Cada poder deve ser rolado na tabela abaixo. As duplicatas devem ser reroladas, 
 +----------+----------------------------------------------------+
 | 89–97    | Visão de Raio-X                                    |
 +----------+----------------------------------------------------+
-| 98–99    | Role novamente 2 vezes nessa tabela               |
+| 98–99    | Role novamente 2 vezes nessa tabela                |
 +----------+----------------------------------------------------+
-| 0        | Role novamente 3 vezes nessa tabela               |
+| 0        | Role novamente 3 vezes nessa tabela                |
 +----------+----------------------------------------------------+
 
 # Clariaudiência
@@ -280,11 +280,3 @@ Além de seus poderes sensoriais e extraordinários, as espadas com propósito e
 * **Ordeira**: Os inimigos caóticos atingidos pela espada devem fazer um teste de resistência contra magia ou ficam paralisados.
 * **Neutra**: O portador ganha um bônus de +1 a todos os testes de resistência.
 * **Caótico**: Inimigos ordeiros atingidos pela espada devem fazer um teste de resistência contra magias ou serão transformados em pedra.
-
-
-
-
-
-
-
-
