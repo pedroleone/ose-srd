@@ -30,6 +30,10 @@ Os trabalhos de tradução foram iniciados por **Franciolli Araújo** e **Pedro 
 
 **O processo de revisão ainda está incompleto**.
 
+A tradução foi iniciada em 2020, quando a [wiki da SRD em inglês](https://oldschoolessentials.necroticgnome.com/) já estava completa. No entanto, a partir de 2022 toda a wiki foi revisada e a maioria dos textos sofreu pequenas atualizações. Em alguns casos é apenas mudança de formatação. Em outros houve mudança textual. Não parece ter havido mudança de regras.
+
+✔️ - Quando este símbolo aparecer ele indica que a seção correspondente teve seu conteúdo atualizado para a versão 2022 da wiki inglesa do OSE. Indica também que a tradução foi revisada.
+
 ## Suporte
 
 Todo o desenvolvimento deste SRD é **open source** e você pode acompanhar pelo [GitHub](https://github.com/pedroleone/osr-srd). Se estiver interessado em ajudar, você pode abrir [*issues*](https://github.com/pedroleone/osr-srd/issues) informando erros, sugestões ou mesmo solicitando acesso para se tornar contribuidor oficial. Fique à vontade para fazer um [*pull request*](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) também.

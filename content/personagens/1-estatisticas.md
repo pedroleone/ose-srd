@@ -1,5 +1,5 @@
 ---
-title: "Estatísticas de Jogo"
+title: "Estatísticas de Jogo ✔️"
 metaTitle: "Estatísticas de jogo"
 metaDescription: "Personagens -> Estatísticas"
 ---
@@ -75,7 +75,7 @@ A capacidade do personagem de evitar certos efeitos perigosos ou prejudiciais. E
 
 A velocidade com que o personagem pode se mover ao explorar, viajar ou durante o combate. Cada personagem tem uma ***taxa de movimentação básica*** e uma ***taxa de movimentação de encontro*** (indicada entre parênteses). A taxa de movimentação de encontro é um terço da taxa de movimentação básica. A taxa de movimento padrão para personagens é de 36 (12) — uma taxa de movimentação básica de 36 metros e uma taxa de movimentação de encontro de 12 metros.
 
-* **Terra**: O número de quilômetros que um personagem pode viajar em um dia em áreas selvagens é igual à taxa de movimentação básica.
+* **Superfície**: O número de quilômetros que um personagem pode viajar em um dia nos ermos é igual à sua taxa de movimentação básica.
 * **Exploração**: Ao explorar áreas desconhecidas de uma masmorra, os personagens podem se mover com sua taxa de movimentação básica em metros por turno (10 minutos).
 
 # Habilidades de Classe
