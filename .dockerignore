@@ -1,3 +1,6 @@
 node_modules
+.dockerignore
+Dockerfile
+docker-compose.yml
 public
 .cache
