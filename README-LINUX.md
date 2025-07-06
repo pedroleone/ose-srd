@@ -28,6 +28,27 @@ curl -fsSL https://deb.nodesource.com/setup_16.x | bash -
 apt-get install -y nodejs
 ```
 
+### Debian 12 (Bookworm) e distros derivadas
+
+Instale:
+
+```sh
+sudo apt update
+sudo apt install -y nodejs npm
+```
+
+O Debian 12 já vem com Node.js 18, mas para garantir que o Gatsby rode sem problemas com o OpenSSL 3, você deve configurar a variável de ambiente `NODE_OPTIONS` para o fallback legado do OpenSSL.
+
+Sempre que for executar o passo 4, a seguir, você DEVE configurar a variável de ambiente para evitar erro de crypto (ou pode deixá-la no seu `.bashrc`). Você vai digitar essa linha no terminal:
+
+```sh
+export NODE_OPTIONS=--openssl-legacy-provider
+```
+
+E, sem fechar o terminal, execute o passo 4.
+
+### Outras distros
+
 Para outras distribuições consulte o site do desenvolvedor, as instruções são bem simples: [nodesource distributions](https://github.com/nodesource/distributions/blob/master/README.md).
 
 ## 2. Clonar o repositório
