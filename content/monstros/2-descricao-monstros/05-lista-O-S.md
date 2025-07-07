@@ -380,7 +380,7 @@ _Marinheiros que ganham a vida saqueando assentamentos costeiros, roubando outro
 * **Navios e tripulação**: Depende de onde é encontrado. Rios e lagos: 1d8 barcos fluviais (1d2 x 10 piratas em cada); águas costeiras: 1d6 gales pequenas (1d3+1 x 10 piratas em cada); área qualquer: 1d4 navios longos (1d3+2 x 10 piratas em cada); oceano: 1d3 pequenos barcos de guerra (1d5+3 x 10 piratas em cada).
 * **Armss**: 50% do grupo tem: armadura de couro, espada; 35% do grupo tem: armadura de couro, espada, besta; 15% do grupo tem: cota de malha, espada.
 * **Líderes**: Para cada 30 piratas, há um Guerreiro de 4º nível. Para cada 50 piratas e para cada navio, há um Guerreiro de 5º nível. Para cada 100 piratas e por frota, há um Guerreiro de 8º nível.
-* **Comandate de frota**: Frotas de 300 ou mais piratas são lideradas por um lorde pirata (Guerreiro do 11º nível). 75% de chance de ter um usuário de magia (nível 1d2+8)
+* **Comandante de frota**: Frotas de 300 ou mais piratas são lideradas por um lorde pirata (Guerreiro do 11º nível). 75% de chance de ter um usuário de magia (nível 1d2+8)
 * **Traiçoeiro**: Atacará outros piratas se puderem lucrar com isso.
 * **Prisioneiros**: 25% de chance de 1d3 prisioneiros para serem resgatados.
 * **Tesouro**: Dividido entre os navios. Ao invés de carregarem consigo, podem ter um mapa de onde o enterraram.
@@ -829,7 +829,7 @@ _Foras da lei e mercenários que ganham a vida saqueando assentamentos e atacand
 
 * **Soldado**: Metade do grupo tem: armadura de couro, escudo, espada e arco curto.
 * **Cavalaria**:A outra metade está montada em cavalso e tem: cota de malha, escudo, espada.
-* **Líderes e comandantes**: Para cada 20 salteadores, há um líder (Guerreiro 2º nível). Para cada 40 salteadores, há um comandate (Guerreiro 4º Nível). Líderes montam cavalos de guerra (com barda) e tem: armadura de placas, espada, lança.
+* **Líderes e comandantes**: Para cada 20 salteadores, há um líder (Guerreiro 2º nível). Para cada 40 salteadores, há um comandante (Guerreiro 4º Nível). Líderes montam cavalos de guerra (com barda) e tem: armadura de placas, espada, lança.
 * **Acampamento fortificado**: Bandos geralmente se juntam e vivem em um único acampamento de 5d6 x 10 salteadores. 
 * **Líderes de acampamento**: Acampamentos combinados são liderados por um guerreiro de 9º nível, mais um guerreiro de 5º nível a cada 50 salteadores. Também há 50% de chance de um usuário de magia (nível 1d3+8); 30% de chance de ter um clérigo (8º nível).
 
