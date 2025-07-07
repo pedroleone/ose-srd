@@ -5,9 +5,12 @@ services:
     working_dir: /app
     volumes:
       - .:/app
+      - /app/node_modules
     ports:
       - "8000:8000"
-    command: sh -c "npm install && npm run develop"
+    environment:
+      - NODE_OPTIONS=--openssl-legacy-provider
+    command: sh -c "npm install && npx gatsby develop -H 0.0.0.0"
     stdin_open: true
     tty: true
 
