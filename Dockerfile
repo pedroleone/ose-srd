@@ -1,5 +1,5 @@
-# Debian 11 (Bullseye) + nodejs 18
-FROM node:18-bullseye
+# Debian 12 (Bookworm) + nodejs 18
+FROM node:18-bookworm
 
 # Create app directory
 WORKDIR /app
