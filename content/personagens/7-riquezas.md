@@ -9,21 +9,70 @@ Personagens bem sucedidos acumulam riquezas dos espólios de suas aventuras. Tes
 # Dinheiro
 A moeda mais comum são as peças de ouro (po). Moedas feitas de outros metais - platina (pl), eléctrum (pe), prata (pp) e cobre (pc) - também são usadas. As taxas de conversão das moedas é mostrada abaixo.
 
-+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|**Taxa de conversão de moedas**                                                                                              |
-+====================+====================+====================+====================+====================+====================+
-|                    |**1 pl**            |**1 po**            |**1 pe**            |**1 pp**            |**1 pc**            |
-+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|**Valor em pl**     |1                   |1/5                 |1/10                |1/50                |1/500               |
-+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|**Valor em po**     |5                   |1                   |1/2                 |1/10                |1/100               |
-+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|**Valor em pe**     |10                  |2                   |1                   |1/5                 |1/50                |
-+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|**Valor em pp**     |50                  |10                  |5                   |1                   |1/10                |
-+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
-|**Valor em pc**     |500                 |100                 |10                  |5                   |1                   |
-+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="6"><strong>Taxa de conversão de moedas</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><strong>1 pl</strong></td>
+<td><strong>1 po</strong></td>
+<td><strong>1 pe</strong></td>
+<td><strong>1 pp</strong></td>
+<td><strong>1 pc</strong></td>
+</tr>
+<tr>
+<td><strong>Valor em pl</strong></td>
+<td>1</td>
+<td>1/5</td>
+<td>1/10</td>
+<td>1/50</td>
+<td>1/500</td>
+</tr>
+<tr>
+<td><strong>Valor em po</strong></td>
+<td>5</td>
+<td>1</td>
+<td>1/2</td>
+<td>1/10</td>
+<td>1/100</td>
+</tr>
+<tr>
+<td><strong>Valor em pe</strong></td>
+<td>10</td>
+<td>2</td>
+<td>1</td>
+<td>1/5</td>
+<td>1/50</td>
+</tr>
+<tr>
+<td><strong>Valor em pp</strong></td>
+<td>50</td>
+<td>10</td>
+<td>5</td>
+<td>1</td>
+<td>1/10</td>
+</tr>
+<tr>
+<td><strong>Valor em pc</strong></td>
+<td>500</td>
+<td>100</td>
+<td>10</td>
+<td>5</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 
 # Recursos Iniciais
 Os personagens dos jogadores começam o jogo com 3d6 x 10 peças de ouro.

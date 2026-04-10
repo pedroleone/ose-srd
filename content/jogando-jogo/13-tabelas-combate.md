@@ -14,43 +14,295 @@ Todos os humanos que não sejam membros de uma classe de aventureiro são classi
 
 # Matriz de Ataque por TAC0
 
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|        |**Jogada de Ataque para Atingir CA**                                                      |
-+========+======+======+======+======+======+======+======+======+======+======+======+======+======+
-|**TAC0**|**-3**|**-2**|**-1**|** 0**|** 1**|** 2**|** 3**|** 4**|** 5**|** 6**|** 7**|** 8**|** 9**|
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|20 [-1] |20    |20    |20    |20    |19    |18    |17    |16    |15    |14    |13    |12    |11    |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|19 [0]  |20    |20    |20    |19    |18    |17    |16    |15    |14    |13    |12    |11    |10    |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|18 [+1] |20    |20    |19    |18    |17    |16    |15    |14    |13    |12    |11    |10    |9     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|17 [+2] |20    |19    |18    |17    |16    |15    |14    |13    |12    |11    |10    |9     |8     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|16 [+3] |19    |18    |17    |16    |15    |14    |13    |12    |11    |10    |9     |8     |7     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|15 [+4] |18    |17    |16    |15    |14    |13    |12    |11    |10    |9     |8     |7     |6     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|14 [+5] |17    |16    |15    |14    |13    |12    |11    |10    |9     |8     |7     |6     |5     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|13 [+6] |16    |15    |14    |13    |12    |11    |10    |9     |8     |7     |6     |5     |4     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|12 [+7] |15    |14    |13    |12    |11    |10    |9     |8     |7     |6     |5     |4     |3     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|11 [+8] |14    |13    |12    |11    |10    |9     |8     |7     |6     |5     |4     |3     |2     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|10 [+9] |13    |12    |11    |10    |9     |8     |7     |6     |5     |4     |3     |2     |2     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|9 [+10] |12    |11    |10    |9     |8     |7     |6     |5     |4     |3     |2     |2     |2     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|8 [+11] |11    |10    |9     |8     |7     |6     |5     |4     |3     |2     |2     |2     |2     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|7 [+12] |10    |9     |8     |7     |6     |5     |4     |3     |2     |2     |2     |2     |2     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|6 [+13] |9     |8     |7     |6     |5     |4     |3     |2     |2     |2     |2     |2     |2     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
-|5 [+14] |8     |7     |6     |5     |4     |3     |2     |2     |2     |2     |2     |2     |2     |
-+--------+------+------+------+------+------+------+------+------+------+------+------+------+------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th></th>
+<th colspan="13"><strong>Jogada de Ataque para Atingir CA</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>TAC0</strong></td>
+<td><strong>-3</strong></td>
+<td><strong>-2</strong></td>
+<td><strong>-1</strong></td>
+<td><strong> 0</strong></td>
+<td><strong> 1</strong></td>
+<td><strong> 2</strong></td>
+<td><strong> 3</strong></td>
+<td><strong> 4</strong></td>
+<td><strong> 5</strong></td>
+<td><strong> 6</strong></td>
+<td><strong> 7</strong></td>
+<td><strong> 8</strong></td>
+<td><strong> 9</strong></td>
+</tr>
+<tr>
+<td>20 [-1]</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td>19</td>
+<td>18</td>
+<td>17</td>
+<td>16</td>
+<td>15</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+</tr>
+<tr>
+<td>19 [0]</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td>19</td>
+<td>18</td>
+<td>17</td>
+<td>16</td>
+<td>15</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+</tr>
+<tr>
+<td>18 [+1]</td>
+<td>20</td>
+<td>20</td>
+<td>19</td>
+<td>18</td>
+<td>17</td>
+<td>16</td>
+<td>15</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+</tr>
+<tr>
+<td>17 [+2]</td>
+<td>20</td>
+<td>19</td>
+<td>18</td>
+<td>17</td>
+<td>16</td>
+<td>15</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+</tr>
+<tr>
+<td>16 [+3]</td>
+<td>19</td>
+<td>18</td>
+<td>17</td>
+<td>16</td>
+<td>15</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>15 [+4]</td>
+<td>18</td>
+<td>17</td>
+<td>16</td>
+<td>15</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+</tr>
+<tr>
+<td>14 [+5]</td>
+<td>17</td>
+<td>16</td>
+<td>15</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td>13 [+6]</td>
+<td>16</td>
+<td>15</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+</tr>
+<tr>
+<td>12 [+7]</td>
+<td>15</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>11 [+8]</td>
+<td>14</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>10 [+9]</td>
+<td>13</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9 [+10]</td>
+<td>12</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>8 [+11]</td>
+<td>11</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>7 [+12]</td>
+<td>10</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6 [+13]</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5 [+14]</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
 
 
 # Teste de Resistência dos Monstros
@@ -119,5 +371,4 @@ Todos os humanos que não sejam membros de uma classe de aventureiro são classi
 Ao invés de se referir a matriz de combate, os ataques podem ser resolvidos usando o TAC0 diretamente. Um valor de TAC0 representa a jogada de ataque necessária para atingir CA 0. A jogada de ataque necessária para atingir oponentes com outros valores de CA podem ser calculados subtraindo-se a CA do alvo do TAC0. Por exemplo, um personagem com TAC0 19 pode atingir um alvo com CA 5 com uma jogada de 14 (19 - 5 = 14).
 
 **Nota**: usando TAC0 para resolver jogadas de ataque resulta em uma pequena diferença nas probabilidades de ataque, se comparado com abordagem referente à matriz de combate.
-
 

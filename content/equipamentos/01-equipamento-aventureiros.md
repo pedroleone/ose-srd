@@ -4,59 +4,122 @@ metaTitle: "Equipamentos de Aventureiro"
 metaDescription: "Equipamentos > Equipamentos de Aventureiro"
 ---
 
-+-------------------------------------------------------------+-------------------+
-| Equipamentos de Aventureiro                                                     |
-+=============================================================+===================+
-| Item                                                        | Custo (po)        |
-+-------------------------------------------------------------+-------------------+
-| Mochila                                                     | 5                 |                              
-+-------------------------------------------------------------+-------------------+
-| Pé de cabra                                                 | 10                |                                                  
-+-------------------------------------------------------------+-------------------+
-| Alho                                                        | 5                 |                                          
-+-------------------------------------------------------------+-------------------+
-| Gancho de prender                                           | 25                |        
-+-------------------------------------------------------------+-------------------+
-| Martelo (pequeno)                                           | 2                 |       
-+-------------------------------------------------------------+-------------------+
-| Símbolo sagrado                                             | 25                |      
-+-------------------------------------------------------------+-------------------+
-| Água Benta (frasco)                                         | 25                |          
-+-------------------------------------------------------------+-------------------+
-| Estaca de ferro (12)                                        | 1                 |          
-+-------------------------------------------------------------+-------------------+
-| Lanterna                                                    | 10                |                                               
-+-------------------------------------------------------------+-------------------+
-| Espelho (de mão, aço)                                       | 5                 |           
-+-------------------------------------------------------------+-------------------+
-| Óleo (1 frasco)                                             | 2                 |     
-+-------------------------------------------------------------+-------------------+
-| Vara (3 m altura, madeira)                                  | 1                 |                
-+-------------------------------------------------------------+-------------------+
-| Rações (desidratada, 7 dias)                                | 15                |                   
-+-------------------------------------------------------------+-------------------+
-| Rações (padrão, 7 dias)                                     | 5                 |             
-+-------------------------------------------------------------+-------------------+
-| Corda (15 m)                                                | 1                 |                                                  
-+-------------------------------------------------------------+-------------------+
-| Saco (pequeno)                                              | 1                 |                                                    
-+-------------------------------------------------------------+-------------------+
-| Saco (grande)                                               | 2                 |                                                   
-+-------------------------------------------------------------+-------------------+
-| Estacas (3) e marreta                                       | 3                 |           
-+-------------------------------------------------------------+-------------------+
-| Ferramentas de ladrão                                       | 25                |            
-+-------------------------------------------------------------+-------------------+
-| Estojo de pavio e pederneira (Pederneira e isqueiro)        | 3                 |                                          
-+-------------------------------------------------------------+-------------------+
-| Tochas (6)                                                  | 1                 |                                                
-+-------------------------------------------------------------+-------------------+
-| Cantil                                                      | 1                 |                                            
-+-------------------------------------------------------------+-------------------+
-| Vinho (1 litro)                                             | 1                 |                                                     
-+-------------------------------------------------------------+-------------------+
-| Acônito (1 molho)                                           | 10                |               
-+-------------------------------------------------------------+-------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="2">Equipamentos de Aventureiro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Item</td>
+<td>Custo (po)</td>
+</tr>
+<tr>
+<td>Mochila</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Pé de cabra</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Alho</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Gancho de prender</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Martelo (pequeno)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Símbolo sagrado</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Água Benta (frasco)</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Estaca de ferro (12)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Lanterna</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Espelho (de mão, aço)</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Óleo (1 frasco)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Vara (3 m altura, madeira)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Rações (desidratada, 7 dias)</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Rações (padrão, 7 dias)</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Corda (15 m)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Saco (pequeno)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Saco (grande)</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Estacas (3) e marreta</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Ferramentas de ladrão</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Estojo de pavio e pederneira (Pederneira e isqueiro)</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Tochas (6)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Cantil</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Vinho (1 litro)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Acônito (1 molho)</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
 
 # Descrições
 

@@ -21,46 +21,195 @@ Ladrões são aventureiros que vivem por suas perícias de trapaça e intriga. S
 
 **Ajuste de Valores de Atributos**: No passo 3 da criação de personagens, os ladrões não podem diminuir FOR.
 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| Progressão de Nível do Ladrão                                                      |
-+===========+==========+========+==========+========+=======+=======+=======+========+
-|                                          | **Jogada de Resistência**               | 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| **Nv**    | **XP**   | **DV** | **TAC0** | **Mt** | **V** | **P** | **S** | **Ma** |  
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 1         | 0        | 1d4    | 19 [0]   | 13     | 14    | 13    | 16    | 15     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 2         | 1.200    | 2d4    | 19 [0]   | 13     | 14    | 13    | 16    | 15     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 3         | 2.400    | 3d4    | 19 [0]   | 13     | 14    | 13    | 16    | 15     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 4         | 4.800    | 4d4    | 19 [0]   | 13     | 14    | 13    | 16    | 15     | 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 5         | 9.600    | 5d4    | 17 [+2]  | 12     | 13    | 11    | 14    | 13     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 6         | 20.000   | 6d4    | 17 [+2]  | 12     | 13    | 11    | 14    | 13     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 7         | 40.000   | 7d4    | 17 [+2]  | 12     | 13    | 11    | 14    | 13     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 8         | 80.000   | 8d4    | 17 [+2]  | 12     | 13    | 11    | 14    | 13     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 9         | 160.000  | 9d4    | 14 [+5]  | 10     | 11    | 9     | 12    | 10     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 10        | 280.000  | 9d4+1* | 14 [+5]  | 10     | 11    | 9     | 12    | 10     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 11        | 400.000  | 9d4+2* | 14 [+5]  | 10     | 11    | 9     | 12    | 10     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 12        | 520.000  | 9d4+3* | 14 [+5]  | 10     | 11    | 9     | 12    | 10     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 13        | 640.000  | 9d4+4* | 12 [+7]  | 8      | 9     | 7     | 10    | 8      |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 14        | 760.000  | 9d4+5* | 12 [+7]  | 8      | 9     | 7     | 10    | 8      |  
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| &ast; Modificadores de CON não se        |**Mt**: Morte / veneno; **V**: Varinhas; |
-|aplicam mais.                             |**P**: Paralisia / petrificar;           |
-|                                          |**S**: Ataques de sopro;                 |
-|                                          |**Ma**: Feitiços / varinhas / bastões    |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="9">Progressão de Nível do Ladrão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4"></td>
+<td colspan="5"><strong>Jogada de Resistência</strong></td>
+</tr>
+<tr>
+<td><strong>Nv</strong></td>
+<td><strong>XP</strong></td>
+<td><strong>DV</strong></td>
+<td><strong>TAC0</strong></td>
+<td><strong>Mt</strong></td>
+<td><strong>V</strong></td>
+<td><strong>P</strong></td>
+<td><strong>S</strong></td>
+<td><strong>Ma</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>0</td>
+<td>1d4</td>
+<td>19 [0]</td>
+<td>13</td>
+<td>14</td>
+<td>13</td>
+<td>16</td>
+<td>15</td>
+</tr>
+<tr>
+<td>2</td>
+<td>1.200</td>
+<td>2d4</td>
+<td>19 [0]</td>
+<td>13</td>
+<td>14</td>
+<td>13</td>
+<td>16</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2.400</td>
+<td>3d4</td>
+<td>19 [0]</td>
+<td>13</td>
+<td>14</td>
+<td>13</td>
+<td>16</td>
+<td>15</td>
+</tr>
+<tr>
+<td>4</td>
+<td>4.800</td>
+<td>4d4</td>
+<td>19 [0]</td>
+<td>13</td>
+<td>14</td>
+<td>13</td>
+<td>16</td>
+<td>15</td>
+</tr>
+<tr>
+<td>5</td>
+<td>9.600</td>
+<td>5d4</td>
+<td>17 [+2]</td>
+<td>12</td>
+<td>13</td>
+<td>11</td>
+<td>14</td>
+<td>13</td>
+</tr>
+<tr>
+<td>6</td>
+<td>20.000</td>
+<td>6d4</td>
+<td>17 [+2]</td>
+<td>12</td>
+<td>13</td>
+<td>11</td>
+<td>14</td>
+<td>13</td>
+</tr>
+<tr>
+<td>7</td>
+<td>40.000</td>
+<td>7d4</td>
+<td>17 [+2]</td>
+<td>12</td>
+<td>13</td>
+<td>11</td>
+<td>14</td>
+<td>13</td>
+</tr>
+<tr>
+<td>8</td>
+<td>80.000</td>
+<td>8d4</td>
+<td>17 [+2]</td>
+<td>12</td>
+<td>13</td>
+<td>11</td>
+<td>14</td>
+<td>13</td>
+</tr>
+<tr>
+<td>9</td>
+<td>160.000</td>
+<td>9d4</td>
+<td>14 [+5]</td>
+<td>10</td>
+<td>11</td>
+<td>9</td>
+<td>12</td>
+<td>10</td>
+</tr>
+<tr>
+<td>10</td>
+<td>280.000</td>
+<td>9d4+1*</td>
+<td>14 [+5]</td>
+<td>10</td>
+<td>11</td>
+<td>9</td>
+<td>12</td>
+<td>10</td>
+</tr>
+<tr>
+<td>11</td>
+<td>400.000</td>
+<td>9d4+2*</td>
+<td>14 [+5]</td>
+<td>10</td>
+<td>11</td>
+<td>9</td>
+<td>12</td>
+<td>10</td>
+</tr>
+<tr>
+<td>12</td>
+<td>520.000</td>
+<td>9d4+3*</td>
+<td>14 [+5]</td>
+<td>10</td>
+<td>11</td>
+<td>9</td>
+<td>12</td>
+<td>10</td>
+</tr>
+<tr>
+<td>13</td>
+<td>640.000</td>
+<td>9d4+4*</td>
+<td>12 [+7]</td>
+<td>8</td>
+<td>9</td>
+<td>7</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td>14</td>
+<td>760.000</td>
+<td>9d4+5*</td>
+<td>12 [+7]</td>
+<td>8</td>
+<td>9</td>
+<td>7</td>
+<td>10</td>
+<td>8</td>
+</tr>
+<tr>
+<td colspan="4">* Modificadores de CON não se aplicam mais.</td>
+<td colspan="5"><strong>Mt</strong>: Morte / veneno; <strong>V</strong>: Varinhas; <strong>P</strong>: Paralisia / petrificar; <strong>S</strong>: Ataques de sopro; <strong>Ma</strong>: Feitiços / varinhas / bastões</td>
+</tr>
+</tbody>
+</table>
 
 # Ataque pelas costas
 Quando atacando um oponente desprevenido pelas costas, o ladrão recebe um bônus de +4 para acertar e dobra qualquer dano causado.
@@ -125,4 +274,3 @@ Todas as perícias, exceto ouvir ruídos, são rolados em d%, com um resultado m
 
 # Conhecimento do Jogador
 O árbitro deve fazer as jogadas de esconder-se nas sombras e mover-se silenciosamente pelo jogador, pois o ladrão sempre acredita que a tentativa é bem sucedida. Se a jogada falhar, o árbitro sabe que o ladrão foi notado, e deve determinar as ações dos inimigos apropriadamente.
-

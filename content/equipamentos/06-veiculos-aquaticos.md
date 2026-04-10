@@ -7,27 +7,103 @@ import { Link } from "gatsby"
 
 # Embarcações Navegáveis
 
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Embarcações de navegação                                                                                                                                                   |
-+================================+================+==================================+================================+=====================+===============+================+
-| **Embarcação**                 | **Custo (po)** | **Capacidade de carga (moedas)** | **Utilização**                 | **Comprimento (m)** | **Boca (m)**  | **Calado**     |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Barco salva-vidas              | 1.000          | 15.000                           | Qualquer                       | 6 m                 | 1,2 m – 1,5 m | 30 cm – 60 cm  |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Navio grande                   | 15.000         | 40.000                           | Qualquer                       | 18 m – 24 m         | 3 m – 4,5 m   | 60 cm – 90 cm  |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Veleiro (grande)               | 20.000         | 300.000                          | Águas costeiras, oceano aberto | 30 m –45 m          | 7,5 m – 9 m   | 3 m – 3,6 m    |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Veleiro (pequeno)              | 5.000          | 100.000                          | Águas costeiras, oceano aberto | 18 m – 24 m         | 6 m – 9 m     | 1,5 m – 2,4 m  |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Transporte de tropas (grande)  | 26.600         | 300.000                          | Águas costeiras, oceano aberto | 30 m – 45 m         | 7,5 m – 9 m   | 3 m – 3,6 m    | 
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Transporte de tropas (pequeno) | 6.600          | 100.000                          | Águas costeiras, oceano aberto | 18 m – 24 m         | 6 m – 9 m     | 1,5 m – 2,4 m  |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Navio de guerra (grande)       | 26.600         | 300.000                          | Águas costeiras, oceano aberto | 30 m – 45 m         | 7,5 m – 9 m   | 3 m – 3,6 m    |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Navio de guerra (pequeno)      | 6.600          | 100.000                          | Águas costeiras, oceano aberto | 18 m – 24 m         | 6 m – 9 m     | 1,5 m – 2,4 m  |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="7">Embarcações de navegação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Embarcação</strong></td>
+<td><strong>Custo (po)</strong></td>
+<td><strong>Capacidade de carga (moedas)</strong></td>
+<td><strong>Utilização</strong></td>
+<td><strong>Comprimento (m)</strong></td>
+<td><strong>Boca (m)</strong></td>
+<td><strong>Calado</strong></td>
+</tr>
+<tr>
+<td>Barco salva-vidas</td>
+<td>1.000</td>
+<td>15.000</td>
+<td>Qualquer</td>
+<td>6 m</td>
+<td>1,2 m – 1,5 m</td>
+<td>30 cm – 60 cm</td>
+</tr>
+<tr>
+<td>Navio grande</td>
+<td>15.000</td>
+<td>40.000</td>
+<td>Qualquer</td>
+<td>18 m – 24 m</td>
+<td>3 m – 4,5 m</td>
+<td>60 cm – 90 cm</td>
+</tr>
+<tr>
+<td>Veleiro (grande)</td>
+<td>20.000</td>
+<td>300.000</td>
+<td>Águas costeiras, oceano aberto</td>
+<td>30 m –45 m</td>
+<td>7,5 m – 9 m</td>
+<td>3 m – 3,6 m</td>
+</tr>
+<tr>
+<td>Veleiro (pequeno)</td>
+<td>5.000</td>
+<td>100.000</td>
+<td>Águas costeiras, oceano aberto</td>
+<td>18 m – 24 m</td>
+<td>6 m – 9 m</td>
+<td>1,5 m – 2,4 m</td>
+</tr>
+<tr>
+<td>Transporte de tropas (grande)</td>
+<td>26.600</td>
+<td>300.000</td>
+<td>Águas costeiras, oceano aberto</td>
+<td>30 m – 45 m</td>
+<td>7,5 m – 9 m</td>
+<td>3 m – 3,6 m</td>
+</tr>
+<tr>
+<td>Transporte de tropas (pequeno)</td>
+<td>6.600</td>
+<td>100.000</td>
+<td>Águas costeiras, oceano aberto</td>
+<td>18 m – 24 m</td>
+<td>6 m – 9 m</td>
+<td>1,5 m – 2,4 m</td>
+</tr>
+<tr>
+<td>Navio de guerra (grande)</td>
+<td>26.600</td>
+<td>300.000</td>
+<td>Águas costeiras, oceano aberto</td>
+<td>30 m – 45 m</td>
+<td>7,5 m – 9 m</td>
+<td>3 m – 3,6 m</td>
+</tr>
+<tr>
+<td>Navio de guerra (pequeno)</td>
+<td>6.600</td>
+<td>100.000</td>
+<td>Águas costeiras, oceano aberto</td>
+<td>18 m – 24 m</td>
+<td>6 m – 9 m</td>
+<td>1,5 m – 2,4 m</td>
+</tr>
+</tbody>
+</table>
 
 ## Descrições 
 
@@ -45,27 +121,103 @@ import { Link } from "gatsby"
 
 # Embarcações Não Navegáveis
 
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Embarcações não navegáveis                                                                                                                                                   |
-+================================+================+==================================+================================+=====================+===============+================+
-| **Embarcação**                 | **Custo (po)** | **Capacidade de carga (moedas)** | **Utilização**                 | **Comprimento (m)** | **Boca (m)**  | **Calado**     |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Barco fluvial                  | 4.000          | 30.000                           | Rios e lagos                   | 6 m – 9 m           | 3 m           | 60 cm – 90 cm  |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Barco a vela                   | 2.000          | 20.000                           | Lagos, águas costeiras         | 6 m – 12 m          | 3 m – 4,5 m   | 60 cm – 90 cm  |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Canoa                          | 50             | 6.000                            | Rios, pântanos                 | 4,5 m               | 90 cm         | 30 cm          |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Galé (grande)                  | 30.000         | 40.000                           | Águas costeiras                | 36 m – 45 m         | 4,5 m – 6 m   | 90 cm          |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Galé (pequena)                 | 10.000         | 20.000                           | Águas costeiras                | 18 – 30 m           | 3 m – 4,5 m   | 60 cm – 90 cm  |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Galé (guerra)                  | 60.000         | 60.000                           | Águas costeiras                | 36 m – 45 m         | 6 m – 9 m     | 1,2 m – 1,8 m  |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Jangada (improvisada)          | –              | 50 por 0,1 m²                    | Rios, lagos                    | Varia               | Varia         | 15 cm          |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
-| Jangada (profissional)         | 1 por 0,1 m²   | 100 po por 0,1 m²                | Rios, lagos                    | Varia               | Varia         | 15 cm          |
-+--------------------------------+----------------+----------------------------------+--------------------------------+---------------------+---------------+----------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="7">Embarcações não navegáveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Embarcação</strong></td>
+<td><strong>Custo (po)</strong></td>
+<td><strong>Capacidade de carga (moedas)</strong></td>
+<td><strong>Utilização</strong></td>
+<td><strong>Comprimento (m)</strong></td>
+<td><strong>Boca (m)</strong></td>
+<td><strong>Calado</strong></td>
+</tr>
+<tr>
+<td>Barco fluvial</td>
+<td>4.000</td>
+<td>30.000</td>
+<td>Rios e lagos</td>
+<td>6 m – 9 m</td>
+<td>3 m</td>
+<td>60 cm – 90 cm</td>
+</tr>
+<tr>
+<td>Barco a vela</td>
+<td>2.000</td>
+<td>20.000</td>
+<td>Lagos, águas costeiras</td>
+<td>6 m – 12 m</td>
+<td>3 m – 4,5 m</td>
+<td>60 cm – 90 cm</td>
+</tr>
+<tr>
+<td>Canoa</td>
+<td>50</td>
+<td>6.000</td>
+<td>Rios, pântanos</td>
+<td>4,5 m</td>
+<td>90 cm</td>
+<td>30 cm</td>
+</tr>
+<tr>
+<td>Galé (grande)</td>
+<td>30.000</td>
+<td>40.000</td>
+<td>Águas costeiras</td>
+<td>36 m – 45 m</td>
+<td>4,5 m – 6 m</td>
+<td>90 cm</td>
+</tr>
+<tr>
+<td>Galé (pequena)</td>
+<td>10.000</td>
+<td>20.000</td>
+<td>Águas costeiras</td>
+<td>18 – 30 m</td>
+<td>3 m – 4,5 m</td>
+<td>60 cm – 90 cm</td>
+</tr>
+<tr>
+<td>Galé (guerra)</td>
+<td>60.000</td>
+<td>60.000</td>
+<td>Águas costeiras</td>
+<td>36 m – 45 m</td>
+<td>6 m – 9 m</td>
+<td>1,2 m – 1,8 m</td>
+</tr>
+<tr>
+<td>Jangada (improvisada)</td>
+<td>–</td>
+<td>50 por 0,1 m²</td>
+<td>Rios, lagos</td>
+<td>Varia</td>
+<td>Varia</td>
+<td>15 cm</td>
+</tr>
+<tr>
+<td>Jangada (profissional)</td>
+<td>1 por 0,1 m²</td>
+<td>100 po por 0,1 m²</td>
+<td>Rios, lagos</td>
+<td>Varia</td>
+<td>Varia</td>
+<td>15 cm</td>
+</tr>
+</tbody>
+</table>
 
 ## Descrições 
 
@@ -93,87 +245,348 @@ As embarcações descritas nesta seção abrangem vários períodos históricos,
 
 # Movimentação e Tripulação de Embarcações
 
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-|                                                  | **Remo (remadores)**                                         | **Vela (marinheiros)**                           |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| **Embarcação**                  | **Necessita**  | **Tripulação**        | **km / dia** | **Taxa de Movimento** | **Tripulação** | **km / dia** | **Taxa de**      |
-|                                 | **Capitão?**   | **Necessária**        |              |                       | **Necessária** |              | **Movimento**    |                   
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Barco fluvial                   | Não            | 8                     | 54           | 54 m (18 m)           | &ndash;        | &ndash;      | &ndash;          |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Barco a vela                    | Não            | &ndash;               | &ndash;      | &ndash;               | 1              | 108          | 108 m (36 m)     |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Canoa                           | Não            | 1&ast;&ast;           | 27           | 27 m ( 18 m)          | &ndash;        | &ndash;      | &ndash;          |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Galé (grande)                   | Sim            | 180                   | 27           | 27 m (18 m)           | 20             | 108          | 108 m  (36 m)    |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Galé (pequena)                  | Sim            | 60                    | 27           | 27 m (27 m)           | 10             | 135          | 135 m (45 m)     |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Galé (guerra)                   | Sim            | 300                   | 18           | 18 m (18 m)           | 30             | 108          | 108 m (36 m)     |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Barco salva-vidas               | Não            | &ndash;               | &ndash;      | &ndash;               | 1**            | 27           | 27 m (9 m)       |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Navio longo                     | Sim            | 60&ast;               | 27           | 27 m (27 m)           | 75*            | 135          | 135 m (45 m)     |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Jangada (improvisada)           | Não            | 1&ast;&ast;           | 18           | 18 m (9 m)            | &ndash;        | &ndash;      | &ndash;          |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Jangada (profissional)          | Não            | 1&ast;&ast;           | 18           | 18 m (9 m)            | &ndash;        | &ndash;      | &ndash;          |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Veleiro (grande)                | Sim            | &ndash;               | &ndash;      | &ndash;               | 20             | 108          | 108 m (36 m)     |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Veleiro (pequeno)               | Sim            | &ndash;               | &ndash;      | &ndash;               | 10             | 135          | 135 m (45 m)     |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Transporte de tropas (grande)   | Sim            | &ndash;               | &ndash;      | &ndash;               | 20             | 108          | 108 m (36 m)     |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Transporte de tropas (pequeno)  | Sim            | &ndash;               | &ndash;      | &ndash;               | 10             | 135          | 135 m (45 m)     | 
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Navio de guerra (grande)        | Sim            | &ndash;               | &ndash;      | &ndash;               | 20             | 108          | 108 m (36 m)     |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| Navio de guerra (pequeno)       | Sim            | &ndash;               | &ndash;      | &ndash;               | 10             | 135          | 135 m (45 m)     |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
-| &ast; A tripulação age como remadores, marinheiros e guerreiros. <br />                                                                                            | 
-| &ast;&ast; Pode ser pilotado por personagens sem especialização.                                                                                                   |
-+---------------------------------+----------------+-----------------------+--------------+-----------------------+----------------+--------------+------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"><strong>Remo (remadores)</strong></td>
+<td colspan="3"><strong>Vela (marinheiros)</strong></td>
+</tr>
+<tr>
+<td><strong>Embarcação</strong></td>
+<td><strong>Necessita</strong> <strong>Capitão?</strong></td>
+<td><strong>Tripulação</strong> <strong>Necessária</strong></td>
+<td><strong>km / dia</strong></td>
+<td><strong>Taxa de Movimento</strong></td>
+<td><strong>Tripulação</strong> <strong>Necessária</strong></td>
+<td><strong>km / dia</strong></td>
+<td><strong>Taxa de</strong> <strong>Movimento</strong></td>
+</tr>
+<tr>
+<td>Barco fluvial</td>
+<td>Não</td>
+<td>8</td>
+<td>54</td>
+<td>54 m (18 m)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Barco a vela</td>
+<td>Não</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>1</td>
+<td>108</td>
+<td>108 m (36 m)</td>
+</tr>
+<tr>
+<td>Canoa</td>
+<td>Não</td>
+<td>1**</td>
+<td>27</td>
+<td>27 m ( 18 m)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Galé (grande)</td>
+<td>Sim</td>
+<td>180</td>
+<td>27</td>
+<td>27 m (18 m)</td>
+<td>20</td>
+<td>108</td>
+<td>108 m  (36 m)</td>
+</tr>
+<tr>
+<td>Galé (pequena)</td>
+<td>Sim</td>
+<td>60</td>
+<td>27</td>
+<td>27 m (27 m)</td>
+<td>10</td>
+<td>135</td>
+<td>135 m (45 m)</td>
+</tr>
+<tr>
+<td>Galé (guerra)</td>
+<td>Sim</td>
+<td>300</td>
+<td>18</td>
+<td>18 m (18 m)</td>
+<td>30</td>
+<td>108</td>
+<td>108 m (36 m)</td>
+</tr>
+<tr>
+<td>Barco salva-vidas</td>
+<td>Não</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>1**</td>
+<td>27</td>
+<td>27 m (9 m)</td>
+</tr>
+<tr>
+<td>Navio longo</td>
+<td>Sim</td>
+<td>60*</td>
+<td>27</td>
+<td>27 m (27 m)</td>
+<td>75*</td>
+<td>135</td>
+<td>135 m (45 m)</td>
+</tr>
+<tr>
+<td>Jangada (improvisada)</td>
+<td>Não</td>
+<td>1**</td>
+<td>18</td>
+<td>18 m (9 m)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Jangada (profissional)</td>
+<td>Não</td>
+<td>1**</td>
+<td>18</td>
+<td>18 m (9 m)</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Veleiro (grande)</td>
+<td>Sim</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>20</td>
+<td>108</td>
+<td>108 m (36 m)</td>
+</tr>
+<tr>
+<td>Veleiro (pequeno)</td>
+<td>Sim</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>10</td>
+<td>135</td>
+<td>135 m (45 m)</td>
+</tr>
+<tr>
+<td>Transporte de tropas (grande)</td>
+<td>Sim</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>20</td>
+<td>108</td>
+<td>108 m (36 m)</td>
+</tr>
+<tr>
+<td>Transporte de tropas (pequeno)</td>
+<td>Sim</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>10</td>
+<td>135</td>
+<td>135 m (45 m)</td>
+</tr>
+<tr>
+<td>Navio de guerra (grande)</td>
+<td>Sim</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>20</td>
+<td>108</td>
+<td>108 m (36 m)</td>
+</tr>
+<tr>
+<td>Navio de guerra (pequeno)</td>
+<td>Sim</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>10</td>
+<td>135</td>
+<td>135 m (45 m)</td>
+</tr>
+<tr>
+<td colspan="8">* A tripulação age como remadores, marinheiros e guerreiros. <br/> ** Pode ser pilotado por personagens sem especialização.</td>
+</tr>
+</tbody>
+</table>
 
 # Estatísticas de Combate de Embarcações
 
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| **Embarcação**                 | **Nº Max de Mercenários** | **CA** | **Pontos de Casco** | **Aríete?**           | **Catapultas?** |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Barco fluvial                  | &ndash;                   | 8 [11] | 20–40               | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Barco a vela                   | &ndash;                   | 8 [11] | 20–40               | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Canoa                          | &ndash;                   | 9 [10] | 5–10                | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Galé (grande)                  | 50                        | 7 [12] | 100–120             | Pode ser adicionada   | Até 2           |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Galé (pequena)                 | 20                        | 8 [11] | 80–100              | Pode ser adicionada   | Até 2           |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Galé (guerra)                  | 75                        | 7 [12] | 120–150             | Construída nela       | Até 3           | 
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Barco salva-vidas              | &ndash;                   | 9 [10] | 10–20               | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Navio gramde                   | 75&ast;                   | 8 [11] | 60–80               | &ndash;               | Até 1           |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Jangada (improvisada)          | &ndash;                   | 9 [10] | 5 por m²            | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Jangada (profissional)         | &ndash;                   | 9 [10] | 5 por m²            | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Veleiro (grande)               | &ndash;                   | 7 [12] | 120–180             | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Veleiro (pequeno)              | &ndash;                   | 8 [11] | 60–90               | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Transporte de tropas (grande)  | 100                       | 7 [12] | 160–240             | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Transporte de tropas (pequeno) | 50                        | 8 [11] | 80–120              | &ndash;               | &ndash;         |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Navio de guerra (grande)       | 50                        | 7 [12] | 120–180             | &ndash;               | Até 2           |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| Navio de guerra (pequeno)      | 25                        | 8 [11] | 60–90               | &ndash;               | Até 1           |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
-| &ast; A tripulação age como remadores, marinheiros e guerreiros.                                                                    |
-+--------------------------------+---------------------------+--------+---------------------+-----------------------+-----------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<tbody>
+<tr>
+<td><strong>Embarcação</strong></td>
+<td><strong>Nº Max de Mercenários</strong></td>
+<td><strong>CA</strong></td>
+<td><strong>Pontos de Casco</strong></td>
+<td><strong>Aríete?</strong></td>
+<td><strong>Catapultas?</strong></td>
+</tr>
+<tr>
+<td>Barco fluvial</td>
+<td>–</td>
+<td>8 [11]</td>
+<td>20–40</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Barco a vela</td>
+<td>–</td>
+<td>8 [11]</td>
+<td>20–40</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Canoa</td>
+<td>–</td>
+<td>9 [10]</td>
+<td>5–10</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Galé (grande)</td>
+<td>50</td>
+<td>7 [12]</td>
+<td>100–120</td>
+<td>Pode ser adicionada</td>
+<td>Até 2</td>
+</tr>
+<tr>
+<td>Galé (pequena)</td>
+<td>20</td>
+<td>8 [11]</td>
+<td>80–100</td>
+<td>Pode ser adicionada</td>
+<td>Até 2</td>
+</tr>
+<tr>
+<td>Galé (guerra)</td>
+<td>75</td>
+<td>7 [12]</td>
+<td>120–150</td>
+<td>Construída nela</td>
+<td>Até 3</td>
+</tr>
+<tr>
+<td>Barco salva-vidas</td>
+<td>–</td>
+<td>9 [10]</td>
+<td>10–20</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Navio gramde</td>
+<td>75*</td>
+<td>8 [11]</td>
+<td>60–80</td>
+<td>–</td>
+<td>Até 1</td>
+</tr>
+<tr>
+<td>Jangada (improvisada)</td>
+<td>–</td>
+<td>9 [10]</td>
+<td>5 por m²</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Jangada (profissional)</td>
+<td>–</td>
+<td>9 [10]</td>
+<td>5 por m²</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Veleiro (grande)</td>
+<td>–</td>
+<td>7 [12]</td>
+<td>120–180</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Veleiro (pequeno)</td>
+<td>–</td>
+<td>8 [11]</td>
+<td>60–90</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Transporte de tropas (grande)</td>
+<td>100</td>
+<td>7 [12]</td>
+<td>160–240</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Transporte de tropas (pequeno)</td>
+<td>50</td>
+<td>8 [11]</td>
+<td>80–120</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Navio de guerra (grande)</td>
+<td>50</td>
+<td>7 [12]</td>
+<td>120–180</td>
+<td>–</td>
+<td>Até 2</td>
+</tr>
+<tr>
+<td>Navio de guerra (pequeno)</td>
+<td>25</td>
+<td>8 [11]</td>
+<td>60–90</td>
+<td>–</td>
+<td>Até 1</td>
+</tr>
+<tr>
+<td colspan="6">* A tripulação age como remadores, marinheiros e guerreiros.</td>
+</tr>
+</tbody>
+</table>
 
 # Tripulação
 As embarcações são propelidas por remos ou velas, sendo algumas delas capazes de usar os dois meios de propulsão. A tripulação necessária e a velocidade resultante são dadas na tabela acima. A taxa de pagamento para a tripulação é listada em <Link to="/equipamentos/09-especialistas">Especialistas</Link>.
@@ -187,21 +600,46 @@ As seguintes modificações podem ser feitas em um navio:
 
 # Armamento de Navios
 
-+------------------------------+-----------------+
-| Armamento de Navios                            |
-+==============================+=================+
-| **Item**                     |  **Custo (po)** |
-+------------------------------+-----------------+
-| Catapulta                    | 100             |
-+------------------------------+-----------------+
-| Munição de catapulta         | 5               |
-+------------------------------+-----------------+
-| Munição de catapulta, piche  | 25              |
-+------------------------------+-----------------+
-| Aríete, galé grande          | 10.000          |
-+------------------------------+-----------------+
-| Aríete, galé pequena         | 3.000           |
-+------------------------------+-----------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="2">Armamento de Navios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Custo (po)</strong></td>
+</tr>
+<tr>
+<td>Catapulta</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Munição de catapulta</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Munição de catapulta, piche</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Aríete, galé grande</td>
+<td>10.000</td>
+</tr>
+<tr>
+<td>Aríete, galé pequena</td>
+<td>3.000</td>
+</tr>
+</tbody>
+</table>
 
 
 ## Aríetes
@@ -235,7 +673,6 @@ Inflige 3d6 pontos de dano no casco contra navios.
 
 ### Tiro de Catapulta, Piche em Chamas
 Incendeia uma área de 3 m x 3 m no navio. O fogo causa 1d6 pontos de dano no casco por turno (por pelo menos um turno) e se espalhará para outras áreas do navio se não for apagado. Um incêndio pode ser controlado por cinco tripulantes em 3 turnos, dez tripulantes em 2 turnos ou quinze tripulantes em 1 turno.
-
 
 
 

@@ -7,23 +7,50 @@ metaDescription: "Mestrando Aventuras -> Planejando Masmorras"
 # 1. Escolha o cenário
 Decida sobre  forma básica e a estrutura da masmorra (a tabela abaixo pode ser usada) e comece a considerar ideias para as salas ou áreas principais.
 
-+--------+-----------------------------------------------------------+
-| Cenário da Masmorra                                                |
-+========+===========================================================+
-| **d6** | **Cenário**                                               |
-+--------+-----------------------------------------------------------+               
-| 1      | Cripta ou complexo de tumbas                              |                        
-+--------+-----------------------------------------------------------+
-| 2      | Cavernas naturais                                         |                  
-+--------+-----------------------------------------------------------+
-| 3      | Assentamento (exemplo, fortaleza, cidade)                 |                                     
-+--------+-----------------------------------------------------------+
-| 4      | Exploração do subterrâneo (exemplo, uma mina)             |                                   
-+--------+-----------------------------------------------------------+
-| 5      | Templo                                                    |         
-+--------+-----------------------------------------------------------+
-| 6      | Torre ou fortificação                                     |
-+--------+-----------------------------------------------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="2">Cenário da Masmorra</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td><strong>Cenário</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Cripta ou complexo de tumbas</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Cavernas naturais</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Assentamento (exemplo, fortaleza, cidade)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Exploração do subterrâneo (exemplo, uma mina)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Templo</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Torre ou fortificação</td>
+</tr>
+</tbody>
+</table>
 
 # 2. Escolha os monstros
 
@@ -63,19 +90,47 @@ Os tesouros são normalmente guardados por monstros ou armadilhas, mas algumas v
 
 # Sala aleatória 
 
-+--------+-----------------------+-----------------------------------+
-| Conteúdo das salas aleatórios de masmorras                         |
-+========+=======================+===================================+
-| **d6** | **Conteúdo**          | Chance de Tesouro                 |             
-+--------+-----------------------+-----------------------------------+
-| 1–2    | Vazia                 | 1-em-6                            | 
-+--------+-----------------------+-----------------------------------+
-| 3–4    | Monstro               | 3-em-6                            | 
-+--------+-----------------------+-----------------------------------+
-| 5      | Especial              | Não                               |
-+--------+-----------------------+-----------------------------------+
-| 6      | Armadilha             | 2-em-6                            | 
-+--------+-----------------------+-----------------------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="3">Conteúdo das salas aleatórios de masmorras</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td><strong>Conteúdo</strong></td>
+<td>Chance de Tesouro</td>
+</tr>
+<tr>
+<td>1–2</td>
+<td>Vazia</td>
+<td>1-em-6</td>
+</tr>
+<tr>
+<td>3–4</td>
+<td>Monstro</td>
+<td>3-em-6</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Especial</td>
+<td>Não</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Armadilha</td>
+<td>2-em-6</td>
+</tr>
+</tbody>
+</table>
 **Monstros**: podem ser selecionados manualmente ou podem ser rolados em uma tabela de encontros.
 
 **Especial**: características estranhas ou mágicas na área, incluindo truques ou charadas.

@@ -96,31 +96,95 @@ Um canal de comunicação é aberto entre os planos exteriores de existência, p
 * **Limite de uso**: Ela pode ser conjurada uma vez por semana. (O árbitro pode limitar o uso da magia, de forma a torná-la menos frequente, se desejar.)
 * **Insanidade**: a comunhão com criaturas de grande poder pode despedaçar a sanidade do conjurador. A chance básica é mostrada na tabela abaixo. Para cada nível de conjurador acima do 11º, a chance é reduzida em 5%. Se o conjurador ficar insano como resultado da comunhão, o tempo de recuperação é igual ao número do plano conectado.
 
-+----------+----------------+--------------+----------------+--------------+
-|**Perguntas aos contatos extraplanares**                                  |
-+==========+================+==============+================+==============+
-|**Plano** |**Nº Perguntas**|**Não sabe**  |**Verdade**     |**Insanidade**|
-+----------+----------------+--------------+----------------+--------------+
-|3º        |3               |75%           |50%             |5%            |
-+----------+----------------+--------------+----------------+--------------+
-|4º        |4               |70%           |55%             |10%           |
-+----------+----------------+--------------+----------------+--------------+
-|5º        |5               |65%           |60%             |15%           |
-+----------+----------------+--------------+----------------+--------------+
-|6º        |6               |60%           |65%             |20%           |
-+----------+----------------+--------------+----------------+--------------+
-|7º        |7               |50%           |70%             |25%           |
-+----------+----------------+--------------+----------------+--------------+
-|8º        |8               |40%           |75%             |30%           |
-+----------+----------------+--------------+----------------+--------------+
-|9º        |9               |30%           |80%             |35%           |
-+----------+----------------+----------------------------------------------+
-|10º       |10              |20%           |85%             |40%           |
-+----------+----------------+--------------+----------------+--------------+
-|11º       |11              |10%           |90%             |45%           |
-+----------+----------------+--------------+----------------+--------------+
-|12º       |12              |5%            |95%             |50%           |
-+----------+----------------+--------------+----------------+--------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="5"><strong>Perguntas aos contatos extraplanares</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Plano</strong></td>
+<td><strong>Nº Perguntas</strong></td>
+<td><strong>Não sabe</strong></td>
+<td><strong>Verdade</strong></td>
+<td><strong>Insanidade</strong></td>
+</tr>
+<tr>
+<td>3º</td>
+<td>3</td>
+<td>75%</td>
+<td>50%</td>
+<td>5%</td>
+</tr>
+<tr>
+<td>4º</td>
+<td>4</td>
+<td>70%</td>
+<td>55%</td>
+<td>10%</td>
+</tr>
+<tr>
+<td>5º</td>
+<td>5</td>
+<td>65%</td>
+<td>60%</td>
+<td>15%</td>
+</tr>
+<tr>
+<td>6º</td>
+<td>6</td>
+<td>60%</td>
+<td>65%</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>7º</td>
+<td>7</td>
+<td>50%</td>
+<td>70%</td>
+<td>25%</td>
+</tr>
+<tr>
+<td>8º</td>
+<td>8</td>
+<td>40%</td>
+<td>75%</td>
+<td>30%</td>
+</tr>
+<tr>
+<td>9º</td>
+<td>9</td>
+<td colspan="3">30%           |80%             |35%</td>
+</tr>
+<tr>
+<td>10º</td>
+<td>10</td>
+<td colspan="3">20%           |85%             |40%</td>
+</tr>
+<tr>
+<td>11º</td>
+<td>11</td>
+<td>10%</td>
+<td>90%</td>
+<td>45%</td>
+</tr>
+<tr>
+<td>12º</td>
+<td>12</td>
+<td>5%</td>
+<td>95%</td>
+<td>50%</td>
+</tr>
+</tbody>
+</table>
 
 # Enfraquecer o Intelecto
 **Duração**: Permanente
@@ -243,17 +307,46 @@ O conjurador ou uma criatura escolhida desaparece e reaparece em um local que o 
 * **Destino**: pode ser qualquer distância, mas tem que ser conhecida pelo conjurador. O destino deve ser um espaço aberto no nível do solo (não é possível, teleportar intencionalmente teleportar o alvo nas alturas ou dentro de matéria sólida)
 * **Risco**: existe um risco, quando teleportando, de acidentalmente aparecer acima ou abaixo do nível do solo. A chance de um teleporte depende do conhecimento do conjurador da localização (veja abaixo). Jogue 1d100 e consultem a tabela a seguir.
 
-+------------------------------+-------------------------+-------------------+------------------+
-|**Resultado do Teleporte**                                                                     |
-+==============================+=========================+===================+==================+
-|Conhecimento do Destino       |Nível do solo            |Muito Alto         |Muito Baixo       |
-+------------------------------+-------------------------+-------------------+------------------+
-|Escasso                       |01 – 50                  |51 – 75            |76 – 00           |
-+------------------------------+-------------------------+-------------------+------------------+
-|Moderado                      |01 – 80                  |81 – 90            |91 – 00           |
-+------------------------------+-------------------------+-------------------+------------------+
-|Exato                         |01 – 95                  |96 – 99            |00                |
-+------------------------------+-------------------------+-------------------+------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="4"><strong>Resultado do Teleporte</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conhecimento do Destino</td>
+<td>Nível do solo</td>
+<td>Muito Alto</td>
+<td>Muito Baixo</td>
+</tr>
+<tr>
+<td>Escasso</td>
+<td>01 – 50</td>
+<td>51 – 75</td>
+<td>76 – 00</td>
+</tr>
+<tr>
+<td>Moderado</td>
+<td>01 – 80</td>
+<td>81 – 90</td>
+<td>91 – 00</td>
+</tr>
+<tr>
+<td>Exato</td>
+<td>01 – 95</td>
+<td>96 – 99</td>
+<td>00</td>
+</tr>
+</tbody>
+</table>
 
 **Nível do solo**: o alvo aparece no local desejado.
 

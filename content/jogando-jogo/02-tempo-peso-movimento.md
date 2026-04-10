@@ -62,27 +62,58 @@ Carga é uma medida tanto do peso quanto do volume que um personagem carrega.
 
 **Carga máxima**: a carga máxima que um personagem pode carregar é igual a 1.600 moedas. Personagens que carreguem mais do que isso, não conseguem se movimentar.
 
-+-----------------------+-------------------+
-|**Carga de tesouro em moedas**             |
-+=======================+===================+
-|**Tesouro**            |**Peso em moedas** |
-+-----------------------+-------------------+
-|Moeda (qualquer tipo)  |1                  |
-+-----------------------+-------------------+
-|Gema                   |1                  |
-+-----------------------+-------------------+
-| Joia (1 peça)         |10                 |
-+-----------------------+-------------------+
-|Poção                  |10                 |
-+-----------------------+-------------------+
-|Bastão                 |20                 |
-+-----------------------+-------------------+
-|Pergaminho             |1                  |
-+-----------------------+-------------------+
-|Cajado                 |40                 |
-+-----------------------+-------------------+
-|Varinha                |10                 |
-+-----------------------+-------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="2"><strong>Carga de tesouro em moedas</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tesouro</strong></td>
+<td><strong>Peso em moedas</strong></td>
+</tr>
+<tr>
+<td>Moeda (qualquer tipo)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Gema</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Joia (1 peça)</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Poção</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Bastão</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Pergaminho</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Cajado</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Varinha</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
 
 
 # Opção 1: Carga Básica
@@ -92,17 +123,42 @@ Carga é uma medida tanto do peso quanto do volume que um personagem carrega.
 
 **Taxa de movimento**: é determinada pelo tipo de armadura que o personagem está vestindo e se está carregando uma quantidade significante de tesouros (analisado pelo árbitro). O peso real do tesouro carregado não afeta da taxa de movimento. 
 
-+-----------------------+-------------------+----------------------+
-|**Carga de tesouro em moedas**                                    |
-+=======================+===================+======================+
-|**Armadura Vestida**   |**Sem Tesouro**    |**Carregando Tesouro**|
-+-----------------------+-------------------+----------------------+
-|Sem armadura           |36 (12)            |27 (9)                |
-+-----------------------+-------------------+----------------------+
-|Armadura Leve          |27 (9)             |18 (6)                |
-+-----------------------+-------------------+----------------------+
-|Armadura Pesada        |18 (6)             |9 (3)                 |
-+-----------------------+-------------------+----------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="3"><strong>Carga de tesouro em moedas</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Armadura Vestida</strong></td>
+<td><strong>Sem Tesouro</strong></td>
+<td><strong>Carregando Tesouro</strong></td>
+</tr>
+<tr>
+<td>Sem armadura</td>
+<td>36 (12)</td>
+<td>27 (9)</td>
+</tr>
+<tr>
+<td>Armadura Leve</td>
+<td>27 (9)</td>
+<td>18 (6)</td>
+</tr>
+<tr>
+<td>Armadura Pesada</td>
+<td>18 (6)</td>
+<td>9 (3)</td>
+</tr>
+</tbody>
+</table>
 
 # Opção 2: Carga Detalhada
 **Tesouro**: o peso das moedas e outros tesouros carregados são controlados.

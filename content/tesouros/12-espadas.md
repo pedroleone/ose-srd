@@ -5,45 +5,112 @@ metaDescription: "Tesouro -> Espadas"
 ---
 
 
-+-----------+-----------+---------------------------------------------+
-| Espadas Mágicas                                                     |
-+===========+===========+=============================================+
-| **B: d8** | **X: d%** | **Espada**                                  |
-+-----------+-----------+---------------------------------------------+
-| 1         | 1–2       | Espada –1, Amaldiçoada                      |
-+-----------+-----------+---------------------------------------------+
-|           | 3–4       | Espada –2, Amaldiçoada                      |
-+-----------+-----------+---------------------------------------------+
-| 2         | 5–44      | Espada +1                                   |
-+-----------+-----------+---------------------------------------------+
-| 3         | 45–50     | Espada +1, +2 contra Licantropos            |
-+-----------+-----------+---------------------------------------------+
-| 4         | 51–56     | Espada +1, +2 contra Usuários de Magia      |
-+-----------+-----------+---------------------------------------------+
-| 5         | 57–61     | Espada +1, +3 contra Dragões                |
-+-----------+-----------+---------------------------------------------+
-|           | 62–66     | Espada +1, +3 contra Criaturas Encantadas   |
-+-----------+-----------+---------------------------------------------+
-|           | 67–71     | Espada +1, +3 contra Criaturas Regenerantes |
-+-----------+-----------+---------------------------------------------+
-| 6         | 72–76     | Espada +1, +3 contra Mortos-vivos           |
-+-----------+-----------+---------------------------------------------+
-|           | 77        | Espada +1, Drenagem de Energia              |
-+-----------+-----------+---------------------------------------------+
-|           | 78–81     | Espada +1, Flamejante                       |
-+-----------+-----------+---------------------------------------------+
-| 7         | 82–89     | Espada +1, Luz                              |
-+-----------+-----------+---------------------------------------------+
-|           | 90–92     | Espada +1, Localizar Objetos                |
-+-----------+-----------+---------------------------------------------+
-|           | 93        | Espada +1, Desejos                          |
-+-----------+-----------+---------------------------------------------+
-| 8         | 94–96     | Espada +2                                   |
-+-----------+-----------+---------------------------------------------+
-|           | 97–98     | Espada +2, Enfeitiçar Pessoa                |
-+-----------+-----------+---------------------------------------------+
-|           | 99–00     | Espada +3                                   |
-+-----------+-----------+---------------------------------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="3">Espadas Mágicas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B: d8</strong></td>
+<td><strong>X: d%</strong></td>
+<td><strong>Espada</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>1–2</td>
+<td>Espada –1, Amaldiçoada</td>
+</tr>
+<tr>
+<td></td>
+<td>3–4</td>
+<td>Espada –2, Amaldiçoada</td>
+</tr>
+<tr>
+<td>2</td>
+<td>5–44</td>
+<td>Espada +1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>45–50</td>
+<td>Espada +1, +2 contra Licantropos</td>
+</tr>
+<tr>
+<td>4</td>
+<td>51–56</td>
+<td>Espada +1, +2 contra Usuários de Magia</td>
+</tr>
+<tr>
+<td>5</td>
+<td>57–61</td>
+<td>Espada +1, +3 contra Dragões</td>
+</tr>
+<tr>
+<td></td>
+<td>62–66</td>
+<td>Espada +1, +3 contra Criaturas Encantadas</td>
+</tr>
+<tr>
+<td></td>
+<td>67–71</td>
+<td>Espada +1, +3 contra Criaturas Regenerantes</td>
+</tr>
+<tr>
+<td>6</td>
+<td>72–76</td>
+<td>Espada +1, +3 contra Mortos-vivos</td>
+</tr>
+<tr>
+<td></td>
+<td>77</td>
+<td>Espada +1, Drenagem de Energia</td>
+</tr>
+<tr>
+<td></td>
+<td>78–81</td>
+<td>Espada +1, Flamejante</td>
+</tr>
+<tr>
+<td>7</td>
+<td>82–89</td>
+<td>Espada +1, Luz</td>
+</tr>
+<tr>
+<td></td>
+<td>90–92</td>
+<td>Espada +1, Localizar Objetos</td>
+</tr>
+<tr>
+<td></td>
+<td>93</td>
+<td>Espada +1, Desejos</td>
+</tr>
+<tr>
+<td>8</td>
+<td>94–96</td>
+<td>Espada +2</td>
+</tr>
+<tr>
+<td></td>
+<td>97–98</td>
+<td>Espada +2, Enfeitiçar Pessoa</td>
+</tr>
+<tr>
+<td></td>
+<td>99–00</td>
+<td>Espada +3</td>
+</tr>
+</tbody>
+</table>
 
 **B**: Personagens básicos (níveis 1–3)
 **X**: Personagens especialistas (nível 4+)

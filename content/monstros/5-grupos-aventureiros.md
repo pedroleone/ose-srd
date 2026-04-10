@@ -48,27 +48,75 @@ Um mago de alto nível, acompanhado por seus aprendizes e um grupo de guardas co
 
 # Classe e Nível do PNJ Aventureiro
 
-+-------+----------+-------------+--------------+
-|                  | **Nível**                  |
-+-------+----------+-------------+--------------+
-|**d8** |**Classe**|**Iniciante**|**Experiente**|
-+-------+----------+-------------+--------------+
-| 1     | Clérigo  | 1d3         | 1d6+3        |
-+-------+----------+-------------+--------------+
-| 2     | Anão     | 1d3         | 1d6+6        |
-+-------+----------+-------------+--------------+
-| 3     | Elfo     | 1d3         | 1d6+2        |
-+-------+----------+-------------+--------------+
-| 4     | Guerreiro| 1d3         | 1d6+3        |
-+-------+----------+-------------+--------------+
-| 5     | Guerreiro| 1d3         | 1d6+5        |
-+-------+----------+-------------+--------------+
-| 6     | Halfling | 1d3         | 1d6+2        |
-+-------+----------+-------------+--------------+
-| 7     | Mago     | 1d3         | 1d6+3        |
-+-------+----------+-------------+--------------+
-| 8     | Ladrão   | 1d3         | 1d6+4        |
-+-------+----------+-------------+--------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"><strong>Nível</strong></td>
+</tr>
+<tr>
+<td><strong>d8</strong></td>
+<td><strong>Classe</strong></td>
+<td><strong>Iniciante</strong></td>
+<td><strong>Experiente</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Clérigo</td>
+<td>1d3</td>
+<td>1d6+3</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Anão</td>
+<td>1d3</td>
+<td>1d6+6</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Elfo</td>
+<td>1d3</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Guerreiro</td>
+<td>1d3</td>
+<td>1d6+3</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Guerreiro</td>
+<td>1d3</td>
+<td>1d6+5</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Halfling</td>
+<td>1d3</td>
+<td>1d6+2</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Mago</td>
+<td>1d3</td>
+<td>1d6+3</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ladrão</td>
+<td>1d3</td>
+<td>1d6+4</td>
+</tr>
+</tbody>
+</table>
 
 # Alinhamento do PNJ Aventureiro
 +--------+-----------------+

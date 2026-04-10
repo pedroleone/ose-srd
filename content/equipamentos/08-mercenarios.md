@@ -18,37 +18,155 @@ Note que se um mercenário for contratado por um personagem para realizar servi�
 
 A remuneração mensal pega inclui alimento e equipamentos básicos. Muitos mercenários já possuem armas e armadura quando são contratados, embora os empregadores possam conceder equipamentos adicionais. Note que armeiros são necessários para reparar as armas e armaduras de mercenários (ver Especialistas)
 
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Mercenários                                                                            |
-+======================+========+=====+=========+=========+=========+=========+==========+
-|Tipo                  |CA      |Moral|Salários por mês                                  |
-+                      +        +     +---------+---------+---------+---------+----------+
-|                      |        |     |Humano   |Anão     |Elfo     |Orc      |Goblin    |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Arqueiro             | 6 [13] | 8   | 5po     | &ndash; | 10po    | 3po     | 2po      |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Arqueiro, montado    | 9 [10] | 9   | 15po    | &ndash; | 30po    | &ndash; | &ndash;  |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Besteiro             | 5 [14] | 8   | 4po     | 6po     | &ndash; | 2po     | &ndash;  |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Besteiro, montado    | 9 [10] | 9   | &ndash; | 15po    | &ndash; | &ndash; | &ndash;  |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Infantaria, leve     | 6 [13] | 8   | 2po     | &ndash; | 4po     | 1po     | 5pp      |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Infantaria, pesada   | 4 [15] | 8   | 3po     | 5po     | 6po     | 15pp    | &ndash;  | 
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Cavaleiro, leve      | 7 [12] | 9   | 10po    | &ndash; | 20gp    | &ndash; | &ndash;  | 
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Cavaleiro, médio     | 5 [14] | 9   | 15po    | &ndash; | &ndash; | &ndash; | &ndash;  |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Cavaleiro, pesado    | 3 [16] | 9   | 20po    | &ndash; | &ndash; | &ndash; | &ndash;  |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Arqueiro, arco longo | 5 [14] | 8   | 10po    | &ndash; | 20po    | &ndash; | &ndash;  |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Camponês             | 9 [10] | 6   | 1po     | &ndash; | &ndash; | &ndash; | &ndash;  |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
-| Montador de lobos    | 7 [12] | 9   | &ndash; | &ndash; | &ndash; | &ndash; | 5po      |
-+----------------------+--------+-----+---------+---------+---------+---------+----------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="8">Mercenários</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">Tipo</td>
+<td rowspan="2">CA</td>
+<td rowspan="2">Moral</td>
+<td colspan="5">Salários por mês</td>
+</tr>
+<tr>
+<td>Humano</td>
+<td>Anão</td>
+<td>Elfo</td>
+<td>Orc</td>
+<td>Goblin</td>
+</tr>
+<tr>
+<td>Arqueiro</td>
+<td>6 [13]</td>
+<td>8</td>
+<td>5po</td>
+<td>–</td>
+<td>10po</td>
+<td>3po</td>
+<td>2po</td>
+</tr>
+<tr>
+<td>Arqueiro, montado</td>
+<td>9 [10]</td>
+<td>9</td>
+<td>15po</td>
+<td>–</td>
+<td>30po</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Besteiro</td>
+<td>5 [14]</td>
+<td>8</td>
+<td>4po</td>
+<td>6po</td>
+<td>–</td>
+<td>2po</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Besteiro, montado</td>
+<td>9 [10]</td>
+<td>9</td>
+<td>–</td>
+<td>15po</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Infantaria, leve</td>
+<td>6 [13]</td>
+<td>8</td>
+<td>2po</td>
+<td>–</td>
+<td>4po</td>
+<td>1po</td>
+<td>5pp</td>
+</tr>
+<tr>
+<td>Infantaria, pesada</td>
+<td>4 [15]</td>
+<td>8</td>
+<td>3po</td>
+<td>5po</td>
+<td>6po</td>
+<td>15pp</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Cavaleiro, leve</td>
+<td>7 [12]</td>
+<td>9</td>
+<td>10po</td>
+<td>–</td>
+<td>20gp</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Cavaleiro, médio</td>
+<td>5 [14]</td>
+<td>9</td>
+<td>15po</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Cavaleiro, pesado</td>
+<td>3 [16]</td>
+<td>9</td>
+<td>20po</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Arqueiro, arco longo</td>
+<td>5 [14]</td>
+<td>8</td>
+<td>10po</td>
+<td>–</td>
+<td>20po</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Camponês</td>
+<td>9 [10]</td>
+<td>6</td>
+<td>1po</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Montador de lobos</td>
+<td>7 [12]</td>
+<td>9</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>5po</td>
+</tr>
+</tbody>
+</table>
 
 ## Arqueiro
 Equipamento com um arco curto, armadura de couro e um escudo.

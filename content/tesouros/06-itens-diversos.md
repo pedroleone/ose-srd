@@ -8,73 +8,182 @@ Descrição de Itens
 
 Clique no item na tabela para ler a descrição completa.
 
-+-------------+------------+-------------------------------------------------+
-| Itens Mágicos Diversos                                                     |
-+=============+============+=================================================+
-| **B: d10**  | **X: d%**  | **Item**                                        |
-+-------------+------------+-------------------------------------------------+
-|             | 1-3        | Amuleto de Proteção contra Escriação            |
-+-------------+------------+-------------------------------------------------+
-| 1           | 4-5        | Mochila Devoradora                              |
-+-------------+------------+-------------------------------------------------+
-| 2           | 6-11       | Mochila de Carga                                |
-+-------------+------------+-------------------------------------------------+
-|             | 12-16      | Mochila da Levitação                            |
-+-------------+------------+-------------------------------------------------+
-|             | 17-21      | Botas de Velocidade                             |
-+-------------+------------+-------------------------------------------------+
-|             | 22-26      | Botas de Viajar e Saltar                        |
-+-------------+------------+-------------------------------------------------+
-| 3           | 27-31      | Vassoura Voadora                                |
-+-------------+------------+-------------------------------------------------+
-| 4           | 32-35      | Bola de Cristal                                 |
-+-------------+------------+-------------------------------------------------+
-|             | 36-37      | Bola de Cristal com Clariaudiência              |
-+-------------+------------+-------------------------------------------------+
-|             | 38         | Bola de Cristal com Percepção Extrassensorial   |
-+-------------+------------+-------------------------------------------------+
-|             | 39-40      | Capa Deslocadora                                |
-+-------------+------------+-------------------------------------------------+
-|             | 41         | Tambores de Pânico                              |
-+-------------+------------+-------------------------------------------------+
-|             | 42         | Garrafa Efreeti                                 |
-+-------------+------------+-------------------------------------------------+
-|             | 43         | Dispositivo de Invocação Elemental: Ar          |
-+-------------+------------+-------------------------------------------------+
-|             | 44         | Dispositivo de Invocação Elemental: Terra       |
-+-------------+------------+-------------------------------------------------+
-|             | 45         | Dispositivo de Invocação Elemental: Fogo        |
-+-------------+------------+-------------------------------------------------+
-|             | 46         | Dispositivo de Invocação Elemental: Água        |
-+-------------+------------+-------------------------------------------------+
-| 5           | 47-56      | Capa e Botas Élficas                            |
-+-------------+------------+-------------------------------------------------+
-|             | 57         | Tapete Voador                                   |
-+-------------+------------+-------------------------------------------------+
-| 6           | 58-64      | Manoplas do Poder Ogro                          |
-+-------------+------------+-------------------------------------------------+
-|             | 65-66      | Cinturão da Força Gigante                       |
-+-------------+------------+-------------------------------------------------+
-| 7           | 67-77      | Elmo da Alteração de Alinhamento                |
-+-------------+------------+-------------------------------------------------+
-|             | 78-82      | Elmo da Leitura de Idiomas e Magia              |
-+-------------+------------+-------------------------------------------------+
-| 8           | 83         | Elmo da Telepatia                               |
-+-------------+------------+-------------------------------------------------+
-|             | 84         | Elmo do Teletransporte                           |
-+-------------+------------+-------------------------------------------------+
-|             | 85         | Chifre da Explosão                              |
-+-------------+------------+-------------------------------------------------+
-| 9           | 86-90      | Medalhão da Percepção Extrassensorial 9m        |
-+-------------+------------+-------------------------------------------------+
-|             | 91-93      | Medalhão da Percepção Extrassensorial 27m       |
-+-------------+------------+-------------------------------------------------+
-|             | 94-94      | Espelho de Prender Vida                         |
-+-------------+------------+-------------------------------------------------+
-| 10          | 95-97      | Corda de Escalada                               |
-+-------------+------------+-------------------------------------------------+
-|             | 98-00      | Escaravelho de Proteção                         |
-+-------------+------------+-------------------------------------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="3">Itens Mágicos Diversos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B: d10</strong></td>
+<td><strong>X: d%</strong></td>
+<td><strong>Item</strong></td>
+</tr>
+<tr>
+<td></td>
+<td>1-3</td>
+<td>Amuleto de Proteção contra Escriação</td>
+</tr>
+<tr>
+<td>1</td>
+<td>4-5</td>
+<td>Mochila Devoradora</td>
+</tr>
+<tr>
+<td>2</td>
+<td>6-11</td>
+<td>Mochila de Carga</td>
+</tr>
+<tr>
+<td></td>
+<td>12-16</td>
+<td>Mochila da Levitação</td>
+</tr>
+<tr>
+<td></td>
+<td>17-21</td>
+<td>Botas de Velocidade</td>
+</tr>
+<tr>
+<td></td>
+<td>22-26</td>
+<td>Botas de Viajar e Saltar</td>
+</tr>
+<tr>
+<td>3</td>
+<td>27-31</td>
+<td>Vassoura Voadora</td>
+</tr>
+<tr>
+<td>4</td>
+<td>32-35</td>
+<td>Bola de Cristal</td>
+</tr>
+<tr>
+<td></td>
+<td>36-37</td>
+<td>Bola de Cristal com Clariaudiência</td>
+</tr>
+<tr>
+<td></td>
+<td>38</td>
+<td>Bola de Cristal com Percepção Extrassensorial</td>
+</tr>
+<tr>
+<td></td>
+<td>39-40</td>
+<td>Capa Deslocadora</td>
+</tr>
+<tr>
+<td></td>
+<td>41</td>
+<td>Tambores de Pânico</td>
+</tr>
+<tr>
+<td></td>
+<td>42</td>
+<td>Garrafa Efreeti</td>
+</tr>
+<tr>
+<td></td>
+<td>43</td>
+<td>Dispositivo de Invocação Elemental: Ar</td>
+</tr>
+<tr>
+<td></td>
+<td>44</td>
+<td>Dispositivo de Invocação Elemental: Terra</td>
+</tr>
+<tr>
+<td></td>
+<td>45</td>
+<td>Dispositivo de Invocação Elemental: Fogo</td>
+</tr>
+<tr>
+<td></td>
+<td>46</td>
+<td>Dispositivo de Invocação Elemental: Água</td>
+</tr>
+<tr>
+<td>5</td>
+<td>47-56</td>
+<td>Capa e Botas Élficas</td>
+</tr>
+<tr>
+<td></td>
+<td>57</td>
+<td>Tapete Voador</td>
+</tr>
+<tr>
+<td>6</td>
+<td>58-64</td>
+<td>Manoplas do Poder Ogro</td>
+</tr>
+<tr>
+<td></td>
+<td>65-66</td>
+<td>Cinturão da Força Gigante</td>
+</tr>
+<tr>
+<td>7</td>
+<td>67-77</td>
+<td>Elmo da Alteração de Alinhamento</td>
+</tr>
+<tr>
+<td></td>
+<td>78-82</td>
+<td>Elmo da Leitura de Idiomas e Magia</td>
+</tr>
+<tr>
+<td>8</td>
+<td>83</td>
+<td>Elmo da Telepatia</td>
+</tr>
+<tr>
+<td></td>
+<td>84</td>
+<td>Elmo do Teletransporte</td>
+</tr>
+<tr>
+<td></td>
+<td>85</td>
+<td>Chifre da Explosão</td>
+</tr>
+<tr>
+<td>9</td>
+<td>86-90</td>
+<td>Medalhão da Percepção Extrassensorial 9m</td>
+</tr>
+<tr>
+<td></td>
+<td>91-93</td>
+<td>Medalhão da Percepção Extrassensorial 27m</td>
+</tr>
+<tr>
+<td></td>
+<td>94-94</td>
+<td>Espelho de Prender Vida</td>
+</tr>
+<tr>
+<td>10</td>
+<td>95-97</td>
+<td>Corda de Escalada</td>
+</tr>
+<tr>
+<td></td>
+<td>98-00</td>
+<td>Escaravelho de Proteção</td>
+</tr>
+</tbody>
+</table>
 
 **B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)

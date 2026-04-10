@@ -4,55 +4,137 @@ metaTitle: "Pergaminhos e Mapas"
 metaDescription: "Tesouro -> Pergaminhos e Mapas"
 ---
 
-+-----------+-----------+-------------------------------------+
-| Pergaminho Mágicos e Mapas                                  |
-+===========+===========+=====================================+
-| **B: d8** | **X: d%** | **Pergaminho**                      |
-+-----------+-----------+-------------------------------------+
-| 1         | 1–15      | 1 Magia                             |
-+-----------+-----------+-------------------------------------+
-| 2         | 16–25     | 2 Magias                            |
-+-----------+-----------+-------------------------------------+
-| 3         | 26–31     | 3 Magias                            |
-+-----------+-----------+-------------------------------------+
-|           | 32–34     | 5 Magias                            |
-+-----------+-----------+-------------------------------------+
-|           | 35        | 7 Magias                            |
-+-----------+-----------+-------------------------------------+
-| 4         | 36–40     | Pergaminho Amaldiçoado              |
-+-----------+-----------+-------------------------------------+
-|           | 41–50     | Prot. contra Elementais             |
-+-----------+-----------+-------------------------------------+
-| 5         | 51–60     | Prot. contra Licantropos            |
-+-----------+-----------+-------------------------------------+
-|           | 61–65     | Prot. contra Magia                  |
-+-----------+-----------+-------------------------------------+
-| 6         | 66–75     | Prot. contra Mortos-vivos           |
-+-----------+-----------+-------------------------------------+
-| 7         | 76–78     | Mapa de Tesouro: I                  |
-+-----------+-----------+-------------------------------------+
-|           | 79–80     | Mapa de Tesouro: II                 |
-+-----------+-----------+-------------------------------------+
-|           | 81–82     | Mapa de Tesouro: III                |
-+-----------+-----------+-------------------------------------+
-|           | 83        | Mapa de Tesouro: IV                 |
-+-----------+-----------+-------------------------------------+
-|           | 84        | Mapa de Tesouro: V                  |
-+-----------+-----------+-------------------------------------+
-|           | 85        | Mapa de Tesouro: VI                 |
-+-----------+-----------+-------------------------------------+
-|           | 86        | Mapa de Tesouro: VII                |
-+-----------+-----------+-------------------------------------+
-| 8         | 87–90     | Mapa de Tesouro: VIII               |
-+-----------+-----------+-------------------------------------+
-|           | 91–95     | Mapa de Tesouro: IX                 |
-+-----------+-----------+-------------------------------------+
-|           | 96        | Mapa de Tesouro: X                  |
-+-----------+-----------+-------------------------------------+
-|           | 97–98     | Mapa de Tesouro: XI                 |
-+-----------+-----------+-------------------------------------+
-|           | 99–00     | Mapa de Tesouro: XII                |
-+-----------+-----------+-------------------------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="3">Pergaminho Mágicos e Mapas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B: d8</strong></td>
+<td><strong>X: d%</strong></td>
+<td><strong>Pergaminho</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>1–15</td>
+<td>1 Magia</td>
+</tr>
+<tr>
+<td>2</td>
+<td>16–25</td>
+<td>2 Magias</td>
+</tr>
+<tr>
+<td>3</td>
+<td>26–31</td>
+<td>3 Magias</td>
+</tr>
+<tr>
+<td></td>
+<td>32–34</td>
+<td>5 Magias</td>
+</tr>
+<tr>
+<td></td>
+<td>35</td>
+<td>7 Magias</td>
+</tr>
+<tr>
+<td>4</td>
+<td>36–40</td>
+<td>Pergaminho Amaldiçoado</td>
+</tr>
+<tr>
+<td></td>
+<td>41–50</td>
+<td>Prot. contra Elementais</td>
+</tr>
+<tr>
+<td>5</td>
+<td>51–60</td>
+<td>Prot. contra Licantropos</td>
+</tr>
+<tr>
+<td></td>
+<td>61–65</td>
+<td>Prot. contra Magia</td>
+</tr>
+<tr>
+<td>6</td>
+<td>66–75</td>
+<td>Prot. contra Mortos-vivos</td>
+</tr>
+<tr>
+<td>7</td>
+<td>76–78</td>
+<td>Mapa de Tesouro: I</td>
+</tr>
+<tr>
+<td></td>
+<td>79–80</td>
+<td>Mapa de Tesouro: II</td>
+</tr>
+<tr>
+<td></td>
+<td>81–82</td>
+<td>Mapa de Tesouro: III</td>
+</tr>
+<tr>
+<td></td>
+<td>83</td>
+<td>Mapa de Tesouro: IV</td>
+</tr>
+<tr>
+<td></td>
+<td>84</td>
+<td>Mapa de Tesouro: V</td>
+</tr>
+<tr>
+<td></td>
+<td>85</td>
+<td>Mapa de Tesouro: VI</td>
+</tr>
+<tr>
+<td></td>
+<td>86</td>
+<td>Mapa de Tesouro: VII</td>
+</tr>
+<tr>
+<td>8</td>
+<td>87–90</td>
+<td>Mapa de Tesouro: VIII</td>
+</tr>
+<tr>
+<td></td>
+<td>91–95</td>
+<td>Mapa de Tesouro: IX</td>
+</tr>
+<tr>
+<td></td>
+<td>96</td>
+<td>Mapa de Tesouro: X</td>
+</tr>
+<tr>
+<td></td>
+<td>97–98</td>
+<td>Mapa de Tesouro: XI</td>
+</tr>
+<tr>
+<td></td>
+<td>99–00</td>
+<td>Mapa de Tesouro: XII</td>
+</tr>
+</tbody>
+</table>
 
 **B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)
@@ -134,23 +216,64 @@ Quando usado, conjura um círculo de proteção de 3m de raio em torno do leitor
 ## Magias em um Pergaminho
 O árbitro pode escolher as magias ou rolá-las aleatoriamente. A tabela abaixo pode ser usada para selecionar o nível de cada magia em um pergaminho. (A tabela lista probabilidades separadas para personagens nos níveis Básico e Especialista. Consulte Itens Mágicos Básicos e Especializados, p232.)
 
-+-----------+-----------+---------------+-----------------+
-| Nível de Magia Aleatório para Pergaminho                |
-+===========+===========+===============+=================+
-| **B: d6** | **X: d%** | **Arcana**    | **Divina**      |
-+-----------+-----------+---------------+-----------------+
-| 1-3       | 1–25      | 1°            | 1°              |
-+-----------+-----------+---------------+-----------------+
-| 4-5       | 26–50     | 2°            | 2°              |
-+-----------+-----------+---------------+-----------------+
-| 6         | 51–70     | 3°            | 3°              |
-+-----------+-----------+---------------+-----------------+
-|           | 71–85     | 4°            | 4°              |
-+-----------+-----------+---------------+-----------------+
-|           | 86–95     | 5°            | 5°              |
-+-----------+-----------+---------------+-----------------+
-|           | 96–00     | 6°            | 5°              |
-+-----------+-----------+---------------+-----------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="4">Nível de Magia Aleatório para Pergaminho</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B: d6</strong></td>
+<td><strong>X: d%</strong></td>
+<td><strong>Arcana</strong></td>
+<td><strong>Divina</strong></td>
+</tr>
+<tr>
+<td>1-3</td>
+<td>1–25</td>
+<td>1°</td>
+<td>1°</td>
+</tr>
+<tr>
+<td>4-5</td>
+<td>26–50</td>
+<td>2°</td>
+<td>2°</td>
+</tr>
+<tr>
+<td>6</td>
+<td>51–70</td>
+<td>3°</td>
+<td>3°</td>
+</tr>
+<tr>
+<td></td>
+<td>71–85</td>
+<td>4°</td>
+<td>4°</td>
+</tr>
+<tr>
+<td></td>
+<td>86–95</td>
+<td>5°</td>
+<td>5°</td>
+</tr>
+<tr>
+<td></td>
+<td>96–00</td>
+<td>6°</td>
+<td>5°</td>
+</tr>
+</tbody>
+</table>
 
 # Mapa de Tesouro
 **Uso**: Todos os personagens (a manos que esteja indicado). Um mapa que indica a rota para um tesouro valioso, localizado em uma masmorra ou região selvagem.

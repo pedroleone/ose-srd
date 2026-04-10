@@ -6,27 +6,87 @@ metaDescription: "Equipamentos > Montarias"
 
 # Animais de Carga
 
-+------------+------------+----------------+-----------------------+------------------+----------------+------------------------+-----------------+
-| Animais de Carga                                                                                                                                |
-+============+============+================+=======================+==================+================+========================+=================+
-|                         | **Sem Carga**                                             | **Com Sobrecarga**                                        | 
-+------------+------------+----------------+-----------------------+------------------+----------------+------------------------+-----------------+
-| **Animal** | **Custo**  | **km por dia** | **Taxa de Movimento** | **Carga Máx**    | **km por dia** | **Taxa de Movimento**  | **Carga Máx**   |
-|            | **(po)**   |                |                       | **(moedas)**     |                |                        | **(moedas)**    |
-+------------+------------+----------------+-----------------------+------------------+----------------+------------------------+-----------------+
-| Camelo     | 100        | 45             | 45m (15m)             | 3.000            | 22,5           |  22,5m (7,5m)          | 6.000           |
-+------------+------------+----------------+-----------------------+------------------+----------------+------------------------+-----------------+
-| Cavalo     | 40         | 27             | 27m (9m)              | 4.500            | 13,5           |  13,5m (4,5m)          | 9.000           |
-| (carga)    |            |                |                       |                  |                |                        |                 | 
-+------------+------------+----------------+-----------------------+------------------+----------------+------------------------+-----------------+
-| Cavalo     | 75         | 60             | 72m (24m)             | 3.000            | 12             | 36m (12m)              | 6.000           |
-| (sela)     |            |                |                       |                  |                |                        |                 | 
-+------------+------------+----------------+-----------------------+------------------+----------------+------------------------+-----------------+
-| Cavalo     | 250        | 36             | 36m (12m)             | 4.000            | 18             | 18m (6m)               | 8.000           |
-| (guerra)   |            |                |                       |                  |                |                        |                 | 
-+------------+------------+----------------+-----------------------+------------------+----------------+------------------------+-----------------+
-| Mula       | 30         | 36             | 36m (12m)             | 2.000            | 18             | 18m (6m)               | 4.000           |
-+------------+------------+----------------+-----------------------+------------------+----------------+------------------------+-----------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="8">Animais de Carga</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"><strong>Sem Carga</strong></td>
+<td colspan="3"><strong>Com Sobrecarga</strong></td>
+</tr>
+<tr>
+<td><strong>Animal</strong></td>
+<td><strong>Custo</strong> <strong>(po)</strong></td>
+<td><strong>km por dia</strong></td>
+<td><strong>Taxa de Movimento</strong></td>
+<td><strong>Carga Máx</strong> <strong>(moedas)</strong></td>
+<td><strong>km por dia</strong></td>
+<td><strong>Taxa de Movimento</strong></td>
+<td><strong>Carga Máx</strong> <strong>(moedas)</strong></td>
+</tr>
+<tr>
+<td>Camelo</td>
+<td>100</td>
+<td>45</td>
+<td>45m (15m)</td>
+<td>3.000</td>
+<td>22,5</td>
+<td>22,5m (7,5m)</td>
+<td>6.000</td>
+</tr>
+<tr>
+<td>Cavalo (carga)</td>
+<td>40</td>
+<td>27</td>
+<td>27m (9m)</td>
+<td>4.500</td>
+<td>13,5</td>
+<td>13,5m (4,5m)</td>
+<td>9.000</td>
+</tr>
+<tr>
+<td>Cavalo (sela)</td>
+<td>75</td>
+<td>60</td>
+<td>72m (24m)</td>
+<td>3.000</td>
+<td>12</td>
+<td>36m (12m)</td>
+<td>6.000</td>
+</tr>
+<tr>
+<td>Cavalo (guerra)</td>
+<td>250</td>
+<td>36</td>
+<td>36m (12m)</td>
+<td>4.000</td>
+<td>18</td>
+<td>18m (6m)</td>
+<td>8.000</td>
+</tr>
+<tr>
+<td>Mula</td>
+<td>30</td>
+<td>36</td>
+<td>36m (12m)</td>
+<td>2.000</td>
+<td>18</td>
+<td>18m (6m)</td>
+<td>4.000</td>
+</tr>
+</tbody>
+</table>
 
 # Camelo
 Animais irrasciveis que são adaptados a vida em climas secos. Frequentemente usados para transporte nos desertos.
@@ -67,19 +127,39 @@ AC 7 [12], HD 3 (13hp), Att 2 × hoof (1d6), THAC0 17 [+2], MV 120’ (40’), S
 
 # Rédeas e Arreio
 
-+-----------------+------------------+
-| Rédeas e Arreio                    |
-+=================+==================+
-| **Item**        | **Custo (po)**   |
-+-----------------+------------------+
-| Barda           | 150              |
-+-----------------+------------------+
-| Sela e arreio   | 25               |
-+-----------------+------------------+
-| Alforge         | 5                |
-+-----------------+------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="2">Rédeas e Arreio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Item</strong></td>
+<td><strong>Custo (po)</strong></td>
+</tr>
+<tr>
+<td>Barda</td>
+<td>150</td>
+</tr>
+<tr>
+<td>Sela e arreio</td>
+<td>25</td>
+</tr>
+<tr>
+<td>Alforge</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
 
 * **Barda**: Armadura feita de couro e placas de metal. Fornece ao animal CA 5 [14] e pesa 600 moedas.
 * **Alforges**: Carrega até 300 moedas em peso.
-
 

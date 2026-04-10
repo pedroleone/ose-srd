@@ -4,63 +4,157 @@ metaTitle: "Poções"
 metaDescription: "Tesouro -> Poções"
 ---
 
-+------------+------------+--------------------------------------+
-| Poções Mágicas                                                 |
-+============+============+======================================+
-| **B: d8**  | **X: d%**  | **Poção**                            |
-+------------+------------+--------------------------------------+
-|            | 1–3        |  Clariaudiência                      |
-+------------+------------+--------------------------------------+
-|            | 4–7        |  Clarividência                       |
-+------------+------------+--------------------------------------+
-|            | 8–10       |  Controlar Animal                    |
-+------------+------------+--------------------------------------+
-|            | 11–13      |  Controlar Dragão                    |
-+------------+------------+--------------------------------------+
-|            | 14–16      |  Controlar Gigante                   |
-+------------+------------+--------------------------------------+
-|            | 17–19      |  Controlar Humano                    |
-+------------+------------+--------------------------------------+
-|            | 20–22      |  Controlar Planta                    |
-+------------+------------+--------------------------------------+
-|            | 23–25      |  Controlar Morto-vivo                |
-+------------+------------+--------------------------------------+
-|            | 26–32      |  Ilusão                              |
-+------------+------------+--------------------------------------+
-| 1          | 33–35      |  Diminuição                          |
-+------------+------------+--------------------------------------+
-| 2          | 36–39      |  Percepção Extrassensorial           |
-+------------+------------+--------------------------------------+
-|            | 40–43      |  Resistência à Fogo                  |
-+------------+------------+--------------------------------------+
-|            | 44–47      |  Voar                                |
-+------------+------------+--------------------------------------+
-| 3          | 48–51      |  Forma Gasosa                        |
-+------------+------------+--------------------------------------+
-|            | 52–55      |  Força Gigante                       |
-+------------+------------+--------------------------------------+
-| 4          | 56–59      |  Crescimento                         |
-+------------+------------+--------------------------------------+
-| 5          | 60–63      |  Cura                                |
-+------------+------------+--------------------------------------+
-|            | 64–68      |  Heroísmo                            |
-+------------+------------+--------------------------------------+
-| 6          | 69–72      |  Invisibilidade                      |
-+------------+------------+--------------------------------------+
-|            | 73–76      |  Invulnerabilidade                   |
-+------------+------------+--------------------------------------+
-| 7          | 77–80      |  Levitação                           |
-+------------+------------+--------------------------------------+
-|            | 81–84      |  Longevidade                         |
-+------------+------------+--------------------------------------+
-| 8          | 85–86      |  Veneno                              |
-+------------+------------+--------------------------------------+
-|            | 87–89      |  Metamorfosear-se                    |
-+------------+------------+--------------------------------------+
-|            | 90–97      |  Poção de Velocidade                 |
-+------------+------------+--------------------------------------+
-|            | 98–00      |  Encontrar Tesouro                   |
-+------------+------------+--------------------------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="3">Poções Mágicas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B: d8</strong></td>
+<td><strong>X: d%</strong></td>
+<td><strong>Poção</strong></td>
+</tr>
+<tr>
+<td></td>
+<td>1–3</td>
+<td>Clariaudiência</td>
+</tr>
+<tr>
+<td></td>
+<td>4–7</td>
+<td>Clarividência</td>
+</tr>
+<tr>
+<td></td>
+<td>8–10</td>
+<td>Controlar Animal</td>
+</tr>
+<tr>
+<td></td>
+<td>11–13</td>
+<td>Controlar Dragão</td>
+</tr>
+<tr>
+<td></td>
+<td>14–16</td>
+<td>Controlar Gigante</td>
+</tr>
+<tr>
+<td></td>
+<td>17–19</td>
+<td>Controlar Humano</td>
+</tr>
+<tr>
+<td></td>
+<td>20–22</td>
+<td>Controlar Planta</td>
+</tr>
+<tr>
+<td></td>
+<td>23–25</td>
+<td>Controlar Morto-vivo</td>
+</tr>
+<tr>
+<td></td>
+<td>26–32</td>
+<td>Ilusão</td>
+</tr>
+<tr>
+<td>1</td>
+<td>33–35</td>
+<td>Diminuição</td>
+</tr>
+<tr>
+<td>2</td>
+<td>36–39</td>
+<td>Percepção Extrassensorial</td>
+</tr>
+<tr>
+<td></td>
+<td>40–43</td>
+<td>Resistência à Fogo</td>
+</tr>
+<tr>
+<td></td>
+<td>44–47</td>
+<td>Voar</td>
+</tr>
+<tr>
+<td>3</td>
+<td>48–51</td>
+<td>Forma Gasosa</td>
+</tr>
+<tr>
+<td></td>
+<td>52–55</td>
+<td>Força Gigante</td>
+</tr>
+<tr>
+<td>4</td>
+<td>56–59</td>
+<td>Crescimento</td>
+</tr>
+<tr>
+<td>5</td>
+<td>60–63</td>
+<td>Cura</td>
+</tr>
+<tr>
+<td></td>
+<td>64–68</td>
+<td>Heroísmo</td>
+</tr>
+<tr>
+<td>6</td>
+<td>69–72</td>
+<td>Invisibilidade</td>
+</tr>
+<tr>
+<td></td>
+<td>73–76</td>
+<td>Invulnerabilidade</td>
+</tr>
+<tr>
+<td>7</td>
+<td>77–80</td>
+<td>Levitação</td>
+</tr>
+<tr>
+<td></td>
+<td>81–84</td>
+<td>Longevidade</td>
+</tr>
+<tr>
+<td>8</td>
+<td>85–86</td>
+<td>Veneno</td>
+</tr>
+<tr>
+<td></td>
+<td>87–89</td>
+<td>Metamorfosear-se</td>
+</tr>
+<tr>
+<td></td>
+<td>90–97</td>
+<td>Poção de Velocidade</td>
+</tr>
+<tr>
+<td></td>
+<td>98–00</td>
+<td>Encontrar Tesouro</td>
+</tr>
+</tbody>
+</table>
 
 **B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)

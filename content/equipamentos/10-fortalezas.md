@@ -42,35 +42,74 @@ Se colonos se mudarem para o domínio do PJ, o personagem pode esperar receber u
 
 # Estruturas
 
-+------------------------------------------+-----------------------+
-| Preços das Estruturas                                            |
-+==========================================+=======================+
-| **Estrutura**                            | **Custo**             |
-+------------------------------------------+-----------------------+
-| Antemuro                                 | 37.000 po             |
-+------------------------------------------+-----------------------+
-| Bastião                                  | 9.000 po              |
-+------------------------------------------+-----------------------+
-| Edifício civil, pedra                    | 3.000 po              |
-+------------------------------------------+-----------------------+
-| Edifício civil, madeira                  | 1.500 po              |
-+------------------------------------------+-----------------------+
-| Ponte levadiça                           | 500 po                |
-+------------------------------------------+-----------------------+
-| Portaria                                 | 6.500 po              |
-+------------------------------------------+-----------------------+
-| Torre de menagem                         | 75.000 po             |
-+------------------------------------------+-----------------------+
-| Fosso                                    | 400 po                |
-+------------------------------------------+-----------------------+
-| Passagem subterrânea                     | 500 po                |
-+------------------------------------------+-----------------------+
-| Torre, grande                            | 30.000 po             |
-+------------------------------------------+-----------------------+
-| Torre, pequena                           | 15.000 po             |
-+------------------------------------------+-----------------------+
-| Muro, castelo                            | 5.000 po              |
-+------------------------------------------+-----------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="2">Preços das Estruturas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Estrutura</strong></td>
+<td><strong>Custo</strong></td>
+</tr>
+<tr>
+<td>Antemuro</td>
+<td>37.000 po</td>
+</tr>
+<tr>
+<td>Bastião</td>
+<td>9.000 po</td>
+</tr>
+<tr>
+<td>Edifício civil, pedra</td>
+<td>3.000 po</td>
+</tr>
+<tr>
+<td>Edifício civil, madeira</td>
+<td>1.500 po</td>
+</tr>
+<tr>
+<td>Ponte levadiça</td>
+<td>500 po</td>
+</tr>
+<tr>
+<td>Portaria</td>
+<td>6.500 po</td>
+</tr>
+<tr>
+<td>Torre de menagem</td>
+<td>75.000 po</td>
+</tr>
+<tr>
+<td>Fosso</td>
+<td>400 po</td>
+</tr>
+<tr>
+<td>Passagem subterrânea</td>
+<td>500 po</td>
+</tr>
+<tr>
+<td>Torre, grande</td>
+<td>30.000 po</td>
+</tr>
+<tr>
+<td>Torre, pequena</td>
+<td>15.000 po</td>
+</tr>
+<tr>
+<td>Muro, castelo</td>
+<td>5.000 po</td>
+</tr>
+</tbody>
+</table>
 
 ## Descrições
 
@@ -134,48 +173,124 @@ Por simplicidade, o custo de uma fortaleza pode ser elevada em 25% para levar em
 
 Se o grupo desejar realizar cálculos mais detalhados ou se características adicionais forem requeridas, a tabela abaixo pode ser consultada.
 
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Características de estruturas internas                                                                                             |
-+==================================================+=====================================================+===========================+
-| **Detalhe**                                      | **Dimensões**                                       | **Custo (po)**            |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Alçapão, ferro                                   | 1,2 m x 90 cm                                       | 120                       |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Alçapão, madeira                                 | 1,2 m x 90 cm                                       | 20                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Alçapão, madeira reforçada                       | 1,2 m x 90 cm                                       | 40                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Alçapão, pedra                                   | 1,2 m x 90 cm                                       | 120                       |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Cobertura, madeira                               | Seção de 3 m x 3 m                                  | 40                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Cobertura, telhas                                | Seção de 3 m x 3 m                                  | 100                       |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Escadas, madeira                                 | Seção de 90 cm de largura, 3 m comprimento          | 20                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Escadas, pedra                                   | Seção de 90 cm de largura, 3 m comprimento          | 60                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Janela                                           | &ndash;                                             | 10                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Janela, barras                                   | &ndash;                                             | 10                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Janela, persianas                                | &ndash;                                             | 5                         |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Parede móvel                                     | Seção de 3 m x 3 m                                  | 1.000                     |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Piso, laje ou ladrilho                           | Seção de 3 m x 3 m                                  | 100                       |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Piso, madeira                                    | Seção de 3 m x 3 m                                  | 40                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta, ferro                                     | 90 cm largura, 2,1 m de altura                      | 50                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta, madeira                                   | 90 cm largura, 2,1 m de altur                       | 10                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta, madeira reforçada                         | 90 cm largura, 2,1 m de altura                      | 20                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta, pedra                                     | 90 cm largura, 2,1 m de altura                      | 50                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Porta secreta ou alçapão                         | Normal                                              | 5 × normal                |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
-| Seteiras                                         | &ndash;                                             | 10                        |
-+--------------------------------------------------+-----------------------------------------------------+---------------------------+
+<!--
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+-->
+<table>
+<thead>
+<tr>
+<th colspan="3">Características de estruturas internas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Detalhe</strong></td>
+<td><strong>Dimensões</strong></td>
+<td><strong>Custo (po)</strong></td>
+</tr>
+<tr>
+<td>Alçapão, ferro</td>
+<td>1,2 m x 90 cm</td>
+<td>120</td>
+</tr>
+<tr>
+<td>Alçapão, madeira</td>
+<td>1,2 m x 90 cm</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Alçapão, madeira reforçada</td>
+<td>1,2 m x 90 cm</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Alçapão, pedra</td>
+<td>1,2 m x 90 cm</td>
+<td>120</td>
+</tr>
+<tr>
+<td>Cobertura, madeira</td>
+<td>Seção de 3 m x 3 m</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Cobertura, telhas</td>
+<td>Seção de 3 m x 3 m</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Escadas, madeira</td>
+<td>Seção de 90 cm de largura, 3 m comprimento</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Escadas, pedra</td>
+<td>Seção de 90 cm de largura, 3 m comprimento</td>
+<td>60</td>
+</tr>
+<tr>
+<td>Janela</td>
+<td>–</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Janela, barras</td>
+<td>–</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Janela, persianas</td>
+<td>–</td>
+<td>5</td>
+</tr>
+<tr>
+<td>Parede móvel</td>
+<td>Seção de 3 m x 3 m</td>
+<td>1.000</td>
+</tr>
+<tr>
+<td>Piso, laje ou ladrilho</td>
+<td>Seção de 3 m x 3 m</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Piso, madeira</td>
+<td>Seção de 3 m x 3 m</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Porta, ferro</td>
+<td>90 cm largura, 2,1 m de altura</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Porta, madeira</td>
+<td>90 cm largura, 2,1 m de altur</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Porta, madeira reforçada</td>
+<td>90 cm largura, 2,1 m de altura</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Porta, pedra</td>
+<td>90 cm largura, 2,1 m de altura</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Porta secreta ou alçapão</td>
+<td>Normal</td>
+<td>5 × normal</td>
+</tr>
+<tr>
+<td>Seteiras</td>
+<td>–</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
