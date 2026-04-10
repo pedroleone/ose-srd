@@ -133,7 +133,7 @@ docker stop ose-prod
 
 ## Observações
 
-- A imagem usada é baseada em `node:18-bullseye`, compatível com as exigências do Gatsby.
+- A imagem usada é baseada em `node:18-bookworm`, compatível com as exigências do Gatsby.
 - O ambiente de produção usa `gatsby serve`, enquanto o ambiente de desenvolvimento usa `gatsby develop`.
 - A variável `NODE_OPTIONS=--openssl-legacy-provider` já está configurada no `Dockerfile`, não precisa se preocupar com erros de crypto.
 - Conselho: não apague o `package-lock.json`, nem tente recriá-lo. Você vai ter MUITOS problemas.
