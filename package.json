@@ -60,6 +60,9 @@
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build --prefix-paths",
+    "build:local": "NODE_OPTIONS=--openssl-legacy-provider gatsby build --prefix-paths",
+    "deploy:draft": "npm run build:local && netlify deploy --dir=public --no-build",
+    "deploy:prod": "npm run build:local && netlify deploy --dir=public --no-build --prod",
     "format": "prettier --write \"src/**/*.{js,jsx,css,json}\"",
     "lint": "eslint --fix \"src/**/*.{js,jsx}\""
   },
