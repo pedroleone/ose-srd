@@ -39,19 +39,19 @@ Irá abrir uma tela de comando como a abaixo:
 
 ![Tela](https://i.imgur.com/Px10lIE.png)
 
-Digite "npm install" (sem as aspas), pressione enter e aguarde terminar a instalação. Este processo é demorado e pode levar um tempo até aparecer alguma coisa na tela. Isso é normal.
+Digite "corepack enable && pnpm install" (sem as aspas), pressione enter e aguarde terminar a instalação. Este processo é demorado e pode levar um tempo até aparecer alguma coisa na tela. Isso é normal.
 
 ![Tela](https://i.imgur.com/pwEEYAg.png)
 
-Depois que finalizar, digite "gatsby develop" (sem as aspas) e pressione enter.
+Depois que finalizar, digite "pnpm start" (sem as aspas) e pressione enter.
 
 ![Tela](https://i.imgur.com/dQrBkwN.png)
 
-Aguarde alguns minutos e se der tudo certo, irá exibir a seguinte mensagem:
+Aguarde alguns segundos e se der tudo certo, irá exibir a seguinte mensagem:
 
 ![Tela](https://i.imgur.com/Ig4XiWj.png)
 
-Agora você pode abrir a página no [http://localhost:8000](http://localhost:8000) para visualizar o site:
+Agora você pode abrir a página no [http://localhost:3000](http://localhost:3000) para visualizar o site:
 
 ![Tela](https://i.imgur.com/xZ2Au6e.png)
 

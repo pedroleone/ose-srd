@@ -1,7 +1,6 @@
 ---
 title: "1º Nível"
-metaTitle: "1º Nível Clérigo"
-metaDescription: "Magia > 1º Nível Clérigo"
+description: "Magia > 1º Nível Clérigo"
 ---
 
 # Curar Ferimentos Leves

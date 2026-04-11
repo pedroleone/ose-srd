@@ -1,7 +1,6 @@
 ---
 title: "Guerreiro"
-metaTitle: "Guerreiro"
-metaDescription: "Classe -> Guerreiro"
+description: "Classe -> Guerreiro"
 ---
 **Pré-requisito**: Nenhum
 
@@ -29,43 +28,192 @@ A qualquer momento que o guerreiro deseje (e tenho dinheiro suficiente), eles po
 Um guerreiro pode ser conferido um título como Barão ou Baronesa. As terras sobre o controle do guerreiro é então conhecida como Baronato.
 
 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| Progressão de Nível do Guerreiro                                                   |
-+===========+==========+========+==========+========+=======+=======+=======+========+
-|                                          | **Jogada de Resistência**               | 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| **Nv**    | **XP**   | **DV** | **TAC0** | **Mt** | **V** | **P** | **S** | **Ma** |  
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 1         | 0        | 1d8    | 19 [0]   | 12     | 13    | 14    | 15    | 16     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 2         | 2.000    | 2d8    | 19 [0]   | 12     | 13    | 14    | 15    | 16     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 3         | 4.000    | 3d8    | 19 [0]   | 12     | 13    | 14    | 15    | 16     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 4         | 8.000    | 4d8    | 17 [+2]  | 10     | 11    | 12    | 13    | 14     | 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 5         | 16.000   | 5d8    | 17 [+2]  | 10     | 11    | 12    | 13    | 14     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 6         | 32.000   | 6d8    | 17 [+2]  | 10     | 11    | 12    | 13    | 14     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 7         | 64.000   | 7d8    | 14 [+5]  | 8      | 9     | 10    | 10    | 12     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 8         | 120.000  | 8d8    | 14 [+5]  | 8      | 9     | 10    | 10    | 12     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 9         | 240.000  | 9d8    | 14 [+5]  | 8      | 9     | 10    | 10    | 12     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 10        | 360.000  | 9d8+2* | 12 [+7]  | 6      | 7     | 8     | 8     | 10     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 11        | 480.000  | 9d8+4* | 12 [+7]  | 6      | 7     | 8     | 8     | 10     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 12        | 600.000  | 9d8+6* | 12 [+7]  | 6      | 7     | 8     | 8     | 10     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 13        | 720.000  | 9d8+8* | 10 [+9]  | 4      | 5     | 6     | 5     | 8      |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| 14        | 840.000  | 9d8+10*| 10 [+9]  | 4      | 5     | 6     | 5     | 8      |  
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| &ast; Modificadores de CON não se        |**Mt**: Morte / veneno; **V**: Varinhas; |
-|aplicam mais.                             |**P**: Paralisia / petrificar;           |
-|                                          |**S**: Ataques de sopro;                 |
-|                                          |**Ma**: Feitiços / varinhas / bastões    |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="9">Progressão de Nível do Guerreiro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4"></td>
+<td colspan="5"><strong>Jogada de Resistência</strong></td>
+</tr>
+<tr>
+<td><strong>Nv</strong></td>
+<td><strong>XP</strong></td>
+<td><strong>DV</strong></td>
+<td><strong>TAC0</strong></td>
+<td><strong>Mt</strong></td>
+<td><strong>V</strong></td>
+<td><strong>P</strong></td>
+<td><strong>S</strong></td>
+<td><strong>Ma</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>0</td>
+<td>1d8</td>
+<td>19 [0]</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+</tr>
+<tr>
+<td>2</td>
+<td>2.000</td>
+<td>2d8</td>
+<td>19 [0]</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+</tr>
+<tr>
+<td>3</td>
+<td>4.000</td>
+<td>3d8</td>
+<td>19 [0]</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+</tr>
+<tr>
+<td>4</td>
+<td>8.000</td>
+<td>4d8</td>
+<td>17 [+2]</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+</tr>
+<tr>
+<td>5</td>
+<td>16.000</td>
+<td>5d8</td>
+<td>17 [+2]</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6</td>
+<td>32.000</td>
+<td>6d8</td>
+<td>17 [+2]</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+</tr>
+<tr>
+<td>7</td>
+<td>64.000</td>
+<td>7d8</td>
+<td>14 [+5]</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>10</td>
+<td>12</td>
+</tr>
+<tr>
+<td>8</td>
+<td>120.000</td>
+<td>8d8</td>
+<td>14 [+5]</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>10</td>
+<td>12</td>
+</tr>
+<tr>
+<td>9</td>
+<td>240.000</td>
+<td>9d8</td>
+<td>14 [+5]</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>10</td>
+<td>12</td>
+</tr>
+<tr>
+<td>10</td>
+<td>360.000</td>
+<td>9d8+2*</td>
+<td>12 [+7]</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>10</td>
+</tr>
+<tr>
+<td>11</td>
+<td>480.000</td>
+<td>9d8+4*</td>
+<td>12 [+7]</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>10</td>
+</tr>
+<tr>
+<td>12</td>
+<td>600.000</td>
+<td>9d8+6*</td>
+<td>12 [+7]</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>10</td>
+</tr>
+<tr>
+<td>13</td>
+<td>720.000</td>
+<td>9d8+8*</td>
+<td>10 [+9]</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>5</td>
+<td>8</td>
+</tr>
+<tr>
+<td>14</td>
+<td>840.000</td>
+<td>9d8+10*</td>
+<td>10 [+9]</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>5</td>
+<td>8</td>
+</tr>
+<tr>
+<td colspan="4">* Modificadores de CON não se aplicam mais.</td>
+<td colspan="5"><strong>Mt</strong>: Morte / veneno; <strong>V</strong>: Varinhas; <strong>P</strong>: Paralisia / petrificar; <strong>S</strong>: Ataques de sopro; <strong>Ma</strong>: Feitiços / varinhas / bastões</td>
+</tr>
+</tbody>
+</table>

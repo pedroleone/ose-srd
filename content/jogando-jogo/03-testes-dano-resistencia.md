@@ -1,7 +1,6 @@
 ---
 title: "Testes, Dano e Resistência"
-metaTitle: "Testes, Dano e Resistência"
-metaDescription: "Jogando o Jogo > Testes, Dano e Resistência"
+description: "Jogando o Jogo > Testes, Dano e Resistência"
 ---
 
 # Testes de Atributos

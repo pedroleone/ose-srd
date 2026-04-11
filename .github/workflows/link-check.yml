@@ -1,0 +1,48 @@
+name: Link Check
+
+on:
+  schedule:
+    # Toda segunda-feira às 09:00 UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Run lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --cache
+            --max-cache-age 1w
+            --no-progress
+            --exclude-path node_modules
+            --exclude-path build
+            --exclude-path .docusaurus
+            'content/**/*.md'
+          fail: false
+
+      - name: Create issue from link report
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: 'Link Checker Report'
+          content-filepath: ./lychee/out.md
+          labels: |
+            report
+            automated issue

@@ -1,0 +1,190 @@
+/**
+ * Docusaurus Classic Theme customization for OSE SRD.
+ *
+ * Selectively ported from the Gatsby-era src/components/styles/GlobalStyles.js.
+ * Only the rules that drive the visible look of content survive — everything
+ * component-specific (Header, custom Sidebar tree, rightSidebar, search panel,
+ * NextPrevious) is handled by Classic Theme out of the box.
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700|Raleway:800&display=swap');
+
+/* ---------- Infima design tokens ---------- */
+
+:root {
+  --ifm-color-primary: #1cd3c6;
+  --ifm-color-primary-dark: #19beb2;
+  --ifm-color-primary-darker: #18b4a9;
+  --ifm-color-primary-darkest: #149489;
+  --ifm-color-primary-light: #30d7cb;
+  --ifm-color-primary-lighter: #3ad9cd;
+  --ifm-color-primary-lightest: #5ae0d6;
+
+  --ifm-font-family-base: 'Libre Baskerville', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+  --ifm-heading-font-family: 'Raleway', var(--ifm-font-family-base);
+  --ifm-heading-font-weight: 800;
+
+  --ifm-navbar-background-color: #001934;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-navbar-link-hover-color: #1cd3c6;
+
+  --ifm-code-font-size: 95%;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #2fd2c5;
+  --ifm-color-primary-dark: #1cc1b4;
+  --ifm-color-primary-darker: #1bb7aa;
+  --ifm-color-primary-darkest: #16968b;
+  --ifm-color-primary-light: #47d7cb;
+  --ifm-color-primary-lighter: #52dacf;
+  --ifm-color-primary-lightest: #75e1d8;
+
+  --ifm-navbar-background-color: #001024;
+}
+
+/* ---------- Navbar brand ---------- */
+
+.navbar__title {
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+}
+
+.navbar__brand {
+  color: #ffffff;
+}
+
+/* ---------- Typography ---------- */
+
+article h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6 {
+  font-family: var(--ifm-heading-font-family);
+  line-height: 1.5;
+  margin-bottom: 16px;
+  margin-top: 32px;
+}
+
+article h1 {
+  font-size: 26px;
+  font-weight: 800;
+}
+
+article h2 {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+article h3 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+article h4 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+article h5 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+article h6 {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+article p {
+  line-height: 1.4;
+  margin-bottom: 1rem;
+}
+
+article blockquote {
+  color: rgb(116, 129, 141);
+  margin: 0 0 24px;
+  padding: 0 0 0 12px;
+  border-left: 4px solid rgb(230, 236, 241);
+}
+
+article pre {
+  background-color: rgb(245, 247, 249);
+  padding: 16px;
+  font-size: 14px;
+}
+
+/* ---------- Tables ----------
+ * Critical for legibility: 37 files rely on HTML tables and 14 more on GFM
+ * pipe tables that Docusaurus also renders as <table>. Rules ported verbatim
+ * from the Gatsby GlobalStyles.js table block, with scope tightened to the
+ * doc article so we don't stomp on navbar/footer tables (none exist today,
+ * but this future-proofs the override).
+ */
+
+article table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+  padding: 0;
+}
+
+article table tr {
+  border-top: 1px solid #cccccc;
+  margin: 0;
+  padding: 0;
+}
+
+article table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+article table tr th {
+  font-weight: bold;
+  border: 1px solid #cccccc;
+  text-align: left;
+  margin: 0;
+  padding: 3px 6px;
+}
+
+article table tr td {
+  border: 1px solid #cccccc;
+  text-align: left;
+  margin: 0;
+  padding: 3px 6px;
+  font-size: 13px;
+}
+
+article table tr th :first-child,
+article table tr td :first-child {
+  margin-top: 0;
+}
+
+article table tr th :last-child,
+article table tr td :last-child {
+  margin-bottom: 0;
+}
+
+[data-theme='dark'] article table tr {
+  border-top-color: #3a3a3a;
+}
+
+[data-theme='dark'] article table tr:nth-child(2n) {
+  background-color: rgba(255, 255, 255, 0.04);
+}
+
+[data-theme='dark'] article table tr th,
+[data-theme='dark'] article table tr td {
+  border-color: #3a3a3a;
+}
+
+/* ---------- Images ---------- */
+
+article img {
+  max-width: 100%;
+}

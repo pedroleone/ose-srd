@@ -1,3 +1,8 @@
 [build]
-  publish = "public"
-  command = "npm run build"
+  publish = "build"
+  command = "pnpm run build"
+
+# Netlify reads packageManager from package.json and installs the matching
+# pnpm via corepack, so no explicit PNPM_VERSION is required here.
+[build.environment]
+  NODE_VERSION = "24"

@@ -1,7 +1,6 @@
 ---
 title: "Concedendo XP"
-metaTitle: "Concedendo XP"
-metaDescription: "Mestrando Aventuras -> Concedendo XP"
+description: "Mestrando Aventuras -> Concedendo XP"
 ---
 
 Todos os personagens que retornam de uma aventura vivos recebem pontos de experiência (XP). A XP é ganha a partir de duas fontes: tesouros recuperados e monstros derrotados.
@@ -26,51 +25,126 @@ Todos os monstros derrotados pelo grupo (exemplo, mortos, enganados, capturados,
 
 **Bônus por perigo extraordinário**: um monstro derrotado sob circunstâncias especialmente perigosas pode ser tratado como tendo um DV a mais na tabela. 
 
-+--------------------+-----------------+--------------------------+
-| XP Concedida por derrotar monstros                              |
-+====================+============================================+
-|**DV do Monstro**   | **Base XP**     | **XP Bônus / Habilidade**|
-+--------------------+-----------------+--------------------------+
-| Menor do que 1     | 5               | 1                        |
-+--------------------+-----------------+--------------------------+
-| 1                  | 10              | 3                        |
-+--------------------+-----------------+--------------------------+
-| 1+                 | 15              | 4                        |
-+--------------------+-----------------+--------------------------+
-| 2                  | 20              | 5                        |
-+--------------------+-----------------+--------------------------+
-| 2+                 | 25              | 10                       |
-+--------------------+-----------------+--------------------------+
-| 3                  | 35              | 15                       |
-+--------------------+-----------------+--------------------------+
-| 3+                 | 50              | 25                       |
-+--------------------+-----------------+--------------------------+
-| 4                  | 75              | 50                       |
-+--------------------+-----------------+--------------------------+
-| 4+                 | 125             | 75                       |
-+--------------------+-----------------+--------------------------+
-| 5                  | 175             | 125                      |
-+--------------------+-----------------+--------------------------+
-| 5+                 | 225             | 175                      |
-+--------------------+-----------------+--------------------------+
-| 6                  | 275             | 225                      |
-+--------------------+-----------------+--------------------------+
-| 6+                 | 350             | 300                      |
-+--------------------+-----------------+--------------------------+
-| 7–7+               | 450             | 400                      |
-+--------------------+-----------------+--------------------------+
-| 8–8+               | 650             | 550                      |
-+--------------------+-----------------+--------------------------+
-| 9–10+              | 900             | 700                      |
-+--------------------+-----------------+--------------------------+
-| 11–12+             | 1.100           | 800                      |
-+--------------------+-----------------+--------------------------+
-| 13–16+             | 1.350           | 950                      |
-+--------------------+-----------------+--------------------------+
-| 17–20+             | 2.000           | 1.150                    |
-+--------------------+-----------------+--------------------------+
-| 21–21+             | 2.500           | 2.000                    |
-+--------------------+-----------------+--------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="3">XP Concedida por derrotar monstros</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>DV do Monstro</strong></td>
+<td colspan="2"><strong>Base XP</strong>     | <strong>XP Bônus / Habilidade</strong></td>
+</tr>
+<tr>
+<td>Menor do que 1</td>
+<td>5</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+<td>10</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1+</td>
+<td>15</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2</td>
+<td>20</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2+</td>
+<td>25</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3</td>
+<td>35</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3+</td>
+<td>50</td>
+<td>25</td>
+</tr>
+<tr>
+<td>4</td>
+<td>75</td>
+<td>50</td>
+</tr>
+<tr>
+<td>4+</td>
+<td>125</td>
+<td>75</td>
+</tr>
+<tr>
+<td>5</td>
+<td>175</td>
+<td>125</td>
+</tr>
+<tr>
+<td>5+</td>
+<td>225</td>
+<td>175</td>
+</tr>
+<tr>
+<td>6</td>
+<td>275</td>
+<td>225</td>
+</tr>
+<tr>
+<td>6+</td>
+<td>350</td>
+<td>300</td>
+</tr>
+<tr>
+<td>7–7+</td>
+<td>450</td>
+<td>400</td>
+</tr>
+<tr>
+<td>8–8+</td>
+<td>650</td>
+<td>550</td>
+</tr>
+<tr>
+<td>9–10+</td>
+<td>900</td>
+<td>700</td>
+</tr>
+<tr>
+<td>11–12+</td>
+<td>1.100</td>
+<td>800</td>
+</tr>
+<tr>
+<td>13–16+</td>
+<td>1.350</td>
+<td>950</td>
+</tr>
+<tr>
+<td>17–20+</td>
+<td>2.000</td>
+<td>1.150</td>
+</tr>
+<tr>
+<td>21–21+</td>
+<td>2.500</td>
+<td>2.000</td>
+</tr>
+</tbody>
+</table>
 
 # Divisão de experiência
 

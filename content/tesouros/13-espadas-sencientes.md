@@ -1,7 +1,6 @@
 ---
 title: "Espadas Sencientes"
-metaTitle: "Espadas Sencientes"
-metaDescription: "Tesouro -> Espadas Sencientes"
+description: "Tesouro -> Espadas Sencientes"
 ---
 
 Se uma espada mágica possui senciência (consulte Espadas para ver a probabilidade), o procedimento nesta página pode ser usado para determinar seus poderes. (De forma alternativa, o árbitro pode selecionar suas qualidades conforme desejado.)
@@ -72,39 +71,82 @@ Cada poder deve ser rolado na tabela abaixo. As duplicatas devem ser reroladas, 
 
 **Frequência de uso**: A menos que a descrição de um poder diga o contrário, ele pode ser usado no máximo três vezes por dia.
 
-+----------+------------------------------------------------+
-| Poderes Extraordinários de Espadas Sencientes             |
-+==========+================================================+
-| **d100** | **Poder**                                      |
-+----------+------------------------------------------------+
-| 01–10    | Clariaudiência                                 |
-+----------+------------------------------------------------+
-| 11–20    | Clarividência                                  |
-+----------+------------------------------------------------+
-| 21–30    | Percepção Extrassensorial                      |
-+----------+------------------------------------------------+
-| 31–35    | Dano Extra (duplicatas permitidas)             |
-+----------+------------------------------------------------+
-| 36–40    | Voar                                           |
-+----------+------------------------------------------------+
-| 41–45    | Cura (duplicatas permitidas)                   |
-+----------+------------------------------------------------+
-| 46–54    | Ilusão                                         |
-+----------+------------------------------------------------+
-| 55–59    | Levitação                                      |
-+----------+------------------------------------------------+
-| 60–69    | Telecinesia                                    |
-+----------+------------------------------------------------+
-| 70–79    | Telepatia                                      |
-+----------+------------------------------------------------+
-| 80–88    | Teleporte                                      |
-+----------+------------------------------------------------+
-| 89–97    | Visão de Raio-X                                |
-+----------+------------------------------------------------+
-| 98–99    | Role novamente 2 vezes nessa tabela            |
-+----------+------------------------------------------------+
-| 0        | Role novamente 3 vezes nessa tabela            |
-+----------+------------------------------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="2">Poderes Extraordinários de Espadas Sencientes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d100</strong></td>
+<td><strong>Poder</strong></td>
+</tr>
+<tr>
+<td>01–10</td>
+<td>Clariaudiência</td>
+</tr>
+<tr>
+<td>11–20</td>
+<td>Clarividência</td>
+</tr>
+<tr>
+<td>21–30</td>
+<td>Percepção Extrassensorial</td>
+</tr>
+<tr>
+<td>31–35</td>
+<td>Dano Extra (duplicatas permitidas)</td>
+</tr>
+<tr>
+<td>36–40</td>
+<td>Voar</td>
+</tr>
+<tr>
+<td>41–45</td>
+<td>Cura (duplicatas permitidas)</td>
+</tr>
+<tr>
+<td>46–54</td>
+<td>Ilusão</td>
+</tr>
+<tr>
+<td>55–59</td>
+<td>Levitação</td>
+</tr>
+<tr>
+<td>60–69</td>
+<td>Telecinesia</td>
+</tr>
+<tr>
+<td>70–79</td>
+<td>Telepatia</td>
+</tr>
+<tr>
+<td>80–88</td>
+<td>Teleporte</td>
+</tr>
+<tr>
+<td>89–97</td>
+<td>Visão de Raio-X</td>
+</tr>
+<tr>
+<td>98–99</td>
+<td>Role novamente 2 vezes nessa tabela</td>
+</tr>
+<tr>
+<td>0</td>
+<td>Role novamente 3 vezes nessa tabela</td>
+</tr>
+</tbody>
+</table>
 
 # Clariaudiência
 Permite que o portador ouça através dos ouvidos de outra criatura.
@@ -192,33 +234,70 @@ Cada poder sensorial deve ser rolado na tabela abaixo, com re-rolando as duplica
 
 **Frequência de uso**: A menos que a descrição de uma energia diga o contrário, ela pode ser usada sem limites.
 
-+----------+--------------------------------------------------------+
-| Poderes Sensoriais de Espadas Sencientes                          |
-+==========+========================================================+
-| **d100** | **Poder**                                              |
-+----------+--------------------------------------------------------+
-| 01–10    | Detectar o Mal e o Bem                                 |
-+----------+--------------------------------------------------------+
-| 11–15    | Detectar gemas                                         |
-+----------+--------------------------------------------------------+
-| 16–25    | Detectar mágica                                        |
-+----------+--------------------------------------------------------+
-| 26–35    | Detectar metais                                        |
-+----------+--------------------------------------------------------+
-| 36–50    | Detectar arquitetura móvel                             |
-+----------+--------------------------------------------------------+
-| 51–65    | Detectar ladeiras                                      |
-+----------+--------------------------------------------------------+
-| 66–75    | Detectar armadilhas                                    |
-+----------+--------------------------------------------------------+
-| 76–85    | Localizar portas secretas                              |
-+----------+--------------------------------------------------------+
-| 86–95    | Ver objetos invisíveis                                 |
-+----------+--------------------------------------------------------+
-| 96–99    | Role um poder extraordinário                           |
-+----------+--------------------------------------------------------+
-| 0        | Role novamente duas vezes nessa tabela                 |
-+----------+--------------------------------------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="2">Poderes Sensoriais de Espadas Sencientes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d100</strong></td>
+<td><strong>Poder</strong></td>
+</tr>
+<tr>
+<td>01–10</td>
+<td>Detectar o Mal e o Bem</td>
+</tr>
+<tr>
+<td>11–15</td>
+<td>Detectar gemas</td>
+</tr>
+<tr>
+<td>16–25</td>
+<td>Detectar mágica</td>
+</tr>
+<tr>
+<td>26–35</td>
+<td>Detectar metais</td>
+</tr>
+<tr>
+<td>36–50</td>
+<td>Detectar arquitetura móvel</td>
+</tr>
+<tr>
+<td>51–65</td>
+<td>Detectar ladeiras</td>
+</tr>
+<tr>
+<td>66–75</td>
+<td>Detectar armadilhas</td>
+</tr>
+<tr>
+<td>76–85</td>
+<td>Localizar portas secretas</td>
+</tr>
+<tr>
+<td>86–95</td>
+<td>Ver objetos invisíveis</td>
+</tr>
+<tr>
+<td>96–99</td>
+<td>Role um poder extraordinário</td>
+</tr>
+<tr>
+<td>0</td>
+<td>Role novamente duas vezes nessa tabela</td>
+</tr>
+</tbody>
+</table>
 
 
 # Detectar o Mal e o Bem
@@ -255,25 +334,50 @@ O usuário pode ver objetos invisíveis ou ocultos até 6m de distância. (Este 
 
 Algumas espadas sencientes também são imbuídas de um propósito especial. O propósito dessas espadas é geralmente matar um certo tipo de personagem ou criatura. O propósito pode ser rolado na tabela abaixo, ou o árbitro pode inventar outros.
 
-+--------+-----------------------------------------------------------------------+
-| **Tabela de Propósitos Especiais**                                             |
-+========+=======================================================================+
-| **d6** | Tipo de Alvo a ser Morto                                              |
-+--------+-----------------------------------------------------------------------+
-| 1      | Conjuradores de Magia Arcana                                          |
-+--------+-----------------------------------------------------------------------+
-| 2      | Conjuradores de Magia Divina                                          |
-+--------+-----------------------------------------------------------------------+
-| 3      | Combatentes (por exemplo, guerreiros ou outras classes orientados     |
-|        | primariamente ao combate, incluindo semi-humanos não conjuradores)    |
-|        | e que não sejam conjuradores, incluindo semi-humanos não conjuradores)|
-+--------+-----------------------------------------------------------------------+
-| 4      | Tipos específicos de monstros (determinados aleatoriamente)           |
-+--------+-----------------------------------------------------------------------+
-| 5      | Criaturas ordeiras (ou criaturas caóticas se a espada for ordeira)    |
-+--------+-----------------------------------------------------------------------+
-| 6      | Criaturas caóticas (ou criaturas ordeiras se a espada for caótica)    |
-+--------+-----------------------------------------------------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="2"><strong>Tabela de Propósitos Especiais</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td>Tipo de Alvo a ser Morto</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Conjuradores de Magia Arcana</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Conjuradores de Magia Divina</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Combatentes (por exemplo, guerreiros ou outras classes orientados primariamente ao combate, incluindo semi-humanos não conjuradores) e que não sejam conjuradores, incluindo semi-humanos não conjuradores)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tipos específicos de monstros (determinados aleatoriamente)</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Criaturas ordeiras (ou criaturas caóticas se a espada for ordeira)</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Criaturas caóticas (ou criaturas ordeiras se a espada for caótica)</td>
+</tr>
+</tbody>
+</table>
 
 # Poder de Alinhamento
 Além de seus poderes sensoriais e extraordinários, as espadas com propósito especial têm um poder extra quando usadas para atingir o propósito designado (por exemplo, ao atacar o inimigo que a espada foi projetada para matar). Esse poder depende do alinhamento da espada:

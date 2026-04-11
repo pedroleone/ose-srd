@@ -1,7 +1,6 @@
 ---
 title: "Aventuras em Masmorras"
-metaTitle: "Aventuras em Masmorras"
-metaDescription: "Jogando o Jogo > Aventuras em Masmorras"
+description: "Jogando o Jogo > Aventuras em Masmorras"
 ---
 
 # Sequência de jogo por turno

@@ -1,7 +1,6 @@
 ---
 title: "Elfo"
-metaTitle: "Elfo"
-metaDescription: "Classe -> Elfo"
+description: "Classe -> Elfo"
 ---
 
 **Pré-requisito**: Mínimo INT 9
@@ -22,37 +21,207 @@ Elfos são semi-humanos feéricos esguios com orelhas pontudas. Ele normalmente 
 
 **Requisitos primários**: Um elfo com pelo menos 13 de INT e FOR ganham um bônus de 5% na experiência. Um elfo com INT de pelo menos 16 e FOR 13 recebe um bônus de 10% na experiência.
 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| Progressão de Nível do Elfo                                                                                                |
-+===========+==========+========+==========+========+=======+=======+=======+========+=======+=======+=======+=======+=======+
-|                                          | **Jogada de Resistência**               | **Magias**                            |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| **Nv**    | **XP**   | **DV** | **TAC0** | **Mt** | **V** | **P** | **S** | **Ma** | **1** | **2** | **3** | **4** | **5** | 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 1         | 0        | 1d6    | 19 [0]   | 12     | 13    | 13    | 15    | 15     | 1     |&ndash;|&ndash;|&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 2         | 4.000    | 2d6    | 19 [0]   | 12     | 13    | 13    | 15    | 15     | 2     |&ndash;|&ndash;|&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 3         | 8.000    | 3d6    | 19 [0]   | 12     | 13    | 13    | 15    | 15     | 2     | 1     |&ndash;|&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 4         | 16.000   | 4d6    | 17 [+2]  | 10     | 11    | 11    | 13    | 15     | 2     | 2     |&ndash;|&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 5         | 32.000   | 5d6    | 17 [+2]  | 10     | 11    | 11    | 13    | 12     | 2     | 2     | 1     |&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 6         | 64.000   | 6d6    | 17 [+2]  | 10     | 11    | 11    | 13    | 12     | 2     | 2     | 2     |&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 7         | 120.000  | 7d6    | 14 [+5]  | 8      | 9     | 9     | 10    | 12     | 3     | 2     | 2     | 1     |&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 8         | 250.000  | 8d6    | 14 [+5]  | 8      | 9     | 9     | 10    | 12     | 3     | 3     | 2     | 2     |&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 9         | 400.000  | 9d6    | 14 [+5]  | 8      | 9     | 9     | 10    | 9      | 3     | 3     | 3     | 2     | 1     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 10        | 600.000  | 9d6+2* | 12 [+7]  | 6      | 7     | 8     | 8     | 9      | 3     | 3     | 3     | 3     | 2     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| &ast; Modificadores de CON não se        | **Mt**: Morte / veneno; **V**: Varinhas;                                        |
-| aplicam mais.                            | **P**: Paralisia / petrificar; **S**: Ataques de sopro;                         |
-|                                          | **Ma**: Feitiços / varinhas / bastões                                           |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="14">Progressão de Nível do Elfo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4"></td>
+<td colspan="5"><strong>Jogada de Resistência</strong></td>
+<td colspan="5"><strong>Magias</strong></td>
+</tr>
+<tr>
+<td><strong>Nv</strong></td>
+<td><strong>XP</strong></td>
+<td><strong>DV</strong></td>
+<td><strong>TAC0</strong></td>
+<td><strong>Mt</strong></td>
+<td><strong>V</strong></td>
+<td><strong>P</strong></td>
+<td><strong>S</strong></td>
+<td><strong>Ma</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td><strong>3</strong></td>
+<td><strong>4</strong></td>
+<td><strong>5</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>0</td>
+<td>1d6</td>
+<td>19 [0]</td>
+<td>12</td>
+<td>13</td>
+<td>13</td>
+<td>15</td>
+<td>15</td>
+<td>1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>2</td>
+<td>4.000</td>
+<td>2d6</td>
+<td>19 [0]</td>
+<td>12</td>
+<td>13</td>
+<td>13</td>
+<td>15</td>
+<td>15</td>
+<td>2</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>3</td>
+<td>8.000</td>
+<td>3d6</td>
+<td>19 [0]</td>
+<td>12</td>
+<td>13</td>
+<td>13</td>
+<td>15</td>
+<td>15</td>
+<td>2</td>
+<td>1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>4</td>
+<td>16.000</td>
+<td>4d6</td>
+<td>17 [+2]</td>
+<td>10</td>
+<td>11</td>
+<td>11</td>
+<td>13</td>
+<td>15</td>
+<td>2</td>
+<td>2</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>5</td>
+<td>32.000</td>
+<td>5d6</td>
+<td>17 [+2]</td>
+<td>10</td>
+<td>11</td>
+<td>11</td>
+<td>13</td>
+<td>12</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>6</td>
+<td>64.000</td>
+<td>6d6</td>
+<td>17 [+2]</td>
+<td>10</td>
+<td>11</td>
+<td>11</td>
+<td>13</td>
+<td>12</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>7</td>
+<td>120.000</td>
+<td>7d6</td>
+<td>14 [+5]</td>
+<td>8</td>
+<td>9</td>
+<td>9</td>
+<td>10</td>
+<td>12</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>–</td>
+</tr>
+<tr>
+<td>8</td>
+<td>250.000</td>
+<td>8d6</td>
+<td>14 [+5]</td>
+<td>8</td>
+<td>9</td>
+<td>9</td>
+<td>10</td>
+<td>12</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>–</td>
+</tr>
+<tr>
+<td>9</td>
+<td>400.000</td>
+<td>9d6</td>
+<td>14 [+5]</td>
+<td>8</td>
+<td>9</td>
+<td>9</td>
+<td>10</td>
+<td>9</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>600.000</td>
+<td>9d6+2*</td>
+<td>12 [+7]</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+<td>9</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">* Modificadores de CON não se aplicam mais.</td>
+<td colspan="10"><strong>Mt</strong>: Morte / veneno; <strong>V</strong>: Varinhas; <strong>P</strong>: Paralisia / petrificar; <strong>S</strong>: Ataques de sopro; <strong>Ma</strong>: Feitiços / varinhas / bastões</td>
+</tr>
+</tbody>
+</table>
 
 # Magia Arcana
 

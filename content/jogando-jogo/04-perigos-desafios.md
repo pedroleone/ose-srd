@@ -1,7 +1,6 @@
 ---
 title: "Perigos e Desafios"
-metaTitle: "Perigos e Desafios"
-metaDescription: "Jogando o Jogo > Perigos e Desafios"
+description: "Jogando o Jogo > Perigos e Desafios"
 ---
 
 # Perigos e Desafios

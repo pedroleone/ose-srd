@@ -1,7 +1,6 @@
 ---
 title: "Aventuras nos Ermos"
-metaTitle: "Aventuras nos Ermos"
-metaDescription: "Jogando o Jogo > Aventuras nos Ermos"
+description: "Jogando o Jogo > Aventuras nos Ermos"
 ---
 
 # Sequência de jogo por dia

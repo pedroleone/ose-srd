@@ -1,56 +1,134 @@
 ---
 title: "Bastões, Cajados e Varinhas"
-metaTitle: "Bastões, Cajados e Varinhas"
-metaDescription: "Tesouro -> Bastões, Cajados e Varinhas"
+description: "Tesouro -> Bastões, Cajados e Varinhas"
 ---
 
-+------------+--------------+------------------------------------------------+
-| Cajados, Bastões e Varinhas Mágicas                                        |
-+============+==============+================================================+
-| **B: d6**  | **X: d%**    | **Item**                                       |
-+------------+--------------+------------------------------------------------+
-| 1          |  1–8         | Bastão do Cancelamento                         |
-+------------+--------------+------------------------------------------------+
-|            |  9–11        | Cajado do Comando                              |
-+------------+--------------+------------------------------------------------+
-| 2          |  12–21       | Cajado da Cura                                 |
-+------------+--------------+------------------------------------------------+
-|            |  22–23       | Cajado do Poder                                |
-+------------+--------------+------------------------------------------------+
-| 3          |  24–28       | Cajado das Cobras                              |
-+------------+--------------+------------------------------------------------+
-|            |  29–31       | Cajado do Ataque                               |
-+------------+--------------+------------------------------------------------+
-|            |  32–34       | Cajado de Definhar                             |
-+------------+--------------+------------------------------------------------+
-|            |  35          | Cajado da Magia                                |
-+------------+--------------+------------------------------------------------+
-|            |  36–40       | Varinha de Frio                                |
-+------------+--------------+------------------------------------------------+
-| 4          |  41–45       | Varinha de Detectar Inimigos                   |
-+------------+--------------+------------------------------------------------+
-|            |  46–50       | Varinha de Medo                                |
-+------------+--------------+------------------------------------------------+
-|            |  51–55       | Varinha de Bolas de Fogo                       |
-+------------+--------------+------------------------------------------------+
-|            |  56–60       | Varinha de Ilusão                              |
-+------------+--------------+------------------------------------------------+
-|            |  61–65       | Varinha de Relâmpagos                          |
-+------------+--------------+------------------------------------------------+
-| 5          |  66–70       | Varinha de Detectar Magia                      |
-+------------+--------------+------------------------------------------------+
-|            |  71–75       | Varinha de Detectar Metal                      |
-+------------+--------------+------------------------------------------------+
-|            |  76–80       | Varinha de Negação                             |
-+------------+--------------+------------------------------------------------+
-| 6          |  81–85       | Varinha de Paralisação                         |
-+------------+--------------+------------------------------------------------+
-|            |  86–90       | Varinha de Metamorfose                         |
-+------------+--------------+------------------------------------------------+
-|            |  91–95       | Varinha de Detectar Porta Secreta              |
-+------------+--------------+------------------------------------------------+
-|            |  96–00       | Varinha de Detectar Armadilha                  |
-+------------+--------------+------------------------------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="3">Cajados, Bastões e Varinhas Mágicas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B: d6</strong></td>
+<td><strong>X: d%</strong></td>
+<td><strong>Item</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>1–8</td>
+<td>Bastão do Cancelamento</td>
+</tr>
+<tr>
+<td></td>
+<td>9–11</td>
+<td>Cajado do Comando</td>
+</tr>
+<tr>
+<td>2</td>
+<td>12–21</td>
+<td>Cajado da Cura</td>
+</tr>
+<tr>
+<td></td>
+<td>22–23</td>
+<td>Cajado do Poder</td>
+</tr>
+<tr>
+<td>3</td>
+<td>24–28</td>
+<td>Cajado das Cobras</td>
+</tr>
+<tr>
+<td></td>
+<td>29–31</td>
+<td>Cajado do Ataque</td>
+</tr>
+<tr>
+<td></td>
+<td>32–34</td>
+<td>Cajado de Definhar</td>
+</tr>
+<tr>
+<td></td>
+<td>35</td>
+<td>Cajado da Magia</td>
+</tr>
+<tr>
+<td></td>
+<td>36–40</td>
+<td>Varinha de Frio</td>
+</tr>
+<tr>
+<td>4</td>
+<td>41–45</td>
+<td>Varinha de Detectar Inimigos</td>
+</tr>
+<tr>
+<td></td>
+<td>46–50</td>
+<td>Varinha de Medo</td>
+</tr>
+<tr>
+<td></td>
+<td>51–55</td>
+<td>Varinha de Bolas de Fogo</td>
+</tr>
+<tr>
+<td></td>
+<td>56–60</td>
+<td>Varinha de Ilusão</td>
+</tr>
+<tr>
+<td></td>
+<td>61–65</td>
+<td>Varinha de Relâmpagos</td>
+</tr>
+<tr>
+<td>5</td>
+<td>66–70</td>
+<td>Varinha de Detectar Magia</td>
+</tr>
+<tr>
+<td></td>
+<td>71–75</td>
+<td>Varinha de Detectar Metal</td>
+</tr>
+<tr>
+<td></td>
+<td>76–80</td>
+<td>Varinha de Negação</td>
+</tr>
+<tr>
+<td>6</td>
+<td>81–85</td>
+<td>Varinha de Paralisação</td>
+</tr>
+<tr>
+<td></td>
+<td>86–90</td>
+<td>Varinha de Metamorfose</td>
+</tr>
+<tr>
+<td></td>
+<td>91–95</td>
+<td>Varinha de Detectar Porta Secreta</td>
+</tr>
+<tr>
+<td></td>
+<td>96–00</td>
+<td>Varinha de Detectar Armadilha</td>
+</tr>
+</tbody>
+</table>
 
 **B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)

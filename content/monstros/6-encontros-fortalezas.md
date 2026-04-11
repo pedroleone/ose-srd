@@ -1,7 +1,6 @@
 ---
 title: "Encontros em Fortalezas"
-metaTitle: "Encontros em Fortalezas"
-metaDescription: "Monstros > Encontros em Fortalezas"
+description: "Monstros > Encontros em Fortalezas"
 ---
 
 Quando os PJs vagam pelas vizinhanças da fortaleza selvagem de um PNJ de alto nível, uma recepção calorosa nem sempre é garantida. Estas diretrizes podem ser usadas se o árbitro não tiver notas específicas sobre o governante de uma fortaleza e suas guarnições.
@@ -32,23 +31,64 @@ Patrulhas como as descritas são apenas uma pequena parte da guarnição do gove
 
 A reação do governante aos viajantes transitando em seu domínio depende da classe do governante e pode ser determinada rolando 1d6 e consultando esta tabela:
 
-+--------+-------------+---------------+-----------+
-| Reação conforme a Classe do Governante           |
-+========+=============+===============+===========+
-| **d6** | **Clérigo** | **Guerreiro** | **Mago**  |
-+--------+-------------+---------------+-----------+
-| **1**  | Perseguir   | Perseguir     | Perseguir |
-+--------+-------------+---------------+-----------+
-| **2**  | Perseguir   | Perseguir     | Ignorar   |
-+--------+-------------+---------------+-----------+
-| **3**  | Ignorar     | Perseguir     | Ignorar   |
-+--------+-------------+---------------+-----------+
-| **4**  | Ignorar     | Ignorar       | Ignorar   |
-+--------+-------------+---------------+-----------+
-| **5**  | Convidar    | Ignorar       | Ignorar   |
-+--------+-------------+---------------+-----------+
-| **6**  | Convidar    | Convidar      | Convidar  |
-+--------+-------------+---------------+-----------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="4">Reação conforme a Classe do Governante</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>d6</strong></td>
+<td><strong>Clérigo</strong></td>
+<td><strong>Guerreiro</strong></td>
+<td><strong>Mago</strong></td>
+</tr>
+<tr>
+<td><strong>1</strong></td>
+<td>Perseguir</td>
+<td>Perseguir</td>
+<td>Perseguir</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>Perseguir</td>
+<td>Perseguir</td>
+<td>Ignorar</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>Ignorar</td>
+<td>Perseguir</td>
+<td>Ignorar</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>Ignorar</td>
+<td>Ignorar</td>
+<td>Ignorar</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>Convidar</td>
+<td>Ignorar</td>
+<td>Ignorar</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td>Convidar</td>
+<td>Convidar</td>
+<td>Convidar</td>
+</tr>
+</tbody>
+</table>
 
 * **Perseguir**: A patrulha é instruída a perseguir os intrusos até que deixem o domínio. Alternativamente, eles podem cobrar um pedágio dos viajantes de passagem. O preço exato exigido depende do caráter do governante, da riqueza aparente dos PJs etc. Se os PJs se recusarem a pagar o pedágio, a patrulha pode atacá-los, afugentá-los ou tentar prendê-los.
 * **Ignorar**: A patrulha deixa os PJs em paz, e vai cuidar de seus próprios negócios.

@@ -1,7 +1,6 @@
 ---
 title: "1º Nível"
-metaTitle: "1º Nível Mago"
-metaDescription: "Magia > 1º Nível Mago"
+description: "Magia > 1º Nível Mago"
 ---
 
 # Detectar Magia

@@ -1,7 +1,6 @@
 ---
 title: "Cenários de Aventuras"
-metaTitle: "Cenários de Aventuras"
-metaDescription: "Mestrando Aventuras -> Cenários de Aventuras"
+description: "Mestrando Aventuras -> Cenários de Aventuras"
 ---
 
 O primeiro passo na construção de uma aventura de qualquer tipo, é decidir o tipo de cenário. Este é o gancho que atrai os personagens dos jogadores para o local de aventura, e fornece um pano de fundo que o árbitro pode usar para amarrar o conjunto. O cenário direciona as escolhas do árbitro sobre armadilhas específicas, tesouros, e monstros a serem colocados no local. Os seguintes exemplos podem ser usados para inspirar.

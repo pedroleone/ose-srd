@@ -1,7 +1,6 @@
 ---
 title: "2º Nível"
-metaTitle: "2º Nível Mago"
-metaDescription: "Magia > 2º Nível Mago"
+description: "Magia > 2º Nível Mago"
 ---
 
 # Arrombar

@@ -1,7 +1,6 @@
 ---
 title: "Pesquisas Mágicas"
-metaTitle: "Pesquisas Mágicas"
-metaDescription: "Magias > Pesquisas Mágicas"
+description: "Magias > Pesquisas Mágicas"
 ---
 
 Os persoangens conjuradores podem realizar pesquisas por novas magias, itens mágicos, e outros efeitos mágicos, como indicado na descrição da classe. Isso requer tempo, dinheiro, e algumas vezes ingredientes incomuns. 

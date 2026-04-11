@@ -1,7 +1,6 @@
 ---
 title: "Grimório"
-metaTitle: "Grimório"
-metaDescription: "Magias > Grimório"
+description: "Magias > Grimório"
 ---
 
 Conjuradores arcanos registram as magias que eles conhecem em um livro de magias.

@@ -1,16 +1,14 @@
 services:
   dev:
-    image: node:18-bookworm
+    image: node:24-bookworm
     container_name: ose-dev
     working_dir: /app
     volumes:
       - .:/app
       - ./node_modules:/app/node_modules
     ports:
-      - "8000:8000"
-    environment:
-      - NODE_OPTIONS=--openssl-legacy-provider
-    command: sh -c "npm install && npx gatsby develop -H 0.0.0.0"
+      - "3000:3000"
+    command: sh -c "corepack enable && pnpm install --frozen-lockfile && pnpm exec docusaurus start --host 0.0.0.0"
     stdin_open: true
     tty: true
 
@@ -19,4 +17,3 @@ services:
     container_name: ose-prod
     ports:
       - "8080:8080"
-

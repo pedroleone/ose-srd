@@ -1,7 +1,6 @@
 ---
 title: "Estatísticas de Jogo ✔️"
-metaTitle: "Estatísticas de jogo"
-metaDescription: "Personagens -> Estatísticas"
+description: "Personagens -> Estatísticas"
 ---
 
 Os personagens dos jogadores são descritos, em termos de jogo, por um grupo de estatísticas que definem as suas habilidades, forças e fraquezas no mundo de jogo.

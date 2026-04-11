@@ -1,7 +1,6 @@
 ---
 title: "Conduzindo o Jogo"
-metaTitle: "Conduzindo o Jogo"
-metaDescription: "Mestrando Aventuras -> Conduzindo o Jogo"
+description: "Mestrando Aventuras -> Conduzindo o Jogo"
 ---
 
 # Descrevendo o Desconhecido

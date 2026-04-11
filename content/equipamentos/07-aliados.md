@@ -1,7 +1,6 @@
 ---
 title: "Aliados"
-metaTitle: "Aliados"
-metaDescription: "Equipamentos > Aliados"
+description: "Equipamentos > Aliados"
 ---
 
 Aliados são PNJs que são contratados pelos personagens para acompanhá-los em aventuras. (PNJ contratados por tarefas não relacionadas a aventuras são tratados como empregados.)
@@ -46,21 +45,46 @@ Uma vez que uma oferta for feita, o árbitro determinará a reação do potencia
 * **Generosidade**: o árbitro pode aplicar bônus ou penalidades, dependendo da atratividade do negócio (+1 ou +2 para ofertas generosas, -1 ou -2 para ofertas insatisfatórias).
 * **Reputação**: uma penalidade de -1 ou -2 podem ser aplicadas, se o PJ contratante tiver uma má reputação.
 
-+------------------+----------------------------------+
-| Reações do Aliado em Contratação                    |
-+==================+==================================+
-| 2d6              | Resultado                        |
-+------------------+----------------------------------+
-| 2 ou menos       | Má vontade                       |
-+------------------+----------------------------------+
-| 3–5              | Oferta Recusada                  | 
-+------------------+----------------------------------+
-| 6–8              | Jogue novamente                  |
-+------------------+----------------------------------+
-| 9–11             | Oferta Aceita                    |
-+------------------+----------------------------------+
-| 12 or more       | Oferta Aceita, +1 de Lealdade    |
-+------------------+----------------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="2">Reações do Aliado em Contratação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2d6</td>
+<td>Resultado</td>
+</tr>
+<tr>
+<td>2 ou menos</td>
+<td>Má vontade</td>
+</tr>
+<tr>
+<td>3–5</td>
+<td>Oferta Recusada</td>
+</tr>
+<tr>
+<td>6–8</td>
+<td>Jogue novamente</td>
+</tr>
+<tr>
+<td>9–11</td>
+<td>Oferta Aceita</td>
+</tr>
+<tr>
+<td>12 or more</td>
+<td>Oferta Aceita, +1 de Lealdade</td>
+</tr>
+</tbody>
+</table>
 
 **Má Vontade**: uma penalidade de -1 será aplicada a futuras jogadas de reação de contratação na mesma cidade ou área.
 

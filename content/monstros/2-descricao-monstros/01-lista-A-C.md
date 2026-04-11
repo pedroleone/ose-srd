@@ -1,7 +1,6 @@
 ---
 title: "Lista Monstros A-C"
-metaTitle: "Lista Monstros A-C"
-metaDescription: "Monstros > Lista Monstros A-C"
+description: "Monstros > Lista Monstros A-C"
 ---
 
 # Abelha Assassina

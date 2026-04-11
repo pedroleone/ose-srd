@@ -1,7 +1,6 @@
 ---
 title: "Lista Monstros D-F"
-metaTitle: "Lista Monstros D-F"
-metaDescription: "Monstros > Lista Monstros D-F"
+description: "Monstros > Lista Monstros D-F"
 ---
 
 # Doninha Gigante

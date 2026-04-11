@@ -1,7 +1,6 @@
 ---
 title: "Regras"
-metaTitle: "Regras"
-metaDescription: "Magias > Regras"
+description: "Magias > Regras"
 ---
 
 # Magias

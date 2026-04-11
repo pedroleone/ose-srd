@@ -1,7 +1,6 @@
 ---
 title: "Outras Regras de Combate"
-metaTitle: "Outras Regras de Combate"
-metaDescription: "Jogando o Jogo > Outras Regras de Combate"
+description: "Jogando o Jogo > Outras Regras de Combate"
 ---
 
 # Atacando pelas costas

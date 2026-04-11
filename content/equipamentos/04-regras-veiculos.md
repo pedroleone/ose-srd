@@ -1,10 +1,7 @@
 ---
 title: "Regras de Veículos"
-metaTitle: "Regras de Veículos"
-metaDescription: "Equipamentos > Regras de Veículos"
+description: "Equipamentos > Regras de Veículos"
 ---
-
-import { Link } from "gatsby" 
 
 # Estatísticas de Jogo
 
@@ -18,7 +15,7 @@ Refere-se a abilidade do veículo em resistir a danos devido ataques.
 É a velocidade com que o veículo de move. Cada veículo tem uma taxa básica de movimento, e uma taxa de movimento por encontro (apresentado entre parênteses). A taxa de movimento por encontro é um terço da taxa básica de movimento.
 
 ## Capacidade de Carga
-É a quantidade máxima de carga que o veículo pode carregar, medida em moedas (veja <Link to="/jogando-jogo/02-tempo-peso-movimento">Tempo, Peso e Movimento</Link>).
+É a quantidade máxima de carga que o veículo pode carregar, medida em moedas (veja [Tempo, Peso e Movimento](/jogando-jogo/02-tempo-peso-movimento)).
 
 ## Tripulantes Necessários
 O número de pessoas ou animais (marinheiros, remadores, cavalos, por exemplo), necessários para a operação normal do veículo..
@@ -27,7 +24,7 @@ O número de pessoas ou animais (marinheiros, remadores, cavalos, por exemplo), 
 Alguns veículos possuem um espaço extra a bordo, especificamente destinado a acomodação de passageiros ou mercenários (de qualquer tipo, veja Mercenaries, p128) além da tripulação normal. Se a descrição do veículo não mencionar espaço para passageiros, assume-se que ele só tenha espaço para a tripulação - o árbitro pode determinar que o espaço para carga tenha espaco que possa ser convertido em acomodações. 
 
 ## Navegabilidade
-Embarcações aquáticas são divididas em duas categorias, cada uma comportando-se de forma diferente em condições de vento (veja <Link to="/jogando-jogo/07-aventuras-embarcacoes">Condições Vento</Link>). Veículos navegáveis podem ser utilizados em alto mar, longe das águas costeiras. Veículos não nevegáveis ficam restritos a rios, lagos ou águas costeiras. 
+Embarcações aquáticas são divididas em duas categorias, cada uma comportando-se de forma diferente em condições de vento (veja [Condições Vento](/jogando-jogo/07-aventuras-aquaticas)). Veículos navegáveis podem ser utilizados em alto mar, longe das águas costeiras. Veículos não nevegáveis ficam restritos a rios, lagos ou águas costeiras. 
 
 # Danificando Veículos
 Em combate, ataques e danos podem ser direcionados aos veículos, além dos personagens e monstros.
@@ -36,7 +33,7 @@ Em combate, ataques e danos podem ser direcionados aos veículos, além dos pers
 **Ataques mágicos**: Magias que causam dano ou ataques mágicos infligem um ponto de dano no casco, para cada cinco pontos de dano causado.
 Monstros gigantes: Eles podem danificar veículos, infligindo um ponto de dano no casco, para cada cinco pontos de dano causado.
 
-**Armas acompladas**: Alguns veículos carregam armas acopladas especialmente designadas para o combate entre veículos. Estas armas infligem dano no casco diretamente. As regras para atacar com estas armas estão descritas em <Link to="/equipamentos/06-veiculos-arquaticos">Veículos Aquáticos</Link>.
+**Armas acompladas**: Alguns veículos carregam armas acopladas especialmente designadas para o combate entre veículos. Estas armas infligem dano no casco diretamente. As regras para atacar com estas armas estão descritas em [Veículos Aquáticos](/equipamentos/06-veiculos-aquaticos).
 
 # Efeitos de Dano no Casco
 Quando um veículo perde pontos de casco, sua taxa de movimento também é afetada. Isso pode se dar pelos danos estruturais influenciando na forma como o veículo se move, ou no caso de veículos aquáticos, devido a embarcação estar fazendo água. 

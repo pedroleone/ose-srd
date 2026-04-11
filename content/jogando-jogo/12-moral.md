@@ -1,7 +1,6 @@
---- 
+---
 title: "Moral"
-metaTitle: "Moral"
-metaDescription: "Jogando o Jogo > Moral"
+description: "Jogando o Jogo > Moral"
 ---
 
 Em combate, o árbitro decide se os monstros ou Personagens não Jogadores se rendem ou fogem. O seguinte sistema pode ser utilizado.
@@ -47,21 +46,14 @@ Mercenários (ver Empregados) tem um valor de moral e fazem testes de moral da m
 
 ## Moral dos Mercenários   
 
-+--------------------------+---------+
-|**Tipo da Tropa**         |**Moral**|
-+==========================+=========+
-|Milícia não treinada      | 6       |
-+--------------------------+---------+
-|Horda bárbara             | 7       |
-+--------------------------+---------+
-|Guerreiros treinados      | 8       |
-+--------------------------+---------+
-|Montado                   | +1      |
-+--------------------------+---------+
-|Troas de elite            | +1      |
-+--------------------------+---------+
-|Fanáticos, furiosos       | +2      |
-+--------------------------+---------+
+| **Tipo da Tropa**    | **Moral** |
+| -------------------- | --------- |
+| Milícia não treinada | 6         |
+| Horda bárbara        | 7         |
+| Guerreiros treinados | 8         |
+| Montado              | +1        |
+| Troas de elite       | +1        |
+| Fanáticos, furiosos  | +2        |
 
 # Moral dos Aliados
 

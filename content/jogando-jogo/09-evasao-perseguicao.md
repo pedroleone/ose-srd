@@ -1,7 +1,6 @@
 ---
 title: "Evasão e Perseguição"
-metaTitle: "Evasão e Perseguição"
-metaDescription: "Jogando o Jogo > Evasão e Perseguição"
+description: "Jogando o Jogo > Evasão e Perseguição"
 ---
 
 # Na Masmorra
@@ -47,17 +46,47 @@ A chance de evasão é uma jogada percentual. Se a jogada de evasão falhar, uma
 
 ## Chance base de evasão nos ermos
 
-+------------------------------+---------------------------+-------------------------+-------------------------+
-|**Tamanho do grupo fugitivo** |**Chance de evasão por número de perseguidores**                               |
-+==============================+===========================+=========================+=========================+
-|1 - 4                         |1 perseguidor: 50%         | 2-3 perseguidores: 70%  |4-9 perseguidores: 90%   |
-+------------------------------+---------------------------+-------------------------+-------------------------+
-|5 - 12                        |1-3 perseguidores: 35%     |4-8 perseguidores: 50%   |9+ perseguidores: 70%    |
-+------------------------------+---------------------------+-------------------------+-------------------------+
-|13 - 24                       |1-6 perseguidores: 25%     |7-16 perseguidores: 35%  |17+ perseguidores: 50%   |
-+------------------------------+---------------------------+-------------------------+-------------------------+
-|25 +                          | 1-10 perseguidores: 10%   |11-30 perseguidores: 25% |31+ perseguidores: 35%   |
-+------------------------------+---------------------------+-------------------------+-------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th><strong>Tamanho do grupo fugitivo</strong></th>
+<th colspan="3"><strong>Chance de evasão por número de perseguidores</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 - 4</td>
+<td>1 perseguidor: 50%</td>
+<td>2-3 perseguidores: 70%</td>
+<td>4-9 perseguidores: 90%</td>
+</tr>
+<tr>
+<td>5 - 12</td>
+<td>1-3 perseguidores: 35%</td>
+<td>4-8 perseguidores: 50%</td>
+<td>9+ perseguidores: 70%</td>
+</tr>
+<tr>
+<td>13 - 24</td>
+<td>1-6 perseguidores: 25%</td>
+<td>7-16 perseguidores: 35%</td>
+<td>17+ perseguidores: 50%</td>
+</tr>
+<tr>
+<td>25 +</td>
+<td>1-10 perseguidores: 10%</td>
+<td>11-30 perseguidores: 25%</td>
+<td>31+ perseguidores: 35%</td>
+</tr>
+</tbody>
+</table>
 
 ## Perseguição
 O seguinte procedimento é seguido, dia após dia, até que a perseguição termine.
@@ -78,21 +107,14 @@ A chance de evasão é determinada pela diferença entre as taxas de movimentaç
 
 ## Evasão em veículos marítmos
 
-+----------------------------------------+---------------------------+
-|**Taxa de movimento do grupo fugitivo** |**Chance de evasão**       |
-+========================================+===========================+
-|Mais rápido que o perseguidor           |80%                        |
-+----------------------------------------+---------------------------+
-|0 a 9 m mais lento que o perseguidor    |50%                        |
-+----------------------------------------+---------------------------+
-|9 a 18 m mais lento que o perseguidor   |40%                        |
-+----------------------------------------+---------------------------+
-|18 a 27 m mais lento que o perseguidor  |35%                        |
-+----------------------------------------+---------------------------+
-|Até 36 m mais lento que o perseguidor   |25%                        |
-+----------------------------------------+---------------------------+
-|36 m + mais lento que o perseguidor     |10%                        |
-+----------------------------------------+---------------------------+
+| **Taxa de movimento do grupo fugitivo** | **Chance de evasão** |
+| --------------------------------------- | -------------------- |
+| Mais rápido que o perseguidor           | 80%                  |
+| 0 a 9 m mais lento que o perseguidor    | 50%                  |
+| 9 a 18 m mais lento que o perseguidor   | 40%                  |
+| 18 a 27 m mais lento que o perseguidor  | 35%                  |
+| Até 36 m mais lento que o perseguidor   | 25%                  |
+| 36 m + mais lento que o perseguidor     | 10%                  |
 
 ## Perseguição
 **Tempo**: É medido em rodadas (ver Tempo, Peso e Movimento).

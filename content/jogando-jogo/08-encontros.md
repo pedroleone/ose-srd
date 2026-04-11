@@ -1,7 +1,6 @@
 ---
 title: "Encontros"
-metaTitle: "Encontros"
-metaDescription: "Jogando o Jogo > Encontros"
+description: "Jogando o Jogo > Encontros"
 ---
 
 Um encontro começa quando um grupo de aventureiros tropeça em um monstro, seja porque o árbitro planejou um encontro na área que os PJs estão explorando, ou porque uma jogada para determinar um encontro aleatório indicou um encontro (ver Monstros Errantes).
@@ -50,19 +49,13 @@ O árbitro determinará a reação dos monstros em relação ao grupo. Algumas v
 
 ## Jogada de Reação dos Monstros
 
-+--------------+------------------------------+
-|**2d6**       |**Resultado**                 |
-+==============+==============================+
-|2 ou menos    |Hostil, ataca.                |
-+--------------+------------------------------+
-|3 - 5         |Não amigável, pode atacar.    |
-+--------------+------------------------------+
-|6 - 8         |Neutro, incerto.              |
-+--------------+------------------------------+
-|9 - 11        |Indiferente, não interessado. |
-+--------------+------------------------------+
-|12 ou mais    |Amigável, prestativo.         |
-+--------------+------------------------------+
+| **2d6**    | **Resultado**                 |
+| ---------- | ----------------------------- |
+| 2 ou menos | Hostil, ataca.                |
+| 3 - 5      | Não amigável, pode atacar.    |
+| 6 - 8      | Neutro, incerto.              |
+| 9 - 11     | Indiferente, não interessado. |
+| 12 ou mais | Amigável, prestativo.         |
 
 ## Ações comuns
 Qualquer ação é possível em um encontro, mas as mais comuns são:

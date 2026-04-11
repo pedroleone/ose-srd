@@ -1,7 +1,6 @@
 ---
 title: "Clérigo"
-metaTitle: "Clérigo"
-metaDescription: "Classe -> Clérigo"
+description: "Classe -> Clérigo"
 ---
 
 **Pré-requisito**: Nenhum
@@ -21,45 +20,271 @@ metaDescription: "Classe -> Clérigo"
 Clérigos são aventureiros que juraram servir uma divindade. Eles são treinados para batalha e canalizam o poder de sua divindade.
 
 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| Progressão de Nível de Clérigo                                                                                             |
-+===========+==========+========+==========+========+=======+=======+=======+========+=======+=======+=======+=======+=======+
-|                                          | **Jogada de Resistência**               | **Magias**                            |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| **Nv**    | **XP**   | **DV** | **TAC0** | **Mt** | **V** | **P** | **S** | **Ma** | **1** | **2** | **3** | **4** | **5** | 
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 1         | 0        | 1d6    | 19 [0]   | 11     | 12    | 14    | 16    | 15     |&ndash;|&ndash;|&ndash;|&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 2         | 1.500    | 2d6    | 19 [0]   | 11     | 12    | 14    | 16    | 15     | 1     |&ndash;|&ndash;|&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 3         | 3.000    | 3d6    | 19 [0]   | 11     | 12    | 14    | 16    | 15     | 2     |&ndash;|&ndash;|&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 4         | 6.000    | 4d6    | 19 [0]   | 11     | 12    | 14    | 16    | 15     | 2     | 1     |&ndash;|&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 5         | 12.000   | 5d6    | 17 [+2]  | 9      | 10    | 12    | 14    | 12     | 2     | 2     |&ndash;|&ndash;|&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 6         | 25.000   | 6d6    | 17 [+2]  | 9      | 10    | 12    | 14    | 12     | 2     | 2     | 1     | 1     |&ndash;|
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 7         | 50.000   | 7d6    | 17 [+2]  | 9      | 10    | 12    | 14    | 12     | 2     | 2     | 2     | 1     | 1     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 8         | 100.000  | 8d6    | 17 [+2]  | 9      | 10    | 12    | 14    | 12     | 3     | 3     | 2     | 2     | 1     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 9         | 200.000  | 9d6    | 14 [+5]  | 6      | 7     | 9     | 11    | 9      | 3     | 3     | 2     | 2     | 2     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 10        | 300.000  | 9d6+1* | 14 [+5]  | 6      | 7     | 9     | 11    | 9      | 4     | 4     | 3     | 3     | 2     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 11        | 400.000  | 9d6+2* | 14 [+5]  | 6      | 7     | 9     | 11    | 9      | 4     | 4     | 3     | 3     | 3     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 12        | 500.000  | 9d6+3* | 14 [+5]  | 6      | 7     | 9     | 11    | 9      | 5     | 5     | 4     | 4     | 3     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 13        | 600.000  | 9d6+4* | 12 [+7]  | 3      | 5     | 7     | 8     | 7      | 5     | 5     | 5     | 4     | 4     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| 14        | 700.000  | 9d6+5* | 12 [+7]  | 3      | 5     | 7     | 8     | 7      | 6     | 5     | 5     | 5     | 4     |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
-| &ast; Modificadores de CON não se        | **Mt**: Morte / veneno; **V**: Varinhas;                                        |
-| aplicam mais.                            | **P**: Paralisia / petrificar; **S**: Ataques de sopro;                         |
-|                                          | **Ma**: Feitiços / varinhas / bastões                                           |
-+-----------+----------+--------+----------+--------+-------+-------+-------+--------+-------+-------+-------+-------+-------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="14">Progressão de Nível de Clérigo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="4"></td>
+<td colspan="5"><strong>Jogada de Resistência</strong></td>
+<td colspan="5"><strong>Magias</strong></td>
+</tr>
+<tr>
+<td><strong>Nv</strong></td>
+<td><strong>XP</strong></td>
+<td><strong>DV</strong></td>
+<td><strong>TAC0</strong></td>
+<td><strong>Mt</strong></td>
+<td><strong>V</strong></td>
+<td><strong>P</strong></td>
+<td><strong>S</strong></td>
+<td><strong>Ma</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td><strong>3</strong></td>
+<td><strong>4</strong></td>
+<td><strong>5</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>0</td>
+<td>1d6</td>
+<td>19 [0]</td>
+<td>11</td>
+<td>12</td>
+<td>14</td>
+<td>16</td>
+<td>15</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>2</td>
+<td>1.500</td>
+<td>2d6</td>
+<td>19 [0]</td>
+<td>11</td>
+<td>12</td>
+<td>14</td>
+<td>16</td>
+<td>15</td>
+<td>1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>3</td>
+<td>3.000</td>
+<td>3d6</td>
+<td>19 [0]</td>
+<td>11</td>
+<td>12</td>
+<td>14</td>
+<td>16</td>
+<td>15</td>
+<td>2</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>4</td>
+<td>6.000</td>
+<td>4d6</td>
+<td>19 [0]</td>
+<td>11</td>
+<td>12</td>
+<td>14</td>
+<td>16</td>
+<td>15</td>
+<td>2</td>
+<td>1</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>5</td>
+<td>12.000</td>
+<td>5d6</td>
+<td>17 [+2]</td>
+<td>9</td>
+<td>10</td>
+<td>12</td>
+<td>14</td>
+<td>12</td>
+<td>2</td>
+<td>2</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>6</td>
+<td>25.000</td>
+<td>6d6</td>
+<td>17 [+2]</td>
+<td>9</td>
+<td>10</td>
+<td>12</td>
+<td>14</td>
+<td>12</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>–</td>
+</tr>
+<tr>
+<td>7</td>
+<td>50.000</td>
+<td>7d6</td>
+<td>17 [+2]</td>
+<td>9</td>
+<td>10</td>
+<td>12</td>
+<td>14</td>
+<td>12</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>100.000</td>
+<td>8d6</td>
+<td>17 [+2]</td>
+<td>9</td>
+<td>10</td>
+<td>12</td>
+<td>14</td>
+<td>12</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>200.000</td>
+<td>9d6</td>
+<td>14 [+5]</td>
+<td>6</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+<td>9</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>10</td>
+<td>300.000</td>
+<td>9d6+1*</td>
+<td>14 [+5]</td>
+<td>6</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+<td>9</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>11</td>
+<td>400.000</td>
+<td>9d6+2*</td>
+<td>14 [+5]</td>
+<td>6</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+<td>9</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>500.000</td>
+<td>9d6+3*</td>
+<td>14 [+5]</td>
+<td>6</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+<td>9</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+</tr>
+<tr>
+<td>13</td>
+<td>600.000</td>
+<td>9d6+4*</td>
+<td>12 [+7]</td>
+<td>3</td>
+<td>5</td>
+<td>7</td>
+<td>8</td>
+<td>7</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>14</td>
+<td>700.000</td>
+<td>9d6+5*</td>
+<td>12 [+7]</td>
+<td>3</td>
+<td>5</td>
+<td>7</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="4">* Modificadores de CON não se aplicam mais.</td>
+<td colspan="10"><strong>Mt</strong>: Morte / veneno; <strong>V</strong>: Varinhas; <strong>P</strong>: Paralisia / petrificar; <strong>S</strong>: Ataques de sopro; <strong>Ma</strong>: Feitiços / varinhas / bastões</td>
+</tr>
+</tbody>
+</table>
 
 
 
@@ -93,37 +318,158 @@ Se a tentativa de expulsão for bem sucedida, o jogador deve jogar 2d6 para dete
 
 **Grupos mistos**: Se expulsar mortos-vivos for usada contra um grupo misto de monstros mortos-vivos de diferentes tipos, aqueles com menor DV são afetados primeiro.
 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| Expulsar Mortos Vivos                                                        |
-+===========+=======+=======+========+=======+=======+=======+=======+=========+
-|           | Dado de Vida dos Monstros†                                       |
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| **Nível** | **1** | **2** | **2*** | **3** | **4** | **5** | **6** | **7-9** | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 1         | 7     | 9     | 11     |&ndash;|&ndash;|&ndash;|&ndash;|&ndash;  | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 2         | E     | 7     | 9      | 11    |&ndash;|&ndash;|&ndash;|&ndash;  | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 3         | E     | E     | 7      | 9     | 11    |&ndash;|&ndash;|&ndash;  | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 4         | D     | E     | E      | 7     | 9     | 11    |&ndash;|&ndash;  | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 5         | D     | D     | E      | E     | 7     | 9     | 11    |&ndash;  | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 6         | D     | D     | D      | E     | E     | 7     | 9     | 11      | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 7         | D     | D     | D      | D     | E     | E     | 7     | 9       | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 8         | D     | D     | D      | D     | D     | E     | E     | 7       | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 9         | D     | D     | D      | D     | D     | D     | E     | E       | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 10        | D     | D     | D      | D     | D     | D     | D     | E       | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| 11+       | D     | D     | D      | D     | D     | D     | D     | D       | 
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
-| &ast; Monstros com 2 DV com habilidades especiais                            |
-| (por exemplo, com um asterisco próximo aos DV, na descrição do monstro.      |
-| † O árbitro pode expandir a tabela para incluir monstros                     |
-| mortos-vivos mais poderosos.                                                 |
-+-----------+-------+-------+--------+-------+-------+-------+-------+---------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="9">Expulsar Mortos Vivos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td colspan="8">Dado de Vida dos Monstros†</td>
+</tr>
+<tr>
+<td><strong>Nível</strong></td>
+<td><strong>1</strong></td>
+<td><strong>2</strong></td>
+<td><strong>2*</strong></td>
+<td><strong>3</strong></td>
+<td><strong>4</strong></td>
+<td><strong>5</strong></td>
+<td><strong>6</strong></td>
+<td><strong>7-9</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>2</td>
+<td>E</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>3</td>
+<td>E</td>
+<td>E</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>4</td>
+<td>D</td>
+<td>E</td>
+<td>E</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+<td>–</td>
+<td>–</td>
+</tr>
+<tr>
+<td>5</td>
+<td>D</td>
+<td>D</td>
+<td>E</td>
+<td>E</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+<td>–</td>
+</tr>
+<tr>
+<td>6</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>E</td>
+<td>E</td>
+<td>7</td>
+<td>9</td>
+<td>11</td>
+</tr>
+<tr>
+<td>7</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>E</td>
+<td>E</td>
+<td>7</td>
+<td>9</td>
+</tr>
+<tr>
+<td>8</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>E</td>
+<td>E</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>E</td>
+<td>E</td>
+</tr>
+<tr>
+<td>10</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>E</td>
+</tr>
+<tr>
+<td>11+</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+<td>D</td>
+</tr>
+<tr>
+<td colspan="9">* Monstros com 2 DV com habilidades especiais (por exemplo, com um asterisco próximo aos DV, na descrição do monstro. † O árbitro pode expandir a tabela para incluir monstros mortos-vivos mais poderosos.</td>
+</tr>
+</tbody>
+</table>

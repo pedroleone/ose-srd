@@ -1,7 +1,6 @@
 ---
 title: "Itens Mágicos"
-metaTitle: "Itens Mágicos"
-metaDescription: "Tesouro -> Itens Mágicos"
+description: "Tesouro -> Itens Mágicos"
 ---
 
 Itens mágicos são geralmente classificados de acordo com uma das categorias listadas abaixo. Informações gerais sobre cada categoria de item mágico são fornecidas nas páginas a seguir. Detalhes sobre os itens mágicos específicos são encontrados no livro de tesouros do gênero que está sendo usado.
@@ -29,27 +28,67 @@ Probabilidades separadas estão listadas na tabela para personagens de nível B�
 
 É recomendado que as probabilidades usadas estejam adequadas ao nível de experiência do grupo. De forma alternativa, se o árbitro preferir distribuir uniformemente os itens,  independente do nível do personagem, as probabilidades do Especialista podem ser usadas sempre.
 
-+------------+------------+----------------------------+
-| Tipo de Item Mágico                                  |
-+============+============+============================+
-| **B: d%**  | **X: d%**  | Tipo de Item               |
-+------------+------------+----------------------------+
-| 1–10       | 1–10       | Armadura ou Escudo         |
-+------------+------------+----------------------------+
-| 11–15      | 11–15      | Itens Diversos             |
-+------------+------------+----------------------------+
-| 16–40      | 16–35      | Poção                      |
-+------------+------------+----------------------------+
-| 41–45      | 36–40      | Anel                       |
-+------------+------------+----------------------------+
-| 46–50      | 41–45      | Bastão / Cajado / Varinha  |
-+------------+------------+----------------------------+
-| 51–70      | 46–75      | Pergaminho ou Mapa         |
-+------------+------------+----------------------------+
-| 71–90      | 76–95      | Espada                     |
-+------------+------------+----------------------------+
-| 91–00      | 96–00      | Arma Mágica                |
-+------------+------------+----------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="3">Tipo de Item Mágico</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B: d%</strong></td>
+<td><strong>X: d%</strong></td>
+<td>Tipo de Item</td>
+</tr>
+<tr>
+<td>1–10</td>
+<td>1–10</td>
+<td>Armadura ou Escudo</td>
+</tr>
+<tr>
+<td>11–15</td>
+<td>11–15</td>
+<td>Itens Diversos</td>
+</tr>
+<tr>
+<td>16–40</td>
+<td>16–35</td>
+<td>Poção</td>
+</tr>
+<tr>
+<td>41–45</td>
+<td>36–40</td>
+<td>Anel</td>
+</tr>
+<tr>
+<td>46–50</td>
+<td>41–45</td>
+<td>Bastão / Cajado / Varinha</td>
+</tr>
+<tr>
+<td>51–70</td>
+<td>46–75</td>
+<td>Pergaminho ou Mapa</td>
+</tr>
+<tr>
+<td>71–90</td>
+<td>76–95</td>
+<td>Espada</td>
+</tr>
+<tr>
+<td>91–00</td>
+<td>96–00</td>
+<td>Arma Mágica</td>
+</tr>
+</tbody>
+</table>
 
 # Identificando Itens Mágicos
 **Testando**: A maneira mais comum de identificar itens mágicos é por tentativa e erro - beber uma poção, vestir uma armadura, usar uma arma na batalha, etc.

@@ -1,7 +1,6 @@
 ---
 title: "Criando um Personagem"
-metaTitle: "Criando um Personagem"
-metaDescription: "Personagens -> Criando um Personagem"
+description: "Personagens -> Criando um Personagem"
 ---
 
 Para criar um personagem, você vai precisar primeiro de uma ficha de personagem - uma folha de papel onde você irá escrever todas as informações sobre o seu novo personagem.
@@ -29,13 +28,48 @@ A tabela de progressão de nível para a classe do seu personagem lista o seu va
 
 Para uma referência ágil, é recomendado que você consulte os valores da matriz de ataque correspondente ao seu TAC0 e anote na sua ficha de personagem. Personagens de 1º nível tem um TAC0 de 19 [0], resultando nos valores de ataque mostrados abaixo:
 
-+------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-| Valores de Ataque para Personagens de 1º Nível                               |
-+==================+=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+ 
-| Jogada de Ataque | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
-+------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-| CA Acertada      | 9   | 8   |  7  |  6  |  5  |  4  |  3  |  2  |   1 | 0   |
-+------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="11">Valores de Ataque para Personagens de 1º Nível</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Jogada de Ataque</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+</tr>
+<tr>
+<td>CA Acertada</td>
+<td>9</td>
+<td>8</td>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
 
 # 6. Anote as Jogadas de Resistência e as Habilidades de Classe
 Anote quaisquer habilidades que seu personagem possua devido a sua escolha de classe, assim como as jogadas de resistência do seu personagem. Se o seu personagem tem um grimório, pergunte ao árbitro quais magias estão escritas nele. O árbitro pode permitir que você as escolha.

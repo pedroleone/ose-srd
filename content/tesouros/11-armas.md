@@ -1,56 +1,134 @@
 ---
 title: "Armas"
-metaTitle: "Armas"
-metaDescription: "Tesouro -> Armas"
+description: "Tesouro -> Armas"
 ---
 
-+---------+----------+-----------------------------------------------------+
-| Armas                                                                    |
-+=========+==========+=====================================================+
-|**B: d4**| **X: d%**| **Armas**                                           |
-+---------+----------+-----------------------------------------------------+
-|         | 1–2      | Flechas +1(3d10 flechas)                            |
-+---------+----------+-----------------------------------------------------+
-|1        | 3–12     | Flechas +1 (Básico: 10; Especialista: 2d6 flechas)  |
-+---------+----------+-----------------------------------------------------+
-|         | 13–18    | Flechas +2(1d6 flechas)                             |
-+---------+----------+-----------------------------------------------------+
-|2        | 19–27    | Machado +1                                          |
-+---------+----------+-----------------------------------------------------+
-|         | 28–30    | Machado +2                                          |
-+---------+----------+-----------------------------------------------------+
-|         | 31–33    | Arco +1                                             |
-+---------+----------+-----------------------------------------------------+
-|         | 34–43    | Virotes +1 (2d6 virotes)                            |
-+---------+----------+-----------------------------------------------------+
-|         | 44–45    | Virotes +1 (3d10 virotes)                           |
-+---------+----------+-----------------------------------------------------+
-|         | 46–52    | Virotes +2 (1d6 virotes)                            |
-+---------+----------+-----------------------------------------------------+
-|3        | 53–55    | Adaga +1                                            |
-+---------+----------+-----------------------------------------------------+
-|         | 56       | Adaga +2, +3 vs orcs, goblins, e kobolds            |
-+---------+----------+-----------------------------------------------------+
-|4        | 57–64    | Maça +1                                             |
-+---------+----------+-----------------------------------------------------+
-|         | 65–67    | Maça +2                                             |
-+---------+----------+-----------------------------------------------------+
-|         | 68       | Maça +3                                             |
-+---------+----------+-----------------------------------------------------+
-|         | 69–74    | Funda +1                                            |
-+---------+----------+-----------------------------------------------------+
-|         | 75–82    | Azagaia +1                                          |
-+---------+----------+-----------------------------------------------------+
-|         | 83–86    | Azagaia +2                                          |
-+---------+----------+-----------------------------------------------------+
-|         | 87       | Azagaia +3                                          |
-+---------+----------+-----------------------------------------------------+
-|         | 88–94    | Martelo de Batalha +1                               |
-+---------+----------+-----------------------------------------------------+
-|         | 95–99    | Martelo de Batalha +2                               |
-+---------+----------+-----------------------------------------------------+
-|         | 0        | Martelo de Batalha +3, Martelo de Arremesso Anão    |
-+---------+----------+-----------------------------------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="3">Armas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B: d4</strong></td>
+<td><strong>X: d%</strong></td>
+<td><strong>Armas</strong></td>
+</tr>
+<tr>
+<td></td>
+<td>1–2</td>
+<td>Flechas +1(3d10 flechas)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>3–12</td>
+<td>Flechas +1 (Básico: 10; Especialista: 2d6 flechas)</td>
+</tr>
+<tr>
+<td></td>
+<td>13–18</td>
+<td>Flechas +2(1d6 flechas)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>19–27</td>
+<td>Machado +1</td>
+</tr>
+<tr>
+<td></td>
+<td>28–30</td>
+<td>Machado +2</td>
+</tr>
+<tr>
+<td></td>
+<td>31–33</td>
+<td>Arco +1</td>
+</tr>
+<tr>
+<td></td>
+<td>34–43</td>
+<td>Virotes +1 (2d6 virotes)</td>
+</tr>
+<tr>
+<td></td>
+<td>44–45</td>
+<td>Virotes +1 (3d10 virotes)</td>
+</tr>
+<tr>
+<td></td>
+<td>46–52</td>
+<td>Virotes +2 (1d6 virotes)</td>
+</tr>
+<tr>
+<td>3</td>
+<td>53–55</td>
+<td>Adaga +1</td>
+</tr>
+<tr>
+<td></td>
+<td>56</td>
+<td>Adaga +2, +3 vs orcs, goblins, e kobolds</td>
+</tr>
+<tr>
+<td>4</td>
+<td>57–64</td>
+<td>Maça +1</td>
+</tr>
+<tr>
+<td></td>
+<td>65–67</td>
+<td>Maça +2</td>
+</tr>
+<tr>
+<td></td>
+<td>68</td>
+<td>Maça +3</td>
+</tr>
+<tr>
+<td></td>
+<td>69–74</td>
+<td>Funda +1</td>
+</tr>
+<tr>
+<td></td>
+<td>75–82</td>
+<td>Azagaia +1</td>
+</tr>
+<tr>
+<td></td>
+<td>83–86</td>
+<td>Azagaia +2</td>
+</tr>
+<tr>
+<td></td>
+<td>87</td>
+<td>Azagaia +3</td>
+</tr>
+<tr>
+<td></td>
+<td>88–94</td>
+<td>Martelo de Batalha +1</td>
+</tr>
+<tr>
+<td></td>
+<td>95–99</td>
+<td>Martelo de Batalha +2</td>
+</tr>
+<tr>
+<td></td>
+<td>0</td>
+<td>Martelo de Batalha +3, Martelo de Arremesso Anão</td>
+</tr>
+</tbody>
+</table>
 
 **B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)

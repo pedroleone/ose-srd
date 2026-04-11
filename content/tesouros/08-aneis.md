@@ -1,52 +1,124 @@
 ---
 title: "Anéis"
-metaTitle: "Anéis"
-metaDescription: "Tesouro -> Anéis"
+description: "Tesouro -> Anéis"
 ---
 
-+-----------+-----------+----------------------------------------+
-| Anéis Mágicos                                                  |
-+===========+===========+========================================+
-| **B: d6** | **X: d%** | **Anel**                               |
-+-----------+-----------+----------------------------------------+
-| 1         | 1–5       | Controlar Animais                      |
-+-----------+-----------+----------------------------------------+
-|           | 6–10      | Controlar Humanos                      |
-+-----------+-----------+----------------------------------------+
-|           | 11–16     | Controlar Plantas                      |
-+-----------+-----------+----------------------------------------+
-|           | 17–26     | Ilusão                                 |
-+-----------+-----------+----------------------------------------+
-|           | 27–29     | Invocar Djinni                         |
-+-----------+-----------+----------------------------------------+
-| 2         | 30–39     | Resistência à Fogo                     |
-+-----------+-----------+----------------------------------------+
-| 3         | 40–50     | Invisibilidade                         |
-+-----------+-----------+----------------------------------------+
-|           | 51–55     | Proteção. +1, Raio de 1,5m             |
-+-----------+-----------+----------------------------------------+
-| 4         | 56–70     | Proteção +1                            |
-+-----------+-----------+----------------------------------------+
-|           | 71–72     | Regeneração                            |
-+-----------+-----------+----------------------------------------+
-|           | 73–74     | Guardar Magia                          |
-+-----------+-----------+----------------------------------------+
-|           | 75–80     | Refletir Magia                         |
-+-----------+-----------+----------------------------------------+
-|           | 81–82     | Telecinese                             |
-+-----------+-----------+----------------------------------------+
-| 5         | 83–88     | Andar na Água                          |
-+-----------+-----------+----------------------------------------+
-| 6         | 89–94     | Fraqueza                               |
-+-----------+-----------+----------------------------------------+
-|           | 95–96     | Desejos, 1–2                           |
-+-----------+-----------+----------------------------------------+
-|           | 97        | Desejo, 1–3                            |
-+-----------+-----------+----------------------------------------+
-|           | 98        | Desejo, 2–4                            |
-+-----------+-----------+----------------------------------------+
-|           | 99–00     | Visão de Raio-X                        |
-+-----------+-----------+----------------------------------------+
+{/*
+  Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
+  https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
+  Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
+  depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
+  internas — MDX interpretaria uma linha vazia como quebra de bloco.
+*/}
+<table>
+<thead>
+<tr>
+<th colspan="3">Anéis Mágicos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B: d6</strong></td>
+<td><strong>X: d%</strong></td>
+<td><strong>Anel</strong></td>
+</tr>
+<tr>
+<td>1</td>
+<td>1–5</td>
+<td>Controlar Animais</td>
+</tr>
+<tr>
+<td></td>
+<td>6–10</td>
+<td>Controlar Humanos</td>
+</tr>
+<tr>
+<td></td>
+<td>11–16</td>
+<td>Controlar Plantas</td>
+</tr>
+<tr>
+<td></td>
+<td>17–26</td>
+<td>Ilusão</td>
+</tr>
+<tr>
+<td></td>
+<td>27–29</td>
+<td>Invocar Djinni</td>
+</tr>
+<tr>
+<td>2</td>
+<td>30–39</td>
+<td>Resistência à Fogo</td>
+</tr>
+<tr>
+<td>3</td>
+<td>40–50</td>
+<td>Invisibilidade</td>
+</tr>
+<tr>
+<td></td>
+<td>51–55</td>
+<td>Proteção. +1, Raio de 1,5m</td>
+</tr>
+<tr>
+<td>4</td>
+<td>56–70</td>
+<td>Proteção +1</td>
+</tr>
+<tr>
+<td></td>
+<td>71–72</td>
+<td>Regeneração</td>
+</tr>
+<tr>
+<td></td>
+<td>73–74</td>
+<td>Guardar Magia</td>
+</tr>
+<tr>
+<td></td>
+<td>75–80</td>
+<td>Refletir Magia</td>
+</tr>
+<tr>
+<td></td>
+<td>81–82</td>
+<td>Telecinese</td>
+</tr>
+<tr>
+<td>5</td>
+<td>83–88</td>
+<td>Andar na Água</td>
+</tr>
+<tr>
+<td>6</td>
+<td>89–94</td>
+<td>Fraqueza</td>
+</tr>
+<tr>
+<td></td>
+<td>95–96</td>
+<td>Desejos, 1–2</td>
+</tr>
+<tr>
+<td></td>
+<td>97</td>
+<td>Desejo, 1–3</td>
+</tr>
+<tr>
+<td></td>
+<td>98</td>
+<td>Desejo, 2–4</td>
+</tr>
+<tr>
+<td></td>
+<td>99–00</td>
+<td>Visão de Raio-X</td>
+</tr>
+</tbody>
+</table>
 
 **B**: Personagens Básicos (níveis 1–3)<br />
 **X**: Personagens Especialistas (nível 4+)

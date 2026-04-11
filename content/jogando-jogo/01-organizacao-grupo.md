@@ -1,7 +1,6 @@
 ---
 title: "Organização do Grupo"
-metaTitle: "Organização do Grupo"
-metaDescription: "Jogando o Jogo > Organização do Grupo"
+description: "Jogando o Jogo > Organização do Grupo"
 ---
 
 # Organização do grupo

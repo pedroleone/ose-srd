@@ -1,24 +1,18 @@
 ---
 title: "Planejando Cidade Base"
-metaTitle: "Planejando Cidade Base"
-metaDescription: "Mestrando Aventuras -> Planejando Cidade Base"
+description: "Mestrando Aventuras -> Planejando Cidade Base"
 ---
 
 # 1. Determina o tamanho
 
 Decida quão grande a cidade base é, e aproximadamente quantos habitantes ela possui. O tamanho do assentamento normalmente depende do nível de tecnologia disponível no cenário. Para cenários medievais ou similares, os seguintes valores podem ser usados como base:
 
-+------------------------+--------------------+
-| **Tamanho da Cidade**  | **Habitantes**     |
-+------------------------+--------------------+
-| Aldeia                 | 50–999             |
-+------------------------+--------------------+
-| Vila Pequena           | 1.000 – 4.999      |
-+------------------------+--------------------+
-| Vila Grande            | 5.000 – 14.999     |
-+------------------------+--------------------+
-| Cidade                 | 15.000+            |
-+------------------------+--------------------+        
+| **Tamanho da Cidade** | **Habitantes** |
+| --------------------- | -------------- |
+| Aldeia                | 50–999         |
+| Vila Pequena          | 1.000 – 4.999  |
+| Vila Grande           | 5.000 – 14.999 |
+| Cidade                | 15.000+        |
 
 
 # 2. Anote os serviços

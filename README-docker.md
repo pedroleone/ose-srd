@@ -92,7 +92,7 @@ docker compose up dev
 
 Depois de alguns segundos, acesse o site no navegador:
 
-[http://localhost:8000](http://localhost:8000)
+[http://localhost:3000](http://localhost:3000)
 
 Para encerrar, use `Ctrl+C`. Se estiver usando um terminal que intercepta o `Ctrl+C` (como o Alacritty configurado para copiar com `Ctrl+C`), você pode parar o container com:
 
@@ -133,7 +133,7 @@ docker stop ose-prod
 
 ## Observações
 
-- A imagem usada é baseada em `node:18-bookworm`, compatível com as exigências do Gatsby.
-- O ambiente de produção usa `gatsby serve`, enquanto o ambiente de desenvolvimento usa `gatsby develop`.
-- A variável `NODE_OPTIONS=--openssl-legacy-provider` já está configurada no `Dockerfile`, não precisa se preocupar com erros de crypto.
-- Conselho: não apague o `package-lock.json`, nem tente recriá-lo. Você vai ter MUITOS problemas.
+- A imagem usada é baseada em `node:24-bookworm`, compatível com as exigências do Docusaurus 3.
+- O gerenciador de pacotes é `pnpm`, instalado via corepack a partir da versão pinada em `package.json` (`packageManager`).
+- O ambiente de produção usa `docusaurus serve`, enquanto o ambiente de desenvolvimento usa `docusaurus start`.
+- Conselho: não apague o `pnpm-lock.yaml`, nem tente recriá-lo. Você vai ter MUITOS problemas.
