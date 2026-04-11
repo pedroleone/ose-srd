@@ -38,6 +38,27 @@ const config: Config = {
     faster: true,
   },
 
+  // Busca local client-side via lunr. Registrado como theme (não plugin)
+  // porque o slot de busca da navbar é dono do tema — ver upstream README
+  // de @easyops-cn/docusaurus-search-local. language inclui 'pt' via
+  // lunr-languages para stemming/stopwords em português.
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        language: ['pt', 'en'],
+        docsRouteBasePath: '/',
+        docsDir: 'content',
+        indexBlog: false,
+        indexPages: true,
+        highlightSearchTermsOnTargetPage: true,
+        searchResultLimits: 10,
+        searchResultContextMaxLength: 80,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
