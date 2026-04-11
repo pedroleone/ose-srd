@@ -1,7 +1,6 @@
 ---
 title: "Encontros em Fortalezas"
-metaTitle: "Encontros em Fortalezas"
-metaDescription: "Monstros > Encontros em Fortalezas"
+description: "Monstros > Encontros em Fortalezas"
 ---
 
 Quando os PJs vagam pelas vizinhanças da fortaleza selvagem de um PNJ de alto nível, uma recepção calorosa nem sempre é garantida. Estas diretrizes podem ser usadas se o árbitro não tiver notas específicas sobre o governante de uma fortaleza e suas guarnições.

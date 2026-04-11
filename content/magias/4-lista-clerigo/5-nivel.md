@@ -1,7 +1,6 @@
 ---
 title: "5º Nível"
-metaTitle: "5º Nível Clérigo"
-metaDescription: "Magia > 5º Nível Clérigo"
+description: "Magia > 5º Nível Clérigo"
 ---
 
 # Comunhão

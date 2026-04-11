@@ -1,5 +1,4 @@
 ---
 title: "Personagens"
-metaTitle: "Personagens"
-metaDescription: "Personagens"
+description: "Personagens"
 ---

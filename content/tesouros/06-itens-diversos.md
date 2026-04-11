@@ -1,7 +1,6 @@
 ---
 title: "Itens Diversos"
-metaTitle: "Itens Diversos"
-metaDescription: "Tesouro -> Itens Diversos"
+description: "Tesouro -> Itens Diversos"
 ---
 
 Descrição de Itens

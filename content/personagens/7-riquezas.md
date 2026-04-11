@@ -1,7 +1,6 @@
 ---
 title: "Riquezas"
-metaTitle: "Riquezas"
-metaDescription: "Personagens -> Riquezas"
+description: "Personagens -> Riquezas"
 ---
 
 Personagens bem sucedidos acumulam riquezas dos espólios de suas aventuras. Tesouros possuem muitas formas, mas normalmente, o tipo mais útil de tesouro é o dinheiro.

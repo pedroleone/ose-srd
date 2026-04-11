@@ -1,7 +1,6 @@
 ---
 title: "Grupos de Aventureiros"
-metaTitle: "Grupos de Aventureiros"
-metaDescription: "Monstros > Grupos de Aventureiros"
+description: "Monstros > Grupos de Aventureiros"
 ---
 
 Este procedimento gera grupos de PNJs aventureiros a serem usados em encontros aleatórios. Como o procedimento é bastante complexo, os árbitros podem preferir criar alguns desses grupos de antemão. Os seguintes detalhes gerais se aplicam a todos os tipos de grupos de PNJs descritos:

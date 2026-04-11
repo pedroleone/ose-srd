@@ -1,7 +1,6 @@
 ---
 title: "Aliados"
-metaTitle: "Aliados"
-metaDescription: "Equipamentos > Aliados"
+description: "Equipamentos > Aliados"
 ---
 
 Aliados são PNJs que são contratados pelos personagens para acompanhá-los em aventuras. (PNJ contratados por tarefas não relacionadas a aventuras são tratados como empregados.)

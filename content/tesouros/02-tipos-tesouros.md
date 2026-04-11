@@ -1,7 +1,6 @@
 ---
 title: "Tipos de Tesouros"
-metaTitle: "Tipos de Tesouros"
-metaDescription: "Tesouro -> Tipos de Tesouros"
+description: "Tesouro -> Tipos de Tesouros"
 ---
 
 # Valores Médios

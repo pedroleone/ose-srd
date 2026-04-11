@@ -1,7 +1,6 @@
 ---
 title: "Ladrão"
-metaTitle: "Ladrão"
-metaDescription: "Classe -> Ladrão"
+description: "Classe -> Ladrão"
 ---
 **Pré-requisitos**: Nenhum
 

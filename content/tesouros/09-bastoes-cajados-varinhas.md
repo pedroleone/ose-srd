@@ -1,7 +1,6 @@
 ---
 title: "Bastões, Cajados e Varinhas"
-metaTitle: "Bastões, Cajados e Varinhas"
-metaDescription: "Tesouro -> Bastões, Cajados e Varinhas"
+description: "Tesouro -> Bastões, Cajados e Varinhas"
 ---
 
 <!--

@@ -1,7 +1,6 @@
 ---
 title: "4º Nível"
-metaTitle: "4º Nível Clérigo"
-metaDescription: "Magia > 4º Nível Clérigo"
+description: "Magia > 4º Nível Clérigo"
 ---
 
 # Bastões em Serpentes

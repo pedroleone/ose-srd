@@ -1,7 +1,6 @@
 ---
 title: "6º Nível"
-metaTitle: "6º Nível Mago"
-metaDescription: "Magia > 6º Nível Mago"
+description: "Magia > 6º Nível Mago"
 ---
 
 # Caçador Invisível

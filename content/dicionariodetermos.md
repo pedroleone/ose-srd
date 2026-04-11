@@ -1,7 +1,6 @@
 ---
 title: "Dicionário de Termos ❌"
-metaTitle: "Dicionário de Termos"
-metaDescription: "Dicionário de Termos"
+description: "Dicionário de Termos"
 ---
 
 **Ability Scores**: Atributos

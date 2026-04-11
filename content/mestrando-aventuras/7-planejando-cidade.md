@@ -1,7 +1,6 @@
 ---
 title: "Planejando Cidade Base"
-metaTitle: "Planejando Cidade Base"
-metaDescription: "Mestrando Aventuras -> Planejando Cidade Base"
+description: "Mestrando Aventuras -> Planejando Cidade Base"
 ---
 
 # 1. Determina o tamanho

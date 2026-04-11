@@ -1,7 +1,6 @@
 ---
 title: "Itens Mágicos"
-metaTitle: "Itens Mágicos"
-metaDescription: "Tesouro -> Itens Mágicos"
+description: "Tesouro -> Itens Mágicos"
 ---
 
 Itens mágicos são geralmente classificados de acordo com uma das categorias listadas abaixo. Informações gerais sobre cada categoria de item mágico são fornecidas nas páginas a seguir. Detalhes sobre os itens mágicos específicos são encontrados no livro de tesouros do gênero que está sendo usado.

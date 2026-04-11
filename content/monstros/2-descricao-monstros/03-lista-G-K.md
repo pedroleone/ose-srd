@@ -1,7 +1,6 @@
 ---
 title: "Lista Monstros G-K"
-metaTitle: "Lista Monstros G-K"
-metaDescription: "Monstros > Lista Monstros G-K"
+description: "Monstros > Lista Monstros G-K"
 ---
 
 # Gafanhoto das Profundezas

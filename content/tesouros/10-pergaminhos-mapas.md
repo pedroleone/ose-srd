@@ -1,7 +1,6 @@
 ---
 title: "Pergaminhos e Mapas"
-metaTitle: "Pergaminhos e Mapas"
-metaDescription: "Tesouro -> Pergaminhos e Mapas"
+description: "Tesouro -> Pergaminhos e Mapas"
 ---
 
 <!--

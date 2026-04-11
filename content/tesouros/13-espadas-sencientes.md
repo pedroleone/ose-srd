@@ -1,7 +1,6 @@
 ---
 title: "Espadas Sencientes"
-metaTitle: "Espadas Sencientes"
-metaDescription: "Tesouro -> Espadas Sencientes"
+description: "Tesouro -> Espadas Sencientes"
 ---
 
 Se uma espada mágica possui senciência (consulte Espadas para ver a probabilidade), o procedimento nesta página pode ser usado para determinar seus poderes. (De forma alternativa, o árbitro pode selecionar suas qualidades conforme desejado.)

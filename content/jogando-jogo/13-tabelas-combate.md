@@ -1,7 +1,6 @@
 ---
 title: "Tabelas de Combate"
-metaTitle: "Tabelas de Combate"
-metaDescription: "Jogando o Jogo > Tabelas de Combate"
+description: "Jogando o Jogo > Tabelas de Combate"
 ---
 
 Estas tabelas listam as probabilidades de ataque para todos os monstros e personagens, e os valores de testes de resistência usados por monstros e humanos normais.

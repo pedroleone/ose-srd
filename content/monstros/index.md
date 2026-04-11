@@ -1,5 +1,4 @@
 ---
 title: "Monstros"
-metaTitle: "Monstros"
-metaDescription: "Monstros"
+description: "Monstros"
 ---

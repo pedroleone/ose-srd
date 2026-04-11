@@ -1,7 +1,6 @@
 ---
 title: "Espadas"
-metaTitle: "Espadas"
-metaDescription: "Tesouro -> Espadas"
+description: "Tesouro -> Espadas"
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Guerreiro"
-metaTitle: "Guerreiro"
-metaDescription: "Classe -> Guerreiro"
+description: "Classe -> Guerreiro"
 ---
 **Pré-requisito**: Nenhum
 

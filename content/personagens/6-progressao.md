@@ -1,7 +1,6 @@
 ---
 title: "Progressão"
-metaTitle: "Progressão"
-metaDescription: "Personagens -> Progressão"
+description: "Personagens -> Progressão"
 ---
 
 # Experiência

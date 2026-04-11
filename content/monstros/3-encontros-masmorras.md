@@ -1,7 +1,6 @@
 ---
 title: "Encontros em Masmorras"
-metaTitle: "Encontros em Masmorras"
-metaDescription: "Monstros > Encontros em Masmorras"
+description: "Monstros > Encontros em Masmorras"
 ---
 
 Esta seção contém tabelas de encontro por nível da masmorra, usando os monstros encontrados aqui. Os árbitros que estejam utilizando monstros adicionais (ou alternativos) devem ou adaptar as tabelas para inclui-los, ou deve criar suas próprias tabelas de encontro. Tabelas especiais também podem ser criadas para refletir a diferença entre os monstros habitando uma masmorra específica.

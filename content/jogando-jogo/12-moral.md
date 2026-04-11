@@ -1,7 +1,6 @@
 ---
 title: "Moral"
-metaTitle: "Moral"
-metaDescription: "Jogando o Jogo > Moral"
+description: "Jogando o Jogo > Moral"
 ---
 
 Em combate, o árbitro decide se os monstros ou Personagens não Jogadores se rendem ou fogem. O seguinte sistema pode ser utilizado.

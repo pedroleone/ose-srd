@@ -1,7 +1,6 @@
 ---
 title: "Lista Clérigo"
-metaTitle: "Lista Clérigo"
-metaDescription: "Magia > Lista Clérigo"
+description: "Magia > Lista Clérigo"
 ---
 
 # 1º Nível

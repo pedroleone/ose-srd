@@ -1,7 +1,6 @@
 ---
 title: "Mago"
-metaTitle: "Mago"
-metaDescription: "Classe -> Mago"
+description: "Classe -> Mago"
 ---
 
 **Pré-requisito**: Nenhum

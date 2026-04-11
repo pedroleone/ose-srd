@@ -1,7 +1,6 @@
 ---
 title: "5º Nível"
-metaTitle: "5º Nível Mago"
-metaDescription: "Magia > 5º Nível Mago"
+description: "Magia > 5º Nível Mago"
 ---
 
 # Animar os Mortos

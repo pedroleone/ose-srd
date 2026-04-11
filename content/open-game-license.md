@@ -1,7 +1,6 @@
 ---
 title: "Open Game License"
-metaTitle: "Open Game License"
-metaDescription: "Open Game License"
+description: "Open Game License"
 ---
 
 ## DESIGNAÇÃO DE IDENTIDADE DO PRODUTO

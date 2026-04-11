@@ -1,7 +1,6 @@
 ---
 title: "Halfling"
-metaTitle: "Halfling"
-metaDescription: "Classe -> Halfling"
+description: "Classe -> Halfling"
 ---
 
 **Pré-requisitos**: Mínimo CON 9, mínimo DES 9

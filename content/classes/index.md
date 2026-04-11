@@ -1,7 +1,6 @@
 ---
 title: "Classes"
-metaTitle: "Classes"
-metaDescription: "Classes"
+description: "Classes"
 ---
 
 - [Anão](/classes/1-anao)

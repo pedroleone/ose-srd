@@ -1,7 +1,6 @@
 ---
 title: "Regras de Veículos"
-metaTitle: "Regras de Veículos"
-metaDescription: "Equipamentos > Regras de Veículos"
+description: "Equipamentos > Regras de Veículos"
 ---
 
 # Estatísticas de Jogo

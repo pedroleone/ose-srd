@@ -1,7 +1,6 @@
 ---
 title: "Gemas e Joias"
-metaTitle: "Gemas e Joias"
-metaDescription: "Tesouro -> Gemas e Joias"
+description: "Tesouro -> Gemas e Joias"
 ---
 
 # Gemas

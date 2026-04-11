@@ -1,7 +1,6 @@
 ---
 title: "Planejando Masmorras"
-metaTitle: "Planejando Masmorras"
-metaDescription: "Mestrando Aventuras -> Planejando Masmorras"
+description: "Mestrando Aventuras -> Planejando Masmorras"
 ---
 
 # 1. Escolha o cenário

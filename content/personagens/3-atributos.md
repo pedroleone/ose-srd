@@ -1,7 +1,6 @@
 ---
 title: "Atributos"
-metaTitle: "Atributos"
-metaDescription: "Personagens -> Atributos"
+description: "Personagens -> Atributos"
 ---
 
 O valor de cada atributo determina se o personagem possui bônus ou penalidades associadas com várias ações no jogo. As tabelas a seguir listam os modificadores relacionados com cada atributo, com os efeitos descritos abaixo.

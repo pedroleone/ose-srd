@@ -1,7 +1,6 @@
 ---
 title: "3º Nível"
-metaTitle: "3º Nível Mago"
-metaDescription: "Magia > 3º Nível Mago"
+description: "Magia > 3º Nível Mago"
 ---
 
 # Bola de Fogo

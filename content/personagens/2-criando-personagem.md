@@ -1,7 +1,6 @@
 ---
 title: "Criando um Personagem"
-metaTitle: "Criando um Personagem"
-metaDescription: "Personagens -> Criando um Personagem"
+description: "Personagens -> Criando um Personagem"
 ---
 
 Para criar um personagem, você vai precisar primeiro de uma ficha de personagem - uma folha de papel onde você irá escrever todas as informações sobre o seu novo personagem.

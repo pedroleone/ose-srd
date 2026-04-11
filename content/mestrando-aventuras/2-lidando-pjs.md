@@ -1,7 +1,6 @@
 ---
 title: "Lidando com PJs"
-metaTitle: "Lidando com PJs"
-metaDescription: "Mestrando Aventuras -> Lidando com PJs"
+description: "Mestrando Aventuras -> Lidando com PJs"
 ---
 
 # Taxa de Avanço

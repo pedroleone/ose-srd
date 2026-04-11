@@ -1,7 +1,6 @@
 ---
 title: "Lista Monstros O-S"
-metaTitle: "Lista Monstros O-S"
-metaDescription: "Monstros > Lista Monstros O-S"
+description: "Monstros > Lista Monstros O-S"
 ---
 
 # Ogro

@@ -1,7 +1,6 @@
 ---
 title: "Especialistas"
-metaTitle: "Especialistas"
-metaDescription: "Equipamentos > Especialistas"
+description: "Equipamentos > Especialistas"
 ---
 
 # Salários

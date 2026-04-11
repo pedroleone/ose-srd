@@ -1,5 +1,4 @@
 ---
 title: "Magias"
-metaTitle: "Magias"
-metaDescription: "Magias"
+description: "Magias"
 ---

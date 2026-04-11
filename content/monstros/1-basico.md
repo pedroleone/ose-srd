@@ -1,7 +1,6 @@
 ---
 title: "Básico"
-metaTitle: "Básico"
-metaDescription: "Monstros > Básico"
+description: "Monstros > Básico"
 ---
 
 # Estatísticas do Jogo

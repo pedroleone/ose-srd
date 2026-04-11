@@ -1,7 +1,6 @@
 ---
 title: "Anão"
-metaTitle: "Anão"
-metaDescription: "Classe -> Anão"
+description: "Classe -> Anão"
 ---
 
 **Pré-requisito**: Mínimo CON 9

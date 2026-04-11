@@ -1,7 +1,6 @@
 ---
 title: "Armaduras e Escudos"
-metaTitle: "Armaduras e Escudos"
-metaDescription: "Tesouro -> Armaduras e Escudos"
+description: "Tesouro -> Armaduras e Escudos"
 ---
 
 | **B: d4** | **X: d%** | **Item**                              |

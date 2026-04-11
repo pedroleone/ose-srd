@@ -1,7 +1,6 @@
 ---
 title: "Lista Monstros L-N"
-metaTitle: "Lista Monstros L-N"
-metaDescription: "Monstros > Lista Monstros L-N"
+description: "Monstros > Lista Monstros L-N"
 ---
 
 # Lagarto Gigante

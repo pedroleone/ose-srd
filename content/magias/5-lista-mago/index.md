@@ -1,7 +1,6 @@
 ---
 title: "Lista Mago"
-metaTitle: "Lista Mago"
-metaDescription: "Magia > Lista Mago"
+description: "Magia > Lista Mago"
 ---
 
 # 1º Nível

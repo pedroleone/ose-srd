@@ -1,7 +1,6 @@
 ---
 title: "Elfo"
-metaTitle: "Elfo"
-metaDescription: "Classe -> Elfo"
+description: "Classe -> Elfo"
 ---
 
 **Pré-requisito**: Mínimo INT 9

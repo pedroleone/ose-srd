@@ -1,7 +1,6 @@
 ---
 title: "Anéis"
-metaTitle: "Anéis"
-metaDescription: "Tesouro -> Anéis"
+description: "Tesouro -> Anéis"
 ---
 
 <!--

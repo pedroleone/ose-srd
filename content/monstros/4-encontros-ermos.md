@@ -1,7 +1,6 @@
 ---
 title: "Encontros nos Ermos"
-metaTitle: "Encontros nos Ermos"
-metaDescription: "Monstros > Encontros nos Ermos"
+description: "Monstros > Encontros nos Ermos"
 ---
 
 Esta seção fornece tabelas de encontro por tipo de terreno, usando os monstros encontrados neste livro. Os árbitros que estão usando monstros adicionais (ou alternativos) devem adaptar as tabelas para incluí-los, ou devem criar suas próprias tabelas de encontro.

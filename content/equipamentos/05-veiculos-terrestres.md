@@ -1,7 +1,6 @@
 ---
 title: "Veículos Terrestres"
-metaTitle: "Veículos Terrestres"
-metaDescription: "Equipamentos > Veículos Terrestres"
+description: "Equipamentos > Veículos Terrestres"
 ---
 
 <!--

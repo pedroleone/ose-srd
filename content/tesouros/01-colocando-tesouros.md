@@ -1,7 +1,6 @@
 ---
 title: "Colocando Tesouros"
-metaTitle: "Colocando Tesouros"
-metaDescription: "Tesouro -> Colocando Tesouros"
+description: "Tesouro -> Colocando Tesouros"
 ---
 
 # Rolando Aleatoriamente

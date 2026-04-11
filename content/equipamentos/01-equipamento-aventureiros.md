@@ -1,7 +1,6 @@
 ---
 title: "Equipamentos de Aventureiro"
-metaTitle: "Equipamentos de Aventureiro"
-metaDescription: "Equipamentos > Equipamentos de Aventureiro"
+description: "Equipamentos > Equipamentos de Aventureiro"
 ---
 
 <!--

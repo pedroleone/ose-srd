@@ -1,7 +1,6 @@
 ---
 title: "Armas"
-metaTitle: "Armas"
-metaDescription: "Tesouro -> Armas"
+description: "Tesouro -> Armas"
 ---
 
 <!--

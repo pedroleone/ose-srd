@@ -1,7 +1,6 @@
 ---
 title: "Aventuras Aquáticas"
-metaTitle: "Aventuras Aquáticas"
-metaDescription: "Jogando o Jogo > Aventuras Aquáticas"
+description: "Jogando o Jogo > Aventuras Aquáticas"
 ---
 
 # Sequência de jogo por dia

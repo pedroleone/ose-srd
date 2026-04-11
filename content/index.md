@@ -1,7 +1,6 @@
 ---
 title: "Old School Essentials SRD"
-metaTitle: "Old School Essentials SRD"
-metaDescription: "Old School Essentials SRD"
+description: "Old School Essentials SRD"
 ---
 
 Bem vindo à tradução não oficial do Old-School Essentials SRD!

@@ -1,5 +1,4 @@
 ---
 title: "Equipamentos"
-metaTitle: "Equipamentos"
-metaDescription: "Equipamentos"
+description: "Equipamentos"
 ---

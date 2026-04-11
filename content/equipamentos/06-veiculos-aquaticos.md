@@ -1,7 +1,6 @@
 ---
 title: "Veículos Aquáticos"
-metaTitle: "Veículos Aquáticos"
-metaDescription: "Equipamentos > Veículos Aquáticos"
+description: "Equipamentos > Veículos Aquáticos"
 ---
 
 # Embarcações Navegáveis

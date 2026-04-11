@@ -1,7 +1,6 @@
 ---
 title: "Mercenários"
-metaTitle: "Mercenários"
-metaDescription: "Equipamentos > Mercenários"
+description: "Equipamentos > Mercenários"
 ---
 
 Mercenários são soldados contratados que irão guardar, patrulhar e até servir nos ermos, mas apenas como parte de uma força maior, não em um grupo de aventureiros.

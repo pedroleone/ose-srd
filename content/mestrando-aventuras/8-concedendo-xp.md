@@ -1,7 +1,6 @@
 ---
 title: "Concedendo XP"
-metaTitle: "Concedendo XP"
-metaDescription: "Mestrando Aventuras -> Concedendo XP"
+description: "Mestrando Aventuras -> Concedendo XP"
 ---
 
 Todos os personagens que retornam de uma aventura vivos recebem pontos de experiência (XP). A XP é ganha a partir de duas fontes: tesouros recuperados e monstros derrotados.

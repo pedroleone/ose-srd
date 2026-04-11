@@ -1,7 +1,6 @@
 ---
 title: "Poções"
-metaTitle: "Poções"
-metaDescription: "Tesouro -> Poções"
+description: "Tesouro -> Poções"
 ---
 
 <!--

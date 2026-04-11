@@ -1,7 +1,6 @@
 ---
 title: "Montarias"
-metaTitle: "Montarias"
-metaDescription: "Equipamentos > Montarias"
+description: "Equipamentos > Montarias"
 ---
 
 # Animais de Carga

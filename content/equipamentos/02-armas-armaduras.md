@@ -1,7 +1,6 @@
 ---
 title: "Armas e Armaduras"
-metaTitle: "Armas e Armaduras"
-metaDescription: "Equipamentos > Armas e Armaduras"
+description: "Equipamentos > Armas e Armaduras"
 ---
 
 # Armas

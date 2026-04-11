@@ -1,7 +1,6 @@
 ---
 title: "Evasão e Perseguição"
-metaTitle: "Evasão e Perseguição"
-metaDescription: "Jogando o Jogo > Evasão e Perseguição"
+description: "Jogando o Jogo > Evasão e Perseguição"
 ---
 
 # Na Masmorra

@@ -1,7 +1,6 @@
 ---
 title: "Papel do Árbitro"
-metaTitle: "Papel do Árbitro"
-metaDescription: "Mestrando Aventuras -> Papel do Árbitro"
+description: "Mestrando Aventuras -> Papel do Árbitro"
 ---
 
 # Facilitador de Diversão e Aventura

@@ -1,7 +1,6 @@
 ---
 title: "Planejando Ermos"
-metaTitle: "Planejando Ermos"
-metaDescription: "Mestrando Aventuras -> Planejando Ermos"
+description: "Mestrando Aventuras -> Planejando Ermos"
 ---
 
 # 1. Escolha o Cenário

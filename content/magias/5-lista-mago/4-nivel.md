@@ -1,7 +1,6 @@
 ---
 title: "4º Nível"
-metaTitle: "4º Nível Mago"
-metaDescription: "Magia > 4º Nível Mago"
+description: "Magia > 4º Nível Mago"
 ---
 
 # Enfeitiçar Monstros

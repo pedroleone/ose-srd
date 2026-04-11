@@ -1,7 +1,6 @@
 ---
 title: "Fortalezas"
-metaTitle: "Fortalezas"
-metaDescription: "Equipamentos > Fortalezas"
+description: "Equipamentos > Fortalezas"
 ---
 
 # Construção

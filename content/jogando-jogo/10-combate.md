@@ -1,7 +1,6 @@
 ---
 title: "Combate"
-metaTitle: "Combate"
-metaDescription: "Jogando o Jogo > Combate"
+description: "Jogando o Jogo > Combate"
 ---
 
 # Sequência de Combate por Rodada

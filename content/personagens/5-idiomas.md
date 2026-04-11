@@ -1,7 +1,6 @@
 ---
 title: "Idiomas"
-metaTitle: "Idiomas"
-metaDescription: "Personagens -> Idiomas"
+description: "Personagens -> Idiomas"
 ---
 
 Os idiomas nativos falados por um personagem do jogador são determinados pela classe do personagem. Estas incluem tipicamente o idioma comum e um idioma do alinhamento. Personagens com INT alta podem aprender idiomas adicionais (ver Valores de Atributos).

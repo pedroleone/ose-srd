@@ -1,7 +1,6 @@
 ---
 title: "Lista Monstros T-Z"
-metaTitle: "Lista Monstros T-Z"
-metaDescription: "Monstros > Lista Monstros T-Z"
+description: "Monstros > Lista Monstros T-Z"
 ---
 
 # Tartaruga-Dragão

@@ -1,7 +1,6 @@
 ---
 title: "Tempo, Peso e Movimento"
-metaTitle: "Tempo, Peso e Movimento"
-metaDescription: "Jogando o Jogo > Tempo, Peso e Movimento"
+description: "Jogando o Jogo > Tempo, Peso e Movimento"
 ---
 
 # Controlando o tempo

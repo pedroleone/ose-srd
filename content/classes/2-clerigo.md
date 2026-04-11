@@ -1,7 +1,6 @@
 ---
 title: "Clérigo"
-metaTitle: "Clérigo"
-metaDescription: "Classe -> Clérigo"
+description: "Classe -> Clérigo"
 ---
 
 **Pré-requisito**: Nenhum
