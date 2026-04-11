@@ -1,6 +1,7 @@
-public
-.cache
 node_modules
+build
+.docusaurus
+.cache
 *DS_Store
 *.env
 

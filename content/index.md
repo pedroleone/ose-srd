@@ -20,7 +20,7 @@ Bem vindo à tradução não oficial do Old-School Essentials SRD!
 
 > Em contato com o suporte da Necrotic Gnome, nos foi dito que a SRD contém o mesmo material que o [Classic Fantasy Rules Tome](https://necroticgnome.com/products/old-school-essentials-rules-tome). Assim também a caixa [Classic Game Set](https://necroticgnome.com/products/old-school-essentials-classic-fantasy-box-set), só que dividido em 5 livros.
 
-[![OSE](ClassicBox.webp)](https://necroticgnome.com/pages/about-old-school-essentials)
+[![OSE](/img/ClassicBox.webp)](https://necroticgnome.com/pages/about-old-school-essentials)
 
 # Sobre a Tradução
 
@@ -53,4 +53,4 @@ Todos que contribuíram de alguma forma conforme a plataforma [GitHub](https://g
 * Paulo E. R. Weber
 * Pedro Luiz Leone
 
-[![DadosMisticos](DadosMisticos.webp)](https://dadosmisticos.com)
+[![DadosMisticos](/img/DadosMisticos.webp)](https://dadosmisticos.com)
