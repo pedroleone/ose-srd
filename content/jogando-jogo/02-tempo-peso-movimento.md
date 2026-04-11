@@ -61,13 +61,13 @@ Carga é uma medida tanto do peso quanto do volume que um personagem carrega.
 
 **Carga máxima**: a carga máxima que um personagem pode carregar é igual a 1.600 moedas. Personagens que carreguem mais do que isso, não conseguem se movimentar.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -122,13 +122,13 @@ Carga é uma medida tanto do peso quanto do volume que um personagem carrega.
 
 **Taxa de movimento**: é determinada pelo tipo de armadura que o personagem está vestindo e se está carregando uma quantidade significante de tesouros (analisado pelo árbitro). O peso real do tesouro carregado não afeta da taxa de movimento. 
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

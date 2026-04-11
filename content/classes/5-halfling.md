@@ -21,13 +21,13 @@ Os halflings são semi-humanos pequenos e rechonchudos com pés peludos e cabelo
 
 **Requisitos primários**: Um halfling com pelo menos 13 em um dos requisitos primários ganha um bônus de 5% na experiência. Se ambos FOR e DES forem 13 ou mais, os halflings ganham um bônus de 10% na experiência.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

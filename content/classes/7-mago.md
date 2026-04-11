@@ -19,13 +19,13 @@ description: "Classe -> Mago"
 
 Magos são aventureiros que estudam segredos arcanos que os ensinaram a como conjurar magias. Magos são capazes de conjurar magias cada vez mais poderosas à medida que avançam de nível.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

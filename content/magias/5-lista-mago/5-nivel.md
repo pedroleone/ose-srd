@@ -95,13 +95,13 @@ Um canal de comunicação é aberto entre os planos exteriores de existência, p
 * **Limite de uso**: Ela pode ser conjurada uma vez por semana. (O árbitro pode limitar o uso da magia, de forma a torná-la menos frequente, se desejar.)
 * **Insanidade**: a comunhão com criaturas de grande poder pode despedaçar a sanidade do conjurador. A chance básica é mostrada na tabela abaixo. Para cada nível de conjurador acima do 11º, a chance é reduzida em 5%. Se o conjurador ficar insano como resultado da comunhão, o tempo de recuperação é igual ao número do plano conectado.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -306,13 +306,13 @@ O conjurador ou uma criatura escolhida desaparece e reaparece em um local que o 
 * **Destino**: pode ser qualquer distância, mas tem que ser conhecida pelo conjurador. O destino deve ser um espaço aberto no nível do solo (não é possível, teleportar intencionalmente teleportar o alvo nas alturas ou dentro de matéria sólida)
 * **Risco**: existe um risco, quando teleportando, de acidentalmente aparecer acima ou abaixo do nível do solo. A chance de um teleporte depende do conhecimento do conjurador da localização (veja abaixo). Jogue 1d100 e consultem a tabela a seguir.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

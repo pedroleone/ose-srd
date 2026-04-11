@@ -34,13 +34,13 @@ Esta magia faz com que 3d6 alvos dentro de 18 m um do outro fiquem confusos, imp
 * **Alvos com menos de 2 DV**: não podem fazer o teste de resistência.
 * **Comportamento**: jogue na tabela abaixo, separadamente para cada alvo afetado, a cada rodada, para saber o que os alvos farão naquela rodada:
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

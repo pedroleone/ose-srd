@@ -27,14 +27,15 @@ const config = {
   },
 
   // Docusaurus Faster + v4 future flags.
-  // `experimental_faster: true` enables Rspack + SWC + Lightning CSS +
-  // persistent cache + SSG worker threads + MDX cross-compiler cache.
+  // `faster: true` enables Rspack + SWC + Lightning CSS + persistent cache
+  // + SSG worker threads + MDX cross-compiler cache. Renamed from
+  // `experimental_faster` in Docusaurus 3.10 now that the feature graduated.
   // `v4: true` enables all v4 future flags (removeLegacyPostBuildHeadAttribute,
   // useCssCascadeLayers), which is required by ssgWorkerThreads and also
   // front-loads the v4 migration so we don't get surprised later.
   future: {
     v4: true,
-    experimental_faster: true,
+    faster: true,
   },
 
   presets: [

@@ -10,13 +10,13 @@ Músculo e poder físico.
 * **Corpo-a-corpo**: É aplicado a jogadas de ataque e de rolagens de dano com armas corpo-a-corpo.
 * **Abrir Portas**: Chance de sucesso ao tentar forçar a abertura de uma porta pesada ou emperrada.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -72,13 +72,13 @@ Aprendizado, memória e raciocínio.
 * **Línguas conhecidas**: Determina o número de línguas que o personagem sabe falar.
 * **Alfabetização**: Indica a capacidade do personagem ler e escrever em suas línguas nativas. 
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -134,13 +134,13 @@ Força de vontade, bom senso, percepção e intuição.
 
 * **Resistência à Magia**: É aplicado em jogadas de resistência contra efeitos mágicos. Isto normalmente não se aplica contra ataques de sopro, mas pode ser aplicado a qualquer outro tipo de teste de resistência. 
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -189,13 +189,13 @@ Agilidade, reflexos, velocidade e equilíbrio.
 * **Mísseis**: Aplicado a jogadas de ataque (mas não jogadas de dano) com armas à distância.
 * **Iniciativa**: Modifica o valor da iniciativa do personagem, se a regra opcional de iniciativa individual está sendo usada (veja capítulo de Combate)
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -258,13 +258,13 @@ Agilidade, reflexos, velocidade e equilíbrio.
 Saúde, resistência física e vigor.
 * **Pontos de vida**: É aplicado quando for rolar os pontos de vida de seu personagem (no 1º nível e posteriormente a cada nível ganho). Um personagem sempre ganha pelo menos 1 ponto de vida por Dado de Vida, independente do modificador de CON.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -313,13 +313,13 @@ Força da personalidade, capacidade de persuasão, magnetismo pessoal, atrativid
 * **Nº Máximo de seguidores**: Determina o número máximo de seguidores que o seu personagem pode possuir ao mesmo tempo.
 * **Lealdade dos Seguidores**: Determina a lealdade dos seguidores deste personagem.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -384,13 +384,13 @@ Cada classe de personagem possui um ou mais requisitos primários - atributos qu
 Personagens com apenas um requisito primário utilizam a tabela a seguir. Os modificadores para classes com mais de um atributo como requisito primário estão listados na descrição da classe.
 * **Modificador de XP**: É aplicado a todos os pontos de experiência ganhos pelo personagem, a menos que seja dito o contrário na descrição da classe. 
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

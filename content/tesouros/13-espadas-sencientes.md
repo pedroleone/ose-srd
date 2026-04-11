@@ -71,13 +71,13 @@ Cada poder deve ser rolado na tabela abaixo. As duplicatas devem ser reroladas, 
 
 **Frequência de uso**: A menos que a descrição de um poder diga o contrário, ele pode ser usado no máximo três vezes por dia.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -234,13 +234,13 @@ Cada poder sensorial deve ser rolado na tabela abaixo, com re-rolando as duplica
 
 **Frequência de uso**: A menos que a descrição de uma energia diga o contrário, ela pode ser usada sem limites.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -334,13 +334,13 @@ O usuário pode ver objetos invisíveis ou ocultos até 6m de distância. (Este 
 
 Algumas espadas sencientes também são imbuídas de um propósito especial. O propósito dessas espadas é geralmente matar um certo tipo de personagem ou criatura. O propósito pode ser rolado na tabela abaixo, ou o árbitro pode inventar outros.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

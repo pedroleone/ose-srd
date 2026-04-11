@@ -45,13 +45,13 @@ Uma vez que uma oferta for feita, o árbitro determinará a reação do potencia
 * **Generosidade**: o árbitro pode aplicar bônus ou penalidades, dependendo da atratividade do negócio (+1 ou +2 para ofertas generosas, -1 ou -2 para ofertas insatisfatórias).
 * **Reputação**: uma penalidade de -1 ou -2 podem ser aplicadas, se o PJ contratante tiver uma má reputação.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

@@ -20,13 +20,13 @@ description: "Classe -> Clérigo"
 Clérigos são aventureiros que juraram servir uma divindade. Eles são treinados para batalha e canalizam o poder de sua divindade.
 
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -318,13 +318,13 @@ Se a tentativa de expulsão for bem sucedida, o jogador deve jogar 2d6 para dete
 
 **Grupos mistos**: Se expulsar mortos-vivos for usada contra um grupo misto de monstros mortos-vivos de diferentes tipos, aqueles com menor DV são afetados primeiro.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

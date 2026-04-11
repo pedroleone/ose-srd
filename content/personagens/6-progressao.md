@@ -39,13 +39,13 @@ Precisam 150.000 XP adicionais por nível acima do 14º e ganham 1 ponto de vida
 ## Ladrões
 Precisam 120.000 XP adicionais por nível além do 14º e ganham 2 pontos de vida por nível. Perícias adicionais se tornam disponíveis para os ladrões de alto nível, incluindo a habilidade de escalar de cabeça para baixo ou na horizontal, perícias de voz como imitação e outras perícias para enganar.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

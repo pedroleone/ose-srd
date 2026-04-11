@@ -25,13 +25,13 @@ Todos os monstros derrotados pelo grupo (exemplo, mortos, enganados, capturados,
 
 **Bônus por perigo extraordinário**: um monstro derrotado sob circunstâncias especialmente perigosas pode ser tratado como tendo um DV a mais na tabela. 
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

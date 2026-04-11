@@ -21,13 +21,13 @@ Os anões são semi-humanos fortes e barbados, com cerca de 1,20 m de altura e p
 
 Eles tem pelos, cabelos e olhos em tons terrosos. Eles são conhecidos por sua teimosia e praticidade. São um povo vigoroso e possuem forte resistência à magia, como pode ser observado em seus testes de resistência.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

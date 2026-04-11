@@ -28,13 +28,13 @@ A tabela de progressão de nível para a classe do seu personagem lista o seu va
 
 Para uma referência ágil, é recomendado que você consulte os valores da matriz de ataque correspondente ao seu TAC0 e anote na sua ficha de personagem. Personagens de 1º nível tem um TAC0 de 19 [0], resultando nos valores de ataque mostrados abaixo:
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

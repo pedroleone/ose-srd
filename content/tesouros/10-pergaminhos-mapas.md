@@ -3,13 +3,13 @@ title: "Pergaminhos e Mapas"
 description: "Tesouro -> Pergaminhos e Mapas"
 ---
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
@@ -215,13 +215,13 @@ Quando usado, conjura um círculo de proteção de 3m de raio em torno do leitor
 ## Magias em um Pergaminho
 O árbitro pode escolher as magias ou rolá-las aleatoriamente. A tabela abaixo pode ser usada para selecionar o nível de cada magia em um pergaminho. (A tabela lista probabilidades separadas para personagens nos níveis Básico e Especialista. Consulte Itens Mágicos Básicos e Especializados, p232.)
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

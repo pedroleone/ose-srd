@@ -17,13 +17,13 @@ Note que se um mercenário for contratado por um personagem para realizar servi�
 
 A remuneração mensal pega inclui alimento e equipamentos básicos. Muitos mercenários já possuem armas e armadura quando são contratados, embora os empregadores possam conceder equipamentos adicionais. Note que armeiros são necessários para reparar as armas e armaduras de mercenários (ver Especialistas)
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>

@@ -8,13 +8,13 @@ Personagens bem sucedidos acumulam riquezas dos espólios de suas aventuras. Tes
 # Dinheiro
 A moeda mais comum são as peças de ouro (po). Moedas feitas de outros metais - platina (pl), eléctrum (pe), prata (pp) e cobre (pc) - também são usadas. As taxas de conversão das moedas é mostrada abaixo.
 
-<!--
+{/*
   Para editar esta tabela, copie o bloco <table>...</table> inteiro e cole em
   https://www.tablesgenerator.com/html_tables (File -> Paste table data...).
   Edite visualmente (para mesclar celulas: selecione-as e use o botao "merge"),
   depois copie o resultado de volta aqui. Mantenha a tabela sem linhas em branco
   internas — MDX interpretaria uma linha vazia como quebra de bloco.
--->
+*/}
 <table>
 <thead>
 <tr>
