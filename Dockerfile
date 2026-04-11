@@ -1,5 +1,5 @@
-# Debian 12 (Bookworm) + nodejs 20
-FROM node:20-bookworm
+# Debian 12 (Bookworm) + nodejs 24
+FROM node:24-bookworm
 
 # Create app directory
 WORKDIR /app

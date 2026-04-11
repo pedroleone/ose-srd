@@ -133,6 +133,6 @@ docker stop ose-prod
 
 ## Observações
 
-- A imagem usada é baseada em `node:20-bookworm`, compatível com as exigências do Docusaurus 3.
+- A imagem usada é baseada em `node:24-bookworm`, compatível com as exigências do Docusaurus 3.
 - O ambiente de produção usa `docusaurus serve`, enquanto o ambiente de desenvolvimento usa `docusaurus start`.
 - Conselho: não apague o `package-lock.json`, nem tente recriá-lo. Você vai ter MUITOS problemas.
