@@ -43,15 +43,15 @@ Digite "npm install" (sem as aspas), pressione enter e aguarde terminar a instal
 
 ![Tela](https://i.imgur.com/pwEEYAg.png)
 
-Depois que finalizar, digite "gatsby develop" (sem as aspas) e pressione enter.
+Depois que finalizar, digite "npm start" (sem as aspas) e pressione enter.
 
 ![Tela](https://i.imgur.com/dQrBkwN.png)
 
-Aguarde alguns minutos e se der tudo certo, irá exibir a seguinte mensagem:
+Aguarde alguns segundos e se der tudo certo, irá exibir a seguinte mensagem:
 
 ![Tela](https://i.imgur.com/Ig4XiWj.png)
 
-Agora você pode abrir a página no [http://localhost:8000](http://localhost:8000) para visualizar o site:
+Agora você pode abrir a página no [http://localhost:3000](http://localhost:3000) para visualizar o site:
 
 ![Tela](https://i.imgur.com/xZ2Au6e.png)
 
