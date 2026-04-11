@@ -1,81 +1,60 @@
 # Rodando OSE SRD localmente no Linux
 
-## 1. Instalar ferramentas
+## 1. Instalar Node.js 24 (LTS)
 
-### Debian 11 (Bullseye) e distros derivadas
-
-```sh
-sudo aptitude install npm nodejs
-```
-
-### Debian 10 (Buster) e distros derivadas
-
-Primeiro instale o `npm`:
+O projeto usa Node.js `>=22` e é desenvolvido sob a versão LTS atual (24).
+A forma mais confiável de instalar é via [nvm](https://github.com/nvm-sh/nvm)
+— assim você não conflita com a versão do Node empacotada pela sua distro:
 
 ```sh
-sudo aptitude install npm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+
+# reabra o terminal ou rode: source ~/.bashrc (ou ~/.zshrc)
+nvm install 24
+nvm use 24
 ```
 
-Depois instale o `nodejs`, mas não use os repositórios, porque o Debian 10 "Buster" está defasado (versão 10.xx), você vai precisar da versão mais atual (versão 12.xx ou superior).
+Alternativamente, em distros recentes como Debian 12 (Bookworm) e Ubuntu 24.04,
+você pode usar o [nodesource](https://github.com/nodesource/distributions).
+
+## 2. Habilitar pnpm via corepack
+
+O projeto usa **pnpm** como gerenciador de pacotes (muito mais rápido que o
+npm e com suporte nativo via corepack, que já vem com o Node 24):
 
 ```sh
-# No Ubuntu:
-curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-sudo apt-get install -y nodejs
-
-# No Debian, como root:
-curl -fsSL https://deb.nodesource.com/setup_16.x | bash -
-apt-get install -y nodejs
+corepack enable
 ```
 
-### Debian 12 (Bookworm) e distros derivadas
+A versão do pnpm é fixada pelo campo `packageManager` no `package.json`;
+o corepack resolve automaticamente na primeira vez que você rodar `pnpm`.
 
-Instale:
-
-```sh
-sudo apt update
-sudo apt install -y nodejs npm
-```
-
-O Debian 12 já vem com Node.js 18, mas para garantir que o Gatsby rode sem problemas com o OpenSSL 3, você deve configurar a variável de ambiente `NODE_OPTIONS` para o fallback legado do OpenSSL.
-
-Sempre que for executar o passo 4, a seguir, você DEVE configurar a variável de ambiente para evitar erro de crypto (ou pode deixá-la no seu `.bashrc`). Você vai digitar essa linha no terminal:
-
-```sh
-export NODE_OPTIONS=--openssl-legacy-provider
-```
-
-E, sem fechar o terminal, execute o passo 4.
-
-### Outras distros
-
-Para outras distribuições consulte o site do desenvolvedor, as instruções são bem simples: [nodesource distributions](https://github.com/nodesource/distributions/blob/master/README.md).
-
-## 2. Clonar o repositório
+## 3. Clonar o repositório
 
 ```sh
 git clone https://github.com/pedroleone/ose-srd.git
+cd ose-srd
 ```
 
-## 3. Na pasta do projeto (osr-srd)
+## 4. Instalar dependências
 
 ```sh
-npm install
-sudo npm install -g gatsby
+pnpm install
 ```
 
-## 4. Visualizar o site
-
-Já está tudo instalado, agora pode rodar o site. Ainda na pasta do projeto (ose-srd), execute:
+## 5. Rodar o site em modo de desenvolvimento
 
 ```sh
-gatsby develop
+pnpm start
 ```
 
-Pode demorar um pouquinho (cerca de 1 minuto), mas quando aparecer uma mensagem parecida com essa:
+Depois de alguns segundos o Docusaurus vai subir o dev server e mostrar
+algo como:
 
-```sh
-success Building development bundle - 9.146s
+```
+[SUCCESS] Docusaurus website is running at: http://localhost:3000/
 ```
 
-Não feche o terminal. Abra o navegador e acesse a página: [http://localhost:8000](http://localhost:8000)
+Não feche o terminal. Abra o navegador em [http://localhost:3000](http://localhost:3000).
+As mudanças nos arquivos em `content/` são refletidas automaticamente
+via hot reload.
