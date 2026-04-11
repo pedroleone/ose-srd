@@ -10,12 +10,31 @@ const config = {
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
 
   // Portuguese-only site: sets <html lang>, date formats, theme translations.
   i18n: {
     defaultLocale: 'pt-BR',
     locales: ['pt-BR'],
+  },
+
+  // Markdown hooks: new home in 3.9+ for what used to live at top level
+  // (onBrokenMarkdownLinks). The top-level option is deprecated and removed
+  // in v4, so we use the hooks object up front.
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
+  },
+
+  // Docusaurus Faster + v4 future flags.
+  // `experimental_faster: true` enables Rspack + SWC + Lightning CSS +
+  // persistent cache + SSG worker threads + MDX cross-compiler cache.
+  // `v4: true` enables all v4 future flags (removeLegacyPostBuildHeadAttribute,
+  // useCssCascadeLayers), which is required by ssgWorkerThreads and also
+  // front-loads the v4 migration so we don't get surprised later.
+  future: {
+    v4: true,
+    experimental_faster: true,
   },
 
   presets: [
