@@ -8,8 +8,8 @@
     "build": "docusaurus build",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
-    "deploy:draft": "npm run build && netlify deploy --dir=build --no-build",
-    "deploy:prod": "npm run build && netlify deploy --dir=build --no-build --prod"
+    "deploy:draft": "pnpm run build && netlify deploy --dir=build --no-build",
+    "deploy:prod": "pnpm run build && netlify deploy --dir=build --no-build --prod"
   },
   "dependencies": {
     "@docusaurus/core": "3.9.2",
@@ -40,6 +40,17 @@
   },
   "engines": {
     "node": ">=22.0"
+  },
+  "packageManager": "pnpm@10.32.1",
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "@swc/core",
+      "core-js",
+      "core-js-pure",
+      "esbuild",
+      "sharp"
+    ]
   },
   "license": "MIT"
 }

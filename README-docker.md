@@ -134,5 +134,6 @@ docker stop ose-prod
 ## Observações
 
 - A imagem usada é baseada em `node:24-bookworm`, compatível com as exigências do Docusaurus 3.
+- O gerenciador de pacotes é `pnpm`, instalado via corepack a partir da versão pinada em `package.json` (`packageManager`).
 - O ambiente de produção usa `docusaurus serve`, enquanto o ambiente de desenvolvimento usa `docusaurus start`.
-- Conselho: não apague o `package-lock.json`, nem tente recriá-lo. Você vai ter MUITOS problemas.
+- Conselho: não apague o `pnpm-lock.yaml`, nem tente recriá-lo. Você vai ter MUITOS problemas.
