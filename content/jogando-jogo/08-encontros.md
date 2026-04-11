@@ -50,19 +50,13 @@ O árbitro determinará a reação dos monstros em relação ao grupo. Algumas v
 
 ## Jogada de Reação dos Monstros
 
-+--------------+------------------------------+
-|**2d6**       |**Resultado**                 |
-+==============+==============================+
-|2 ou menos    |Hostil, ataca.                |
-+--------------+------------------------------+
-|3 - 5         |Não amigável, pode atacar.    |
-+--------------+------------------------------+
-|6 - 8         |Neutro, incerto.              |
-+--------------+------------------------------+
-|9 - 11        |Indiferente, não interessado. |
-+--------------+------------------------------+
-|12 ou mais    |Amigável, prestativo.         |
-+--------------+------------------------------+
+| **2d6**    | **Resultado**                 |
+| ---------- | ----------------------------- |
+| 2 ou menos | Hostil, ataca.                |
+| 3 - 5      | Não amigável, pode atacar.    |
+| 6 - 8      | Neutro, incerto.              |
+| 9 - 11     | Indiferente, não interessado. |
+| 12 ou mais | Amigável, prestativo.         |
 
 ## Ações comuns
 Qualquer ação é possível em um encontro, mas as mais comuns são:

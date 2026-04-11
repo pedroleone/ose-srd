@@ -48,27 +48,17 @@ As condições do vento no mar afetam a taxa na qual as embarcações à vela po
 * **3 a 11**: Ventos normais. É possível velejar.
 * **12**: Vendaval ou tempestade (ver Vendaval e tempestade)
 
-+---------+----------------------------+----------------------------------------------------------------------------+
-|**+2d6** |**Ventos**                  |**Efeitos**                                                                 |
-+=========+============================+============================================================================+
-|2        |Sem ventos                  |Impossível velejar. Movimento por remos a 1/3 do movimento (devido a fadiga)|
-+---------+----------------------------+----------------------------------------------------------------------------+
-|3        |Brisa fraca                 |Movimento à velas reduzido a 1/3 do normal.                                 |
-+---------+----------------------------+----------------------------------------------------------------------------+
-|4        |Brisa suave                 |Movimento à velas reduzido a 1/2 do normal.                                 |
-+---------+----------------------------+----------------------------------------------------------------------------+
-|5        |Brisa moderada              |Movimento à velas reduzido à 2/3 do normal.                                 |
-+---------+----------------------------+----------------------------------------------------------------------------+
-|6-8      |Lufada de vento             |Movimento à velas normal.                                                   |
-+---------+----------------------------+----------------------------------------------------------------------------+
-|9        |Brisa forte                 |Movimento à velas aumentado em 1/3.                                         |
-+---------+----------------------------+----------------------------------------------------------------------------+
-|10       |Vento forte                 |Movimento à velas aumentado em 1/2.                                         |
-+---------+----------------------------+----------------------------------------------------------------------------+
-|11       |Quase vendaval              |Movimento à velas dobrado. Ver **Quase Vendaval**.                          |
-+---------+----------------------------+----------------------------------------------------------------------------+
-|12       |Vendaval ou tempestade      |Movimento à velas triplicado. Ver **Vendavais e Tempestades**.              |
-+---------+----------------------------+----------------------------------------------------------------------------+
+| **+2d6** | **Ventos**             | **Efeitos**                                                                  |
+| -------- | ---------------------- | ---------------------------------------------------------------------------- |
+| 2        | Sem ventos             | Impossível velejar. Movimento por remos a 1/3 do movimento (devido a fadiga) |
+| 3        | Brisa fraca            | Movimento à velas reduzido a 1/3 do normal.                                  |
+| 4        | Brisa suave            | Movimento à velas reduzido a 1/2 do normal.                                  |
+| 5        | Brisa moderada         | Movimento à velas reduzido à 2/3 do normal.                                  |
+| 6-8      | Lufada de vento        | Movimento à velas normal.                                                    |
+| 9        | Brisa forte            | Movimento à velas aumentado em 1/3.                                          |
+| 10       | Vento forte            | Movimento à velas aumentado em 1/2.                                          |
+| 11       | Quase vendaval         | Movimento à velas dobrado. Ver **Quase Vendaval**.                           |
+| 12       | Vendaval ou tempestade | Movimento à velas triplicado. Ver **Vendavais e Tempestades**.               |
 
 Grupos que prefiram um sistema um pouco mais detalhado de viagem aquática, podem usar a tabela acima, o que adicionará detalhes extras a jogada diária de 2d6. 
 

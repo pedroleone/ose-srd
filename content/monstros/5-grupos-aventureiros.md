@@ -119,12 +119,8 @@ Um mago de alto nível, acompanhado por seus aprendizes e um grupo de guardas co
 </table>
 
 # Alinhamento do PNJ Aventureiro
-+--------+-----------------+
 | **d6** | **Alinhamento** |
-+--------+-----------------+
+| ------ | --------------- |
 | 1–2    | Ordeiro         |
-+--------+-----------------+
 | 3–4    | Neutro          |
-+--------+-----------------+
 | 5–6    | Caótico         |
-+--------+-----------------+

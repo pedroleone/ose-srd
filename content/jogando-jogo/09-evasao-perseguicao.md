@@ -108,21 +108,14 @@ A chance de evasão é determinada pela diferença entre as taxas de movimentaç
 
 ## Evasão em veículos marítmos
 
-+----------------------------------------+---------------------------+
-|**Taxa de movimento do grupo fugitivo** |**Chance de evasão**       |
-+========================================+===========================+
-|Mais rápido que o perseguidor           |80%                        |
-+----------------------------------------+---------------------------+
-|0 a 9 m mais lento que o perseguidor    |50%                        |
-+----------------------------------------+---------------------------+
-|9 a 18 m mais lento que o perseguidor   |40%                        |
-+----------------------------------------+---------------------------+
-|18 a 27 m mais lento que o perseguidor  |35%                        |
-+----------------------------------------+---------------------------+
-|Até 36 m mais lento que o perseguidor   |25%                        |
-+----------------------------------------+---------------------------+
-|36 m + mais lento que o perseguidor     |10%                        |
-+----------------------------------------+---------------------------+
+| **Taxa de movimento do grupo fugitivo** | **Chance de evasão** |
+| --------------------------------------- | -------------------- |
+| Mais rápido que o perseguidor           | 80%                  |
+| 0 a 9 m mais lento que o perseguidor    | 50%                  |
+| 9 a 18 m mais lento que o perseguidor   | 40%                  |
+| 18 a 27 m mais lento que o perseguidor  | 35%                  |
+| Até 36 m mais lento que o perseguidor   | 25%                  |
+| 36 m + mais lento que o perseguidor     | 10%                  |
 
 ## Perseguição
 **Tempo**: É medido em rodadas (ver Tempo, Peso e Movimento).

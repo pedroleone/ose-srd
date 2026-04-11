@@ -117,7 +117,7 @@ Se colonos se mudarem para o domínio do PJ, o personagem pode esperar receber u
 
 **Bastião**: torre semi-circular construída contra a parede de um castelo. 9 m de base, 9 m de altura e paredes de 1,5 m.
 
-**Edifício civil, pedra**: dois níveis; escadas de madeira, portas, piso e teto; sótão. Parede externa 36 m (exemplo,  9 m x 9 m), paredes 30&ndash;60 cm de espessura.
+**Edifício civil, pedra**: dois níveis; escadas de madeira, portas, piso e teto; sótão. Parede externa 36 m (exemplo,  9 m x 9 m), paredes 30–60 cm de espessura.
 
 **Edifício civil, madeira**: dois níveis; escadas de madeira, portas, piso e teto; sótão. Parede externa 36 m (exemplo,  9 m x 9 m)
 

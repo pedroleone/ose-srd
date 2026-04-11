@@ -167,14 +167,9 @@ Carga é uma medida tanto do peso quanto do volume que um personagem carrega.
 
 **Taxa de movimento**: a taxa de movimento do personagem é baseado no peso total de todos os itens significantes carregados, incluindo tesouro, armas e armaduras.
 
-+-----------------------+----------------------+
-|**Carga**              |**Taxa de Movimento** |
-+=======================+======================+
-|Até 400 moedas         |36 (12)               |
-+-----------------------+----------------------+
-|Até 600 moedas         |27 (9)                |
-+-----------------------+----------------------+
-|Até 800 moedas         |18 (6)                |
-+-----------------------+----------------------+
-|Até 1.600 moedas       |9 (3)                 |
-+-----------------------+----------------------+
+| **Carga**        | **Taxa de Movimento** |
+| ---------------- | --------------------- |
+| Até 400 moedas   | 36 (12)               |
+| Até 600 moedas   | 27 (9)                |
+| Até 800 moedas   | 18 (6)                |
+| Até 1.600 moedas | 9 (3)                 |
