@@ -3,7 +3,6 @@ title: "Veículos Aquáticos"
 metaTitle: "Veículos Aquáticos"
 metaDescription: "Equipamentos > Veículos Aquáticos"
 ---
-import { Link } from "gatsby" 
 
 # Embarcações Navegáveis
 
@@ -589,7 +588,7 @@ As embarcações descritas nesta seção abrangem vários períodos históricos,
 </table>
 
 # Tripulação
-As embarcações são propelidas por remos ou velas, sendo algumas delas capazes de usar os dois meios de propulsão. A tripulação necessária e a velocidade resultante são dadas na tabela acima. A taxa de pagamento para a tripulação é listada em <Link to="/equipamentos/09-especialistas">Especialistas</Link>.
+As embarcações são propelidas por remos ou velas, sendo algumas delas capazes de usar os dois meios de propulsão. A tripulação necessária e a velocidade resultante são dadas na tabela acima. A taxa de pagamento para a tripulação é listada em [Especialistas](/equipamentos/09-especialistas).
 
 # Modificações em navios
 As seguintes modificações podem ser feitas em um navio:
