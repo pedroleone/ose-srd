@@ -1,7 +1,7 @@
-// @ts-check
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
 
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+const config: Config = {
   title: 'OSE SRD',
   tagline: 'Tradução do Old-School Essentials SRD',
   favicon: 'img/ose_logo_white.png',
@@ -41,18 +41,16 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           path: 'content',
           routeBasePath: '/',
-          sidebarPath: './sidebars.js',
-          // numberPrefixParser: false keeps URLs like /classes/1-anao instead
-          // of stripping the "1-" prefix. Sidebar ordering is handled by
-          // _category_.json + the numeric prefix on filenames via the default
-          // parser replaced here — we fall back to an identity parser that
-          // still extracts the prefix as a sidebar sort weight.
-          numberPrefixParser: (filename) => {
+          sidebarPath: './sidebars.ts',
+          // Keeps URLs like /classes/1-anao instead of stripping the "1-"
+          // prefix. Sidebar ordering is handled by _category_.json + the
+          // numeric prefix on filenames via the parser below, which still
+          // extracts the prefix as a sidebar sort weight.
+          numberPrefixParser: (filename: string) => {
             const match = filename.match(/^(\d+)-/);
             return {
               filename,
@@ -65,25 +63,23 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-      }),
+      } satisfies Preset.Options,
     ],
   ],
 
-  themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      navbar: {
-        title: 'OSE SRD',
-        logo: {
-          alt: 'OSE SRD',
-          src: 'img/ose_logo_white.png',
-        },
+  themeConfig: {
+    navbar: {
+      title: 'OSE SRD',
+      logo: {
+        alt: 'OSE SRD',
+        src: 'img/ose_logo_white.png',
       },
-      colorMode: {
-        defaultMode: 'light',
-        respectPrefersColorScheme: true,
-      },
-    }),
+    },
+    colorMode: {
+      defaultMode: 'light',
+      respectPrefersColorScheme: true,
+    },
+  } satisfies Preset.ThemeConfig,
 };
 
-module.exports = config;
+export default config;
