@@ -20,7 +20,6 @@ Personagens não podem avançar mais do que um nível em uma sessão. Qualquer X
 Em algumas campanhas, os personagens ganham o direito de portar certos títulos a medida que eles avançam em nível. Estes títulos podem ser concedidos por guildas, colégios, ou templos que os PJs são associados. Títulos de nível podem variar muito entre os mundos de campanha, mas a seguinte lista pode ser utilizada como fonte de inspiração:
 
 * **Anão**: Anão Veterano, Anão Guerreiro, Anão Mestre da Espada,  Herói Anão, Anão Espadachim, Anão Mirmidão, Anão Campeão, Anão Super-herói, Senhor (Senhora) dos Anões, Senhora Anã.
-
 * **Clérigo**: Acólito, Adepto, Sacerdote (Sacerdotisa), Vigário, Coadjutor, Presbítero, Bispo, Lama, Matriarca (Patriarca).
 * **Elfo**: Médium/Veterano, Vidente/Guerreiro, Conjurador/Mestre da Espada, Mágico/Herói, Encantador (Encantadora)/Espadachim, Bruxo (Bruxa)/Mirmidão, Feiticeiro (Feiticeira)/Campeão, Necromante/Super-herói, Mago/Senhor (Senhora).
 * **Guerreiro**: Veterano, Guerreiro, Mestre da Espada, Herói, Espadachim, Mirmidão, Campeão, Super-herói, Senhor (Senhora)
@@ -72,18 +71,17 @@ Precisam 120.000 XP adicionais por nível além do 14º e ganham 2 pontos de vid
 |34-36               |                    |                    |2    |2    |2    |2    |2    |2    |2    |2    |2    |2    |2    |2    |2    |
 +--------------------+--------------------+--------------------+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
 
-
 # Domínios
 Quando os personagens acumulam riquezas suficientes, eles podem desejar construir uma base ou fortaleza, e possivelmente fundar um domínio.
 Consulte Fortalezas para regras detalhadas sobre construção de forta
 
 # Empregados
-Empregados são PNJ contratados por um personagem para realizar determinados serviços. 
+Empregados são PNJ contratados por um personagem para realizar determinados serviços.
 
 ## Empregados e Aventuras
-Empregados não acompanham os personagens em aventuras. (Os personagens podem contratar PNJs para juntar-se a eles em aventuras, mas estes são tratados diferentemente. Ver  <Link to="/equipamentos/07-seguidores.md">Seguidores</Link>.)
+Empregados não acompanham os personagens em aventuras. (Os personagens podem contratar PNJs para juntar-se a eles em aventuras, mas estes são tratados diferentemente. Ver  <Link to="/equipamentos/07-seguidores">Seguidores</Link>.)
 
 ## Tipos de Empregados
 Empregados são divididos em dois tipos:
-* **Mercenários**: soldados contratados para proteger, patrulhar, e até servir em ambientes selvagens, mas apenas como parte de uma força maior, nunca em um grupo de aventureiros. Para mais detalhes, consulte Mercenários[Inserir link].
-* **Especialistas**: indivíduos contratados que possuem uma profissão específica ou conhecimentos especiais. Esses indivíduos normalmente são contratados para uma tarefa específica. Para mais detalhes, consulte Especialistas[Inserir link].
+* **Mercenários**: soldados contratados para proteger, patrulhar, e até servir em ambientes selvagens, mas apenas como parte de uma força maior, nunca em um grupo de aventureiros. Para mais detalhes, consulte <Link to="equipamentos/08-mercenarios">Mercenários</Link>.
+* **Especialistas**: indivíduos contratados que possuem uma profissão específica ou conhecimentos especiais. Esses indivíduos normalmente são contratados para uma tarefa específica. Para mais detalhes, consulte <Link to="equipamentos/09-especialistas">Especialistas</Link>.
