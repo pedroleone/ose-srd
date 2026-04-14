@@ -7,7 +7,7 @@ metaDescription: "Personagens -> Empregados"
 Empregados são PNJ contratados por um personagem para realizar determinados serviços. Os tipos de empregados disponíveis dependem do cenário, e são descritos nos livros de ambientação.
 
 # Empregados e Aventuras
-Empregados não acompanham os personagens em aventuras. (Os personagens podem contratar PNJs para juntar-se a eles em aventuras, mas estes são tratados diferentemente. Ver Seguidores(inserir link)
+Empregados não acompanham os personagens em aventuras. (Os personagens podem contratar PNJs para juntar-se a eles em aventuras, mas estes são tratados diferentemente. Ver <Link to="/equipamentos/07-seguidores.md">Seguidores</Link>.
 
 # Tipos de Empregados
 Empregados são divididos em dois tipos:

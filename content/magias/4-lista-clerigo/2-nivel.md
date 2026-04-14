@@ -10,7 +10,7 @@ metaDescription: "Magia > 2º Nível Clérigo"
 **Alcance**: 18 m
 
 Pode ser usando em uma das duas situações:
-1. **Batalha**: Aliados dentro de uma área de 6 m² que ainda não estejam em combate, ganham um bônus de +1 nas jogadas de ataque, danos e +1 nos testes de moral.
+1. **Batalha**: Aliados dentro de uma área quadrada de 6 m de lado que ainda não estejam em combate, ganham um bônus de +1 nas jogadas de ataque, danos e +1 nos testes de moral.
 
 2. **Ritual**: Conjurar Benção também pode fazer parte dos rituais de purificação ou consagração, de acordo com a árbitro.
 

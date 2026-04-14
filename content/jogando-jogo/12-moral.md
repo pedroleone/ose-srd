@@ -27,7 +27,7 @@ O árbitro joga 2d6 e compara o resultado com o valor de moral do monstro:
 
 O árbitro normalmente faz um teste de moral para monstros sob duas condições:
 
-**Primeira morte no lado**: a primeira vez que um dos seus aliados for morto em combate.
+**Primeira morte no lado**: a primeira vez que um dos seus seguidores for morto em combate.
 
 **Lado meio incapacitado**: quando metade dos monstros forem mortos ou estiverem de outra forma incapacitados.
 
@@ -63,6 +63,6 @@ Mercenários (ver Empregados) tem um valor de moral e fazem testes de moral da m
 |Fanáticos, furiosos       | +2      |
 +--------------------------+---------+
 
-# Moral dos Aliados
+# Moral dos Seguidores
 
-Aliados que se candidataram para trabalhar como aventureiros, não se assustam ao primeiro sinal de perigo Aliados não fazem testes de moral em combate, mas um teste de lealdade pode ser requerido em situações de perigo extremo (ver Aliados). 
+Seguidores que se candidataram para trabalhar como aventureiros, não se assustam ao primeiro sinal de perigo Seguidores não fazem testes de moral em combate, mas um teste de lealdade pode ser requerido em situações de perigo extremo (ver Seguidores). 

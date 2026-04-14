@@ -62,7 +62,7 @@ metaDescription: "Dicionário de Termos"
 
 **Race**: Raça
 
-**Referee**: Árbitro.
+**Referee**: Árbitro
 
 **Retainer**: Seguidor
 
@@ -96,6 +96,7 @@ metaDescription: "Dicionário de Termos"
 
 > **Driver Ant** em inglês também é sinônimo para *army ant*, traduzido literalmente como [formiga-correição](https://pt.wikipedia.org/wiki/Formiga-correi%C3%A7%C3%A3o), mas gigante fica melhor, é o que ela é de fato)
 
+* **Berserker**: Furioso
 * **Blink Dog**: Cão Teleportador
 * **Crab**: Caranguejo
 * **Dervish**: Fanático

@@ -81,7 +81,7 @@ Consulte Fortalezas para regras detalhadas sobre construção de forta
 Empregados são PNJ contratados por um personagem para realizar determinados serviços. 
 
 ## Empregados e Aventuras
-Empregados não acompanham os personagens em aventuras. (Os personagens podem contratar PNJs para juntar-se a eles em aventuras, mas estes são tratados diferentemente. Ver  Seguidores[Retainer = Seguidor].)
+Empregados não acompanham os personagens em aventuras. (Os personagens podem contratar PNJs para juntar-se a eles em aventuras, mas estes são tratados diferentemente. Ver  <Link to="/equipamentos/07-seguidores.md">Seguidores</Link>.)
 
 ## Tipos de Empregados
 Empregados são divididos em dois tipos:

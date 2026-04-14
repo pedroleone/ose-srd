@@ -126,7 +126,7 @@ _ Semi-inteligente e irritadiço. Na forma humana, muitas vezes aparecem como Fu
 **XP**: 200
 **Número Encontrado**: 1d4 (2d4)
 **Tesouro**: C
-* ** Fúria de batalha **: Na forma humana, pode entrar em fúria frenética: +2 para acertar; luta até a morte. A raiva às vezes faz com que eles ataquem seus aliados.
+* **Fúria de batalha**: Na forma humana, pode entrar em fúria frenética: +2 para acertar; luta até a morte. A raiva às vezes faz com que eles ataquem seus aliados.
 
 ## Homem-rato
 _ Ratos humanoides inteligentes que podem se transformar em humanos normais._

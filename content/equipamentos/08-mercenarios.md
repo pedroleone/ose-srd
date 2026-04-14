@@ -6,7 +6,7 @@ metaDescription: "Equipamentos > Mercenários"
 
 Mercenários são soldados contratados que irão guardar, patrulhar e até servir nos ermos, mas apenas como parte de uma força maior, não em um grupo de aventureiros.
 
-Note que se um mercenário for contratado por um personagem para realizar serviços específicos, ele não é tratado como um aliado, sendo assim, também não conta para o número máximo de aliados do personagem.
+Note que se um mercenário for contratado por um personagem para realizar serviços específicos, ele não é tratado como um seguidor, sendo assim, também não conta para o número máximo de seguidores do personagem.
 
 # Salários
 
