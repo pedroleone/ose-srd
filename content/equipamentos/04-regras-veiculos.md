@@ -27,7 +27,7 @@ O número de pessoas ou animais (marinheiros, remadores, cavalos, por exemplo), 
 Alguns veículos possuem um espaço extra a bordo, especificamente destinado a acomodação de passageiros ou mercenários (de qualquer tipo, veja Mercenaries, p128) além da tripulação normal. Se a descrição do veículo não mencionar espaço para passageiros, assume-se que ele só tenha espaço para a tripulação - o árbitro pode determinar que o espaço para carga tenha espaco que possa ser convertido em acomodações. 
 
 ## Navegabilidade
-Embarcações aquáticas são divididas em duas categorias, cada uma comportando-se de forma diferente em condições de vento (veja <Link to="/jogando-jogo/07-aventuras-embarcacoes">Condições Vento</Link>). Veículos navegáveis podem ser utilizados em alto mar, longe das águas costeiras. Veículos não nevegáveis ficam restritos a rios, lagos ou águas costeiras. 
+Embarcações aquáticas são divididas em duas categorias, cada uma comportando-se de forma diferente em condições de vento (veja <Link to="/jogando-jogo/07-aventuras-aquaticas">Condições do Vento</Link>). Veículos navegáveis podem ser utilizados em alto mar, longe das águas costeiras. Veículos não nevegáveis ficam restritos a rios, lagos ou águas costeiras. 
 
 # Danificando Veículos
 Em combate, ataques e danos podem ser direcionados aos veículos, além dos personagens e monstros.
