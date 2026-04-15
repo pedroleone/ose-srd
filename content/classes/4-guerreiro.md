@@ -64,7 +64,7 @@ Um guerreiro pode ser conferido um título como Barão ou Baronesa. As terras so
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
 | 14        | 840.000  | 9d8+10*| 10 [+9]  | 4      | 5     | 6     | 5     | 8      |  
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| &ast; Modificadores de CON não se        |**Mt**: Morte / veneno; **V**: Varinhas; |
+|&ast; Modificadores de CON não se         |**Mt**: Morte / veneno; **V**: Varinhas; |
 |aplicam mais.                             |**P**: Paralisia / petrificar;           |
 |                                          |**S**: Ataques de sopro;                 |
 |                                          |**Ma**: Feitiços / varinhas / bastões    |

@@ -53,7 +53,7 @@ Eles tem pelos, cabelos e olhos em tons terrosos. Eles são conhecidos por sua t
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
 | 12        | 660.000  | 9d8+9* | 12 [+7]  | 2      | 3     | 4     | 4     | 6      | 
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| &ast; Modificadores de CON não se        |**Mt**: Morte / veneno; **V**: Varinhas; |
+|&ast; Modificadores de CON não se         |**Mt**: Morte / veneno; **V**: Varinhas; |
 |aplicam mais.                             |**P**: Paralisia / petrificar;           |
 |                                          |**S**: Ataques de sopro;                 |
 |                                          |**Ma**: Magias / Bastões / Cajados       |

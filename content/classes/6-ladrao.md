@@ -56,7 +56,7 @@ Ladrões são aventureiros que vivem por suas perícias de trapaça e intriga. S
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
 | 14        | 760.000  | 9d4+5* | 12 [+7]  | 8      | 9     | 7     | 10    | 8      |  
 +-----------+----------+--------+----------+--------+-------+-------+-------+--------+
-| &ast; Modificadores de CON não se        |**Mt**: Morte / veneno; **V**: Varinhas; |
+|&ast; Modificadores de CON não se         |**Mt**: Morte / veneno; **V**: Varinhas; |
 |aplicam mais.                             |**P**: Paralisia / petrificar;           |
 |                                          |**S**: Ataques de sopro;                 |
 |                                          |**Ma**: Feitiços / varinhas / bastões    |
