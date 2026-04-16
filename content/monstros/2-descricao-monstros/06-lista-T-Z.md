@@ -175,7 +175,7 @@ _São humanóides reptilianos inteligentes com mãos ágeis, pernas longas, caud
 
 * **Odioso**: Tentam matar qualquer criatura que encontram.
 * **Surpresa**: Chance de 1-4, devido à capacidade de mudar de cor para combinar com o ambiente. Espreitam pelas paredes de pedra e esperam pelas vítimas.
-* **Fedor Nauseante**: Possuem óleos na pele que exalam um cheiro que adoece humanos e semi-humanos: teste de resisteência contra veneno ou penalidade de –2 para acertar, enquanto estiver em combate corpo a corpo com trogloditas.
+* **Fedor Nauseante**: Possuem óleos na pele que exalam um cheiro que adoece humanos e semihumanos: teste de resisteência contra veneno ou penalidade de –2 para acertar, enquanto estiver em combate corpo a corpo com trogloditas.
 
 # Troll
 _Humanoides inteligentes, perversos, de 2,5m de altura com corpos emagrecidos e pele emborrachada. Consomem a carne de outros humanóides. Habitam o subsolo, no deserto estéril e nas casas arruinadas de ex-vítimas._
@@ -602,7 +602,7 @@ _Vermes gigantescos e viscosos com corpos de 30 metros de comprimento e de 8 a 3
 * **Espaços restritos**: Nem sempre podem ser capazes de morder e picar ao mesmo tempo.
 
 # Vulto
-_Corpos de humanos ou semi-humanos, possuídos por espíritos malévolos._
+_Corpos de humanos ou semihumanos, possuídos por espíritos malévolos._
 
 **Classe de Armadura**: 5 [14]
 

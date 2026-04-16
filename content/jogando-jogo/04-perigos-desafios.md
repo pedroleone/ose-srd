@@ -16,7 +16,7 @@ Superfícies muito íngrimes ou lisas são normalmente impossíveis de escalar s
 Os personagens normalmente vão querer levar fontes de luz com eles em expedições no subterrâneo. Fontes de luz típicas permitem visão normal dentro de um raio de 9 m. 
 
 ### Infravisão
-Todos os monstros não humanos e muitas raças semi-humanos tem um tipo especial de visão que lhes permite enxergar no escuro. Esta é chamada infravisão.
+Todos os monstros não humanos e muitas raças semihumanos tem um tipo especial de visão que lhes permite enxergar no escuro. Esta é chamada infravisão.
 
 **Tons de calor**: os personagens que possuem infravisão podem ver a energia térmica que irradia dos seres vivos. Geralmente, criaturas vivas serão vistas em tons brilhantes, enquanto itens frios são cinza e objetos gelados, pretos.
 

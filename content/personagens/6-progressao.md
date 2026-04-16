@@ -28,7 +28,7 @@ Em algumas campanhas, os personagens ganham o direito de portar certos títulos 
 * **Mago**: Médium, Vidente, Conjurador, Mágico, Encantador (Encantadora), Bruxo (Bruxa), Feiticeiro (Feiticeira), Necromante, Mago.
 
 # Jogos em Níveis Altos (Regra Opcional)
-Classes de personagens humanos são listadas como tendo um nível máximo igual a 14. Essa faixa de níveis oferece a melhor experiência de jogo em termos de desafios e recompensas. Alguns grupos, no entanto, podem desejar continuar a jogar muito além desse limite. Isso deve ser considerado cuidadosamente, pois PJs semi-humanos serão deixados para trás, devido aos seus limites rigorosos de nível. Se o árbitro permitir um jogo em níveis superiores, as seguintes orientações - que permitem a personagens humanos evoluírem até o  36º nível - devem ser utilizadas.
+Classes de personagens humanos são listadas como tendo um nível máximo igual a 14. Essa faixa de níveis oferece a melhor experiência de jogo em termos de desafios e recompensas. Alguns grupos, no entanto, podem desejar continuar a jogar muito além desse limite. Isso deve ser considerado cuidadosamente, pois PJs semihumanos serão deixados para trás, devido aos seus limites rigorosos de nível. Se o árbitro permitir um jogo em níveis superiores, as seguintes orientações - que permitem a personagens humanos evoluírem até o  36º nível - devem ser utilizadas.
 
 ## Clérigos
 Precisam 100.000 XP adicionais por nível além do 14º e ganham 1 ponto de vida por nível. Magias de níveis mais altos se tornam disponíveis a medida que o personagem avança.

@@ -42,7 +42,7 @@ metaDescription: "Equivalências de Tradução"
 
 - **Thief**: Ladrão
 
-**Demihuman**: Semi-humano
+**Demihuman**: Semihumano
 
 **Dungeon Adventuring**: Aventuras em Masmorras
 
@@ -55,6 +55,8 @@ metaDescription: "Equivalências de Tradução"
 **Level**: Nível
 
 **Movement Rate**: Taxa de Movimentação
+
+**Native Language**: Idioma Nativo (não língua)
 
 **PC / NPC**: PJ / PNJ
 

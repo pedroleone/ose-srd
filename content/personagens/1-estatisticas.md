@@ -4,6 +4,8 @@ metaTitle: "Estatísticas de jogo"
 metaDescription: "Personagens -> Estatísticas"
 ---
 
+import { Link } from "gatsby"
+
 Os personagens dos jogadores são descritos, em termos de jogo, por um grupo de estatísticas que definem as suas habilidades, forças e fraquezas no mundo de jogo.
 
 # Atributos
@@ -16,7 +18,7 @@ Uma profissão de aventureiro a qual o personagem pertence. A classe do personag
 
 # Raça
 
-Um personagem pode ser humano ou de uma das várias espécies semi-humanas. A menos que uma classe semi-humana seja escolhida, assume-se que o personagem é humano.
+Um personagem pode ser humano ou de uma das várias espécies semihumanas. A menos que uma classe semihumana seja escolhida, assume-se que o personagem é humano.
 
 # Nível
 
@@ -40,11 +42,11 @@ A capacidade do personagem de evitar a morte. O personagem tem um ***total máxi
 
 # Dados de Vida (DV)
 
-O número de dados usados ​​para determinar o total máximo de pontos de vida do personagem. O nível do personagem determina o número de Dados de Vida e sua classe determina o tipo de dado rolado (por exemplo, d4, d6, d8). (Algumas classes também concedem um bônus fixo aos pontos de vida em determinados níveis.)
+O número de dados usados ​​para determinar o total máximo de pontos de vida do personagem. O nível do personagem determina o número de Dados de Vida e sua classe determina o tipo de dado rolado (isto é, d4, d6, d8). (Algumas classes também concedem um bônus fixo aos pontos de vida em determinados níveis.)
 
 # Classe de Armadura (CA)
 
-A capacidade do personagem de evitar dano em combate. A CA é determinada pela armadura que o personagem está usando e pelo seu valor de Destreza. Valores mais baixos de Classe de Armadura são melhores, então os bônus diminuem a CA do personagem e penalidades a aumentam.
+A capacidade do personagem de evitar dano em combate. A CA é determinada pela armadura do personagem e pelo seu valor de Destreza. Valores mais baixos de Classe de Armadura são melhores, então os bônus diminuem a CA do personagem e penalidades a aumentam.
 
 **Formato duplo**: A CA ascendente equivalente é listada entre colchetes, para grupos que usam a regra opcional para CA Ascendente. (ex.: CA 5 [14] — uma CA de 5, ou 14 se usar a regra opcional para CA Ascendente.)
 

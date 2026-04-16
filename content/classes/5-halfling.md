@@ -18,7 +18,7 @@ metaDescription: "Classe -> Halfling"
 
 **Idiomas**: Tendência, Comum e Halfling
 
-Os halflings são semi-humanos pequenos e rechonchudos com pés peludos e cabelos encaracolados. Eles pesam cerca de 30 kg e medem cerca de 90 cm. Os halflings são um povo amigável e acolhedores. Acima de tudo, eles amam os confortos do lar, e não são conhecidos por sua valentia. Os halflings que ganhem tesouros em suas aventuras, frequentemente usarão suas riquezas buscando uma liva tranquila e confortável. 
+Os halflings são semihumanos pequenos e rechonchudos com pés peludos e cabelos encaracolados. Eles pesam cerca de 30 kg e medem cerca de 90 cm. Os halflings são um povo amigável e acolhedores. Acima de tudo, eles amam os confortos do lar, e não são conhecidos por sua valentia. Os halflings que ganhem tesouros em suas aventuras, frequentemente usarão suas riquezas buscando uma liva tranquila e confortável. 
 
 **Requisitos primários**: Um halfling com pelo menos 13 em um dos requisitos primários ganha um bônus de 5% na experiência. Se ambos FOR e DES forem 13 ou mais, os halflings ganham um bônus de 10% na experiência.
 

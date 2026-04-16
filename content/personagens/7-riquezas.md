@@ -4,6 +4,12 @@ metaTitle: "Riquezas"
 metaDescription: "Personagens -> Riquezas"
 ---
 
+> **NOTA PARA REVISÃO**
+>
+> *Na versão de 2022 da wiki inglesa, esta seção foi movida para o capítulo de Equipamentos, como primeira seção.*
+>
+> *Na seção "Criando um Personagem", há um link para esta seção que precisará ser atualizado quando esta seção for movida. A atualização de links não é automática.*
+
 Personagens bem sucedidos acumulam riquezas dos espólios de suas aventuras. Tesouros possuem muitas formas, mas normalmente, o tipo mais útil de tesouro é o dinheiro.
 
 # Dinheiro

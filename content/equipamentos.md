@@ -1,5 +1,5 @@
 ---
-title: "Equipamentos"
-metaTitle: "Equipamentos"
-metaDescription: "Equipamentos"
+title: "Equipamentos e Serviços"
+metaTitle: "Equipamentos e Serviços"
+metaDescription: "Equipamentos e Serviços"
 ---

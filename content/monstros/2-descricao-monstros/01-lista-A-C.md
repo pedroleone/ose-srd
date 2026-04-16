@@ -67,7 +67,7 @@ _Clérigo de 1º nível em uma missão para a sua divindade._
 - **Líder**: Grupos de 4+ são liderados por um clérigo de mais alto nível (1d10: 1-4: 2º nível; 5-7: 3º nível; 8-9: 4º nível; 10: 5º nível). Escolha ou role as magias do líder.
 
 # Anão
-_Semi-humanos pequenos, robustos, e barbados que moram nas montanhas e reinos subterrâneos._
+_Semihumanos pequenos, robustos, e barbados que moram nas montanhas e reinos subterrâneos._
 
 **Classe de Armadura**: 4 [15]
 
