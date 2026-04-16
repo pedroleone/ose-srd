@@ -1,5 +1,5 @@
 ---
-title: "Estatísticas de Jogo ✔️"
+title: "Estatísticas de Jogo ✅"
 metaTitle: "Estatísticas de jogo"
 metaDescription: "Personagens -> Estatísticas"
 ---
