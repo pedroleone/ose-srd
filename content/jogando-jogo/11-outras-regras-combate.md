@@ -51,7 +51,7 @@ Personagens que desejem subjugar um oponente inteligente deve anunciar que eles 
 Personagens em uma superfície instável, como um navio em um mar agitado ou montando um animal voador, são afetados da seguinte maneira:
 
 * **Ataques a distância:** Sofrem uma penalidade de -4.
-* **Magias:* Não podem ser lançadas.
+* **Magias:** Não podem ser lançadas.
 * **Itens mágicos:** Podem ser usados normalmente.
 
 Observe que meios mágicos de voo (exemplo, uma vassoura mágica, tapete, ou a magia Voo) geralmente não são consideradas como instáveis.

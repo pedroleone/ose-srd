@@ -41,10 +41,11 @@ Objetos encantados com propósitos malignos ou criaturas vivas com intenções m
 
 Uma fechadura arcana trava uma porta, portão, coisas similares a portais ou qualquer item que tenha uma fechadura.
 
-**Evitando**: a fechadura arcana é permanente, mas pode ser evitada das seguintes maneiras:
-**O conjurador**: pode evitar livremente sua própria fechadura arcana;
-A magia arrombar: permite passar.
-Conjuradores de níveis altos: qualquer personagem conjurador que tenha mais de três níveis do que o conjurador da fechadura arcana, pode passar pela magia sem impedimentos. Evitar, não destrói a fechadura arcana.
+* **Evitando**: a fechadura arcana é permanente, mas pode ser evitada das seguintes maneiras:
+* **O conjurador**: pode evitar livremente sua própria fechadura arcana.
+* **A magia arrombar**: permite passar.
+* **Conjuradores de níveis altos**: qualquer personagem conjurador que tenha mais de três níveis do que o conjurador da fechadura arcana, pode passar pela magia sem impedimentos.
+* **Temporário**: evitar, não destrói a fechadura arcana.
 
 
 # Força Fantasmagórica

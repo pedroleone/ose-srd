@@ -76,6 +76,7 @@ Os tesouros são normalmente guardados por monstros ou armadilhas, mas algumas v
 +--------+-----------------------+-----------------------------------+
 | 6      | Armadilha             | 2-em-6                            | 
 +--------+-----------------------+-----------------------------------+
+
 **Monstros**: podem ser selecionados manualmente ou podem ser rolados em uma tabela de encontros.
 
 **Especial**: características estranhas ou mágicas na área, incluindo truques ou charadas.
