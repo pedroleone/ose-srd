@@ -42,7 +42,7 @@ metaDescription: "Equivalências de Tradução"
 
 - **Thief**: Ladrão
 
-**Demihuman**: Semihumano
+**Demi-human**: Semi-humano
 
 **Dungeon Adventuring**: Aventuras em Masmorras
 

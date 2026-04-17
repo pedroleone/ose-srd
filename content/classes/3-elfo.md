@@ -18,7 +18,7 @@ metaDescription: "Classe -> Elfo"
 
 **Idiomas**: Tendência, Comum, Élfico, Gnoll, Hobgoblin, Orc
 
-Elfos são semihumanos feéricos esguios com orelhas pontudas. Ele normalmente pesam cerca de 60 kg e tem entre 1,50 m a 1,65 m. Os elfos raramente são encontrados em assentamentos humanos, preferindo banquetear-se e festejar nas florestas. Se irritados, eles se tornam inimigos perigosos, uma vez que são mestres na espada e magia. Elfos são fascinados por magias e itens mágicos finamente construídos, e amam colecionar os dois.
+Elfos são semi-humanos feéricos esguios com orelhas pontudas. Ele normalmente pesam cerca de 60 kg e tem entre 1,50 m a 1,65 m. Os elfos raramente são encontrados em assentamentos humanos, preferindo banquetear-se e festejar nas florestas. Se irritados, eles se tornam inimigos perigosos, uma vez que são mestres na espada e magia. Elfos são fascinados por magias e itens mágicos finamente construídos, e amam colecionar os dois.
 
 **Requisitos primários**: Um elfo com pelo menos 13 de INT e FOR ganham um bônus de 5% na experiência. Um elfo com INT de pelo menos 16 e FOR 13 recebe um bônus de 10% na experiência.
 

@@ -17,7 +17,7 @@ Role 3d6 para cada um dos atributos do seu personagem: Força, Inteligência, Sa
 Se você rolar um personagem com atributos muito baixos - por exemplo, 8 ou menos em todos os atributos ou um valor extremamente baixo em mais de um atributo - o <Link to="mestrando-aventuras/1-papel-mestre">árbitro</Link> pode permitir que você descarte o personagem e comece novamente.
 
 # 2. Escolha uma Classe
-Escolha uma das classes disponíveis (veja <Link to="classes">Classes de Personagem</Link>), tendo em mente o valor mínimo de atributos que algumas classes possuem como requisito. A classe escolhida determina a raça do seu personagem — a menos que seja selecionada uma classe semihumana, o personagem será humano.
+Escolha uma das classes disponíveis (veja <Link to="classes">Classes de Personagem</Link>), tendo em mente o valor mínimo de atributos que algumas classes possuem como requisito. A classe escolhida determina a raça do seu personagem — a menos que seja selecionada uma classe semi-humana, o personagem será humano.
 
 # 3. Ajuste os Valores de Atributos
 Se desejar, você pode aumentar os <Link to="personagens/1-estatisticas">requisitos primários</Link> do seu personagem diminuindo o valor de outros atributos que não são requisitos primários. Para cada dois pontos que você reduzir, um ponto pode ser adicionado a um requisito primário. Aplicam-se as seguintes restrições:

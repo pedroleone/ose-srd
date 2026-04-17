@@ -15,7 +15,7 @@ Em alguns cenários, o árbitro pode decidir que diferentes culturas no mundo de
 Todos os seres inteligentes conhecem uma linguagem secreta e não escrita de gestos, sinais e palavras de código associados ao seu alinhamento. Essa linguagem secreta permite que os seres do mesmo alinhamento se comuniquem. Os seres de outro alinhamento reconhecerão quando uma linguagem de alinhamento está sendo usada, mas não entenderão. Não é possível aprender outra linguagem de alinhamento, exceto mudando de alinhamento; nesse caso, o idioma anterior é esquecido.
 
 # Outros Idiomas 
-Muitos semihumanos e espécies de monstros inteligentes possuem seu próprio idioma, que os personagens dos jogadores podem ser capazes de aprender. Os idiomas a seguir são comuns e podem ser escolhidos pelos personagens dos jogadores com inteligência alta (a critério do árbitro):
+Muitos semi-humanos e espécies de monstros inteligentes possuem seu próprio idioma, que os personagens dos jogadores podem ser capazes de aprender. Os idiomas a seguir são comuns e podem ser escolhidos pelos personagens dos jogadores com inteligência alta (a critério do árbitro):
 
 1. Bugbear
 2. Doppelgänger

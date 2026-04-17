@@ -265,8 +265,8 @@ Algumas espadas sencientes também são imbuídas de um propósito especial. O p
 | 2      | Conjuradores de Magia Divina                                          |
 +--------+-----------------------------------------------------------------------+
 | 3      | Combatentes (por exemplo, guerreiros ou outras classes orientados     |
-|        | primariamente ao combate, incluindo semihumanos não conjuradores)     |
-|        | e que não sejam conjuradores, incluindo semihumanos não conjuradores) |
+|        | primariamente ao combate, incluindo semi-humanos não conjuradores)    |
+|        | e que não sejam conjuradores, incluindo semi-humanos não conjuradores)|
 +--------+-----------------------------------------------------------------------+
 | 4      | Tipos específicos de monstros (determinados aleatoriamente)           |
 +--------+-----------------------------------------------------------------------+

@@ -14,7 +14,7 @@ O árbitro deve decidir que classe de PNJ reivindica a propriedade da fortaleza 
 * **Guerreiro**: de nível 1d6+8.
 * **Mago**: de nível 1d4+10.
 
-As fortalezas de semihumanos são casos incomuns e devem ser detalhadas com antecedência pelo árbitro. Normalmente eles tentarão evitar qualquer contato com viajantes.
+As fortalezas de semi-humanos são casos incomuns e devem ser detalhadas com antecedência pelo árbitro. Normalmente eles tentarão evitar qualquer contato com viajantes.
 
 # As Patrulhas
 

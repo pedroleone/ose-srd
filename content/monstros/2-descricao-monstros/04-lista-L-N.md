@@ -510,7 +510,7 @@ _Insetívoros de pelagem marrom, semelhantes a toupeiras, com focinhos longos. H
 * ** Ecolocalização **: Perceba seus arredores até 18m. Não afetado pela falta de luz. Se incapaz de ouvir (por exemplo, silêncio): CA reduzida para 8 [11], penalidade de -4 nos ataques.
 
 # Neandertal (Homem das Cavernas)
-_Semihumanos atarracados, poderosos e primitivos com rostos de macaco. Vivem em cavernas e caçam ursos das cavernas. Tímidos ao contato com humanos (com quem se relacionam), mas amigável com anões e gnomos._
+_Semi-humanos atarracados, poderosos e primitivos com rostos de macaco. Vivem em cavernas e caçam ursos das cavernas. Tímidos ao contato com humanos (com quem se relacionam), mas amigável com anões e gnomos._
 **Classe de Armadura**: 8 [11]
 **Dados de Vida**: 2 (9pv)
 **Ataques**: 1 × arma (2d4 ou por arma + 1)

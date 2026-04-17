@@ -18,7 +18,7 @@ Uma profissão de aventureiro a qual o personagem pertence. A classe do personag
 
 # Raça
 
-Um personagem pode ser humano ou de uma das várias espécies semihumanas. A menos que uma classe semihumana seja escolhida, assume-se que o personagem é humano.
+Um personagem pode ser humano ou de uma das várias espécies semi-humanas. A menos que uma classe semi-humana seja escolhida, assume-se que o personagem é humano.
 
 # Nível
 

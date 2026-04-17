@@ -344,7 +344,7 @@ _Humanoides preguiçosos com forma de hiena e baixa inteligência que vivem de r
 
 
 # Gnomo
-_Semihumanos baixo com nariz e barbas grandes. Primos menores dos anões, os quais se dão bem. Preferem viver em tocas em terrenos não montanhosos._
+_Semi-humanos baixo com nariz e barbas grandes. Primos menores dos anões, os quais se dão bem. Preferem viver em tocas em terrenos não montanhosos._
 
 **Classe de Armadura**: 5 [14]
 
@@ -908,7 +908,7 @@ _Humanoides aquáticos, tribais, semi-inteligentes com cabeças reptilianas e ca
 **Tesouro**: D
 
 * **Armas**: Preferem lanças ou grandes clavas.
-* **Comedores de homens**: Sequestram humanos e semihumanos, cuja carne eles consideram uma iguaria.
+* **Comedores de homens**: Sequestram humanos e semi-humanos, cuja carne eles consideram uma iguaria.
 
 # Humano Comum
 _Humanos não aventureiros que não possuem classe de personagem. Artistas, mendigos, crianças, artesões, fazendeiros, pescadores, donas de casa, estudiosos, escravos._
