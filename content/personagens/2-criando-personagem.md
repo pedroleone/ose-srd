@@ -11,23 +11,23 @@ Para criar um personagem, você vai precisar primeiro de uma ficha de personagem
 Uma seleção de diferentes fichas de personagem em PDF está disponível em [necroticgnome.com](https://necroticgnome.com) (em inglês). Elas podem ser baixadas e impressas para uso em seus jogos.
 
 # 1. Role os Atributos
-Role 3d6 para cada um dos atributos do seu personagem: Força, Inteligência, Sabedoria, Destreza, Constituição e Carisma. Veja ***<Link to="personagens/3-atributos">Atributos</Link>***.
+Role 3d6 para cada um dos atributos do seu personagem: Força, Inteligência, Sabedoria, Destreza, Constituição e Carisma. Veja ***<Link to="/personagens/3-atributos">Atributos</Link>***.
 
 ## Personagens Inviáveis 
-Se você rolar um personagem com atributos muito baixos - por exemplo, 8 ou menos em todos os atributos ou um valor extremamente baixo em mais de um atributo - o <Link to="mestrando-aventuras/1-papel-mestre">árbitro</Link> pode permitir que você descarte o personagem e comece novamente.
+Se você rolar um personagem com atributos muito baixos - por exemplo, 8 ou menos em todos os atributos ou um valor extremamente baixo em mais de um atributo - o <Link to="/mestrando-aventuras/1-papel-mestre">árbitro</Link> pode permitir que você descarte o personagem e comece novamente.
 
 # 2. Escolha uma Classe
-Escolha uma das classes disponíveis (veja <Link to="classes">Classes de Personagem</Link>), tendo em mente o valor mínimo de atributos que algumas classes possuem como requisito. A classe escolhida determina a raça do seu personagem — a menos que seja selecionada uma classe semi-humana, o personagem será humano.
+Escolha uma das classes disponíveis (veja <Link to="/classes">Classes de Personagem</Link>), tendo em mente o valor mínimo de atributos que algumas classes possuem como requisito. A classe escolhida determina a raça do seu personagem — a menos que seja selecionada uma classe semi-humana, o personagem será humano.
 
 # 3. Ajuste os Valores de Atributos
-Se desejar, você pode aumentar os <Link to="personagens/1-estatisticas">requisitos primários</Link> do seu personagem diminuindo o valor de outros atributos que não são requisitos primários. Para cada dois pontos que você reduzir, um ponto pode ser adicionado a um requisito primário. Aplicam-se as seguintes restrições:
+Se desejar, você pode aumentar os <Link to="/personagens/1-estatisticas">requisitos primários</Link> do seu personagem diminuindo o valor de outros atributos que não são requisitos primários. Para cada dois pontos que você reduzir, um ponto pode ser adicionado a um requisito primário. Aplicam-se as seguintes restrições:
 
 * Apenas Inteligência, Força e Sabedoria podem ser reduzidos dessa forma.
 * Nenhum atributo pode ser reduzido abaixo de 9.
 * Algumas classes podem ter restrições adicionais.
 
 # 4. Anote os Modificadores de Atributos 
-Agora que os atributos do seu personagem estão definidos, anote todos os bônus ou penalidades associadas (veja ***<Link to="personagens/3-atributos">Atributos</Link>***).
+Agora que os atributos do seu personagem estão definidos, anote todos os bônus ou penalidades associadas (veja ***<Link to="/personagens/3-atributos">Atributos</Link>***).
 
 # 5. Anote Valores de Ataque
 A tabela de progressão de nível para a classe do seu personagem lista o seu valor de TAC0. Isso indica a sua chance de acertar oponentes em combate, conforme determinado pela Matriz de Ataque por TAC0.
@@ -36,7 +36,7 @@ Para referência rápida, é conveniente consultar os valores na linha da matriz
 
 ## CA Ascendente (Regra Opcional)
 
-Se estiver usando a regra opcional de ***<Link to="personagens/1-estatisticas">CA Ascendente</Link>***, registre seu bônus de ataque na sua ficha de personagem, em vez de usar a tabela de referência rápida de ataques.
+Se estiver usando a regra opcional de ***<Link to="/personagens/1-estatisticas">CA Ascendente</Link>***, registre seu bônus de ataque na sua ficha de personagem, em vez de usar a tabela de referência rápida de ataques.
 
 **Valores de Ataque de PJ de 1º Nível**
 
@@ -57,12 +57,12 @@ Se a rolagem de seus pontos de vida cair em 1 ou 2 no dado (antes de aplicar qua
 Decida se o seu personagem é Leal, Neutro ou Caótico (veja Alinhamento) e anote na sua ficha de personagem.
 
 # 9. Anote as Línguas Conhecidas
-Os idiomas nativos do seu personagem estão listados na descrição da classe. Isso sempre inclui o idioma comum e o idioma de alinhamento do seu personagem (veja ***<Link to="personagens/5-idiomas">Idiomas</Link>***). Personagens com INT alta podem escolher idiomas adicionais da lista de idiomas disponíveis no cenário.
+Os idiomas nativos do seu personagem estão listados na descrição da classe. Isso sempre inclui o idioma comum e o idioma de alinhamento do seu personagem (veja ***<Link to="/personagens/5-idiomas">Idiomas</Link>***). Personagens com INT alta podem escolher idiomas adicionais da lista de idiomas disponíveis no cenário.
 
 # 10. Compre Equipamento
-Seu personagem começa o jogo com 3d6 × 10 peças de ouro (veja ***<Link to="personagens/7-riquezas">Riqueza</Link>***). Você pode gastar quanto desse dinheiro desejar para equipar seu personagem para a aventura, consultando as listas de equipamentos em ***<Link to="equipamentos">Equipamentos e Serviços</Link>***.
+Seu personagem começa o jogo com 3d6 × 10 peças de ouro (veja ***<Link to="/personagens/7-riquezas">Riqueza</Link>***). Você pode gastar quanto desse dinheiro desejar para equipar seu personagem para a aventura, consultando as listas de equipamentos em ***<Link to="/equipamentos">Equipamentos e Serviços</Link>***.
 
-**Lembre-se**: a classe escolhida pode restringir o uso de alguns equipamentos (por exemplo, ***<Link to="equipamentos/02-armas-armaduras">armas e armaduras</Link>***).
+**Lembre-se**: a classe escolhida pode restringir o uso de alguns equipamentos (por exemplo, ***<Link to="/equipamentos/02-armas-armaduras">armas e armaduras</Link>***).
 
 # 11. Anote a Classe de Armadura
 A Classe de Armadura do seu personagem é determinada por dois fatores:

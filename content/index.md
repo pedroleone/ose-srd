@@ -18,7 +18,7 @@ import { Link } from "gatsby"
 
 # Sobre a Tradução
 
-Esta é uma tradução não oficial, mas realizada dentro das liberdades consentidas pela <Link to="open-game-license">Open Game License</Link>.
+Esta é uma tradução não oficial, mas realizada dentro das liberdades consentidas pela <Link to="/open-game-license">Open Game License</Link>.
 
 Este documento está em constante atualização.
 

@@ -4,6 +4,8 @@ metaTitle: "Progressão"
 metaDescription: "Personagens -> Progressão"
 ---
 
+import { Link } from "gatsby"
+
 # Experiência
 Todos os personagens que sobrevivem a uma aventura ganham pontos de experiência (XP), concedidos pelo árbitro (Ver Concedendo XP). A experiência é adquirida de duas fontes: tesouro recuperado e monstro derrotado.
 
@@ -83,5 +85,5 @@ Empregados não acompanham os personagens em aventuras. (Os personagens podem co
 
 ## Tipos de Empregados
 Empregados são divididos em dois tipos:
-* **Mercenários**: soldados contratados para proteger, patrulhar, e até servir em ambientes selvagens, mas apenas como parte de uma força maior, nunca em um grupo de aventureiros. Para mais detalhes, consulte <Link to="equipamentos/08-mercenarios">Mercenários</Link>.
-* **Especialistas**: indivíduos contratados que possuem uma profissão específica ou conhecimentos especiais. Esses indivíduos normalmente são contratados para uma tarefa específica. Para mais detalhes, consulte <Link to="equipamentos/09-especialistas">Especialistas</Link>.
+* **Mercenários**: soldados contratados para proteger, patrulhar, e até servir em ambientes selvagens, mas apenas como parte de uma força maior, nunca em um grupo de aventureiros. Para mais detalhes, consulte <Link to="/equipamentos/08-mercenarios">Mercenários</Link>.
+* **Especialistas**: indivíduos contratados que possuem uma profissão específica ou conhecimentos especiais. Esses indivíduos normalmente são contratados para uma tarefa específica. Para mais detalhes, consulte <Link to="/equipamentos/09-especialistas">Especialistas</Link>.
