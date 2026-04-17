@@ -1,21 +1,8 @@
 ---
-title: "Open Game License"
-metaTitle: "Open Game License"
-metaDescription: "Open Game License"
+title: "Licença"
+metaTitle: "Licença"
+metaDescription: "Licença"
 ---
-
-# DESIGNAÇÕES
-
-## Identidade do Produto ("Product Identity")
-
-Todas as artes, logotipos e apresentação são identidade do produto. Os
-nomes "Necrotic Gnome", "Old-School Essentials" e "Dados Místicos" são
-identidade do produto.
-
-## Conteúdo de Jogo Aberto ("Open Game Content")
-
-Todos os textos e tabelas não declarados como identidade do produto são
-Conteúdo de Jogo Aberto.
 
 # OPEN GAME LICENSE Version 1.0a
 
@@ -216,3 +203,16 @@ _**Old-School Essentials Documento de Referência do Sistema**_ ©
 Daniel "Nerun" Rodrigues, Igor Teuri, Paulo E. R. Weber, Bruno Assis,
 Luan Morelatto, Lucio Muller de Siqueira e Walenc. Tradução do original
 de Gavin Norman.
+
+# DESIGNAÇÕES
+
+## Identidade do Produto ("Product Identity")
+
+Todas as artes, logotipos e apresentação são identidade do produto. Os
+nomes "Necrotic Gnome", "Old-School Essentials" e "Dados Místicos" são
+identidade do produto.
+
+## Conteúdo de Jogo Aberto ("Open Game Content")
+
+Todos os textos e tabelas não declarados como identidade do produto são
+Conteúdo de Jogo Aberto.
